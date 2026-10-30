@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-30T13:52:08",
-  "processed": 3180,
-  "articles": 2795,
-  "directories": 66,
-  "pending": 395,
+  "updated_at": "2026-10-30T13:55:35",
+  "processed": 3210,
+  "articles": 2813,
+  "directories": 67,
+  "pending": 377,
   "failures": {
     "200979150": "正文请求失败或没有topic",
     "201245300": "正文请求失败或没有topic",
@@ -323,7 +323,18 @@
     "G8HQAHPDXA9ANPH4": "正文请求失败或没有topic",
     "G202120290": "正文请求失败或没有topic",
     "G5HBSW6BSQL8K2YK": "正文请求失败或没有topic",
-    "GME2S4AJDH4U3XEC": "正文请求失败或没有topic"
+    "GME2S4AJDH4U3XEC": "正文请求失败或没有topic",
+    "GTHXQM9PPDFCL4ZZ": "正文请求失败或没有topic",
+    "GTKJJAREFYF2CTA5": "正文请求失败或没有topic",
+    "G55K3797SZCAFN5A": "正文请求失败或没有topic",
+    "GQDF4MM3SHKEM7P4": "正文请求失败或没有topic",
+    "GTNS9EVXU2KVBHC5": "正文请求失败或没有topic",
+    "GTNXKSMSZ4BJBS4V": "正文请求失败或没有topic",
+    "GTP9V9YMVUSLWG2S": "正文请求失败或没有topic",
+    "GTPL7PGKU7WUKJSW": "正文请求失败或没有topic",
+    "200204090": "正文请求失败或没有topic",
+    "3YDQYBJR85QFETF": "正文请求失败或没有topic",
+    "GDRJWM3G6M5FUWNL": "正文请求失败或没有topic"
   },
   "complete": false,
   "scope": "从公开帮助根目录G2、目录关系与正文内链可发现的简体中文美国站文章；不保证覆盖孤立或未公开文章"
