@@ -1,69 +1,45 @@
 ---
-title: Amazon SEND India to the US: MGH Logistics carrier (Ocean mode)
+title: "Amazon SEND India to the US: MGH Logistics carrier (Ocean mode)"
 doc_id: GC6CTQSN8ZSL86SY
 source: https://sellercentral.amazon.com/help/hub/reference/external/GC6CTQSN8ZSL86SY
-language: zh-CN
-fetched_at: 2026-10-30 13:48:19
+language: en-US
+fetched_at: 2026-10-30T13:48:18
 ---
 
 # Amazon SEND India to the US: MGH Logistics carrier (Ocean mode)
 
 ## Amazon SEND India to the US: MGH Logistics carrier (Ocean mode)
+
 ## Amazon SEND carrier shipping requirements
+
 These are the shipping requirements for MGH Logistcis Ocean:
-Requirements Details
-Transit time 35 to 70 calendar days
-Restrictions
-Dangerous goods, batteries, or other prohibited items are **not** allowed.
 
-You also need to adhere to [Amazon packaging guidelines](https://sellercentral.amazon.com/gp/help/external/G200141510) while preparing the shipment, including the following:
-
-- Maximum package length - 274 cm (107.8 inches)
-- Maximum package width - 274 cm (107.8 inches)
-- Maximum package height - 274 cm (107.8 inches)
-- Maximum package weight - 70 kg (154 lb)
-
-Customer support +91-8800463900 (local rates will apply and mobile phone charges can vary)
-Drop off location
-Mumbai: Ameya Logistics - Village Dhasakoshi, Shade No 3 Post - Khopta, Tal- Uran Dist- Raigad, Maharashtra - 410212
-
-Tuticorin: St John Freight Systems Ltd - Icd Division 3/63b, Harbour Express Road, Tuticorin. Tamil Nadu - 628006
+| Requirements | Details |
+| --- | --- |
+| Transit time | 35 to 70 calendar days |
+| Restrictions | Dangerous goods, batteries, or other prohibited items are not allowed. You also need to adhere to Amazon packaging guidelines while preparing the shipment, including the following: Maximum package length - 274 cm (107.8 inches) Maximum package width - 274 cm (107.8 inches) Maximum package height - 274 cm (107.8 inches) Maximum package weight - 70 kg (154 lb) |
+| Customer support | +91-8800463900 (local rates will apply and mobile phone charges can vary) |
+| Drop off location | Mumbai: Ameya Logistics - Village Dhasakoshi, Shade No 3 Post - Khopta, Tal- Uran Dist- Raigad, Maharashtra - 410212 Tuticorin: St John Freight Systems Ltd - Icd Division 3/63b, Harbour Express Road, Tuticorin. Tamil Nadu - 628006 |
 
 ## Amazon SEND documentation requirements
+
 These are the documentation requirements for MGH Logistcis Ocean:
 
-Documents MGH Logistics Carrier (Ocean)
-Commercial Invoice
+| Documents | MGH Logistics Carrier (Ocean) |
+| --- | --- |
+| Commercial Invoice (Downloaded within Seller Central during shipment creation) | Commercial Invoice template - Download sample template Submit via Seller Central document upload feature |
+| Shipping Label: FBA label and Carrier label (Downloaded within Seller Central during shipment creation) | To be pasted on the Box |
+| Packing List (Downloaded within Seller Central during shipment creation) | Packing List template - Download sample template Submit via Seller Central document upload feature |
+| POA (Direct Representative Form) | POA template - Download sample template |
 
-(Downloaded within Seller Central during shipment creation)
-
-Commercial Invoice template - [Download sample template](http://d1r2hd46c3qa41.cloudfront.net/Commercial_Invoice_IN2US_pre-filling%20document(1).xlsx)
-
-Submit via Seller Central document upload feature
-
-Shipping Label: FBA label and Carrier label
-
-(Downloaded within Seller Central during shipment creation)
-
-To be pasted on the Box
-Packing List
-
-(Downloaded within Seller Central during shipment creation)
-
-Packing List template - [Download sample template](http://d1r2hd46c3qa41.cloudfront.net/Packing_List_IN2US_pre-filling%20document(1).xlsx)
-
-Submit via Seller Central document upload feature
-
-POA
-
-(Direct Representative Form)
-
-POA template - [Download sample template](https://d1r2hd46c3qa41.cloudfront.net/NTG%20A&O%20LLC%20Import%20CHB%20&%20ISF%20POA%20V4%2002.28.2025.pdf)
 ## Export and Import clearance
+
 - The Amazon SEND carrier will clear customs in both India and the US on your behalf, based on the information you provided in the shipping documents. If customs duty is charged on the shipment, the Amazon SEND carrier will pay the customs duty, and the same will be deducted from your Seller Central disbursement account to be paid to the Amazon SEND carrier. The Amazon SEND carrier can contact you for any additional documents or information.
+
 - Since your destination country is the US, make sure to follow the shipping and routing requirements listed on the [Delivering imports to Amazon](https://sellercentral.amazon.com/gp/help/external/G200280280) page for delivering imports to an Amazon fulfillment center.
 
 ## Lost shipment claims
+
 Your shipments may get lost due to uncontrollable reasons, and you can raise a claim with the carrier directly to initiate the investigation. To raise an investigation, contact the seller through the customer support information mention in the **Amazon SEND carrier shipping requirements** section on this page.
 
 To file a claim, go to [UPS Claim](https://www.ups.com/us/en/support/file-a-claim).
@@ -71,6 +47,7 @@ To file a claim, go to [UPS Claim](https://www.ups.com/us/en/support/file-a-clai
 **Note: **Amazon does not participate in claims between UPS and sellers.
 
 ## Shipments with additional clearance requirements
+
 Your shipments may require additional import clearances. We have outlined some of the most common requirements you may encounter:
 
 **FDA Requirements**: You must get FDA registration for products related to Animal and Veterinary, Drugs, Food, Medical Devices, Radiation-Emitting Products. For information about the registration process related to your commodity, go to [US FDA website](https://www.fda.gov/industry/fda-basics-industry/registration-and-listing).
@@ -84,6 +61,7 @@ Your shipments may require additional import clearances. We have outlined some o
 **Radiation declaration**: If you send electronic products which fall under Radiation Control Standards, the form FDA 2877 must be completed and shared with customs along with the export documents. For information about the complete list, go to [A-Z List of Radiation Regulated Products and Procedures](https://www.fda.gov/radiation-emitting-products/radiation-emitting-products-and-procedures/z-list-regulated-products-procedures).
 
 ## Disclaimer
+
 The information related to documentation is provided based on best-effort and should only be used for guidance purposes on applicable compliances with respect to your business. For further clarification and to understand all the documentation requirements, contact your compliance consultant.
 
 ---

@@ -1,90 +1,89 @@
 ---
-title: 商品尺寸和体积
+title: "商品尺寸和体积"
 doc_id: G37G73BJXHF75ACH
 source: https://sellercentral.amazon.com/help/hub/reference/external/G37G73BJXHF75ACH
 language: zh-CN
-fetched_at: 2026-10-30 13:16:39
+fetched_at: 2026-10-30T13:16:35
 ---
 
 # 商品尺寸和体积
 
 **注意： **我们尝试使用一种新的帮助页面格式。费用未更改，原始页面仍然可用（[商品尺寸分段](https://sellercentral.amazon.com/gp/help/external/G201105770?ref_=scus_fg_G37G73BJXHF75ACH)、[亚马逊物流配送费用](https://sellercentral.amazon.com/gp/help/external/G201112670?ref_=scus_fg_G37G73BJXHF75ACH)和[库存仓储费](https://sellercentral.amazon.com/gp/help/external/G200612770?ref_=scus_fg_G37G73BJXHF75ACH)）。您可以使用下方的【反馈】选项卡告诉我们您的想法。
 
-**定义** 商品尺寸和体积是按照[亚马逊物流政策和要求](https://sellercentral.amazon.com/gp/help/external/201030350)包装完毕，准备发货时商品尺寸的测量值。
-**使用说明** 输入的商品尺寸和体积是决定商品尺寸分段的关键。商品尺寸与重量一起，用于计算各种亚马逊物流费用，包括仓储费、配送费用和退货处理费。本文介绍了如何确定商品的尺寸和体积。
-**使用此属性的费用**
-[亚马逊物流配送费用](https://sellercentral.amazon.com/gp/help/external/GPDC3KPYAGDTVDJP)
-
-[月度仓储费](https://sellercentral.amazon.com/gp/help/external/G3EDYEF6KUCFQTNM)
-
-[超龄库存附加费](https://sellercentral.amazon.com/help/hub/reference/GJQNPA23YWVA4SBD)
-
-[亚马逊物流移除订单费用](https://sellercentral.amazon.com/gp/help/external/G9W7FVTLY343ZBKN)
-
-[亚马逊物流弃置订单费用](https://sellercentral.amazon.com/gp/help/external/G5FKTA8LXU4TZPD5)
-
-[多渠道配送订单的配送费用](https://sellercentral.amazon.com/gp/help/external/201112650)
-
-[亚马逊物流入库配置服务费](https://sellercentral.amazon.com/gp/help/external/GC3Q44PBK8BXQW3Z)
-
-[亚马逊物流预处理服务费](https://sellercentral.amazon.com/gp/help/external/201023020)
-**相关术语**
-[体积重量](https://sellercentral.amazon.com/gp/help/external/G53Z9EKF8VVZVH29)
-
-[发货重量](https://sellercentral.amazon.com/gp/help/external/GEVWP48HPBLEFJEY)
-
-[商品尺寸分段](https://sellercentral.amazon.com/gp/help/external/GG5KW835AHDJCH8W)
-
-[商品重量](https://sellercentral.amazon.com/gp/help/external/GE3VC5FGJE9TYJKM)
-
-[亚马逊物流费用赔偿政策： 重量和尺寸](https://sellercentral.amazon.com/gp/help/external/GL7U4JFSDXUTQAJ)
+| 定义 | 商品尺寸和体积是按照亚马逊物流政策和要求包装完毕，准备发货时商品尺寸的测量值。 |
+| --- | --- |
+| 使用说明 | 输入的商品尺寸和体积是决定商品尺寸分段的关键。商品尺寸与重量一起，用于计算各种亚马逊物流费用，包括仓储费、配送费用和退货处理费。本文介绍了如何确定商品的尺寸和体积。 |
+| 使用此属性的费用 | 亚马逊物流配送费用 月度仓储费 超龄库存附加费 亚马逊物流移除订单费用 亚马逊物流弃置订单费用 多渠道配送订单的配送费用 亚马逊物流入库配置服务费 亚马逊物流预处理服务费 |
+| 相关术语 | 体积重量 发货重量 商品尺寸分段 商品重量 亚马逊物流费用赔偿政策： 重量和尺寸 |
 
 ## 确定您的商品尺寸和体积
+
 **对于新商品**，请测量包装完毕后的商品。
 
-1. 测量单件商品的尺寸（单位：英寸）：
-  - 最长边（长度）： 商品最长边的尺寸。
-  - 次长边（宽度）： 除最长边和最短边以外的边的尺寸。
-  - 最短边（高度）： 商品最短边的尺寸。
-  - 围长： 次长边加上最短边，然后乘以 2。
-  - 围长加上长度： 围长加上最长边。
+- 测量单件商品的尺寸（单位：英寸）：
 
-2. **注意： **这些值用于确定商品的商品尺寸分段。
+- 最长边（长度）： 商品最长边的尺寸。
 
-3. 计算商品体积（单位：英寸）：
-4. 商品体积 = 最长边 x 次长边 x 最短边
+- 次长边（宽度）： 除最长边和最短边以外的边的尺寸。
 
-5. 将商品体积从英寸转换为立方英尺来计算仓储费：
-6. 仓储费按立方英尺计算。要将商品体积从英寸转换为立方英尺，请用商品体积（以英寸为单位）除以 1,728。请注意，1,728 是 12 立方英寸（12 x 12 x 12 英寸 = 1,728）的体积。
+- 最短边（高度）： 商品最短边的尺寸。
 
-7. **重要： **如果商品成套销售，那么我们会计算整套商品包装在一起之后的总重量和尺寸。
+- 围长： 次长边加上最短边，然后乘以 2。
+
+- 围长加上长度： 围长加上最长边。
+
+**注意： **这些值用于确定商品的商品尺寸分段。
+
+- 计算商品体积（单位：英寸）：
+
+商品体积 = 最长边 x 次长边 x 最短边
+
+- 将商品体积从英寸转换为立方英尺来计算仓储费：
+
+仓储费按立方英尺计算。要将商品体积从英寸转换为立方英尺，请用商品体积（以英寸为单位）除以 1,728。请注意，1,728 是 12 立方英寸（12 x 12 x 12 英寸 = 1,728）的体积。
+
+**重要： **如果商品成套销售，那么我们会计算整套商品包装在一起之后的总重量和尺寸。
 
 **对于现有商品**，您可以查找商品体积和尺寸。
 
 如果您将商品存储为亚马逊物流库存，则可以使用[月度仓储费报告](https://sellercentral.amazon.com/reportcentral/STORAGE_FEE_CHARGES/1)查找商品体积和尺寸：
-1. 下载此报告。
-2. 按商品的 FNSKU 确定需要查找的商品。
-3. 在 【item-volume】 字段中查看商品体积。
+
+- 下载此报告。
+
+- 按商品的 FNSKU 确定需要查找的商品。
+
+- 在 【item-volume】 字段中查看商品体积。
 
 对于亚马逊商城上已经存在但您尚未销售的商品，可以使用[亚马逊物流收入计算器](https://sellercentral.amazon.com/fba/profitabilitycalculator/index)查找商品尺寸从而计算体积：
-1. 搜索商品。
-2. 查看**包裹尺寸**值。
-3. 使用上述公式计算商品体积和其他尺寸。
+
+- 搜索商品。
+
+- 查看**包裹尺寸**值。
+
+- 使用上述公式计算商品体积和其他尺寸。
 
 **注意： **亚马逊可能会使用代表性样本来验证商品的重量和尺寸。如果亚马逊的信息与卖家的信息存在差异，我们将使用亚马逊关于商品重量和尺寸的信息来计算费用。亚马逊可能会不定期更改关于商品的重量和尺寸信息，来体现更新后的测量结果。当根据商品的重量和尺寸计算费用时，将使用计算费用之时亚马逊掌握的关于商品重量和尺寸的信息来进行计算。
 
 ## 商品尺寸和体积计算示例
+
 尺寸为 47 x 12 x 10 英寸的商品：
 
 尺寸：
+
 - 最长边（长度）： 47 英寸
+
 - 次长边（宽度）： 12 英寸
+
 - 最短边（高度）： 10 英寸
+
 - 围长： (12+10) x 2 = 44 英寸
+
 - 围长加上长度： 44 + 47 = 91 英寸
 
 体积：
+
 - 商品体积（英寸）： 47 x 12 x 10 = 5,640 立方英寸
+
 - 商品体积（立方英尺）： 5,640/1,728 = 3.3 立方英尺
 
 如果您的亚马逊物流商品测量有误，且您被收取了错误的亚马逊物流费用，请使用亚马逊物流重新测量与赔偿工具，了解您的商品是否符合重新测量与获得赔偿的要求。

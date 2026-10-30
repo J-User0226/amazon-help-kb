@@ -1,9 +1,9 @@
 ---
-title: 错误 6042
+title: "错误 6042"
 doc_id: G72EJJLDX8HW6VKV
 source: https://sellercentral.amazon.com/help/hub/reference/external/G72EJJLDX8HW6VKV
 language: zh-CN
-fetched_at: 2026-10-30 13:21:57
+fetched_at: 2026-10-30T13:21:56
 ---
 
 # 错误 6042

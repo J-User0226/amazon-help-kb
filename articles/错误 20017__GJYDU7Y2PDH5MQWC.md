@@ -1,9 +1,9 @@
 ---
-title: 错误 20017
+title: "错误 20017"
 doc_id: GJYDU7Y2PDH5MQWC
 source: https://sellercentral.amazon.com/help/hub/reference/external/GJYDU7Y2PDH5MQWC
 language: zh-CN
-fetched_at: 2026-10-30 13:39:40
+fetched_at: 2026-10-30T13:39:40
 ---
 
 # 错误 20017

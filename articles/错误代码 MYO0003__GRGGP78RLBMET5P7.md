@@ -1,9 +1,9 @@
 ---
-title: 错误代码 MYO0003
+title: "错误代码 MYO0003"
 doc_id: GRGGP78RLBMET5P7
 source: https://sellercentral.amazon.com/help/hub/reference/external/GRGGP78RLBMET5P7
 language: zh-CN
-fetched_at: 2026-10-30 13:55:24
+fetched_at: 2026-10-30T13:55:24
 ---
 
 # 错误代码 MYO0003

@@ -1,16 +1,19 @@
 ---
-title: 取消
+title: "取消"
 doc_id: GBN4AZVWUS29ZUJX
 source: https://sellercentral.amazon.com/help/hub/reference/external/GBN4AZVWUS29ZUJX
 language: zh-CN
-fetched_at: 2026-10-30 13:28:32
+fetched_at: 2026-10-30T13:28:31
 ---
 
 # 取消
 
 如果您无法配送订单或买家要求您取消订单，请参阅以下帮助主题：
+
 - [取消一件商品、一个或多个订单](https://sellercentral.amazon.com/help/hub/reference/G200198080) - 从【管理订单】页面取消任何未发货的商品或订单。
+
 - [订单取消](https://sellercentral.amazon.com/help/hub/reference/G201722390) - 处理买家的取消请求。
+
 - [订单取消常见问题](https://sellercentral.amazon.com/help/hub/reference/GRXAS2XTAYEF77BG) - 查找有关买家取消订单、“等待中”状态，或解决在取消过程中出现的错误的解决方案。
 
 已取消订单会在【管理订单】页面列出。本页面提供了有关已取消订单的基本详情。无需对已取消的订单采取任何操作。

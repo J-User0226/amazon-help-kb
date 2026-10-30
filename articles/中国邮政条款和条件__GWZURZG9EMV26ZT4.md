@@ -1,9 +1,9 @@
 ---
-title: 中国邮政条款和条件
+title: "中国邮政条款和条件"
 doc_id: GWZURZG9EMV26ZT4
 source: https://sellercentral.amazon.com/help/hub/reference/external/GWZURZG9EMV26ZT4
 language: zh-CN
-fetched_at: 2026-10-30 14:11:11
+fetched_at: 2026-10-30T14:11:11
 ---
 
 # 中国邮政条款和条件

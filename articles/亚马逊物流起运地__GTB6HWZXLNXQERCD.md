@@ -1,9 +1,9 @@
 ---
-title: 亚马逊物流起运地
+title: "亚马逊物流起运地"
 doc_id: GTB6HWZXLNXQERCD
 source: https://sellercentral.amazon.com/help/hub/reference/external/GTB6HWZXLNXQERCD
 language: zh-CN
-fetched_at: 2026-10-30 13:52:03
+fetched_at: 2026-10-30T13:52:03
 ---
 
 # 亚马逊物流起运地
@@ -17,10 +17,14 @@ fetched_at: 2026-10-30 13:52:03
 亚马逊物流起运地目前仅限精选受邀卖家使用，用于入库至中国的起运地并配送至国际商城。如未来推出新的商城，我们将通知您。对于您的每一款商品，亚马逊将分别评估是否可以在这些商城上架销售。亚马逊会自动将您符合要求的商品发布到这些商城中。
 
 有关更多信息，请参阅以下帮助页面：
-- 创建和编辑亚马逊物流起运地商品信息： [亚马逊物流起运地商品信息](https://sellercentral.amazon.com/gp/help/external/GUFSDUWBYNBK8HC3)。
-- 管理亚马逊物流起运地库存： [发送亚马逊物流起运地库存](https://sellercentral.amazon.com/gp/help/external/GTB6HWZXLNXQERCD)。
-- 费用： [亚马逊物流起运地费用](https://sellercentral.amazon.com/gp/help/external/GHRVR7FMCE9S4UP3)。
-- 常见问题： [亚马逊物流起运地常见问题](https://sellercentral.amazon.com/gp/help/external/GF5VXQDJ3ATVFA4Q)。
+
+- 创建和编辑亚马逊物流起运地商品信息： [亚马逊物流起运地商品信息](https://sellercentral.amazon.com/gp/help/GUFSDUWBYNBK8HC3)。
+
+- 管理亚马逊物流起运地库存： [发送亚马逊物流起运地库存](https://sellercentral.amazon.com/gp/help/GTB6HWZXLNXQERCD)。
+
+- 费用： [亚马逊物流起运地费用](https://sellercentral.amazon.com/gp/help/GHRVR7FMCE9S4UP3)。
+
+- 常见问题： [亚马逊物流起运地常见问题](https://sellercentral.amazon.com/gp/help/GF5VXQDJ3ATVFA4Q)。
 
 ---
 

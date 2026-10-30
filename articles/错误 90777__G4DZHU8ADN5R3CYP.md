@@ -1,9 +1,9 @@
 ---
-title: 错误 90777
+title: "错误 90777"
 doc_id: G4DZHU8ADN5R3CYP
 source: https://sellercentral.amazon.com/help/hub/reference/external/G4DZHU8ADN5R3CYP
 language: zh-CN
-fetched_at: 2026-10-30 13:17:49
+fetched_at: 2026-10-30T13:17:48
 ---
 
 # 错误 90777

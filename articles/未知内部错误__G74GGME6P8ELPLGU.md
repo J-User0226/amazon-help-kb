@@ -1,9 +1,9 @@
 ---
-title: 未知内部错误
+title: "未知内部错误"
 doc_id: G74GGME6P8ELPLGU
 source: https://sellercentral.amazon.com/help/hub/reference/external/G74GGME6P8ELPLGU
 language: zh-CN
-fetched_at: 2026-10-30 13:21:58
+fetched_at: 2026-10-30T13:21:58
 ---
 
 # 未知内部错误

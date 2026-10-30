@@ -1,17 +1,19 @@
 ---
-title: 商品安全调查
+title: "商品安全调查"
 doc_id: G4QUDFLRX8GBFPVV
 source: https://sellercentral.amazon.com/help/hub/reference/external/G4QUDFLRX8GBFPVV
 language: zh-CN
-fetched_at: 2026-10-30 13:18:00
+fetched_at: 2026-10-30T13:18:00
 ---
 
 # 商品安全调查
 
 ## 商品安全调查
+
 如果您要在亚马逊商城发布商品，则必须遵守与这些商品和商品信息相关的所有适用法律、法规、标准以及亚马逊政策。
 
 ## 我们的商品安全调查政策
+
 亚马逊在获知商品可能存在安全问题事故（例如买家直接提供的反馈）后，可能会启动商品安全调查。安全事故是指任何涉及在亚马逊商城购买或可供购买的商品导致或可能造成买家伤害或财产损失的事件。
 
 作为亚马逊销售伙伴，您有责任确保您发布的商品符合所有适用的当地法律法规和亚马逊政策。如有违反，可能会导致强制措施，包括移除商品信息、发布限制和账户罚款。
@@ -27,22 +29,29 @@ fetched_at: 2026-10-30 13:18:00
 出于安全考虑，亚马逊可能会禁止销售买家报告存在安全问题的某些商品。我们不允许发布或销售不合规商品或禁售商品。
 
 ## 重新启售禁止显示的 ASIN 或完成调查所需的信息
+
 如果您的 ASIN 因潜在安全问题而被禁止显示或正在接受调查，我们将向您发送电子邮件通知，您必须在指定时间范围内予以回复。
 
 此通知包括：
+
 - 问题描述
+
 - ASIN 商品被禁止或可能被禁止的原因
+
 - 商品信息重新启售信息（如果有可用的重新启售路径）
+
 - 所需文件（如适用）
+
 - 建议的后续步骤
 
 您还会在“账户状况”控制面板 (AHD) 下看到一条通知，提示您的 ASIN 正在接受调查。销售伙伴可以在指定时间范围内通过“账户状况”控制面板提交证据，对调查决定提出申诉。
 
 在调查进行期间，如果我们要求您提供信息或文件，您必须在通知中提供的时间内予以回复。如果您未在规定时间内提供所需回复，将导致问题单关闭，您的 ASIN 将继续被禁止显示。我们可能会按照[亚马逊服务商业解决方案协议](https://sellercentral.amazon.com/gp/help/external/G1791)中的规定或您的自动移除无在售信息的亚马逊库存设置来弃置库存。
 
-如果您的问题单已关闭，您可以[提交问题单](https://sellercentral.amazon.com/gp/help/hub?ref=/cu/contact-us/)并请求重新启售，前提是您的商品有重新启售路径。
+如果您的问题单已关闭，您可以[提交问题单](https://sellercentral.amazon.com/gp/help/external/hub?ref=/cu/contact-us/)并请求重新启售，前提是您的商品有重新启售路径。
 
 ## 移除库存
+
 如果您的库存未重新启售或您未在禁止显示后尝试恢复，我们将根据[亚马逊服务商业解决方案协议](https://sellercentral.amazon.com/gp/help/external/G1791)中规定的条件，将您的库存从运营中心移除。
 
 有关如何恢复库存的信息，请参阅[移除库存概览](https://sellercentral.amazon.com/gp/help/external/200280650)。
@@ -50,18 +59,25 @@ fetched_at: 2026-10-30 13:18:00
 **无在售信息的亚马逊库存**是指实际存放在亚马逊运营中心 30 天或更长时间，并且没有可供购买的报价的库存。由于商品安全问题可能会导致您的商品信息被移除，因此如果您在商品被禁止显示后 30 天内不采取任何措施重新启售销售商品或再次显示商品，亚马逊会将您的商品设置为无在售信息的亚马逊库存。亚马逊可能会根据您的无在售信息的亚马逊库存自动移除设置弃置无在售信息的亚马逊库存，费用由您自行承担。
 
 ## 取消未结订单
+
 在商品安全调查进行期间，与受影响的 ASIN 关联的所有未结买家订单和采购订单可能会被取消，以防止潜在的不安全商品送达买家或运营中心。为了保护买家安全，我们可能会在不事先通知的情况下采取此措施。
 
 为保护买家安全，订单一经取消，即使 ASIN 后续通过审核，亦不予重新启售。受影响的买家不会收到重新启售通知。
 
 ## 资源
+
 - [美国消费品安全委员会 (CPSC) 管制商品](https://sellercentral.amazon.com/gp/help/external/GKHQEFBM7834V6AV)
 
 ## 其他亚马逊资源
+
 - [亚马逊服务商业解决方案协议](https://sellercentral.amazon.com/help/hub/reference/external/G1791)
+
 - [移除库存概览](https://sellercentral.amazon.com/help/hub/reference/external/G200280650)
+
 - [修复无在售信息的亚马逊库存](https://sellercentral.amazon.com/inventoryplanning/stranded-inventory/)
+
 - [受限商品](https://sellercentral.amazon.com/help/hub/reference/external/G200164330)
+
 - [服务提供商网络](https://sellercentral.amazon.com/gspn/searchpage/Compliance)
 
 ---

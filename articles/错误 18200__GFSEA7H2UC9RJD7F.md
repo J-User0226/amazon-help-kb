@@ -1,9 +1,9 @@
 ---
-title: 错误 18200
+title: "错误 18200"
 doc_id: GFSEA7H2UC9RJD7F
 source: https://sellercentral.amazon.com/help/hub/reference/external/GFSEA7H2UC9RJD7F
 language: zh-CN
-fetched_at: 2026-10-30 13:34:42
+fetched_at: 2026-10-30T13:34:42
 ---
 
 # 错误 18200

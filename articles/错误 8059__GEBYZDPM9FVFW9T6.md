@@ -1,9 +1,9 @@
 ---
-title: 错误 8059
+title: "错误 8059"
 doc_id: GEBYZDPM9FVFW9T6
 source: https://sellercentral.amazon.com/help/hub/reference/external/GEBYZDPM9FVFW9T6
 language: zh-CN
-fetched_at: 2026-10-30 13:30:40
+fetched_at: 2026-10-30T13:30:35
 ---
 
 # 错误 8059

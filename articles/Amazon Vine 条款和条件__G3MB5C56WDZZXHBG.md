@@ -1,9 +1,9 @@
 ---
-title: Amazon Vine 条款和条件
+title: "Amazon Vine 条款和条件"
 doc_id: G3MB5C56WDZZXHBG
 source: https://sellercentral.amazon.com/help/hub/reference/external/G3MB5C56WDZZXHBG
 language: zh-CN
-fetched_at: 2026-10-30 13:16:55
+fetched_at: 2026-10-30T13:16:55
 ---
 
 # Amazon Vine 条款和条件

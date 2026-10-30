@@ -1,9 +1,9 @@
 ---
-title: 无线电射频装置
+title: "无线电射频装置"
 doc_id: GHXJGN6T5K8HGGWW
 source: https://sellercentral.amazon.com/help/hub/reference/external/GHXJGN6T5K8HGGWW
 language: zh-CN
-fetched_at: 2026-10-30 13:38:42
+fetched_at: 2026-10-30T13:38:38
 ---
 
 # 无线电射频装置
@@ -11,18 +11,27 @@ fetched_at: 2026-10-30 13:38:42
 如果您要在亚马逊商城发布商品，则必须遵守与这些商品和商品信息相关的所有适用法律、法规、标准以及亚马逊政策。
 
 ## 我们的无线电射频装置政策
+
 通常，您可以销售符合以下条件的无线电射频装置：合法销售、在其授权范围内运行、符合适用的行业标准，且不会对其他电子产品造成干扰。在美国，联邦通信委员会 (FCC) 负责对可以发射无线电波的电子装置（称为“无线电射频装置”或“RF 装置”）进行监管。这些装置可能会干扰已获授权的无线电通信，它们必须依据适当的联邦通信委员会程序获得授权，然后才能在美国推广和使用或进口至美国。
 
 在亚马逊商城销售的无线电射频装置必须依据适当的联邦通信委员会设备授权程序获得授权。要了解更多信息，请参阅[美国联邦通信委员会设备授权 - 无线电射频装置](https://www.fcc.gov/oet/ea/rfdevice)和[美国联邦通信委员会设备授权程序](https://www.fcc.gov/general/equipment-authorization-procedures)。
 
 需要美国联邦通信委员会授权的装置包括但不限于：
+
 - Wi-Fi 装置
+
 - 蓝牙装置
+
 - 手机
+
 - 具有蜂窝网络连接的电子平板电脑和其他装置
+
 - 双向无线电和对讲机
+
 - 自动识别系统 (AIS) 装置
+
 - 广播发射机
+
 - 信号增强器
 
 仅允许销售美国联邦通信委员会 (FCC) 及其工程技术办公室 (OET) 知识数据库 (KDB) 中批准频率范围内的无线电射频装置。
@@ -30,9 +39,12 @@ fetched_at: 2026-10-30 13:38:42
 自 2023 年 2 月 6 日起，经认定属于美国联邦通信委员会覆盖清单上的“覆盖”设备的任何设备不得获得该委员会的设备授权。要了解更多信息，请参阅[美国联邦通信委员会禁止对“覆盖”设备进行授权](https://www.fcc.gov/laboratory-division/equipment-authorization-approval-guide/equipment-authorization-system)。
 
 ## 针对亚马逊政策规定的可售商品的亚马逊合规性要求
+
 您必须满足下列合规性要求：
-要求 商品详情页面 合规信息
-声明 必须符合的要求
+
+| 要求 | 商品详情页面 | 合规信息 |
+| --- | --- | --- |
+| 声明 | 必须符合的要求 | |
 
 **商品详情页面**
 
@@ -49,38 +61,61 @@ fetched_at: 2026-10-30 13:38:42
 为确保您的商品符合要求，请检查您的无线电射频装置商品信息，并确认营销内容（如商品名称、图片、要点和描述）仅显示美国联邦通信委员会工程技术办公室知识数据库中批准的该装置的频率范围。要了解更多信息，请参阅[美国联邦通信委员会分步指南](https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm?calledFromFrame=N)。
 
 ## 亚马逊政策规定的禁售商品
+
 我们必须确保买家在亚马逊商城找到的商品品类充足、安全可靠且符合相关法规要求。我们不允许发布或销售不合规的商品或禁售商品。
 
 禁售商品包括但不限于：
 
 - 需要获得美国联邦通信委员会认证但尚未获得此认证的无线电射频装置
+
 - 需要根据供应商符合性声明 (SDoC) 程序获得授权但尚未通过供应商符合性声明 (SDoC) 和美国联邦通信委员会认证获得授权的无线电射频装置
+
 - 宣称需要根据供应商符合性声明 (SDoC) 程序获得授权但在美国没有合规责任方的无线电射频装置
+
 - 用于除海上航行安全通信以外的其他目的（如追踪渔网）的自动识别系统 (AIS) 装置
+
 - 用于库房、体育场、机场、办公大楼、医院、隧道和校园等大型工业或商业空间的信号增强器
+
 - 与民用波段无线电搭配使用的功率放大器
+
 - 用于故意屏蔽、堵塞或干扰获得许可或授权的无线电通信的商品，例如手机干扰器、GPS 干扰器、激光干扰器、PCS 干扰器、雷达干扰器或 Wi-Fi 干扰器、GPS 中继器和雷达移频器
+
 - 在 600 MHz 频段（617-652 MHz 和 663-698 MHz）或 700 MHz 频段 (698-806 MHz) 工作的无线麦克风
+
 - 声称在美国联邦通信委员会工程技术办公室知识数据库批准的频率范围之外运行的无线电射频装置
 
 ## 提交申诉
+
 如果您认为您的商品被错误地归为禁售商品，请通过[账户状况](https://sellercentral.amazon.com/gp/help/external/GC35Z63FGCUCUWXX)提交申诉。
 
 ## 资源
+
 - [亚马逊服务商业解决方案协议](https://sellercentral.amazon.com/help/hub/reference/external/G1791)
+
 - [移除库存概览](https://sellercentral.amazon.com/help/hub/reference/external/G200280650)
+
 - [修复无在售信息的亚马逊库存](https://sellercentral.amazon.com/inventoryplanning/stranded-inventory/)
+
 - [受限商品](https://sellercentral.amazon.com/gp/help/external/G201743940)
+
 - [服务提供商网络](https://sellercentral.amazon.com/gspn/searchpage/Compliance)
 
 ## 其他资源
+
 - [联邦通信委员会规章制度](https://www.fcc.gov/wireless/bureau-divisions/technologies-systems-and-innovation-division/rules-regulations-title-47)
+
 - [联邦通信委员会有关无线电射频装置的信息](https://www.fcc.gov/oet/ea/rfdevice)
+
 - [联邦通信委员会有关设备授权程序的信息](https://www.fcc.gov/general/equipment-authorization-procedures)
+
 - [联邦通信委员会执法咨询](https://www.fcc.gov/general/enforcement-advisories)
+
 - [联邦通信委员会有关高频收发器的公告](http://www.fcc.gov/Bureaus/Engineering_Technology/Public_Notices/1996/pnet6023.txt)
+
 - [联邦通信委员会有关信号干扰器的执法指南](http://www.fcc.gov/eb/jammerenforcement/)
+
 - [联邦通信委员会有关信号增强器的信息](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/signal-boosters)
+
 - [联邦通信委员会有关无线麦克风的信息](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/wireless-microphones)
 
 **免责声明：** 本页面提供的信息不构成，且无意构成法律建议。本网站提供的所有信息、内容和材料仅供一般参考。如果您对与商品信息相关的法律法规有疑问，建议咨询法律顾问。

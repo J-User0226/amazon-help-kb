@@ -1,23 +1,29 @@
 ---
-title: 将货件运送至亚马逊仓储和分拨服务中心 (AWD)： 打印包装箱标签
+title: "将货件运送至亚马逊仓储和分拨服务中心 (AWD)： 打印包装箱标签"
 doc_id: G48W2EW89MB5SP6H
 source: https://sellercentral.amazon.com/help/hub/reference/external/G48W2EW89MB5SP6H
 language: zh-CN
-fetched_at: 2026-10-30 13:28:26
+fetched_at: 2026-10-30T13:28:26
 ---
 
 # 将货件运送至亚马逊仓储和分拨服务中心 (AWD)： 打印包装箱标签
 
 - 第 1 步 - [选择要运送的库存](https://sellercentral.amazon.com/gp/help/external/GZLL7RYU2FJRN9BU)
+
 - 第 2 步 - [确认发货](https://sellercentral.amazon.com/gp/help/external/GQ6ZR5KNWKRBPT4M)
+
 - **第 3 步 - 打印包装箱标签**
+
 - 第 4 步 - [确认承运人](https://sellercentral.amazon.com/gp/help/external/GQ2DLFVQEYL74ZKW)（仅适用于货车荷载货件）
+
 - 第 5 步：[打印托拍标签](https://sellercentral.amazon.com/gp/help/external/G6SSGPBBXX7N8YBB)
+
 - 最后一步 - [追踪详情](https://sellercentral.amazon.com/gp/help/external/GFJSVA7G3WJGVQW3)（仅适用于小包裹快递货件和亚马逊合作承运人货车荷载货件）
 
 在 Send to Amazon 仓储和分拨服务工作流程的第 2 步中确认发货后，您可以为每个包装箱打印标签。本页面提供了有关如何打印和粘贴包装箱标签的信息。
 
 ## 打印箱子标签
+
 在 Send to Amazon 仓储和分拨服务的第 3 步【打印箱子标签】中，您将获得 A4 大小/热敏打印/美国信纸尺寸的系列货运包装箱代码箱子标签，这些标签必须粘贴在您运送至亚马逊仓储和分拨服务的每个箱子外侧。**此步骤适用于所有货件，与货件来源地和配送方式无关。**
 
 对于 SEND/亚马逊合作小包裹快递货件，货件标签会随箱子标签一起生成。
@@ -31,10 +37,13 @@ fetched_at: 2026-10-30 13:28:26
 将系列货运包装箱代码标签贴在箱子的平整表面上，以免条形码在边缘或角落处折叠。不可覆盖系列货运包装箱代码标签，以确保其可以扫描且清晰可辨。请确保您的货件在送达亚马逊仓储和分拨服务时，工作人员可以快速轻松地扫描标签，以防在接收库存的过程中出现延迟。
 
 ## 亚马逊仓储和分拨服务常见问题
+
 #### 我的托拍货件是否需要标签？
+
 您发往亚马逊仓储和分拨服务中心的每个单 SKU 托拍货件都需要粘贴托拍标签。如果您通过非亚马逊首选承运人发送这些托拍货件，则需要从标准化货件创建流程的第 4 步下载托拍标签。如果您使用的是亚马逊首选承运人，这些标签将在第 5 步中提供： 完成货件。
 
 #### 我能否在包装箱上粘贴其他标签？ 我从美国境外发货，我所在国家/地区的海关要求这样做。
+
 可以。卖家可以根据海关要求添加其他标签，但系列货运包装箱代码 (SSCC) 标签应完全可见，且包装箱上只能有一个系列货运包装箱代码 (SSCC) 标签。不允许在一个包装箱上粘贴多个 SSCC 标签。
 
 ---

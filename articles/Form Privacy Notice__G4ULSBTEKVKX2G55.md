@@ -1,9 +1,9 @@
 ---
-title: Form Privacy Notice
+title: "Form Privacy Notice"
 doc_id: G4ULSBTEKVKX2G55
 source: https://sellercentral.amazon.com/help/hub/reference/external/G4ULSBTEKVKX2G55
-language: zh-CN
-fetched_at: 2026-10-30 13:42:18
+language: en-US
+fetched_at: 2026-10-30T13:42:18
 ---
 
 # Form Privacy Notice

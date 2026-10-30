@@ -1,9 +1,9 @@
 ---
-title: 商品信息质量指南
+title: "商品信息质量指南"
 doc_id: GC3QAQ8CCXUG5RE4
 source: https://sellercentral.amazon.com/help/hub/reference/external/GC3QAQ8CCXUG5RE4
 language: zh-CN
-fetched_at: 2026-10-30 13:28:54
+fetched_at: 2026-10-30T13:28:54
 ---
 
 # 商品信息质量指南

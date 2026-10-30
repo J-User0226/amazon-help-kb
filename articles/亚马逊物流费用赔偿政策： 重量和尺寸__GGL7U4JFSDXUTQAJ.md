@@ -1,9 +1,9 @@
 ---
-title: 亚马逊物流费用赔偿政策： 重量和尺寸
+title: "亚马逊物流费用赔偿政策： 重量和尺寸"
 doc_id: GGL7U4JFSDXUTQAJ
 source: https://sellercentral.amazon.com/help/hub/reference/external/GGL7U4JFSDXUTQAJ
 language: zh-CN
-fetched_at: 2026-10-30 13:36:05
+fetched_at: 2026-10-30T13:36:01
 ---
 
 # 亚马逊物流费用赔偿政策： 重量和尺寸
@@ -19,12 +19,15 @@ fetched_at: 2026-10-30 13:36:05
 如果满足以下任一条件，则商品不符合重新测量请求的要求:
 
 - 我们的运营中心团队在过去 60 天内已经重新测量过两次
+
 - 您的商品在亚马逊运营中心没有可售件数
+
 - 卖家账户的重新测量请求数量已超出每月限制。
 
 有关更多信息，请参阅[了解商品包装重量和尺寸](https://sellercentral.amazon.com/gp/help/external/G6WAEPTECPT2JUH3)。
 
 ## 提交申请
+
 如果您在查看费用报告中的重量和尺寸数据后仍认为数据不准确，请联系销售伙伴支持并提交调查请求。
 
 **注意： **亚马逊的卖家助手可以通过此主题提供帮助。对于大多数语言设置，卖家助手还可以直接将您转接至销售伙伴支持。
@@ -33,8 +36,9 @@ fetched_at: 2026-10-30 13:36:05
 
 在提交请求之前，请完成以下步骤:
 
-1. 从相应的费用报告（例如，[月度仓储费报告](https://sellercentral.amazon.com/reportcentral/STORAGE_FEE_CHARGES/1)或[超龄库存附加费报告](https://sellercentral.amazon.com/reportcentral/LONGTERM_STORAGE_FEE_CHARGES/0)）中获取计算亚马逊物流费用时所使用的重量和尺寸数据。
-2. 查看这些尺寸，确定它们是否与您的预期不同。
+- 从相应的费用报告（例如，[月度仓储费报告](https://sellercentral.amazon.com/reportcentral/STORAGE_FEE_CHARGES/1)或[超龄库存附加费报告](https://sellercentral.amazon.com/reportcentral/LONGTERM_STORAGE_FEE_CHARGES/0)）中获取计算亚马逊物流费用时所使用的重量和尺寸数据。
+
+- 查看这些尺寸，确定它们是否与您的预期不同。
 
 **注意： **对于每笔收费，您只能提出一项索赔。针对同一收费的其他索赔将被拒绝。
 

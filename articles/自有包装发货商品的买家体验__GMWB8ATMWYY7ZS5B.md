@@ -1,9 +1,9 @@
 ---
-title: 自有包装发货商品的买家体验
+title: "自有包装发货商品的买家体验"
 doc_id: GMWB8ATMWYY7ZS5B
 source: https://sellercentral.amazon.com/help/hub/reference/external/GMWB8ATMWYY7ZS5B
 language: zh-CN
-fetched_at: 2026-10-30 13:44:19
+fetched_at: 2026-10-30T13:44:19
 ---
 
 # 自有包装发货商品的买家体验
@@ -13,8 +13,11 @@ fetched_at: 2026-10-30 13:44:19
 无论买家是否选择添加亚马逊包装，对于已注册且由卖家完成自有包装发货认证的商品，卖家均可享受亚马逊物流配送费用折扣。要了解有关自有包装发货买家体验的更多信息，请访问面向买家的网站，其中为买家提供了有关该计划的信息以及向其订单添加额外的亚马逊包装的方式。
 
 其他资源：
+
 - [自有包装发货计划页面](https://sellercentral.amazon.com/sustainability/program/sipp)
+
 - [自有包装发货注册门户](https://sellercentral.amazon.com/sipp-enrollment)
+
 - [自有包装发货常见问题](https://sellercentral.amazon.com/gp/help/external/GGQ95P9WP28WH3EE)
 
 ---

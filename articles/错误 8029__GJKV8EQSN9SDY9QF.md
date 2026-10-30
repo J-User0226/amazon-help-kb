@@ -1,9 +1,9 @@
 ---
-title: 错误 8029
+title: "错误 8029"
 doc_id: GJKV8EQSN9SDY9QF
 source: https://sellercentral.amazon.com/help/hub/reference/external/GJKV8EQSN9SDY9QF
 language: zh-CN
-fetched_at: 2026-10-30 13:39:18
+fetched_at: 2026-10-30T13:39:18
 ---
 
 # 错误 8029

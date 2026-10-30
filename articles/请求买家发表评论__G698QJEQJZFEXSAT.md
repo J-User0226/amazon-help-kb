@@ -1,9 +1,9 @@
 ---
-title: 请求买家发表评论
+title: "请求买家发表评论"
 doc_id: G698QJEQJZFEXSAT
 source: https://sellercentral.amazon.com/help/hub/reference/external/G698QJEQJZFEXSAT
 language: zh-CN
-fetched_at: 2026-10-30 13:42:23
+fetched_at: 2026-10-30T13:42:23
 ---
 
 # 请求买家发表评论

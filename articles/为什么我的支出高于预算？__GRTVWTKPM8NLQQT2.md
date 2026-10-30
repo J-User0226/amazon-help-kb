@@ -1,9 +1,9 @@
 ---
-title: 为什么我的支出高于预算？
+title: "为什么我的支出高于预算？"
 doc_id: GRTVWTKPM8NLQQT2
 source: https://sellercentral.amazon.com/help/hub/reference/external/GRTVWTKPM8NLQQT2
 language: zh-CN
-fetched_at: 2026-10-30 13:50:00
+fetched_at: 2026-10-30T13:50:00
 ---
 
 # 为什么我的支出高于预算？

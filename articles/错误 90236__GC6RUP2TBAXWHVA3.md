@@ -1,9 +1,9 @@
 ---
-title: 错误 90236
+title: "错误 90236"
 doc_id: GC6RUP2TBAXWHVA3
 source: https://sellercentral.amazon.com/help/hub/reference/external/GC6RUP2TBAXWHVA3
 language: zh-CN
-fetched_at: 2026-10-30 13:28:56
+fetched_at: 2026-10-30T13:28:56
 ---
 
 # 错误 90236

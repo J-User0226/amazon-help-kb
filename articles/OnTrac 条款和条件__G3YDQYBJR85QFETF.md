@@ -1,9 +1,9 @@
 ---
-title: OnTrac 条款和条件
+title: "OnTrac 条款和条件"
 doc_id: G3YDQYBJR85QFETF
 source: https://sellercentral.amazon.com/help/hub/reference/external/G3YDQYBJR85QFETF
 language: zh-CN
-fetched_at: 2026-10-30 13:17:06
+fetched_at: 2026-10-30T13:17:05
 ---
 
 # OnTrac 条款和条件
@@ -13,9 +13,12 @@ fetched_at: 2026-10-30 13:17:06
 要了解更多信息，请参阅 [OnTrac 条款和条件](https://www.ontrac.com/terms.asp)。
 
 OnTrac 配送说明：
-1. 将装箱单放在包裹内。
-2. 确保您的包裹已进行恰当的预处理。有关包装的详细说明，请参阅 [OnTrac 包装指南](https://www.ontrac.com/general-packaging-guidelines.asp)。
-3. 将货件标签贴到包裹上。
+
+- 将装箱单放在包裹内。
+
+- 确保您的包裹已进行恰当的预处理。有关包装的详细说明，请参阅 [OnTrac 包装指南](https://www.ontrac.com/general-packaging-guidelines.asp)。
+
+- 将货件标签贴到包裹上。
 
 **注意： **OnTrac 不支持在“购买配送服务”中进行签名确认。
 

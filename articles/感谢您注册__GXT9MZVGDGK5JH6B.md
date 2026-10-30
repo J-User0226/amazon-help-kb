@@ -1,9 +1,9 @@
 ---
-title: 感谢您注册
+title: "感谢您注册"
 doc_id: GXT9MZVGDGK5JH6B
 source: https://sellercentral.amazon.com/help/hub/reference/external/GXT9MZVGDGK5JH6B
 language: zh-CN
-fetched_at: 2026-10-30 14:15:29
+fetched_at: 2026-10-30T14:15:29
 ---
 
 # 感谢您注册

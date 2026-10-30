@@ -1,9 +1,9 @@
 ---
-title: 更正优惠券上传电子表格的错误
+title: "更正优惠券上传电子表格的错误"
 doc_id: GXRK7QW9Y7WZJ4MM
 source: https://sellercentral.amazon.com/help/hub/reference/external/GXRK7QW9Y7WZJ4MM
 language: zh-CN
-fetched_at: 2026-10-30 14:15:27
+fetched_at: 2026-10-30T14:15:27
 ---
 
 # 更正优惠券上传电子表格的错误

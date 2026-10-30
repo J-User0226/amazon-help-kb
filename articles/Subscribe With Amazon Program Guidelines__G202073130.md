@@ -1,9 +1,9 @@
 ---
-title: Subscribe With Amazon Program Guidelines
+title: "Subscribe With Amazon Program Guidelines"
 doc_id: G202073130
 source: https://sellercentral.amazon.com/help/hub/reference/external/G202073130
 language: zh-CN
-fetched_at: 2026-10-30 13:00:23
+fetched_at: 2026-10-30T13:00:22
 ---
 
 # Subscribe With Amazon Program Guidelines

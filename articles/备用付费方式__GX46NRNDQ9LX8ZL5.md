@@ -1,9 +1,9 @@
 ---
-title: 备用付费方式
+title: "备用付费方式"
 doc_id: GX46NRNDQ9LX8ZL5
 source: https://sellercentral.amazon.com/help/hub/reference/external/GX46NRNDQ9LX8ZL5
 language: zh-CN
-fetched_at: 2026-10-30 15:30:25
+fetched_at: 2026-10-30T15:30:25
 ---
 
 # 备用付费方式

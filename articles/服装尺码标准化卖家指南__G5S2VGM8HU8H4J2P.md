@@ -1,9 +1,9 @@
 ---
-title: 服装尺码标准化卖家指南
+title: "服装尺码标准化卖家指南"
 doc_id: G5S2VGM8HU8H4J2P
 source: https://sellercentral.amazon.com/help/hub/reference/external/G5S2VGM8HU8H4J2P
 language: zh-CN
-fetched_at: 2026-10-30 13:19:22
+fetched_at: 2026-10-30T13:19:22
 ---
 
 # 服装尺码标准化卖家指南

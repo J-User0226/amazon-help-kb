@@ -1,9 +1,9 @@
 ---
-title: 错误 96006
+title: "错误 96006"
 doc_id: GJK62LQXGMGAMVHG
 source: https://sellercentral.amazon.com/help/hub/reference/external/GJK62LQXGMGAMVHG
 language: zh-CN
-fetched_at: 2026-10-30 13:39:18
+fetched_at: 2026-10-30T13:39:18
 ---
 
 # 错误 96006

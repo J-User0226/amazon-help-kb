@@ -1,9 +1,9 @@
 ---
-title: Conditions of Use
+title: "Conditions of Use"
 doc_id: G201824360
 source: https://sellercentral.amazon.com/help/hub/reference/external/G201824360
 language: zh-CN
-fetched_at: 2026-10-30 12:56:24
+fetched_at: 2026-10-30T12:56:24
 ---
 
 # Conditions of Use

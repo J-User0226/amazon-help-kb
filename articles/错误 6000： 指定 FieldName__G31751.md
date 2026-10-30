@@ -1,9 +1,9 @@
 ---
-title: 错误 6000： 指定 FieldName
+title: "错误 6000： 指定 FieldName"
 doc_id: G31751
 source: https://sellercentral.amazon.com/help/hub/reference/external/G31751
 language: zh-CN
-fetched_at: 2026-10-30 13:16:05
+fetched_at: 2026-10-30T13:16:05
 ---
 
 # 错误 6000： 指定 FieldName

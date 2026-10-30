@@ -1,9 +1,9 @@
 ---
-title: Business Essentials
+title: "Business Essentials"
 doc_id: GVWZ8QXXLY9Y9Z4B
 source: https://sellercentral.amazon.com/help/hub/reference/external/GVWZ8QXXLY9Y9Z4B
 language: zh-CN
-fetched_at: 2026-10-30 14:07:46
+fetched_at: 2026-10-30T14:07:40
 ---
 
 # Business Essentials
@@ -15,12 +15,17 @@ Business Essentials 是专为亚马逊企业购买家精心设计的高优先级
 Business Essentials 可以通过提供以下优势来提升您的销售体验：
 
 **现有功能：**
+
 - 展示 Business Essentials 商品的专业高级店铺
+
 - 跨多个渠道集成的营销活动
+
 - 在 Prime 会员大促等促销活动期间的推荐展示
+
 - 基于买家需求信号的每月选品更新
 
 **2026 年即将推出：**
+
 - Business Essentials 标记
 
 **计划资格 **要获得 Business Essentials 营销激励的资格，所选的 BE ASIN 必须满足以下要求：

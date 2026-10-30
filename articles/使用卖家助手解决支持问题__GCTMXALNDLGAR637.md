@@ -1,9 +1,9 @@
 ---
-title: 使用卖家助手解决支持问题
+title: "使用卖家助手解决支持问题"
 doc_id: GCTMXALNDLGAR637
 source: https://sellercentral.amazon.com/help/hub/reference/external/GCTMXALNDLGAR637
 language: zh-CN
-fetched_at: 2026-10-30 13:29:19
+fetched_at: 2026-10-30T13:29:14
 ---
 
 # 使用卖家助手解决支持问题

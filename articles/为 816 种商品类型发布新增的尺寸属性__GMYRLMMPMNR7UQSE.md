@@ -1,14 +1,16 @@
 ---
-title: 为 816 种商品类型发布新增的尺寸属性
+title: "为 816 种商品类型发布新增的尺寸属性"
 doc_id: GMYRLMMPMNR7UQSE
 source: https://sellercentral.amazon.com/help/hub/reference/external/GMYRLMMPMNR7UQSE
 language: zh-CN
-fetched_at: 2026-10-30 15:27:24
+fetched_at: 2026-10-30T15:27:14
 ---
 
 # 为 816 种商品类型发布新增的尺寸属性
 
-2023 年，我们为 532 种商品类型引入了新的商品特有的尺寸属性。正如我们在 2023 年 4 月发布时说明的那样，这些属性目前为可选属性。在这些属性成为商品必填属性之前，我们会至少提前 30 天通知您。一旦成为必填属性，您需要在创建新 ASIN 或更新现有 ASIN 时提供这些属性。在 2021 年至 2023 年期间，我们总共为 816 种商品类型推出了新的尺寸属性。 **注意： **包裹的尺寸属性和费用依旧不受本次变更的影响。
+2023 年，我们为 532 种商品类型引入了新的商品特有的尺寸属性。正如我们在 2023 年 4 月发布时说明的那样，这些属性目前为可选属性。在这些属性成为商品必填属性之前，我们会至少提前 30 天通知您。一旦成为必填属性，您需要在创建新 ASIN 或更新现有 ASIN 时提供这些属性。在 2021 年至 2023 年期间，我们总共为 816 种商品类型推出了新的尺寸属性。
+
+**注意： **包裹的尺寸属性和费用依旧不受本次变更的影响。
 
 本次发布过后，当您通过[“管理库存”和批量库存模板](https://sellercentral.amazon.com/inventory/ref=xx_invmgr_dnav_xx)创建和更新 ASIN 时，必须输入新的尺寸属性。
 
@@ -21,823 +23,825 @@ fetched_at: 2026-10-30 15:27:24
 **注意： **视觉指南中所包含的商品并不意味着亚马逊接受该商品进行销售，也不代表销售伙伴可根据适用法律销售该商品。有关无法在我们的亚马逊商城中发布或销售的商品的更多信息，请参阅[分类、商品信息和商品限制](https://sellercentral.amazon.com/gp/help/external/G200301050)。
 
 新的尺寸要求仅适用于下面列出的 816 种商品类型。其他商品类型不受影响。所有计量单位均以厘米为单位，但美国采用英寸除外。
-编号 商品类型 新属性 完成年份
-1 地毯 item_length_width 2021
-2 枕头 item_length_width 2021
-3 枕套 item_length_width 2021
-4 地毯保护垫 item_length_width 2021
-5 毛毯 item_length_width 2021
-6 窗帘 item_length_width 2021
-7 遮光帘 item_length_width 2021
-8 家用镜子 item_length_width 2021
-9 灯 item_depth_width_height 2021
-10 搁板 item_depth_width_height 2021
-11 椅子 item_depth_width_height 2021
-12 办公桌 item_depth_width_height 2021
-13 储藏柜 item_depth_width_height 2021
-14 梳妆台 item_depth_width_height 2021
-15 长椅 item_depth_width_height 2021
-16 工具四轮车 item_depth_width_height 2021
-17 储物抽屉 item_depth_width_height 2021
-18 搁物架 item_depth_width_height 2021
-19 花盆 item_depth_width_height 2021
-20 凳子 item_depth_width_height 2021
-21 软垫凳 item_depth_width_height 2021
-22 沙发 item_depth_width_height 2021
-23 床头板 item_width_height 2021
-24 屏风 item_width_height 2021
-25 床垫 item_length_width_thickness 2021
-26 充气床垫 item_length_width_thickness 2021
-27 床 item_length_width_height 2021
-28 床架 item_length_width_height 2021
-29 婴儿床 item_length_width_height 2021
-30 桌子 item_depth_width_height 2021
-31 毛巾架 item_length_width_height 2022
-32 整理包 item_depth_width_height 2022
-33 炉灶面 item_depth_width_height 2022
-34 洗碗机 item_depth_width_height 2022
-35 电灯 item_length_width_height 2022
-36 小雕像 item_length_width_height 2022
-37 冰柜 item_depth_width_height 2022
-38 家具罩 item_depth_width_height 2022
-39 灯具 item_length_width_height 2022
-40 冰箱 item_depth_width_height 2022
-41 扬声器 item_depth_width_height 2022
-42 花瓶 item_length_width_height 2022
-43 抽油烟机 item_depth_width_height 2022
-44 桌布 item_length_width 2022
-45 艺术墙 item_length_width 2022
-46 宠物床垫 item_length_width_thickness 2022
-47 帐篷 item_length_width_height 2022
-48 蹦床 item_length_width_height 2022
-49 梯子 item_width_height 2022
-50 灯罩 item_width_height 2022
-51 3D 打印机 item_depth_width_height 2022
-52 空调 item_depth_width_height 2022
-53 冷风机 item_depth_width_height 2022
-54 空气炸锅 item_depth_width_height 2022
-55 空气净化器 item_depth_width_height 2022
-56 动物笼舍 item_depth_width_height 2022
-57 香薰喷雾器 item_length_width_height 2022
-58 画架 item_depth_width_height 2022
-59 人工栽培植物 item_depth_width_height 2022
-60 人造树 item_depth_width_height 2022
-61 烟灰缸 item_length_width_height 2022
-62 雨篷 item_depth_width_height 2022
-63 婴儿背带 item_depth_width_height 2022
-64 背包 item_depth_width_height 2022
-65 烤盘 item_depth_width_height 2022
-66 烧烤烤架 item_depth_width_height 2022
-67 篮子 item_depth_width_height 2022
-68 懒人沙发 item_depth_width_height 2022
-69 血压计 item_length_width_thickness 2022
-70 阅读支架 item_depth_width_height 2022
-71 书挡 item_depth_width_height 2022
-72 瓶架 item_depth_width_height 2022
-73 面包机 item_depth_width_height 2022
-74 烛台 item_length_width_height 2022
-75 焙盘 item_depth_width_height 2022
-76 电锯 item_length_width_height 2022
-77 挂衣架 item_depth_width_height 2022
-78 咖啡机 item_depth_width_height 2022
-79 堆肥桶 item_length_width_height 2022
-80 烹饪锅 item_depth_width_height 2022
-81 化妆箱 item_length_width_height 2022
-82 厨房台面炉灶 item_depth_width_height 2022
-83 厨房台面煎烤用具 item_depth_width_height 2022
-84 厨房操作台烤箱 item_depth_width_height 2022
-85 杯托 item_length_width_height 2022
-86 窗帘固定装置 item_width 2022
-87 油炸锅 item_depth_width_height 2022
-88 除湿器 item_depth_width_height 2022
-89 电钻 item_length_width_height 2022
-90 晾衣架 item_depth_width_height 2022
-91 旅行包 item_length_width_height 2022
-92 电风扇 item_depth_width_height 2022
-93 电水壶 item_length_width_height 2022
-94 发电机 item_length_width_height 2022
-95 椭圆机 item_depth_width_height 2022
-96 烧烤炉 item_depth_width_height 2022
-97 壁炉 item_depth_width_height 2022
-98 健身椅 item_depth_width_height 2022
-99 手电筒 item_depth_width_height 2022
-100 破壁机 item_depth_width_height 2022
-101 食品搅拌器 item_depth_width_height 2022
-102 食品加工机 item_depth_width_height 2022
-103 食品混合器 item_length_width_height 2022
-104 食品切片器 item_length_width_height 2022
-105 食物存储容器 item_length_width_height 2022
-106 家具腿 item_height_thickness 2022
-107 吹风机 item_depth_width_height 2022
-108 加湿器 item_depth_width_height 2022
-109 暖通空调空气过滤器 item_length_width_thickness 2022
-110 制冰机 item_depth_width_height 2022
-111 香插 item_length_width_thickness 2022
-112 婴幼儿汽车安全座椅 item_depth_width_height 2022
-113 熨衣板 item_length_width_height 2022
-114 珠宝首饰储物盒 item_depth_width_height 2022
-115 榨汁机 item_depth_width_height 2022
-116 卡拉 OK 机 item_depth_width_height 2022
-117 磨刀器 item_length_width_height 2022
-118 电脑折叠桌 item_depth_width_height 2022
-119 脏衣物收纳筐 item_length_width_height 2022
-120 割草机 item_depth_width_height 2022
-121 邮箱 item_depth_width_height 2022
-122 梳妆台 item_depth_width_height 2022
-123 按摩器 item_length_width_height 2022
-124 微波炉 item_depth_width_height 2022
-125 储钱罐 item_length_width_height 2022
-126 显示器 item_depth_width_height 2022
-127 乐器扩音器 item_depth_width_height 2022
-128 车载摄像机 item_depth_width_height 2022
-129 碎纸机 item_depth_width_height 2022
-130 宠物活动设施 item_length_width_height 2022
-131 便携炉 item_length_width_height 2022
-132 便携式工具箱 item_length_width_height 2022
-133 便携式净水器 item_depth_width_height 2022
-134 压力锅 item_depth_width_height 2022
-135 高压清洗机 item_length_width_height 2022
-136 打印机 item_depth_width_height 2022
-137 按压泵头 item_length_width_height 2022
-138 沙袋 Item_width_height 2022
-139 收音机 item_length_width_height 2022
-140 斜坡道板 item_length_width_height 2022
-141 电饭煲 item_depth_width_height 2022
-142 扫地机器人 item_length_width_height 2022
-143 划船机 item_depth_width_height 2022
-144 保险箱 item_depth_width_height 2022
-145 锯 item_length_width_height 2022
-146 雕塑 item_depth_width_height 2022
-147 缝纫机 item_depth_width_height 2022
-148 水槽 item_depth_width_height 2022
-149 慢炖锅 item_depth_width_height 2022
-150 肥皂盒 item_length_width 2022
-151 小型取暖器 item_depth_width_height 2022
-152 运动球门 item_depth_width_height 2022
-153 独立式流媒体播放器 item_length_width_height 2022
-154 固定式自行车 item_depth_width_height 2022
-155 梯凳 item_depth_width_height 2022
-156 储物盒 item_length_width_height 2022
-157 储物架 item_depth_width_height 2022
-158 炉灶水壶 item_depth_width_height 2022
-159 秋千 item_depth_width_height 2022
-160 茶壶 item_depth_width_height 2022
-161 望远镜 item_depth_width_height 2022
-162 计时器 item_depth_width_height 2022
-163 烤面包机 item_depth_width_height 2022
-164 牙刷架 item_length_width_height 2022
-165 大手提袋 item_length_width_height 2022
-166 玩偶 item_length_width_height 2022
-167 玩具枪 item_length_width_height 2022
-168 垃圾桶 item_length_width_height 2022
-169 跑步机 item_depth_width_height 2022
-170 圣诞树顶星 item_depth_width_height 2022
-171 无人机 item_length_width_height 2022
-172 真空过滤器 item_length_width_height 2022
-173 车辆保险杠 item_depth_width_height 2022
-174 车载安全摄像头 item_length_width_height 2022
-175 钱包 item_depth_width_height 2022
-176 洗衣机 item_depth_width_height 2022
-177 洗衣烘干一体机 item_depth_width_height 2022
-178 饮水机 item_depth_width_height 2022
-179 净水装置 item_length_width_height 2022
-180 洒水壶 item_depth_width_height 2022
-181 相框 item_length_width 2022
-182 软木告示板 item_length_width 2022
-183 餐垫 item_length_width 2022
-184 泳池盖 item_length_width 2022
-185 强化艺术面 item_length_width 2022
-186 屏幕保护膜 item_length_width 2022
-187 淋浴头 item_length_width 2022
-188 标牌 item_length_width 2022
-189 睡袋 item_length_width 2022
-190 修边机 item_length_width 2022
-191 模板 item_length_width 2022
-**192** 厕纸架 item_length_width 2022
-193 马桶座圈 item_length_width 2022
-194 毛巾 item_length_width 2022
-195 墙纸 item_length_width 2022
-196 窗膜 item_length_width 2022
-197 兽笼 item_length_width_height 2022
-198 宠物旅行袋 item_length_width_height 2022
-199 婴儿座椅 item_depth_width_height 2022
-200 婴儿摇篮 item_length_width_height 2022
-201 床栏 Item_width_height 2022
-202 床裙 item_length_width_height 2022
-203 清洁刷 item_length_width_height 2022
-204 浴盆 item_length_width_height 2022
-205 制冰格 item_length_width_height 2022
-206 猫砂盆 item_length_width_height 2022
-207 宠物喂食器 item_length_width_height 2022
-208 宠物围栏 item_length_width_height 2022
-209 宠物玩具 item_length_width_height 2022
-210 便携自立式帐篷 item_length_width_height 2022
-211 橡皮图章 item_length_width_height 2022
-212 运动桌上游戏 item_length_width_height 2022
-213 储物包 item_length_width_height 2022
-214 婴儿推车 item_length_width_height 2022
-215 游泳池 item_length_width_height 2022
-216 托盘 item_length_width_height 2022
-217 真空吸尘器 item_length_width_height 2022
-218 电池充电器 item_depth_width_height 2022
-219 椅垫 item_length_width_thickness 2022
-220 运动垫 item_length_width_thickness 2022
-221 机械打火机 item_length_width_thickness 2022
-222 移动电源 item_length_width_thickness 2022
-223 三角金属架 item_length_width_thickness 2022
-224 车垫 item_length_width_thickness 2022
-225 瓶子 item_width_height 2022
-226 蜡烛 item_width_height 2022
-227 衣架 item_width_height 2022
-228 餐具碗 item_width_height 2022
-229 餐盘 item_length_width_thickness 2022
-230 可穿戴式电脑 item_dimensions 2022
-231 磅秤 item_length_width_height 2022
-232 野生动物喂食器 item_length_width_height 2022
-233 风铃 item_length_width_height 2022
-234 砂纸 item_length_width 2022
-235 烘焙垫 item_length_width 2022
-236 横幅 item_length_width 2022
-237 浴缸浴垫 item_length_width 2022
-238 时钟 item_width_height 2022
-239 餐巾 item_length_width 2022
-240 砧板 item_length_width_thickness 2022
-241 装饰枕套 item_length_width 2022
-242 数字相框 item_length_width 2022
-243 杯垫 item_length_width 2022
-244 哑铃 item_length_width 2022
-245 被套 item_length_width 2022
-246 床罩 item_length_width 2022
-247 床单 item_length_width 2022
-248 家具衬垫 item_length_width 2022
-249 煎板 item_length_width_thickness 2022
-250 烫发器 item_length_width 2022
-251 吊床 item_length_width 2022
-252 挂衣杆 item_length_width 2022
-253 五金把手 item_length_width 2022
-254 纸巾架 item_length_width 2022
-255 水杯 item_width_height 2022
-256 铸铁锅 item_width_height 2022
-257 食品储物袋 item_width_height 2022
-258 食物过滤器 item_length_width_height 2022
-259 罐子 item_width_height 2022
-260 铸铁锅 item_width_height 2022
-261 投影屏幕 item_width_height 2022
-262 保温瓶 item_width_height 2022
-263 自行车车轮 rim.width 2022
-264 BRACELET item_length 2022
-265 桶 item_length_width_height 2022
-266 相机镜头 item_diameter_length 2022
-267 自行车轮胎 item_width 2022
-268 门 item_width_height_thickness 2022
-269 家具地板保护垫 item_length_width_thickness 2022
-270 熏香 item_length 2022
-271 菜刀 item_length 2022
-272 刀 item_length 2022
-273 床垫套 item_length_width_depth 2022
-274 笔记本电脑 item_length_width_thickness 2022
-275 宠物门 item_width_height_thickness 2022
-276 煎炒锅 item_width_diameter_height 2022
-277 灯串 cable.length 2022
-278 手提箱 item_length_width_height 2022
-279 平板电脑 item_length_width_thickness 2022
-280 电视机 item_depth_width_height 2022
-281 温度计 item_length 2022
-282 圣诞树裙 item_diameter 2022
-283 车胎 item_diameter 2022
-284 车轮 rim.width 2022
-285 花环 item_depth_width_height 2022
-286 冰淇淋机 item_length_width_height 2023
-287 瓮 item_length_width_height 2023
-288 蚊帐 item_length_width_height 2023
-289 动物饮水机 item_length_width_height 2023
-290 抗疲劳地垫 item_length_width_thickness 2023
-291 尿布更换垫 item_length_width_height 2023
-292 天线 item_length_width_height 2023
-293 装饰性胶纸 item_length_width 2023
-294 龙头 item_depth_width_height 2023
-295 吸奶器 item_length_width_height 2023
-296 婴儿车防护罩 item_length_width_height 2023
-297 烘干机 item_depth_width_height 2023
-298 烤箱 item_depth_width_height 2023
-299 范围 item_depth_width_height 2023
-300 沙箱 item_length_width_height 2023
-301 健腹器 item_length_width_height 2023
-302 研磨刷 item_length_width 2023
-303 砂轮 item_length_width 2023
-304 基督降临节日历 item_length_width 2023
-305 瞄准镜瞄准镜 item_diameter_length 2023
-306 空气压缩机 item_length_width_height 2023
-307 气枪 item_length_width_height 2023
-308 气枪子弹 item_width_height 2023
-309 气泵 item_length_width_height 2023
-310 报警器 item_length_width_height 2023
-311 锚杆桩 item_length_width 2023
-312 动物颈圈 item_length_width 2023
-313 动物栖木 item_length_width_height 2023
-314 动物阶梯 item_depth_width_height 2023
-315 艺术涂料纸 item_length_width 2023
-316 CD 播放机 item_length_width_height 2023
-317 音频 MIDI 控制器 item_depth_width_height 2023
-318 音频 MIDI 接口 item_depth_width_height 2023
-319 音频混音控制台 item_depth_width_height 2023
-320 汽车蓄电池 item_depth_width_height 2023
-321 汽车钥匙套 item_length_width 2023
-322 AV 接收器 item_depth_width_height 2023
-323 AV 信号切换器 item_depth_width_height 2023
-324 斧 item_length_width 2023
-325 婴儿浴盆 item_length_width_height 2023
-326 婴儿学步车 item_length_width_height 2023
-327 背景幕布 item_length_width 2023
-328 证件卡套 item_length_width 2023
-329 烘焙石 item_length_width_thickness 2023
-330 平衡板 item_length_width_height 2023
-331 条码识读器 item_depth_width_height 2023
-332 杠铃 item_length_width 2023
-333 篮球框 item_depth_width_height 2023
-334 浴枕 item_length_width 2023
-335 沐浴安全座椅 item_depth_width_height 2023
-336 浴缸 item_length_width_height 2023
-337 床板 item_length_width_thickness 2023
-338 水杯隔热套 item_width_height 2023
-339 自行车篮 item_depth_width_height 2023
-340 自行车车铃 item_length_width_height 2023
-341 自行车刹车片 item_length_width_height 2023
-342 自行车货架 item_length_width_height 2023
-343 自行车变速器 item_length_width_height 2023
-344 自行车灯 item_width_height 2023
-345 自行车脚踏板 item_length_width 2023
-346 自行车车座 item_length_width_height 2023
-347 自行车车座杆 item_width_height 2023
-348 自行车拖车 item_length_width_height 2023
-349 自行车训练台 item_length_width_height 2023
-350 活页夹分隔片 item_length_width 2023
-351 双筒望远镜 item_length_width 2023
-352 生物识别监控器 item_length_width_height 2023
-353 有刃食物削皮机 item_length_width 2023
-354 空白账簿 item_length_width 2023
-355 血氧监测仪 item_length_width_height 2023
-356 喷灯 item_length_width_height 2023
-357 棋盘游戏 item_length_width 2023
-358 身体定位器 item_length_width 2023
-359 书套 item_length_width 2023
-360 书签 item_length_width 2023
-361 开瓶器 item_length_width 2023
-362 瓶塞 item_width_height 2023
-363 拳击手套 item_length_width 2023
-364 乳贴 item_length_width 2023
-365 扫帚 item_width_height 2023
-366 泡泡机 item_length_width_height 2023
-367 弹力绳索 item_length_width 2023
-368 黄油碟 item_length_width_height 2023
-369 扎线带 item_length 2023
-370 蛋糕装饰 item_width_height 2023
-371 计算器 item_length_width 2023
-372 日历 item_width_height 2023
-373 健身支架 item_length_width_height 2023
-374 摄像机 item_depth_width_height 2023
-375 摄影摄像 item_depth_width_height 2023
-376 相机连续照明 item_length_width_height 2023
-377 数码相机 item_depth_width_height 2023
-378 相机外壳 item_depth_width_height 2023
-379 像机闪光灯 item_depth_width_height 2023
-380 相机镜头滤镜 item_length_width 2023
-381 相机舞台灯光修改器 item_depth_width_height 2023
-382 相机支架 item_depth_width_height 2023
-383 相机三脚架 item_length 2023
-384 启罐器 item_width_height 2023
-385 罐装空气 item_width_height 2023
-386 电容器 item_width_height 2023
-387 钩环 item_length_width 2023
-388 汽化器 item_depth_width_height 2023
-389 卡片文件夹 item_length_width 2023
-390 卡片纸 item_length_width 2023
-391 吊货网 item_length_width 2023
-392 行李吊带 item_length_width 2023
-393 地毯内饰清洗机 item_depth_width_height 2023
-394 地毯 item_length_width 2023
-395 手提箱包 item_length_width_height 2023
-396 手机钱包式保护壳 item_width_height 2023
-397 链锯链 item_length 2023
-398 凿刀 item_length_width 2023
-399 筷子 item_length 2023
-400 烟盒 item_depth_width_height 2023
-401 电路断路器 item_depth_width_height 2023
-402 水池 item_length_width_height 2023
-403 攀缘植物支撑结构 item_width_height 2023
-404 写字板夹 item_length_width 2023
-405 晒衣夹 item_length 2023
-406 零钱包 item_depth_width_height 2023
-407 可折叠游戏结构 item_depth_width_height 2023
-408 收藏卡 item_length_width 2023
-409 电脑机箱 item_depth_width_height 2023
-410 计算机硬盘或存储器 item_length_width_thickness 2023
-411 电脑处理器 item_length_width 2023
-412 容器盖子 item_length_width 2023
-413 控制器 item_length_width_height 2023
-414 线槽盖 item_length_width 2023
-415 绳索 item_length 2023
-416 去核器 item_length_width 2023
-417 台面式食品蒸笼 item_length_width_height 2023
-418 工艺箍架 item_length_width 2023
-419 工艺包装纸 item_length_width 2023
-420 压线钳 item_length_width 2023
-421 窗帘架 item_length_width 2023
-422 自行车电脑 item_length_width_height 2023
-423 自行车轮胎内胎 item_diameter 2023
-424 飞镖 item_width_height 2023
-425 装饰性花球 item_length_width 2023
-426 装饰性丝带 item_length_width 2023
-427 装饰性标志 item_length_width 2023
-428 桌垫 item_length_width 2023
-429 冲压式裁剪机 item_depth_width_height 2023
-430 数字视频录像机 item_length_width_height 2023
-431 游标卡尺 item_length_width 2023
-432 指拨开关 item_length_width_height 2023
-433 圆盘磨床工具 item_length_width_height 2023
-434 干盘垫 item_length_width 2023
-435 展示相册 item_length_width_height 2023
-436 显示器外壳 item_length_width_height 2023
-437 一次性失禁表面保护器 item_length_width 2023
-438 一次性尿布 item_length_width 2023
-439 玩偶服装 item_length_width 2023
-440 闭门器 item_length_width_height 2023
-441 门挡 item_length_width_height 2023
-442 挡风条 item_length_width_thickness 2023
-443 下水道滤网 item_width_height 2023
-444 抽屉滑轨 item_length_width_thickness 2023
-445 印式长围巾 item_length_width 2023
-446 除尘工具 item_length_width 2023
-447 松紧带 item_length_width 2023
-448 电动食品研磨机 item_length_width_height 2023
-449 电灯笼 item_length_width_height 2023
-450 电动马达 item_width_height 2023
-451 配电板 item_length_width_height 2023
-452 电气外罩 item_depth_width_height 2023
-453 电源插座 item_length_width 2023
-454 电插头 item_depth_width_height 2023
-455 电子书阅读器 item_length_width_thickness 2023
-456 线缆 cable.length 2023
-457 电子元件风扇 item_length_width_height 2023
-458 电子元件端子 item_length_width_height 2023
-459 电子设备冷却板 item_length_width_height 2023
-460 电子设备扩展坞 item_length_width_height 2023
-461 电子设备面板 item_width_height 2023
-462 电子设备保护膜 item_length_width 2023
-463 电子寻物防丢器 item_length_width_thickness 2023
-464 电子学习玩具 item_length_width 2023
-465 电子信号转换器 item_length_width 2023
-466 电子线缆 cable.length 2023
-467 电击武器 item_length_width 2023
-468 铣刀 item_length_width 2023
-469 发动机空气滤清器 item_length_width_height 2023
-470 发动机排气管 item_length_width 2023
-471 信封 item_length_width 2023
-472 脱毛器 item_length_width 2023
-473 橡皮擦 item_length_width 2023
-474 健身带 item_length_width 2023
-475 瑜伽砖 item_length_width_thickness 2023
-476 健身器材 item_depth_width_height 2023
-477 运动台阶平台 item_length_width_height 2023
-478 弹力带 item_length_width 2023
-479 织物 item_length_width 2023
-480 防护面罩 item_length_width 2023
-481 面巾纸架 item_length_width_height 2023
-482 螺丝刀套装 item_length 2023
-483 水龙头起泡器 item_diameter_length 2023
-484 栅栏板 item_length_width 2023
-485 文件夹 item_length_width_thickness 2023
-486 防火帘 item_length_width 2023
-487 钓鱼线 item_diameter_length 2023
-488 渔网 item_length_width 2023
-489 钓鱼绕线轮 item_length_width_height 2023
-490 钓鱼竿 rod.length 2023
-491 鱼竿架 item_depth_width_height 2023
-492 呼啦圈 item_length_width 2023
-493 健身踏步机 item_length_width_height 2023
-494 火焰芯 item_length 2023
-495 闪存卡 item_length_width 2023
-496 闪存 item_length_width 2023
-497 烧瓶 item_depth_width_height 2023
-498 围嘴 item_length_width 2023
-499 食物脱水机 item_depth_width_height 2023
-500 食物刨丝器 item_length_width_height 2023
-501 食物捣碎机 item_length_width 2023
-502 食物粉碎机 item_length_width_height 2023
-503 食品或饮料加热器 item_length_width_height 2023
-504 勺子 item_length_width 2023
-505 食物烟熏机 item_depth_width_height 2023
-506 锅铲 item_length_width 2023
-507 食品包装纸 item_length_width 2023
-508 脚架 item_length_width_height 2023
-509 叉子 item_length_width 2023
-510 钢笔 item_length_width_height 2023
-511 独立式遮栅 item_length_width_height 2023
-512 燃油灯 item_length_width_height 2023
-513 漏斗 item_width_height 2023
-514 家具护角 item_length_width_thickness 2023
-515 家具脚垫 item_length_width 2023
-516 掷骰游戏 item_length_width 2023
-517 游戏设备围栏 item_length_width_height 2023
-518 花园围栏 item_length_width 2023
-519 园艺剪 item_length_width 2023
-520 花环 item_length 2023
-521 压蒜器 item_length_width 2023
-522 服装保护罩 item_length_width_height 2023
-523 蒸汽挂烫机 item_length_width_height 2023
-524 烟气火灾报警器 item_depth_width_height 2023
-525 地球仪 item_diameter 2023
-526 血糖仪 item_length_width_height 2023
-527 高尔夫球杆 item_length_width_height 2023
-528 高尔夫球棒袋 item_length_width_height 2023
-529 高尔夫球棒盖 item_length_width 2023
-530 高尔夫练习垫 item_length_width_thickness 2023
-531 GPS 或导航系统 item_length_width_height 2023
-532 电脑数位板 item_length_width 2023
-533 重力式饮料分配机 item_length_width_height 2023
-534 温室 item_length_width_height 2023
-535 贺卡 item_length_width 2023
-536 烤炉盖 item_length_width_height 2023
-537 吉他效果装置 item_length_width_height 2023
-538 吉他 item_length_width_height 2023
-539 枪握把 item_length_width_thickness 2023
-540 枪背带 item_length_width 2023
-541 橡胶锤 item_length_width_thickness 2023
-542 缝衣针 item_length 2023
-543 手指握力练习器 item_length_width 2023
-544 防烫握柄 item_length_width 2023
-545 把手 item_length_width 2023
-546 自行车把手握柄 item_length_width 2023
-547 扶手 item_length_width 2023
-548 硬盘框 item_length_width_height 2023
-549 铰链五金件 item_length_width 2023
-550 刨机 item_length_width_height 2023
-551 钉书针 item_length_width 2023
-552 软管 item_length_width 2023
-553 助听放大器 item_length_width 2023
-554 热压机 item_length_width_height 2023
-555 散热片 item_length_width_height 2023
-556 加热炉 item_depth_width_height 2023
-557 酒壶 item_depth_width_height 2023
-558 打孔器 item_length_width_height 2023
-559 热熔胶枪 item_length_width_height 2023
-560 湿度计 item_width_height 2023
-561 暖通空调控制恒温器 item_depth_width_height 2023
-562 水袋包 item_width_height 2023
-563 冷藏箱 item_depth_width_height 2023
-564 浸入式加热器 item_length 2023
-565 室内种植围护 item_length_width_height 2023
-566 充气弹床 item_length_width_height 2023
-567 输入鼠标 item_length_width 2023
-568 输入输出卡 item_length_width_height 2023
-569 保温材料 item_length_width 2023
-570 熨烫转印设计 item_length_width 2023
-571 物品容器 item_length_width_height 2023
-572 跳绳 item_length 2023
-573 跳线起动器 item_depth_width_height 2023
-574 皮艇 item_length_width_height 2023
-575 壶铃 item_length_width_height 2023
-576 键盘乐器 item_depth_width_height 2023
-577 键盘 item_length_width_height 2023
-578 键盘键帽 item_length_width_height 2023
-579 滑板车 item_length_width_height 2023
-580 风筝 item_length_width 2023
-581 刀架 item_depth_width_height 2023
-582 编织针 item_length 2023
-583 印式无领长袖衫 Item_length 2023
-584 层压机 item_length_width_height 2023
-585 吹落叶机 item_length_width_height 2023
-586 皮带 item_length_width 2023
-587 水平仪 item_length_width 2023
-588 车牌附件 item_length_width 2023
-589 灯箱 item_length_width_height 2023
-590 灯泡 item_width_height 2023
-591 灯泡底座 item_width_height 2023
-592 去球器 item_depth_width_height 2023
-593 液体燃料容器 item_width_height 2023
-594 散装宝石 item_length_width_height 2023
-595 放大镜 item_length_width 2023
-596 服装人体模型 item_length_width_height 2023
-597 手动食品磨粉机 item_length_width_height 2023
-598 地图 item_length_width 2023
-599 物料搬运车 item_length_width_height 2023
-600 食物容器 item_length_width_height 2023
-601 传动带 item_length_width 2023
-602 存储卡读卡器 item_length_width_height 2023
-603 金属探测器 item_length_width_height 2023
-604 显微镜 item_length_width_height 2023
-605 奶泡器 item_width_height 2023
-606 迷你玩具屋 item_length_width_height 2023
-607 调制解调器 item_length_width_height 2023
-608 拖把 item_length_width_height 2023
-609 主板 item_length_width_height 2023
-610 运动检测器 item_depth_width_height 2023
-611 鼠标垫 item_length_width 2023
-612 MP3 播放器 item_depth_width_height 2023
-613 多端口集线器 item_length_width_height 2023
-614 乐器弦线 cable.length 2023
-615 指甲锉 item_length_width_height 2023
-616 指甲锉刀 item_length_width 2023
-617 餐巾架 item_depth_width_height 2023
-618 餐巾环 item_width_height 2023
-619 鼻吸器 item_width_height 2023
-620 导航罗盘 item_length_width 2023
-621 网罩 item_length_width 2023
-622 网络接口控制器适配器 item_length_width_height 2023
-623 网络交换机 item_length_width_height 2023
-624 网络路由器 item_length_width_height 2023
-625 O 型圈 item_diameter 2023
-626 光驱 item_length_width_height 2023
-627 外置马达 item_depth_width_height 2023
-628 外屋 item_depth_width_height 2023
-629 包装材料 item_length_width 2023
-630 桨叶式冲浪板 item_length_width 2023
-631 调色板油灰刀 item_length_width 2023
-632 回形针夹 item_length_width 2023
-633 意大利面制作机 item_length_width_height 2023
-634 涂油刷 item_length_width 2023
-635 削铅笔器 item_depth_width_height 2023
-636 防治虫鼠装置 item_length_width_height 2023
-637 宠物座位 item_length_width_height 2023
-638 相纸 item_length_width 2023
-639 野餐篮 item_depth_width_height 2023
-640 枕芯保护套 item_length_width 2023
-641 皮纳塔 item_length_width_height 2023
-642 裱花头 item_width_height 2023
-643 计划 item_length_width 2023
-644 滑梯 item_length_width_height 2023
-645 玩具工作台 item_depth_width_height 2023
-646 游戏房 item_depth_width_height 2023
-647 琴拨 item_length_width 2023
-648 钳子 item_length_width 2023
-649 堵头 item_width_height 2023
-650 抛光工具 item_depth_width_height 2023
-651 游泳池吸尘器 item_length_width_height 2023
-652 爆米花机 item_length_width_height 2023
-653 便携式电子设备臂带 item_length_width_height 2023
-654 便携式视频光盘播放机 item_length_width_height 2023
-655 锅垫 item_length_width 2023
-656 电源线 item_length 2023
-657 逆变器 item_length_width_height 2023
-658 电源插板 item_length_width 2023
-659 预装电子游戏机 item_length_width_height 2023
-660 缝纫机压脚 item_length_width 2023
-661 打印复印纸 item_length_width 2023
-662 引体向上横杆 item_width_height 2023
-663 泵喷雾器 item_width_height 2023
-664 推拉玩具 item_length_width_height 2023
-665 拼图 item_length_width 2023
-666 雷达检测器 item_length_width_height 2023
-667 耙子 item_width_height 2023
-668 测距仪 item_length_width_height 2023
-669 往复式绿篱修剪机 item_length_width_height 2023
-670 娱乐用球 item_diameter 2023
-671 遥控器 item_length_width_height 2023
-672 防护口罩 item_depth_width_height 2023
-673 可重复使用的失禁表面保护器 item_length_width 2023
-674 可骑式玩具 item_length_width_height 2023
-675 烤盘 item_length_width_height 2023
-676 滚子链 item_diameter_length 2023
-677 卷烟纸 item_length_width 2023
-678 擀面杖 item_length_width 2023
-679 旋转托盘 item_diameter 2023
-680 电动刳刨工具 item_width_height 2023
-681 尺子 item_length_width 2023
-682 安全面罩带扩展器 item_length_width 2023
-683 磨砂机 item_length_width_height 2023
-684 印式纱丽服 Item_length 2023
-685 卫星接收器 item_depth_width_height 2023
-686 锯条 item_length_width 2023
-687 扫描仪 item_depth_width_height 2023
-688 围巾 item_length_width 2023
-689 剪刀 item_length_width 2023
-690 机械螺丝刀 item_length_width_height 2023
-691 调料研磨器 item_width_height 2023
-692 自平衡电动车 item_length_width_height 2023
-693 自卫喷雾 item_width_height 2023
-694 缝纫机针 item_length 2023
-695 遮阳篷 item_length_width 2023
-696 利器处理容器 item_depth_width_height 2023
-697 烤盘 item_length_width_height 2023
-698 平板纸 item_length_width 2023
-699 护胫 item_length_width 2023
-700 运输箱 item_length_width_height 2023
-701 鞋袋 item_length_width_depth 2023
-702 鞋撑 item_length_width 2023
-703 淋浴房 item_depth_width_height 2023
-704 SIM 卡 item_length_width 2023
-705 单板计算机 item_length_width_height 2023
-706 串肉扦 item_length 2023
-707 雪橇 item_length_width_height 2023
-708 床席 item_length_width_thickness 2023
-709 按扣 item_length_width 2023
-710 除雪机 item_depth_width_height 2023
-711 雪花球 item_length_width_height 2023
-712 雪地鞋 item_length_width 2023
-713 苏打水制作机 item_depth_width_height 2023
-714 耕作机 item_depth_width_height 2023
-715 太阳能板 item_length_width_height 2023
-716 烙铁 item_length 2023
-717 焊接站 item_depth_width_height 2023
-718 声纳测深仪 item_length_width_height 2023
-719 声卡 item_length_width_height 2023
-720 低温慢煮机 item_depth_width_height 2023
-721 扬声器放大器支架 item_length_width_height 2023
-722 顶部旋转玩具 item_width_height 2023
-723 戏水池 item_length_width_height 2023
-724 勺子 item_length_width 2023
-725 勺子架 item_length_width 2023
-726 运动球棒 item_length_width 2023
-727 运动板滑雪 item_length_width 2023
-728 运动器材包箱 item_length_width_height 2023
-729 运动口罩 item_length_width 2023
-730 体育项目用网 item_length_width 2023
-731 运动球拍 item_length_width 2023
-732 喷雾瓶 item_width_height 2023
-733 橡胶清洁刷 item_width_height 2023
-734 钉书机 item_length_width 2023
-735 蒸汽清洁器 item_depth_width_height 2023
-736 听诊器 item_length_width 2023
-737 储物粘合剂 item_length_width 2023
-738 防尘罩 item_length_width_depth 2023
-739 力量训练机 item_depth_width_height 2023
-740 游泳脚蹼 item_length_width 2023
-741 剑 item_length_width 2023
-742 注射器 item_length_width 2023
-743 系统柜 item_depth_width_height 2023
-744 桌巾 item_length_width 2023
-745 标签分配器 item_length_width_height 2023
-746 卷尺 item_length_width 2023
-747 油布 item_length_width 2023
-748 系统托盘 item_length_width 2023
-749 泡茶器 item_length_width 2023
-750 临时门 item_width_height 2023
-751 接线端子 item_width_height 2023
-752 熨斗 item_length_width 2023
-753 螺纹螺杆和螺柱 item_diameter_length 2023
-754 瓷砖 item_length_width 2023
-755 马桶 item_depth_width_height 2023
-756 通用食物夹 item_length_width 2023
-757 工具腰带 item_width_height 2023
-758 拖曳运动绳 item_length 2023
-759 玩具推车 item_length_width_height 2023
-760 雪地鞋夹板 item_length_width 2023
-761 拖车挂接装置盖 item_depth_width_height 2023
-762 变压器 item_depth_width_height 2023
-763 垃圾压缩机 item_depth_width_height 2023
-764 旅行用衣袋 item_length_width_height 2023
-765 调谐器 item_length_width_height 2023
-766 唱盘 item_length_width_height 2023
-767 镊子 item_length_width 2023
-768 双向无线电设备 item_depth_width_height 2023
-769 雨伞 item_width_height 2023
-770 不间断电源 item_depth_width_height 2023
-771 多功能皮套袋 item_length_width_height 2023
-772 多功能刀 item_length 2023
-773 多功能磁体 item_length_width_thickness 2023
-774 多功能海绵 item_length_width_thickness 2023
-775 食品真空封口机 item_length_width_height 2023
-776 汽车座椅包 item_length_width_height 2023
-777 车顶行李箱 item_length_width_height 2023
-778 汽车遮阳板 item_length_width 2023
-779 汽车模具 item_length_width 2023
-780 车辆扫描工具 item_length_width_height 2023
-781 视频卡 item_length_width 2023
-782 视频光盘播放器 item_length_width_height 2023
-783 视频投影仪 item_length_width_height 2023
-784 虚拟现实头盔 item_depth_width_height 2023
-785 饲养箱 item_length_width_height 2023
-786 录音机 item_depth_width_height 2023
-787 束腰带 item_length_width 2023
-788 腰包 item_length_width_height 2023
-789 助行架 item_depth_width_height 2023
-790 手杖 item_width_height 2023
-791 墙板 item_width_height 2023
-792 漂流设备 item_length_width 2023
-793 热水器 item_width_height 2023
-794 水泵 item_length_width_height 2023
-795 武器箱 item_length_width_height 2023
-796 气象站 item_depth_width_height 2023
-797 挡风雨条 item_length_width 2023
-798 配重盘 item_diameter_thickness 2023
-799 哑铃架 item_depth_width_height 2023
-800 举重腰带 item_length_width 2023
-801 轮切机 item_length_width 2023
-802 轮椅 item_depth_width_height 2023
-803 打蛋器 item_length_width 2023
-804 风车 item_width_height 2023
-805 雨刮片 item_length 2023
-806 有线 cable.length 2023
-807 剥线器 item_length_width 2023
-808 无线音频适配器 item_length_width_height 2023
-809 无线信号转发器 item_depth_width_height 2023
-810 工作台 item_depth_width_height 2023
-811 扳手 Item_length 2023
-812 腕垫 item_length_width 2023
-813 书写板 item_width_height 2023
-814 书写用纸 item_length_width 2023
-815 纱线 item_length 2023
-816 悠悠球 item_length_width 2023
+
+| 编号 | 商品类型 | 新属性 | 完成年份 |
+| --- | --- | --- | --- |
+| 1 | 地毯 | item_length_width | 2021 |
+| 2 | 枕头 | item_length_width | 2021 |
+| 3 | 枕套 | item_length_width | 2021 |
+| 4 | 地毯保护垫 | item_length_width | 2021 |
+| 5 | 毛毯 | item_length_width | 2021 |
+| 6 | 窗帘 | item_length_width | 2021 |
+| 7 | 遮光帘 | item_length_width | 2021 |
+| 8 | 家用镜子 | item_length_width | 2021 |
+| 9 | 灯 | item_depth_width_height | 2021 |
+| 10 | 搁板 | item_depth_width_height | 2021 |
+| 11 | 椅子 | item_depth_width_height | 2021 |
+| 12 | 办公桌 | item_depth_width_height | 2021 |
+| 13 | 储藏柜 | item_depth_width_height | 2021 |
+| 14 | 梳妆台 | item_depth_width_height | 2021 |
+| 15 | 长椅 | item_depth_width_height | 2021 |
+| 16 | 工具四轮车 | item_depth_width_height | 2021 |
+| 17 | 储物抽屉 | item_depth_width_height | 2021 |
+| 18 | 搁物架 | item_depth_width_height | 2021 |
+| 19 | 花盆 | item_depth_width_height | 2021 |
+| 20 | 凳子 | item_depth_width_height | 2021 |
+| 21 | 软垫凳 | item_depth_width_height | 2021 |
+| 22 | 沙发 | item_depth_width_height | 2021 |
+| 23 | 床头板 | item_width_height | 2021 |
+| 24 | 屏风 | item_width_height | 2021 |
+| 25 | 床垫 | item_length_width_thickness | 2021 |
+| 26 | 充气床垫 | item_length_width_thickness | 2021 |
+| 27 | 床 | item_length_width_height | 2021 |
+| 28 | 床架 | item_length_width_height | 2021 |
+| 29 | 婴儿床 | item_length_width_height | 2021 |
+| 30 | 桌子 | item_depth_width_height | 2021 |
+| 31 | 毛巾架 | item_length_width_height | 2022 |
+| 32 | 整理包 | item_depth_width_height | 2022 |
+| 33 | 炉灶面 | item_depth_width_height | 2022 |
+| 34 | 洗碗机 | item_depth_width_height | 2022 |
+| 35 | 电灯 | item_length_width_height | 2022 |
+| 36 | 小雕像 | item_length_width_height | 2022 |
+| 37 | 冰柜 | item_depth_width_height | 2022 |
+| 38 | 家具罩 | item_depth_width_height | 2022 |
+| 39 | 灯具 | item_length_width_height | 2022 |
+| 40 | 冰箱 | item_depth_width_height | 2022 |
+| 41 | 扬声器 | item_depth_width_height | 2022 |
+| 42 | 花瓶 | item_length_width_height | 2022 |
+| 43 | 抽油烟机 | item_depth_width_height | 2022 |
+| 44 | 桌布 | item_length_width | 2022 |
+| 45 | 艺术墙 | item_length_width | 2022 |
+| 46 | 宠物床垫 | item_length_width_thickness | 2022 |
+| 47 | 帐篷 | item_length_width_height | 2022 |
+| 48 | 蹦床 | item_length_width_height | 2022 |
+| 49 | 梯子 | item_width_height | 2022 |
+| 50 | 灯罩 | item_width_height | 2022 |
+| 51 | 3D 打印机 | item_depth_width_height | 2022 |
+| 52 | 空调 | item_depth_width_height | 2022 |
+| 53 | 冷风机 | item_depth_width_height | 2022 |
+| 54 | 空气炸锅 | item_depth_width_height | 2022 |
+| 55 | 空气净化器 | item_depth_width_height | 2022 |
+| 56 | 动物笼舍 | item_depth_width_height | 2022 |
+| 57 | 香薰喷雾器 | item_length_width_height | 2022 |
+| 58 | 画架 | item_depth_width_height | 2022 |
+| 59 | 人工栽培植物 | item_depth_width_height | 2022 |
+| 60 | 人造树 | item_depth_width_height | 2022 |
+| 61 | 烟灰缸 | item_length_width_height | 2022 |
+| 62 | 雨篷 | item_depth_width_height | 2022 |
+| 63 | 婴儿背带 | item_depth_width_height | 2022 |
+| 64 | 背包 | item_depth_width_height | 2022 |
+| 65 | 烤盘 | item_depth_width_height | 2022 |
+| 66 | 烧烤烤架 | item_depth_width_height | 2022 |
+| 67 | 篮子 | item_depth_width_height | 2022 |
+| 68 | 懒人沙发 | item_depth_width_height | 2022 |
+| 69 | 血压计 | item_length_width_thickness | 2022 |
+| 70 | 阅读支架 | item_depth_width_height | 2022 |
+| 71 | 书挡 | item_depth_width_height | 2022 |
+| 72 | 瓶架 | item_depth_width_height | 2022 |
+| 73 | 面包机 | item_depth_width_height | 2022 |
+| 74 | 烛台 | item_length_width_height | 2022 |
+| 75 | 焙盘 | item_depth_width_height | 2022 |
+| 76 | 电锯 | item_length_width_height | 2022 |
+| 77 | 挂衣架 | item_depth_width_height | 2022 |
+| 78 | 咖啡机 | item_depth_width_height | 2022 |
+| 79 | 堆肥桶 | item_length_width_height | 2022 |
+| 80 | 烹饪锅 | item_depth_width_height | 2022 |
+| 81 | 化妆箱 | item_length_width_height | 2022 |
+| 82 | 厨房台面炉灶 | item_depth_width_height | 2022 |
+| 83 | 厨房台面煎烤用具 | item_depth_width_height | 2022 |
+| 84 | 厨房操作台烤箱 | item_depth_width_height | 2022 |
+| 85 | 杯托 | item_length_width_height | 2022 |
+| 86 | 窗帘固定装置 | item_width | 2022 |
+| 87 | 油炸锅 | item_depth_width_height | 2022 |
+| 88 | 除湿器 | item_depth_width_height | 2022 |
+| 89 | 电钻 | item_length_width_height | 2022 |
+| 90 | 晾衣架 | item_depth_width_height | 2022 |
+| 91 | 旅行包 | item_length_width_height | 2022 |
+| 92 | 电风扇 | item_depth_width_height | 2022 |
+| 93 | 电水壶 | item_length_width_height | 2022 |
+| 94 | 发电机 | item_length_width_height | 2022 |
+| 95 | 椭圆机 | item_depth_width_height | 2022 |
+| 96 | 烧烤炉 | item_depth_width_height | 2022 |
+| 97 | 壁炉 | item_depth_width_height | 2022 |
+| 98 | 健身椅 | item_depth_width_height | 2022 |
+| 99 | 手电筒 | item_depth_width_height | 2022 |
+| 100 | 破壁机 | item_depth_width_height | 2022 |
+| 101 | 食品搅拌器 | item_depth_width_height | 2022 |
+| 102 | 食品加工机 | item_depth_width_height | 2022 |
+| 103 | 食品混合器 | item_length_width_height | 2022 |
+| 104 | 食品切片器 | item_length_width_height | 2022 |
+| 105 | 食物存储容器 | item_length_width_height | 2022 |
+| 106 | 家具腿 | item_height_thickness | 2022 |
+| 107 | 吹风机 | item_depth_width_height | 2022 |
+| 108 | 加湿器 | item_depth_width_height | 2022 |
+| 109 | 暖通空调空气过滤器 | item_length_width_thickness | 2022 |
+| 110 | 制冰机 | item_depth_width_height | 2022 |
+| 111 | 香插 | item_length_width_thickness | 2022 |
+| 112 | 婴幼儿汽车安全座椅 | item_depth_width_height | 2022 |
+| 113 | 熨衣板 | item_length_width_height | 2022 |
+| 114 | 珠宝首饰储物盒 | item_depth_width_height | 2022 |
+| 115 | 榨汁机 | item_depth_width_height | 2022 |
+| 116 | 卡拉 OK 机 | item_depth_width_height | 2022 |
+| 117 | 磨刀器 | item_length_width_height | 2022 |
+| 118 | 电脑折叠桌 | item_depth_width_height | 2022 |
+| 119 | 脏衣物收纳筐 | item_length_width_height | 2022 |
+| 120 | 割草机 | item_depth_width_height | 2022 |
+| 121 | 邮箱 | item_depth_width_height | 2022 |
+| 122 | 梳妆台 | item_depth_width_height | 2022 |
+| 123 | 按摩器 | item_length_width_height | 2022 |
+| 124 | 微波炉 | item_depth_width_height | 2022 |
+| 125 | 储钱罐 | item_length_width_height | 2022 |
+| 126 | 显示器 | item_depth_width_height | 2022 |
+| 127 | 乐器扩音器 | item_depth_width_height | 2022 |
+| 128 | 车载摄像机 | item_depth_width_height | 2022 |
+| 129 | 碎纸机 | item_depth_width_height | 2022 |
+| 130 | 宠物活动设施 | item_length_width_height | 2022 |
+| 131 | 便携炉 | item_length_width_height | 2022 |
+| 132 | 便携式工具箱 | item_length_width_height | 2022 |
+| 133 | 便携式净水器 | item_depth_width_height | 2022 |
+| 134 | 压力锅 | item_depth_width_height | 2022 |
+| 135 | 高压清洗机 | item_length_width_height | 2022 |
+| 136 | 打印机 | item_depth_width_height | 2022 |
+| 137 | 按压泵头 | item_length_width_height | 2022 |
+| 138 | 沙袋 | Item_width_height | 2022 |
+| 139 | 收音机 | item_length_width_height | 2022 |
+| 140 | 斜坡道板 | item_length_width_height | 2022 |
+| 141 | 电饭煲 | item_depth_width_height | 2022 |
+| 142 | 扫地机器人 | item_length_width_height | 2022 |
+| 143 | 划船机 | item_depth_width_height | 2022 |
+| 144 | 保险箱 | item_depth_width_height | 2022 |
+| 145 | 锯 | item_length_width_height | 2022 |
+| 146 | 雕塑 | item_depth_width_height | 2022 |
+| 147 | 缝纫机 | item_depth_width_height | 2022 |
+| 148 | 水槽 | item_depth_width_height | 2022 |
+| 149 | 慢炖锅 | item_depth_width_height | 2022 |
+| 150 | 肥皂盒 | item_length_width | 2022 |
+| 151 | 小型取暖器 | item_depth_width_height | 2022 |
+| 152 | 运动球门 | item_depth_width_height | 2022 |
+| 153 | 独立式流媒体播放器 | item_length_width_height | 2022 |
+| 154 | 固定式自行车 | item_depth_width_height | 2022 |
+| 155 | 梯凳 | item_depth_width_height | 2022 |
+| 156 | 储物盒 | item_length_width_height | 2022 |
+| 157 | 储物架 | item_depth_width_height | 2022 |
+| 158 | 炉灶水壶 | item_depth_width_height | 2022 |
+| 159 | 秋千 | item_depth_width_height | 2022 |
+| 160 | 茶壶 | item_depth_width_height | 2022 |
+| 161 | 望远镜 | item_depth_width_height | 2022 |
+| 162 | 计时器 | item_depth_width_height | 2022 |
+| 163 | 烤面包机 | item_depth_width_height | 2022 |
+| 164 | 牙刷架 | item_length_width_height | 2022 |
+| 165 | 大手提袋 | item_length_width_height | 2022 |
+| 166 | 玩偶 | item_length_width_height | 2022 |
+| 167 | 玩具枪 | item_length_width_height | 2022 |
+| 168 | 垃圾桶 | item_length_width_height | 2022 |
+| 169 | 跑步机 | item_depth_width_height | 2022 |
+| 170 | 圣诞树顶星 | item_depth_width_height | 2022 |
+| 171 | 无人机 | item_length_width_height | 2022 |
+| 172 | 真空过滤器 | item_length_width_height | 2022 |
+| 173 | 车辆保险杠 | item_depth_width_height | 2022 |
+| 174 | 车载安全摄像头 | item_length_width_height | 2022 |
+| 175 | 钱包 | item_depth_width_height | 2022 |
+| 176 | 洗衣机 | item_depth_width_height | 2022 |
+| 177 | 洗衣烘干一体机 | item_depth_width_height | 2022 |
+| 178 | 饮水机 | item_depth_width_height | 2022 |
+| 179 | 净水装置 | item_length_width_height | 2022 |
+| 180 | 洒水壶 | item_depth_width_height | 2022 |
+| 181 | 相框 | item_length_width | 2022 |
+| 182 | 软木告示板 | item_length_width | 2022 |
+| 183 | 餐垫 | item_length_width | 2022 |
+| 184 | 泳池盖 | item_length_width | 2022 |
+| 185 | 强化艺术面 | item_length_width | 2022 |
+| 186 | 屏幕保护膜 | item_length_width | 2022 |
+| 187 | 淋浴头 | item_length_width | 2022 |
+| 188 | 标牌 | item_length_width | 2022 |
+| 189 | 睡袋 | item_length_width | 2022 |
+| 190 | 修边机 | item_length_width | 2022 |
+| 191 | 模板 | item_length_width | 2022 |
+| 192 | 厕纸架 | item_length_width | 2022 |
+| 193 | 马桶座圈 | item_length_width | 2022 |
+| 194 | 毛巾 | item_length_width | 2022 |
+| 195 | 墙纸 | item_length_width | 2022 |
+| 196 | 窗膜 | item_length_width | 2022 |
+| 197 | 兽笼 | item_length_width_height | 2022 |
+| 198 | 宠物旅行袋 | item_length_width_height | 2022 |
+| 199 | 婴儿座椅 | item_depth_width_height | 2022 |
+| 200 | 婴儿摇篮 | item_length_width_height | 2022 |
+| 201 | 床栏 | Item_width_height | 2022 |
+| 202 | 床裙 | item_length_width_height | 2022 |
+| 203 | 清洁刷 | item_length_width_height | 2022 |
+| 204 | 浴盆 | item_length_width_height | 2022 |
+| 205 | 制冰格 | item_length_width_height | 2022 |
+| 206 | 猫砂盆 | item_length_width_height | 2022 |
+| 207 | 宠物喂食器 | item_length_width_height | 2022 |
+| 208 | 宠物围栏 | item_length_width_height | 2022 |
+| 209 | 宠物玩具 | item_length_width_height | 2022 |
+| 210 | 便携自立式帐篷 | item_length_width_height | 2022 |
+| 211 | 橡皮图章 | item_length_width_height | 2022 |
+| 212 | 运动桌上游戏 | item_length_width_height | 2022 |
+| 213 | 储物包 | item_length_width_height | 2022 |
+| 214 | 婴儿推车 | item_length_width_height | 2022 |
+| 215 | 游泳池 | item_length_width_height | 2022 |
+| 216 | 托盘 | item_length_width_height | 2022 |
+| 217 | 真空吸尘器 | item_length_width_height | 2022 |
+| 218 | 电池充电器 | item_depth_width_height | 2022 |
+| 219 | 椅垫 | item_length_width_thickness | 2022 |
+| 220 | 运动垫 | item_length_width_thickness | 2022 |
+| 221 | 机械打火机 | item_length_width_thickness | 2022 |
+| 222 | 移动电源 | item_length_width_thickness | 2022 |
+| 223 | 三角金属架 | item_length_width_thickness | 2022 |
+| 224 | 车垫 | item_length_width_thickness | 2022 |
+| 225 | 瓶子 | item_width_height | 2022 |
+| 226 | 蜡烛 | item_width_height | 2022 |
+| 227 | 衣架 | item_width_height | 2022 |
+| 228 | 餐具碗 | item_width_height | 2022 |
+| 229 | 餐盘 | item_length_width_thickness | 2022 |
+| 230 | 可穿戴式电脑 | item_dimensions | 2022 |
+| 231 | 磅秤 | item_length_width_height | 2022 |
+| 232 | 野生动物喂食器 | item_length_width_height | 2022 |
+| 233 | 风铃 | item_length_width_height | 2022 |
+| 234 | 砂纸 | item_length_width | 2022 |
+| 235 | 烘焙垫 | item_length_width | 2022 |
+| 236 | 横幅 | item_length_width | 2022 |
+| 237 | 浴缸浴垫 | item_length_width | 2022 |
+| 238 | 时钟 | item_width_height | 2022 |
+| 239 | 餐巾 | item_length_width | 2022 |
+| 240 | 砧板 | item_length_width_thickness | 2022 |
+| 241 | 装饰枕套 | item_length_width | 2022 |
+| 242 | 数字相框 | item_length_width | 2022 |
+| 243 | 杯垫 | item_length_width | 2022 |
+| 244 | 哑铃 | item_length_width | 2022 |
+| 245 | 被套 | item_length_width | 2022 |
+| 246 | 床罩 | item_length_width | 2022 |
+| 247 | 床单 | item_length_width | 2022 |
+| 248 | 家具衬垫 | item_length_width | 2022 |
+| 249 | 煎板 | item_length_width_thickness | 2022 |
+| 250 | 烫发器 | item_length_width | 2022 |
+| 251 | 吊床 | item_length_width | 2022 |
+| 252 | 挂衣杆 | item_length_width | 2022 |
+| 253 | 五金把手 | item_length_width | 2022 |
+| 254 | 纸巾架 | item_length_width | 2022 |
+| 255 | 水杯 | item_width_height | 2022 |
+| 256 | 铸铁锅 | item_width_height | 2022 |
+| 257 | 食品储物袋 | item_width_height | 2022 |
+| 258 | 食物过滤器 | item_length_width_height | 2022 |
+| 259 | 罐子 | item_width_height | 2022 |
+| 260 | 铸铁锅 | item_width_height | 2022 |
+| 261 | 投影屏幕 | item_width_height | 2022 |
+| 262 | 保温瓶 | item_width_height | 2022 |
+| 263 | 自行车车轮 | rim.width | 2022 |
+| 264 | BRACELET | item_length | 2022 |
+| 265 | 桶 | item_length_width_height | 2022 |
+| 266 | 相机镜头 | item_diameter_length | 2022 |
+| 267 | 自行车轮胎 | item_width | 2022 |
+| 268 | 门 | item_width_height_thickness | 2022 |
+| 269 | 家具地板保护垫 | item_length_width_thickness | 2022 |
+| 270 | 熏香 | item_length | 2022 |
+| 271 | 菜刀 | item_length | 2022 |
+| 272 | 刀 | item_length | 2022 |
+| 273 | 床垫套 | item_length_width_depth | 2022 |
+| 274 | 笔记本电脑 | item_length_width_thickness | 2022 |
+| 275 | 宠物门 | item_width_height_thickness | 2022 |
+| 276 | 煎炒锅 | item_width_diameter_height | 2022 |
+| 277 | 灯串 | cable.length | 2022 |
+| 278 | 手提箱 | item_length_width_height | 2022 |
+| 279 | 平板电脑 | item_length_width_thickness | 2022 |
+| 280 | 电视机 | item_depth_width_height | 2022 |
+| 281 | 温度计 | item_length | 2022 |
+| 282 | 圣诞树裙 | item_diameter | 2022 |
+| 283 | 车胎 | item_diameter | 2022 |
+| 284 | 车轮 | rim.width | 2022 |
+| 285 | 花环 | item_depth_width_height | 2022 |
+| 286 | 冰淇淋机 | item_length_width_height | 2023 |
+| 287 | 瓮 | item_length_width_height | 2023 |
+| 288 | 蚊帐 | item_length_width_height | 2023 |
+| 289 | 动物饮水机 | item_length_width_height | 2023 |
+| 290 | 抗疲劳地垫 | item_length_width_thickness | 2023 |
+| 291 | 尿布更换垫 | item_length_width_height | 2023 |
+| 292 | 天线 | item_length_width_height | 2023 |
+| 293 | 装饰性胶纸 | item_length_width | 2023 |
+| 294 | 龙头 | item_depth_width_height | 2023 |
+| 295 | 吸奶器 | item_length_width_height | 2023 |
+| 296 | 婴儿车防护罩 | item_length_width_height | 2023 |
+| 297 | 烘干机 | item_depth_width_height | 2023 |
+| 298 | 烤箱 | item_depth_width_height | 2023 |
+| 299 | 范围 | item_depth_width_height | 2023 |
+| 300 | 沙箱 | item_length_width_height | 2023 |
+| 301 | 健腹器 | item_length_width_height | 2023 |
+| 302 | 研磨刷 | item_length_width | 2023 |
+| 303 | 砂轮 | item_length_width | 2023 |
+| 304 | 基督降临节日历 | item_length_width | 2023 |
+| 305 | 瞄准镜瞄准镜 | item_diameter_length | 2023 |
+| 306 | 空气压缩机 | item_length_width_height | 2023 |
+| 307 | 气枪 | item_length_width_height | 2023 |
+| 308 | 气枪子弹 | item_width_height | 2023 |
+| 309 | 气泵 | item_length_width_height | 2023 |
+| 310 | 报警器 | item_length_width_height | 2023 |
+| 311 | 锚杆桩 | item_length_width | 2023 |
+| 312 | 动物颈圈 | item_length_width | 2023 |
+| 313 | 动物栖木 | item_length_width_height | 2023 |
+| 314 | 动物阶梯 | item_depth_width_height | 2023 |
+| 315 | 艺术涂料纸 | item_length_width | 2023 |
+| 316 | CD 播放机 | item_length_width_height | 2023 |
+| 317 | 音频 MIDI 控制器 | item_depth_width_height | 2023 |
+| 318 | 音频 MIDI 接口 | item_depth_width_height | 2023 |
+| 319 | 音频混音控制台 | item_depth_width_height | 2023 |
+| 320 | 汽车蓄电池 | item_depth_width_height | 2023 |
+| 321 | 汽车钥匙套 | item_length_width | 2023 |
+| 322 | AV 接收器 | item_depth_width_height | 2023 |
+| 323 | AV 信号切换器 | item_depth_width_height | 2023 |
+| 324 | 斧 | item_length_width | 2023 |
+| 325 | 婴儿浴盆 | item_length_width_height | 2023 |
+| 326 | 婴儿学步车 | item_length_width_height | 2023 |
+| 327 | 背景幕布 | item_length_width | 2023 |
+| 328 | 证件卡套 | item_length_width | 2023 |
+| 329 | 烘焙石 | item_length_width_thickness | 2023 |
+| 330 | 平衡板 | item_length_width_height | 2023 |
+| 331 | 条码识读器 | item_depth_width_height | 2023 |
+| 332 | 杠铃 | item_length_width | 2023 |
+| 333 | 篮球框 | item_depth_width_height | 2023 |
+| 334 | 浴枕 | item_length_width | 2023 |
+| 335 | 沐浴安全座椅 | item_depth_width_height | 2023 |
+| 336 | 浴缸 | item_length_width_height | 2023 |
+| 337 | 床板 | item_length_width_thickness | 2023 |
+| 338 | 水杯隔热套 | item_width_height | 2023 |
+| 339 | 自行车篮 | item_depth_width_height | 2023 |
+| 340 | 自行车车铃 | item_length_width_height | 2023 |
+| 341 | 自行车刹车片 | item_length_width_height | 2023 |
+| 342 | 自行车货架 | item_length_width_height | 2023 |
+| 343 | 自行车变速器 | item_length_width_height | 2023 |
+| 344 | 自行车灯 | item_width_height | 2023 |
+| 345 | 自行车脚踏板 | item_length_width | 2023 |
+| 346 | 自行车车座 | item_length_width_height | 2023 |
+| 347 | 自行车车座杆 | item_width_height | 2023 |
+| 348 | 自行车拖车 | item_length_width_height | 2023 |
+| 349 | 自行车训练台 | item_length_width_height | 2023 |
+| 350 | 活页夹分隔片 | item_length_width | 2023 |
+| 351 | 双筒望远镜 | item_length_width | 2023 |
+| 352 | 生物识别监控器 | item_length_width_height | 2023 |
+| 353 | 有刃食物削皮机 | item_length_width | 2023 |
+| 354 | 空白账簿 | item_length_width | 2023 |
+| 355 | 血氧监测仪 | item_length_width_height | 2023 |
+| 356 | 喷灯 | item_length_width_height | 2023 |
+| 357 | 棋盘游戏 | item_length_width | 2023 |
+| 358 | 身体定位器 | item_length_width | 2023 |
+| 359 | 书套 | item_length_width | 2023 |
+| 360 | 书签 | item_length_width | 2023 |
+| 361 | 开瓶器 | item_length_width | 2023 |
+| 362 | 瓶塞 | item_width_height | 2023 |
+| 363 | 拳击手套 | item_length_width | 2023 |
+| 364 | 乳贴 | item_length_width | 2023 |
+| 365 | 扫帚 | item_width_height | 2023 |
+| 366 | 泡泡机 | item_length_width_height | 2023 |
+| 367 | 弹力绳索 | item_length_width | 2023 |
+| 368 | 黄油碟 | item_length_width_height | 2023 |
+| 369 | 扎线带 | item_length | 2023 |
+| 370 | 蛋糕装饰 | item_width_height | 2023 |
+| 371 | 计算器 | item_length_width | 2023 |
+| 372 | 日历 | item_width_height | 2023 |
+| 373 | 健身支架 | item_length_width_height | 2023 |
+| 374 | 摄像机 | item_depth_width_height | 2023 |
+| 375 | 摄影摄像 | item_depth_width_height | 2023 |
+| 376 | 相机连续照明 | item_length_width_height | 2023 |
+| 377 | 数码相机 | item_depth_width_height | 2023 |
+| 378 | 相机外壳 | item_depth_width_height | 2023 |
+| 379 | 像机闪光灯 | item_depth_width_height | 2023 |
+| 380 | 相机镜头滤镜 | item_length_width | 2023 |
+| 381 | 相机舞台灯光修改器 | item_depth_width_height | 2023 |
+| 382 | 相机支架 | item_depth_width_height | 2023 |
+| 383 | 相机三脚架 | item_length | 2023 |
+| 384 | 启罐器 | item_width_height | 2023 |
+| 385 | 罐装空气 | item_width_height | 2023 |
+| 386 | 电容器 | item_width_height | 2023 |
+| 387 | 钩环 | item_length_width | 2023 |
+| 388 | 汽化器 | item_depth_width_height | 2023 |
+| 389 | 卡片文件夹 | item_length_width | 2023 |
+| 390 | 卡片纸 | item_length_width | 2023 |
+| 391 | 吊货网 | item_length_width | 2023 |
+| 392 | 行李吊带 | item_length_width | 2023 |
+| 393 | 地毯内饰清洗机 | item_depth_width_height | 2023 |
+| 394 | 地毯 | item_length_width | 2023 |
+| 395 | 手提箱包 | item_length_width_height | 2023 |
+| 396 | 手机钱包式保护壳 | item_width_height | 2023 |
+| 397 | 链锯链 | item_length | 2023 |
+| 398 | 凿刀 | item_length_width | 2023 |
+| 399 | 筷子 | item_length | 2023 |
+| 400 | 烟盒 | item_depth_width_height | 2023 |
+| 401 | 电路断路器 | item_depth_width_height | 2023 |
+| 402 | 水池 | item_length_width_height | 2023 |
+| 403 | 攀缘植物支撑结构 | item_width_height | 2023 |
+| 404 | 写字板夹 | item_length_width | 2023 |
+| 405 | 晒衣夹 | item_length | 2023 |
+| 406 | 零钱包 | item_depth_width_height | 2023 |
+| 407 | 可折叠游戏结构 | item_depth_width_height | 2023 |
+| 408 | 收藏卡 | item_length_width | 2023 |
+| 409 | 电脑机箱 | item_depth_width_height | 2023 |
+| 410 | 计算机硬盘或存储器 | item_length_width_thickness | 2023 |
+| 411 | 电脑处理器 | item_length_width | 2023 |
+| 412 | 容器盖子 | item_length_width | 2023 |
+| 413 | 控制器 | item_length_width_height | 2023 |
+| 414 | 线槽盖 | item_length_width | 2023 |
+| 415 | 绳索 | item_length | 2023 |
+| 416 | 去核器 | item_length_width | 2023 |
+| 417 | 台面式食品蒸笼 | item_length_width_height | 2023 |
+| 418 | 工艺箍架 | item_length_width | 2023 |
+| 419 | 工艺包装纸 | item_length_width | 2023 |
+| 420 | 压线钳 | item_length_width | 2023 |
+| 421 | 窗帘架 | item_length_width | 2023 |
+| 422 | 自行车电脑 | item_length_width_height | 2023 |
+| 423 | 自行车轮胎内胎 | item_diameter | 2023 |
+| 424 | 飞镖 | item_width_height | 2023 |
+| 425 | 装饰性花球 | item_length_width | 2023 |
+| 426 | 装饰性丝带 | item_length_width | 2023 |
+| 427 | 装饰性标志 | item_length_width | 2023 |
+| 428 | 桌垫 | item_length_width | 2023 |
+| 429 | 冲压式裁剪机 | item_depth_width_height | 2023 |
+| 430 | 数字视频录像机 | item_length_width_height | 2023 |
+| 431 | 游标卡尺 | item_length_width | 2023 |
+| 432 | 指拨开关 | item_length_width_height | 2023 |
+| 433 | 圆盘磨床工具 | item_length_width_height | 2023 |
+| 434 | 干盘垫 | item_length_width | 2023 |
+| 435 | 展示相册 | item_length_width_height | 2023 |
+| 436 | 显示器外壳 | item_length_width_height | 2023 |
+| 437 | 一次性失禁表面保护器 | item_length_width | 2023 |
+| 438 | 一次性尿布 | item_length_width | 2023 |
+| 439 | 玩偶服装 | item_length_width | 2023 |
+| 440 | 闭门器 | item_length_width_height | 2023 |
+| 441 | 门挡 | item_length_width_height | 2023 |
+| 442 | 挡风条 | item_length_width_thickness | 2023 |
+| 443 | 下水道滤网 | item_width_height | 2023 |
+| 444 | 抽屉滑轨 | item_length_width_thickness | 2023 |
+| 445 | 印式长围巾 | item_length_width | 2023 |
+| 446 | 除尘工具 | item_length_width | 2023 |
+| 447 | 松紧带 | item_length_width | 2023 |
+| 448 | 电动食品研磨机 | item_length_width_height | 2023 |
+| 449 | 电灯笼 | item_length_width_height | 2023 |
+| 450 | 电动马达 | item_width_height | 2023 |
+| 451 | 配电板 | item_length_width_height | 2023 |
+| 452 | 电气外罩 | item_depth_width_height | 2023 |
+| 453 | 电源插座 | item_length_width | 2023 |
+| 454 | 电插头 | item_depth_width_height | 2023 |
+| 455 | 电子书阅读器 | item_length_width_thickness | 2023 |
+| 456 | 线缆 | cable.length | 2023 |
+| 457 | 电子元件风扇 | item_length_width_height | 2023 |
+| 458 | 电子元件端子 | item_length_width_height | 2023 |
+| 459 | 电子设备冷却板 | item_length_width_height | 2023 |
+| 460 | 电子设备扩展坞 | item_length_width_height | 2023 |
+| 461 | 电子设备面板 | item_width_height | 2023 |
+| 462 | 电子设备保护膜 | item_length_width | 2023 |
+| 463 | 电子寻物防丢器 | item_length_width_thickness | 2023 |
+| 464 | 电子学习玩具 | item_length_width | 2023 |
+| 465 | 电子信号转换器 | item_length_width | 2023 |
+| 466 | 电子线缆 | cable.length | 2023 |
+| 467 | 电击武器 | item_length_width | 2023 |
+| 468 | 铣刀 | item_length_width | 2023 |
+| 469 | 发动机空气滤清器 | item_length_width_height | 2023 |
+| 470 | 发动机排气管 | item_length_width | 2023 |
+| 471 | 信封 | item_length_width | 2023 |
+| 472 | 脱毛器 | item_length_width | 2023 |
+| 473 | 橡皮擦 | item_length_width | 2023 |
+| 474 | 健身带 | item_length_width | 2023 |
+| 475 | 瑜伽砖 | item_length_width_thickness | 2023 |
+| 476 | 健身器材 | item_depth_width_height | 2023 |
+| 477 | 运动台阶平台 | item_length_width_height | 2023 |
+| 478 | 弹力带 | item_length_width | 2023 |
+| 479 | 织物 | item_length_width | 2023 |
+| 480 | 防护面罩 | item_length_width | 2023 |
+| 481 | 面巾纸架 | item_length_width_height | 2023 |
+| 482 | 螺丝刀套装 | item_length | 2023 |
+| 483 | 水龙头起泡器 | item_diameter_length | 2023 |
+| 484 | 栅栏板 | item_length_width | 2023 |
+| 485 | 文件夹 | item_length_width_thickness | 2023 |
+| 486 | 防火帘 | item_length_width | 2023 |
+| 487 | 钓鱼线 | item_diameter_length | 2023 |
+| 488 | 渔网 | item_length_width | 2023 |
+| 489 | 钓鱼绕线轮 | item_length_width_height | 2023 |
+| 490 | 钓鱼竿 | rod.length | 2023 |
+| 491 | 鱼竿架 | item_depth_width_height | 2023 |
+| 492 | 呼啦圈 | item_length_width | 2023 |
+| 493 | 健身踏步机 | item_length_width_height | 2023 |
+| 494 | 火焰芯 | item_length | 2023 |
+| 495 | 闪存卡 | item_length_width | 2023 |
+| 496 | 闪存 | item_length_width | 2023 |
+| 497 | 烧瓶 | item_depth_width_height | 2023 |
+| 498 | 围嘴 | item_length_width | 2023 |
+| 499 | 食物脱水机 | item_depth_width_height | 2023 |
+| 500 | 食物刨丝器 | item_length_width_height | 2023 |
+| 501 | 食物捣碎机 | item_length_width | 2023 |
+| 502 | 食物粉碎机 | item_length_width_height | 2023 |
+| 503 | 食品或饮料加热器 | item_length_width_height | 2023 |
+| 504 | 勺子 | item_length_width | 2023 |
+| 505 | 食物烟熏机 | item_depth_width_height | 2023 |
+| 506 | 锅铲 | item_length_width | 2023 |
+| 507 | 食品包装纸 | item_length_width | 2023 |
+| 508 | 脚架 | item_length_width_height | 2023 |
+| 509 | 叉子 | item_length_width | 2023 |
+| 510 | 钢笔 | item_length_width_height | 2023 |
+| 511 | 独立式遮栅 | item_length_width_height | 2023 |
+| 512 | 燃油灯 | item_length_width_height | 2023 |
+| 513 | 漏斗 | item_width_height | 2023 |
+| 514 | 家具护角 | item_length_width_thickness | 2023 |
+| 515 | 家具脚垫 | item_length_width | 2023 |
+| 516 | 掷骰游戏 | item_length_width | 2023 |
+| 517 | 游戏设备围栏 | item_length_width_height | 2023 |
+| 518 | 花园围栏 | item_length_width | 2023 |
+| 519 | 园艺剪 | item_length_width | 2023 |
+| 520 | 花环 | item_length | 2023 |
+| 521 | 压蒜器 | item_length_width | 2023 |
+| 522 | 服装保护罩 | item_length_width_height | 2023 |
+| 523 | 蒸汽挂烫机 | item_length_width_height | 2023 |
+| 524 | 烟气火灾报警器 | item_depth_width_height | 2023 |
+| 525 | 地球仪 | item_diameter | 2023 |
+| 526 | 血糖仪 | item_length_width_height | 2023 |
+| 527 | 高尔夫球杆 | item_length_width_height | 2023 |
+| 528 | 高尔夫球棒袋 | item_length_width_height | 2023 |
+| 529 | 高尔夫球棒盖 | item_length_width | 2023 |
+| 530 | 高尔夫练习垫 | item_length_width_thickness | 2023 |
+| 531 | GPS 或导航系统 | item_length_width_height | 2023 |
+| 532 | 电脑数位板 | item_length_width | 2023 |
+| 533 | 重力式饮料分配机 | item_length_width_height | 2023 |
+| 534 | 温室 | item_length_width_height | 2023 |
+| 535 | 贺卡 | item_length_width | 2023 |
+| 536 | 烤炉盖 | item_length_width_height | 2023 |
+| 537 | 吉他效果装置 | item_length_width_height | 2023 |
+| 538 | 吉他 | item_length_width_height | 2023 |
+| 539 | 枪握把 | item_length_width_thickness | 2023 |
+| 540 | 枪背带 | item_length_width | 2023 |
+| 541 | 橡胶锤 | item_length_width_thickness | 2023 |
+| 542 | 缝衣针 | item_length | 2023 |
+| 543 | 手指握力练习器 | item_length_width | 2023 |
+| 544 | 防烫握柄 | item_length_width | 2023 |
+| 545 | 把手 | item_length_width | 2023 |
+| 546 | 自行车把手握柄 | item_length_width | 2023 |
+| 547 | 扶手 | item_length_width | 2023 |
+| 548 | 硬盘框 | item_length_width_height | 2023 |
+| 549 | 铰链五金件 | item_length_width | 2023 |
+| 550 | 刨机 | item_length_width_height | 2023 |
+| 551 | 钉书针 | item_length_width | 2023 |
+| 552 | 软管 | item_length_width | 2023 |
+| 553 | 助听放大器 | item_length_width | 2023 |
+| 554 | 热压机 | item_length_width_height | 2023 |
+| 555 | 散热片 | item_length_width_height | 2023 |
+| 556 | 加热炉 | item_depth_width_height | 2023 |
+| 557 | 酒壶 | item_depth_width_height | 2023 |
+| 558 | 打孔器 | item_length_width_height | 2023 |
+| 559 | 热熔胶枪 | item_length_width_height | 2023 |
+| 560 | 湿度计 | item_width_height | 2023 |
+| 561 | 暖通空调控制恒温器 | item_depth_width_height | 2023 |
+| 562 | 水袋包 | item_width_height | 2023 |
+| 563 | 冷藏箱 | item_depth_width_height | 2023 |
+| 564 | 浸入式加热器 | item_length | 2023 |
+| 565 | 室内种植围护 | item_length_width_height | 2023 |
+| 566 | 充气弹床 | item_length_width_height | 2023 |
+| 567 | 输入鼠标 | item_length_width | 2023 |
+| 568 | 输入输出卡 | item_length_width_height | 2023 |
+| 569 | 保温材料 | item_length_width | 2023 |
+| 570 | 熨烫转印设计 | item_length_width | 2023 |
+| 571 | 物品容器 | item_length_width_height | 2023 |
+| 572 | 跳绳 | item_length | 2023 |
+| 573 | 跳线起动器 | item_depth_width_height | 2023 |
+| 574 | 皮艇 | item_length_width_height | 2023 |
+| 575 | 壶铃 | item_length_width_height | 2023 |
+| 576 | 键盘乐器 | item_depth_width_height | 2023 |
+| 577 | 键盘 | item_length_width_height | 2023 |
+| 578 | 键盘键帽 | item_length_width_height | 2023 |
+| 579 | 滑板车 | item_length_width_height | 2023 |
+| 580 | 风筝 | item_length_width | 2023 |
+| 581 | 刀架 | item_depth_width_height | 2023 |
+| 582 | 编织针 | item_length | 2023 |
+| 583 | 印式无领长袖衫 | Item_length | 2023 |
+| 584 | 层压机 | item_length_width_height | 2023 |
+| 585 | 吹落叶机 | item_length_width_height | 2023 |
+| 586 | 皮带 | item_length_width | 2023 |
+| 587 | 水平仪 | item_length_width | 2023 |
+| 588 | 车牌附件 | item_length_width | 2023 |
+| 589 | 灯箱 | item_length_width_height | 2023 |
+| 590 | 灯泡 | item_width_height | 2023 |
+| 591 | 灯泡底座 | item_width_height | 2023 |
+| 592 | 去球器 | item_depth_width_height | 2023 |
+| 593 | 液体燃料容器 | item_width_height | 2023 |
+| 594 | 散装宝石 | item_length_width_height | 2023 |
+| 595 | 放大镜 | item_length_width | 2023 |
+| 596 | 服装人体模型 | item_length_width_height | 2023 |
+| 597 | 手动食品磨粉机 | item_length_width_height | 2023 |
+| 598 | 地图 | item_length_width | 2023 |
+| 599 | 物料搬运车 | item_length_width_height | 2023 |
+| 600 | 食物容器 | item_length_width_height | 2023 |
+| 601 | 传动带 | item_length_width | 2023 |
+| 602 | 存储卡读卡器 | item_length_width_height | 2023 |
+| 603 | 金属探测器 | item_length_width_height | 2023 |
+| 604 | 显微镜 | item_length_width_height | 2023 |
+| 605 | 奶泡器 | item_width_height | 2023 |
+| 606 | 迷你玩具屋 | item_length_width_height | 2023 |
+| 607 | 调制解调器 | item_length_width_height | 2023 |
+| 608 | 拖把 | item_length_width_height | 2023 |
+| 609 | 主板 | item_length_width_height | 2023 |
+| 610 | 运动检测器 | item_depth_width_height | 2023 |
+| 611 | 鼠标垫 | item_length_width | 2023 |
+| 612 | MP3 播放器 | item_depth_width_height | 2023 |
+| 613 | 多端口集线器 | item_length_width_height | 2023 |
+| 614 | 乐器弦线 | cable.length | 2023 |
+| 615 | 指甲锉 | item_length_width_height | 2023 |
+| 616 | 指甲锉刀 | item_length_width | 2023 |
+| 617 | 餐巾架 | item_depth_width_height | 2023 |
+| 618 | 餐巾环 | item_width_height | 2023 |
+| 619 | 鼻吸器 | item_width_height | 2023 |
+| 620 | 导航罗盘 | item_length_width | 2023 |
+| 621 | 网罩 | item_length_width | 2023 |
+| 622 | 网络接口控制器适配器 | item_length_width_height | 2023 |
+| 623 | 网络交换机 | item_length_width_height | 2023 |
+| 624 | 网络路由器 | item_length_width_height | 2023 |
+| 625 | O 型圈 | item_diameter | 2023 |
+| 626 | 光驱 | item_length_width_height | 2023 |
+| 627 | 外置马达 | item_depth_width_height | 2023 |
+| 628 | 外屋 | item_depth_width_height | 2023 |
+| 629 | 包装材料 | item_length_width | 2023 |
+| 630 | 桨叶式冲浪板 | item_length_width | 2023 |
+| 631 | 调色板油灰刀 | item_length_width | 2023 |
+| 632 | 回形针夹 | item_length_width | 2023 |
+| 633 | 意大利面制作机 | item_length_width_height | 2023 |
+| 634 | 涂油刷 | item_length_width | 2023 |
+| 635 | 削铅笔器 | item_depth_width_height | 2023 |
+| 636 | 防治虫鼠装置 | item_length_width_height | 2023 |
+| 637 | 宠物座位 | item_length_width_height | 2023 |
+| 638 | 相纸 | item_length_width | 2023 |
+| 639 | 野餐篮 | item_depth_width_height | 2023 |
+| 640 | 枕芯保护套 | item_length_width | 2023 |
+| 641 | 皮纳塔 | item_length_width_height | 2023 |
+| 642 | 裱花头 | item_width_height | 2023 |
+| 643 | 计划 | item_length_width | 2023 |
+| 644 | 滑梯 | item_length_width_height | 2023 |
+| 645 | 玩具工作台 | item_depth_width_height | 2023 |
+| 646 | 游戏房 | item_depth_width_height | 2023 |
+| 647 | 琴拨 | item_length_width | 2023 |
+| 648 | 钳子 | item_length_width | 2023 |
+| 649 | 堵头 | item_width_height | 2023 |
+| 650 | 抛光工具 | item_depth_width_height | 2023 |
+| 651 | 游泳池吸尘器 | item_length_width_height | 2023 |
+| 652 | 爆米花机 | item_length_width_height | 2023 |
+| 653 | 便携式电子设备臂带 | item_length_width_height | 2023 |
+| 654 | 便携式视频光盘播放机 | item_length_width_height | 2023 |
+| 655 | 锅垫 | item_length_width | 2023 |
+| 656 | 电源线 | item_length | 2023 |
+| 657 | 逆变器 | item_length_width_height | 2023 |
+| 658 | 电源插板 | item_length_width | 2023 |
+| 659 | 预装电子游戏机 | item_length_width_height | 2023 |
+| 660 | 缝纫机压脚 | item_length_width | 2023 |
+| 661 | 打印复印纸 | item_length_width | 2023 |
+| 662 | 引体向上横杆 | item_width_height | 2023 |
+| 663 | 泵喷雾器 | item_width_height | 2023 |
+| 664 | 推拉玩具 | item_length_width_height | 2023 |
+| 665 | 拼图 | item_length_width | 2023 |
+| 666 | 雷达检测器 | item_length_width_height | 2023 |
+| 667 | 耙子 | item_width_height | 2023 |
+| 668 | 测距仪 | item_length_width_height | 2023 |
+| 669 | 往复式绿篱修剪机 | item_length_width_height | 2023 |
+| 670 | 娱乐用球 | item_diameter | 2023 |
+| 671 | 遥控器 | item_length_width_height | 2023 |
+| 672 | 防护口罩 | item_depth_width_height | 2023 |
+| 673 | 可重复使用的失禁表面保护器 | item_length_width | 2023 |
+| 674 | 可骑式玩具 | item_length_width_height | 2023 |
+| 675 | 烤盘 | item_length_width_height | 2023 |
+| 676 | 滚子链 | item_diameter_length | 2023 |
+| 677 | 卷烟纸 | item_length_width | 2023 |
+| 678 | 擀面杖 | item_length_width | 2023 |
+| 679 | 旋转托盘 | item_diameter | 2023 |
+| 680 | 电动刳刨工具 | item_width_height | 2023 |
+| 681 | 尺子 | item_length_width | 2023 |
+| 682 | 安全面罩带扩展器 | item_length_width | 2023 |
+| 683 | 磨砂机 | item_length_width_height | 2023 |
+| 684 | 印式纱丽服 | Item_length | 2023 |
+| 685 | 卫星接收器 | item_depth_width_height | 2023 |
+| 686 | 锯条 | item_length_width | 2023 |
+| 687 | 扫描仪 | item_depth_width_height | 2023 |
+| 688 | 围巾 | item_length_width | 2023 |
+| 689 | 剪刀 | item_length_width | 2023 |
+| 690 | 机械螺丝刀 | item_length_width_height | 2023 |
+| 691 | 调料研磨器 | item_width_height | 2023 |
+| 692 | 自平衡电动车 | item_length_width_height | 2023 |
+| 693 | 自卫喷雾 | item_width_height | 2023 |
+| 694 | 缝纫机针 | item_length | 2023 |
+| 695 | 遮阳篷 | item_length_width | 2023 |
+| 696 | 利器处理容器 | item_depth_width_height | 2023 |
+| 697 | 烤盘 | item_length_width_height | 2023 |
+| 698 | 平板纸 | item_length_width | 2023 |
+| 699 | 护胫 | item_length_width | 2023 |
+| 700 | 运输箱 | item_length_width_height | 2023 |
+| 701 | 鞋袋 | item_length_width_depth | 2023 |
+| 702 | 鞋撑 | item_length_width | 2023 |
+| 703 | 淋浴房 | item_depth_width_height | 2023 |
+| 704 | SIM 卡 | item_length_width | 2023 |
+| 705 | 单板计算机 | item_length_width_height | 2023 |
+| 706 | 串肉扦 | item_length | 2023 |
+| 707 | 雪橇 | item_length_width_height | 2023 |
+| 708 | 床席 | item_length_width_thickness | 2023 |
+| 709 | 按扣 | item_length_width | 2023 |
+| 710 | 除雪机 | item_depth_width_height | 2023 |
+| 711 | 雪花球 | item_length_width_height | 2023 |
+| 712 | 雪地鞋 | item_length_width | 2023 |
+| 713 | 苏打水制作机 | item_depth_width_height | 2023 |
+| 714 | 耕作机 | item_depth_width_height | 2023 |
+| 715 | 太阳能板 | item_length_width_height | 2023 |
+| 716 | 烙铁 | item_length | 2023 |
+| 717 | 焊接站 | item_depth_width_height | 2023 |
+| 718 | 声纳测深仪 | item_length_width_height | 2023 |
+| 719 | 声卡 | item_length_width_height | 2023 |
+| 720 | 低温慢煮机 | item_depth_width_height | 2023 |
+| 721 | 扬声器放大器支架 | item_length_width_height | 2023 |
+| 722 | 顶部旋转玩具 | item_width_height | 2023 |
+| 723 | 戏水池 | item_length_width_height | 2023 |
+| 724 | 勺子 | item_length_width | 2023 |
+| 725 | 勺子架 | item_length_width | 2023 |
+| 726 | 运动球棒 | item_length_width | 2023 |
+| 727 | 运动板滑雪 | item_length_width | 2023 |
+| 728 | 运动器材包箱 | item_length_width_height | 2023 |
+| 729 | 运动口罩 | item_length_width | 2023 |
+| 730 | 体育项目用网 | item_length_width | 2023 |
+| 731 | 运动球拍 | item_length_width | 2023 |
+| 732 | 喷雾瓶 | item_width_height | 2023 |
+| 733 | 橡胶清洁刷 | item_width_height | 2023 |
+| 734 | 钉书机 | item_length_width | 2023 |
+| 735 | 蒸汽清洁器 | item_depth_width_height | 2023 |
+| 736 | 听诊器 | item_length_width | 2023 |
+| 737 | 储物粘合剂 | item_length_width | 2023 |
+| 738 | 防尘罩 | item_length_width_depth | 2023 |
+| 739 | 力量训练机 | item_depth_width_height | 2023 |
+| 740 | 游泳脚蹼 | item_length_width | 2023 |
+| 741 | 剑 | item_length_width | 2023 |
+| 742 | 注射器 | item_length_width | 2023 |
+| 743 | 系统柜 | item_depth_width_height | 2023 |
+| 744 | 桌巾 | item_length_width | 2023 |
+| 745 | 标签分配器 | item_length_width_height | 2023 |
+| 746 | 卷尺 | item_length_width | 2023 |
+| 747 | 油布 | item_length_width | 2023 |
+| 748 | 系统托盘 | item_length_width | 2023 |
+| 749 | 泡茶器 | item_length_width | 2023 |
+| 750 | 临时门 | item_width_height | 2023 |
+| 751 | 接线端子 | item_width_height | 2023 |
+| 752 | 熨斗 | item_length_width | 2023 |
+| 753 | 螺纹螺杆和螺柱 | item_diameter_length | 2023 |
+| 754 | 瓷砖 | item_length_width | 2023 |
+| 755 | 马桶 | item_depth_width_height | 2023 |
+| 756 | 通用食物夹 | item_length_width | 2023 |
+| 757 | 工具腰带 | item_width_height | 2023 |
+| 758 | 拖曳运动绳 | item_length | 2023 |
+| 759 | 玩具推车 | item_length_width_height | 2023 |
+| 760 | 雪地鞋夹板 | item_length_width | 2023 |
+| 761 | 拖车挂接装置盖 | item_depth_width_height | 2023 |
+| 762 | 变压器 | item_depth_width_height | 2023 |
+| 763 | 垃圾压缩机 | item_depth_width_height | 2023 |
+| 764 | 旅行用衣袋 | item_length_width_height | 2023 |
+| 765 | 调谐器 | item_length_width_height | 2023 |
+| 766 | 唱盘 | item_length_width_height | 2023 |
+| 767 | 镊子 | item_length_width | 2023 |
+| 768 | 双向无线电设备 | item_depth_width_height | 2023 |
+| 769 | 雨伞 | item_width_height | 2023 |
+| 770 | 不间断电源 | item_depth_width_height | 2023 |
+| 771 | 多功能皮套袋 | item_length_width_height | 2023 |
+| 772 | 多功能刀 | item_length | 2023 |
+| 773 | 多功能磁体 | item_length_width_thickness | 2023 |
+| 774 | 多功能海绵 | item_length_width_thickness | 2023 |
+| 775 | 食品真空封口机 | item_length_width_height | 2023 |
+| 776 | 汽车座椅包 | item_length_width_height | 2023 |
+| 777 | 车顶行李箱 | item_length_width_height | 2023 |
+| 778 | 汽车遮阳板 | item_length_width | 2023 |
+| 779 | 汽车模具 | item_length_width | 2023 |
+| 780 | 车辆扫描工具 | item_length_width_height | 2023 |
+| 781 | 视频卡 | item_length_width | 2023 |
+| 782 | 视频光盘播放器 | item_length_width_height | 2023 |
+| 783 | 视频投影仪 | item_length_width_height | 2023 |
+| 784 | 虚拟现实头盔 | item_depth_width_height | 2023 |
+| 785 | 饲养箱 | item_length_width_height | 2023 |
+| 786 | 录音机 | item_depth_width_height | 2023 |
+| 787 | 束腰带 | item_length_width | 2023 |
+| 788 | 腰包 | item_length_width_height | 2023 |
+| 789 | 助行架 | item_depth_width_height | 2023 |
+| 790 | 手杖 | item_width_height | 2023 |
+| 791 | 墙板 | item_width_height | 2023 |
+| 792 | 漂流设备 | item_length_width | 2023 |
+| 793 | 热水器 | item_width_height | 2023 |
+| 794 | 水泵 | item_length_width_height | 2023 |
+| 795 | 武器箱 | item_length_width_height | 2023 |
+| 796 | 气象站 | item_depth_width_height | 2023 |
+| 797 | 挡风雨条 | item_length_width | 2023 |
+| 798 | 配重盘 | item_diameter_thickness | 2023 |
+| 799 | 哑铃架 | item_depth_width_height | 2023 |
+| 800 | 举重腰带 | item_length_width | 2023 |
+| 801 | 轮切机 | item_length_width | 2023 |
+| 802 | 轮椅 | item_depth_width_height | 2023 |
+| 803 | 打蛋器 | item_length_width | 2023 |
+| 804 | 风车 | item_width_height | 2023 |
+| 805 | 雨刮片 | item_length | 2023 |
+| 806 | 有线 | cable.length | 2023 |
+| 807 | 剥线器 | item_length_width | 2023 |
+| 808 | 无线音频适配器 | item_length_width_height | 2023 |
+| 809 | 无线信号转发器 | item_depth_width_height | 2023 |
+| 810 | 工作台 | item_depth_width_height | 2023 |
+| 811 | 扳手 | Item_length | 2023 |
+| 812 | 腕垫 | item_length_width | 2023 |
+| 813 | 书写板 | item_width_height | 2023 |
+| 814 | 书写用纸 | item_length_width | 2023 |
+| 815 | 纱线 | item_length | 2023 |
+| 816 | 悠悠球 | item_length_width | 2023 |
 
 ---
 

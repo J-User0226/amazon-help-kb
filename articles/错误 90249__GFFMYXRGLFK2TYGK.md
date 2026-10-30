@@ -1,9 +1,9 @@
 ---
-title: 错误 90249
+title: "错误 90249"
 doc_id: GFFMYXRGLFK2TYGK
 source: https://sellercentral.amazon.com/help/hub/reference/external/GFFMYXRGLFK2TYGK
 language: zh-CN
-fetched_at: 2026-10-30 13:33:58
+fetched_at: 2026-10-30T13:33:58
 ---
 
 # 错误 90249

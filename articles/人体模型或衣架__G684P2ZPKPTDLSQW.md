@@ -1,9 +1,9 @@
 ---
-title: 人体模型或衣架
+title: "人体模型或衣架"
 doc_id: G684P2ZPKPTDLSQW
 source: https://sellercentral.amazon.com/help/hub/reference/external/G684P2ZPKPTDLSQW
 language: zh-CN
-fetched_at: 2026-10-30 13:19:58
+fetched_at: 2026-10-30T13:19:58
 ---
 
 # 人体模型或衣架
@@ -16,7 +16,9 @@ fetched_at: 2026-10-30 13:19:58
 
 您可以应用 12 个简单的技巧来优化您的服装分类图片。要了解如何优化，请观看以下视频：
 
-允许 不允许
+| 允许 | 不允许 |
+| --- | --- |
+| | |
 
 ---
 

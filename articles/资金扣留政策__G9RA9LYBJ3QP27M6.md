@@ -1,9 +1,9 @@
 ---
-title: 资金扣留政策
+title: "资金扣留政策"
 doc_id: G9RA9LYBJ3QP27M6
 source: https://sellercentral.amazon.com/help/hub/reference/external/G9RA9LYBJ3QP27M6
 language: zh-CN
-fetched_at: 2026-10-30 13:26:42
+fetched_at: 2026-10-30T13:26:42
 ---
 
 # 资金扣留政策

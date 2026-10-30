@@ -1,9 +1,9 @@
 ---
-title: 管理亚马逊 Haul 库存
+title: "管理亚马逊 Haul 库存"
 doc_id: GTXFLW6Z5AQ3HG33
 source: https://sellercentral.amazon.com/help/hub/reference/external/GTXFLW6Z5AQ3HG33
 language: zh-CN
-fetched_at: 2026-10-30 13:57:01
+fetched_at: 2026-10-30T13:57:01
 ---
 
 # 管理亚马逊 Haul 库存

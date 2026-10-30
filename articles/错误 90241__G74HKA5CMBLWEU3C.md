@@ -1,9 +1,9 @@
 ---
-title: 错误 90241
+title: "错误 90241"
 doc_id: G74HKA5CMBLWEU3C
 source: https://sellercentral.amazon.com/help/hub/reference/external/G74HKA5CMBLWEU3C
 language: zh-CN
-fetched_at: 2026-10-30 13:21:58
+fetched_at: 2026-10-30T13:21:58
 ---
 
 # 错误 90241

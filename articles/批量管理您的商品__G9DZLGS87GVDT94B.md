@@ -1,9 +1,9 @@
 ---
-title: 批量管理您的商品
+title: "批量管理您的商品"
 doc_id: G9DZLGS87GVDT94B
 source: https://sellercentral.amazon.com/help/hub/reference/external/G9DZLGS87GVDT94B
 language: zh-CN
-fetched_at: 2026-10-30 13:25:59
+fetched_at: 2026-10-30T13:25:59
 ---
 
 # 批量管理您的商品

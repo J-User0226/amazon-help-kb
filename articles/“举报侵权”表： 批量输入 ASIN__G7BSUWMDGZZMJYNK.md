@@ -1,9 +1,9 @@
 ---
-title: “举报侵权”表： 批量输入 ASIN
+title: "“举报侵权”表： 批量输入 ASIN"
 doc_id: G7BSUWMDGZZMJYNK
 source: https://sellercentral.amazon.com/help/hub/reference/external/G7BSUWMDGZZMJYNK
 language: zh-CN
-fetched_at: 2026-10-30 13:22:33
+fetched_at: 2026-10-30T13:22:33
 ---
 
 # “举报侵权”表： 批量输入 ASIN
@@ -31,6 +31,7 @@ B01DFKC2SO, B01J24C0TI, https://www.amazon.com/Amazon-Echo-Show-Alexa-Enabled-Bl
 **注意： **同一商品在不同的亚马逊商城（如 amazon.co.uk 和 amazon.com）可能会具有不同的 ASIN。确保您输入的 ASIN 在您登录的商城中有效。
 
 ## 常见问题
+
 **什么是 ASIN？**
 
 亚马逊商品编码 (ASIN) 由 10 个字母或数字组成，是用于在亚马逊商城中标识商品的唯一编码。您可以在商品的商品详情页面上找到 ASIN。

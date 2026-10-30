@@ -1,9 +1,9 @@
 ---
-title: 错误 90246
+title: "错误 90246"
 doc_id: GL4ECYG4WRBG7CAD
 source: https://sellercentral.amazon.com/help/hub/reference/external/GL4ECYG4WRBG7CAD
 language: zh-CN
-fetched_at: 2026-10-30 13:41:55
+fetched_at: 2026-10-30T13:41:55
 ---
 
 # 错误 90246

@@ -1,9 +1,9 @@
 ---
-title: 商品属性
+title: "商品属性"
 doc_id: GV9JMNE2KU3A8K4X
 source: https://sellercentral.amazon.com/help/hub/reference/external/GV9JMNE2KU3A8K4X
 language: zh-CN
-fetched_at: 2026-10-30 14:02:56
+fetched_at: 2026-10-30T14:02:56
 ---
 
 # 商品属性

@@ -1,9 +1,9 @@
 ---
-title: 全球开店体验常见问题
+title: "全球开店体验常见问题"
 doc_id: GNFDSYQP7TR7SPUW
 source: https://sellercentral.amazon.com/help/hub/reference/external/GNFDSYQP7TR7SPUW
 language: zh-CN
-fetched_at: 2026-10-30 13:45:37
+fetched_at: 2026-10-30T13:45:37
 ---
 
 # 全球开店体验常见问题
@@ -35,9 +35,13 @@ fetched_at: 2026-10-30 13:45:37
 增值税是指：
 
 - 向涉及生产和分销商品的所有商业活动征收的一般税费。
+
 - 消费税。
+
 - 按价格的一定比例收取，这意味着在生产和分销链的每个阶段都可以看到实际的税负。
+
 - 增值税通过分批支付原则分段收取，其中应纳税人（即注册增值税的公司）用他们对其经营活动中提供的购买商品征收的增值税减去他们支付的税费金额。此机制可确保无论涉及多少笔交易，税费均保持持平。
+
 - 由商品的卖家（即“应纳税人”）向税收机构支付，但实际上是作为价格的一部分，由买家支付给卖家。因此，它是一项间接税。
 
 点击[此处](https://sellercentral.amazon.com/help/hub/reference/G201468410#mnd_2jc_jcb__SECTION_0CB71DE23C06497F85C7711296449BB7)和[此处](https://sell.amazon.co.uk/learn/vat-resources?ref_=asuk_soa_rd&)了解更多信息。
@@ -54,12 +58,17 @@ fetched_at: 2026-10-30 13:45:37
 
 在提交增值税登记号之前，请务必仔细阅读以下信息。只有在您确认并同意下列所有条件后，才可以提交增值税登记号。
 
-1. 您向亚马逊提交的增值税登记号归您经营并且您通过它在亚马逊商城销售商品的公司所有。
-2. 通过您的亚马逊卖家账户进行的所有交易，都是由与您向亚马逊提交的增值税登记号关联的公司进行的业务相关交易。
-3. 您提供的增值税登记号和所有其他信息应真实、准确且有效，如有任何变更，您应立即更新亚马逊所掌握的任何此类信息。
-4. 亚马逊将会按照《亚马逊服务商业解决方案协议》和《隐私声明》中所列的条款收集、处理和维护包括您的增值税登记号在内的所有信息。
-5. 亚马逊有权在法律允许的范围内，要求您提供其他信息，或者向政府机构获取其他信息，以确认您卖家账户信息（包括您的增值税登记号）的有效性。您同意按我们的要求提供任何此类信息。
-6. 如果您提供的增值税登记号经确认无效，则亚马逊有权向您收取任何适用的未付增值税税费。您正式授权亚马逊从您的信用卡中扣除任何此类未付的增值税税费。
+- 您向亚马逊提交的增值税登记号归您经营并且您通过它在亚马逊商城销售商品的公司所有。
+
+- 通过您的亚马逊卖家账户进行的所有交易，都是由与您向亚马逊提交的增值税登记号关联的公司进行的业务相关交易。
+
+- 您提供的增值税登记号和所有其他信息应真实、准确且有效，如有任何变更，您应立即更新亚马逊所掌握的任何此类信息。
+
+- 亚马逊将会按照《亚马逊服务商业解决方案协议》和《隐私声明》中所列的条款收集、处理和维护包括您的增值税登记号在内的所有信息。
+
+- 亚马逊有权在法律允许的范围内，要求您提供其他信息，或者向政府机构获取其他信息，以确认您卖家账户信息（包括您的增值税登记号）的有效性。您同意按我们的要求提供任何此类信息。
+
+- 如果您提供的增值税登记号经确认无效，则亚马逊有权向您收取任何适用的未付增值税税费。您正式授权亚马逊从您的信用卡中扣除任何此类未付的增值税税费。
 
 点击[此处](https://sellercentral.amazon.com/help/hub/reference/G201190460?mons_sel_mkid=amzn1.mp.o.ATVPDKIKX0DER&mons_sel_mcid=amzn1.merchant.o.A2LTWHHSMI1VIV&mons_sel_persist=true)了解更多信息。
 
@@ -82,9 +91,13 @@ fetched_at: 2026-10-30 13:45:37
 带有 CE 标志的商品配备一位欧盟负责人。除医疗器械、民用爆炸物以及某些升降机和索道装置外，所有带有 CE 标志的商品均要遵守此规则。
 
 根据法规 (EU) 2019/1020（即“市场监管法规”）的规定，所有商品均需贴有欧盟负责人标签。以下人员或实体可以成为欧盟负责人：
+
 - 制造商或品牌（如果是在欧盟境内注册公司）。
+
 - 在欧盟境内注册公司的进口商。
+
 - 在欧盟境内注册公司的授权代表，由制造商或品牌以书面形式指定为负责人。
+
 - 在欧盟境内注册公司的配送服务提供商。
 
 点击[此处](https://sellercentral.amazon.com/learn/courses?moduleId=12e70ed6-3b8f-46bc-93b6-9732325bec3d&ref_=su_refined_search&modLanguage=English)和[此处](https://sellercentral.amazon.com/learn/courses?moduleId=ea354642-d9d4-4b4f-9c51-59bea8c82da6&ref_=su_refined_search&modLanguage=English)了解更多信息。
@@ -103,9 +116,11 @@ fetched_at: 2026-10-30 13:45:37
 
 如果您想要在全球销售商品，可以通过以下商品信息工具免费翻译您的本地内容。所有这些方式均可提供同样的结果。
 
-1. 如果您必须要一次翻译一件商品，请使用“编辑商品”页面部分。
-2. 如果您必须要翻译所有目录或进行批量翻译，请使用库存文件模板（全球 MS Excel 模板）。
-3. [建立国际商品信息](https://sellercentral.amazon.com/gp/help/external/G202121570)工具。
+- 如果您必须要一次翻译一件商品，请使用“编辑商品”页面部分。
+
+- 如果您必须要翻译所有目录或进行批量翻译，请使用库存文件模板（全球 MS Excel 模板）。
+
+- [建立国际商品信息](https://sellercentral.amazon.com/gp/help/external/G202121570)工具。
 
 点击[此处](https://sellercentral.amazon.com/help/hub/reference/GR8R2FYNJNE574VJ?mons_sel_mkid=amzn1.mp.o.A1F83G8C2ARO7P&mons_sel_mcid=amzn1.merchant.o.ANU6KV5T0NRWQ&mons_sel_persist=true&mons_sel_dc=AAAAWVMQSBYAAABDREXZ9g%3D%3D&mons_redirect=stck_reroute&ignore_selection_changed=true)了解更多信息。
 
@@ -120,7 +135,9 @@ fetched_at: 2026-10-30 13:45:37
 您必须按照以下步骤操作：
 
 - 至少选择两个欧盟的亚马逊商城来储存您的商品。我们将负责重新分配，不收取额外费用。
+
 - 在所有要求的欧盟的亚马逊商城中发布具有相同 SKU 的亚马逊物流商品： 德国、法国、意大利和西班牙。
+
 - 符合您的商品合规性要求。
 
 点击[此处](https://sell.amazon.co.uk/fulfilment-by-amazon/fba-europe)了解更多信息。
@@ -130,7 +147,9 @@ fetched_at: 2026-10-30 13:45:37
 亚马逊在卖家平台中提供了一个服务提供商网络，您可以通过它联系值得信赖的当地提供商，在全球销售商品。点击[此处](https://sellercentral.amazon.com/tsba?ref_=sc_spn_talst_hp&sellFrom=US&sellIn=US)，了解完整的提供商网络。以下是您可以合作的一些位于中国的服务提供商（[威凯](https://sellercentral.amazon.com/gspn/provider-details/Compliance/c7abd959-d634-4b6e-9a0f-36ca7d798944?ref_=sc_gspn_colst_codt-c7abd959&localeSelection=en_US&sellFrom=CN&sellIn=US)、[慧选](https://sellercentral.amazon.com/tsba/provider-details/Compliance/259c0890-284e-4324-bb3d-271ef3db13bd?ref_=sc_spn_colst_codt-259c0890&localeSelection=en_US&sellFrom=US&sellIn=US)、[宁波海关](https://sellercentral.amazon.com/gspn/provider-details/Compliance/0dd42e46-45f6-497e-8513-6df6e0de39d4?ref_=sc_gspn_colst_codt-0dd42e46&localeSelection=en_US&sellFrom=CN&sellIn=US)、[NBTS](https://sellercentral.amazon.com/gspn/provider-details/Compliance/4fdb12a2-4c62-4e34-a63f-c3873b9e7ef2?ref_=sc_gspn_colst_codt-4fdb12a2&localeSelection=en_US&sellFrom=CN&sellIn=US)）或位于美国/英国的提供商（[GEE](https://sellercentral.amazon.com/tsba/provider-details/Compliance/17b3aaab-2ebc-4a99-b6d1-642d36f7b0e4?ref_=sc_spn_colst_codt-17b3aaab&localeSelection=en_US&sellFrom=UK&sellIn=UK)）。
 
 - 根据您的需求、位置和首选语言选择服务提供商。
+
 - 提交服务申请表。
+
 - 借助专业的销售帮助拓展您的业务。
 
 ---

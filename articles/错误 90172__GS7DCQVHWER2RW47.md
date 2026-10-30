@@ -1,9 +1,9 @@
 ---
-title: 错误 90172
+title: "错误 90172"
 doc_id: GS7DCQVHWER2RW47
 source: https://sellercentral.amazon.com/help/hub/reference/external/GS7DCQVHWER2RW47
 language: zh-CN
-fetched_at: 2026-10-30 13:50:26
+fetched_at: 2026-10-30T13:50:26
 ---
 
 # 错误 90172

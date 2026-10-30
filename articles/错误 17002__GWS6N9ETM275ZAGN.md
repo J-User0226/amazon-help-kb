@@ -1,9 +1,9 @@
 ---
-title: 错误 17002
+title: "错误 17002"
 doc_id: GWS6N9ETM275ZAGN
 source: https://sellercentral.amazon.com/help/hub/reference/external/GWS6N9ETM275ZAGN
 language: zh-CN
-fetched_at: 2026-10-30 14:10:51
+fetched_at: 2026-10-30T14:10:51
 ---
 
 # 错误 17002

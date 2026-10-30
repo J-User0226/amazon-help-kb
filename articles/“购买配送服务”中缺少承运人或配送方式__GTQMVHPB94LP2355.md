@@ -1,9 +1,9 @@
 ---
-title: “购买配送服务”中缺少承运人或配送方式
+title: "“购买配送服务”中缺少承运人或配送方式"
 doc_id: GTQMVHPB94LP2355
 source: https://sellercentral.amazon.com/help/hub/reference/external/GTQMVHPB94LP2355
 language: zh-CN
-fetched_at: 2026-10-30 13:54:31
+fetched_at: 2026-10-30T13:54:12
 ---
 
 # “购买配送服务”中缺少承运人或配送方式
@@ -11,32 +11,42 @@ fetched_at: 2026-10-30 13:54:31
 承运人和配送方式是否符合购买配送服务要求取决于多个因素。配送方式不符合要求的最常见原因是配送方式的送达日期晚于订单的承诺送达日期。有关更多信息，请参阅[使用购买配送服务](https://sellercentral.amazon.com/gp/help/external/200202220)。
 
 以下步骤将帮助您解决购买配送服务中配送方式或承运人不符合要求的问题。
-1. 如果以下配送方式不符合要求，请在购买配送服务中查看相关配送限制：
-  1. USPS Priority Cubic： 此配送方式有最大尺寸限制，请确认您的包裹低于其上限。请参阅 [USPS 配送服务和限制](https://sellercentral.amazon.com/gp/help/external/200204090)了解更多信息。
-  2. USPS Priority Flat Rate： 此配送方式有最大尺寸限制，请确认您的包裹低于其上限。请参阅 [USPS 配送服务和限制](https://sellercentral.amazon.com/gp/help/external/200204090)了解更多信息。
-  3. FedEx One Rate： 您必须在“购买配送服务首选项”中关联您的 FedEx 账户并使用 [FedEx One Rate 包装](https://sellercentral.amazon.com/gp/help/external/KNFZNQADBCUNX9C)配送包裹。如果您的包裹尺寸与 FedEx One Rate 包裹尺寸不符，则这些配送方式将不符合使用购买配送服务的要求。有关更多信息，请参阅[管理您的承运人账户](https://sellercentral.amazon.com/gp/help/external/G200785170)。
 
-2. 如果您通过卖家平台用户界面购买配送服务，请确认以下事项：
-  1. 输入包裹尺寸和重量后，当您点击“购买配送”用户界面中【已选配送服务】下的【查看所有选项】时，确认您的配送方式不可用。
-  2. 确认承运人已添加到[购买配送服务首选项](https://sellercentral.amazon.com/sbr/buyShippingPreferences)中的【承运人优先级】中。如果承运人具有优先级，则只有优先承运人符合要求，会显示在购买配送服务中。非优先承运人则不符合要求，不会显示在购买配送服务中。
-  3. 请确认购买配送服务[首选项](https://sellercentral.amazon.com/sbr/buyShippingPreferences)中的所有“发货地址”均包含电子邮件地址和电话号码。如果发货地址不包括电子邮件地址和电话号码，但承运人需要这些信息，则该承运人不符合要求，不会显示在购买配送服务中。
-  4. 在卖家平台中，查看与“不符合购买配送服务要求”的消息相关的以下其他操作。
+- 如果以下配送方式不符合要求，请在购买配送服务中查看相关配送限制：
 
-3. 不符合要求的消息 操作
-4. 此配送方式不适用于此订单。 有关更多信息，请参阅[“购买配送服务”如何运作？](https://sellercentral.amazon.com/gp/help/external/GLXKP5E6P6QTSSU8)
-5. 承运人不支持该“收货地址”。请选择其他配送方式。 购买配送服务会进行地址验证，但承运人不支持买家提供的地址。如果买家无法修改地址，请建议对方取消订单并重新购买或选择其他配送方式。
-6. “购买配送服务首选项”的“发货地址”详情中必须提供电话号码。 请参阅上面的第 2c 步。
-7. 不支持此“发货地址”。请查看“购买配送服务首选项”中的“发货地址”。 承运人不支持该发货地址，因为已在[购买配送服务首选项](https://sellercentral.amazon.com/sbr/buyShippingPreferences)中输入该地址，请更新发货地址或选择其他承运人。
-8. 购买配送服务首选项中的“发货地址”对应的电话号码无效。 [购买配送服务首选项](https://sellercentral.amazon.com/sbr/buyShippingPreferences)中的发货地址对应的电话号码格式错误，请更新电话号码。
-9. 根据购买配送服务首选项中的承运人优先级信息判断，并非首选承运人。 请参阅上面的第 2b 步。
-10. 此承运人无法配送至邮政信箱。请选择其他承运人。 某些承运人不会配送至邮政信箱，您必须从购买配送服务中选择其他承运人。
-11. 此承运人无法从邮政信箱取件。请选择其他承运人。 某些承运人无法从邮政信箱取件，您必须从购买配送服务中选择其他承运人。
-12. 包裹重量超过此配送方式允许的上限。 要了解更多信息，请参阅 [USPS](https://sellercentral.amazon.com/gp/help/external/200204090)、[FedEx](https://sellercentral.amazon.com/gp/help/external/G201276510)、[UPS](https://sellercentral.amazon.com/gp/help/external/G200785110)、[OnTrac](https://sellercentral.amazon.com/gp/help/external/3YDQYBJR85QFETF) 的承运人特定限制。
-13. 包裹尺寸超出此配送方式允许的上限。 要了解更多信息，请参阅 [USPS](https://sellercentral.amazon.com/gp/help/external/200204090)、[FedEx](https://sellercentral.amazon.com/gp/help/external/G201276510)、[UPS](https://sellercentral.amazon.com/gp/help/external/G200785110)、[OnTrac](https://sellercentral.amazon.com/gp/help/external/3YDQYBJR85QFETF) 的承运人特定限制。
-14. 出现未知错误，请重试。 出现一次性偶发错误，尝试通过购买配送服务重新购买配送服务应该能解决该问题。
-15. “发货日期”是过去的某个日期。请选择未来的某个日期作为“发货日期”。 您可以在购买“购买配送”用户界面的“发货日期”字段中点击相应日期，以便修改发货日期。
-16. 不符合营业时间要求 这是一个企业订单，因此已排除那些很有可能在收件人非营业时间送达的配送服务。您必须从购买配送服务中选择其他承运人或配送方式。
-17. 请参阅[购买配送服务](https://developer-docs.amazon.com/sp-api/docs/sp-api-seller-use-cases#buy-shipping)部分，了解如何通过销售伙伴 API 购买配送服务。
+- USPS Priority Cubic： 此配送方式有最大尺寸限制，请确认您的包裹低于其上限。请参阅 [USPS 配送服务和限制](https://sellercentral.amazon.com/gp/help/external/200204090)了解更多信息。
+
+- USPS Priority Flat Rate： 此配送方式有最大尺寸限制，请确认您的包裹低于其上限。请参阅 [USPS 配送服务和限制](https://sellercentral.amazon.com/gp/help/external/200204090)了解更多信息。
+
+- FedEx One Rate： 您必须在“购买配送服务首选项”中关联您的 FedEx 账户并使用 [FedEx One Rate 包装](https://sellercentral.amazon.com/gp/help/external/KNFZNQADBCUNX9C)配送包裹。如果您的包裹尺寸与 FedEx One Rate 包裹尺寸不符，则这些配送方式将不符合使用购买配送服务的要求。有关更多信息，请参阅[管理您的承运人账户](https://sellercentral.amazon.com/gp/help/external/G200785170)。
+
+- 如果您通过卖家平台用户界面购买配送服务，请确认以下事项：
+
+- 输入包裹尺寸和重量后，当您点击“购买配送”用户界面中【已选配送服务】下的【查看所有选项】时，确认您的配送方式不可用。
+
+- 确认承运人已添加到[购买配送服务首选项](https://sellercentral.amazon.com/sbr/buyShippingPreferences)中的【承运人优先级】中。如果承运人具有优先级，则只有优先承运人符合要求，会显示在购买配送服务中。非优先承运人则不符合要求，不会显示在购买配送服务中。
+
+- 请确认购买配送服务[首选项](https://sellercentral.amazon.com/sbr/buyShippingPreferences)中的所有“发货地址”均包含电子邮件地址和电话号码。如果发货地址不包括电子邮件地址和电话号码，但承运人需要这些信息，则该承运人不符合要求，不会显示在购买配送服务中。
+
+- 在卖家平台中，查看与“不符合购买配送服务要求”的消息相关的以下其他操作。
+
+| 不符合要求的消息 | 操作 |
+| --- | --- |
+| 此配送方式不适用于此订单。 | 有关更多信息，请参阅“购买配送服务”如何运作？ |
+| 承运人不支持该“收货地址”。请选择其他配送方式。 | 购买配送服务会进行地址验证，但承运人不支持买家提供的地址。如果买家无法修改地址，请建议对方取消订单并重新购买或选择其他配送方式。 |
+| “购买配送服务首选项”的“发货地址”详情中必须提供电话号码。 | 请参阅上面的第 2c 步。 |
+| 不支持此“发货地址”。请查看“购买配送服务首选项”中的“发货地址”。 | 承运人不支持该发货地址，因为已在购买配送服务首选项中输入该地址，请更新发货地址或选择其他承运人。 |
+| 购买配送服务首选项中的“发货地址”对应的电话号码无效。 | 购买配送服务首选项中的发货地址对应的电话号码格式错误，请更新电话号码。 |
+| 根据购买配送服务首选项中的承运人优先级信息判断，并非首选承运人。 | 请参阅上面的第 2b 步。 |
+| 此承运人无法配送至邮政信箱。请选择其他承运人。 | 某些承运人不会配送至邮政信箱，您必须从购买配送服务中选择其他承运人。 |
+| 此承运人无法从邮政信箱取件。请选择其他承运人。 | 某些承运人无法从邮政信箱取件，您必须从购买配送服务中选择其他承运人。 |
+| 包裹重量超过此配送方式允许的上限。 | 要了解更多信息，请参阅 USPS、FedEx、UPS、OnTrac 的承运人特定限制。 |
+| 包裹尺寸超出此配送方式允许的上限。 | 要了解更多信息，请参阅 USPS、FedEx、UPS、OnTrac 的承运人特定限制。 |
+| 出现未知错误，请重试。 | 出现一次性偶发错误，尝试通过购买配送服务重新购买配送服务应该能解决该问题。 |
+| “发货日期”是过去的某个日期。请选择未来的某个日期作为“发货日期”。 | 您可以在购买“购买配送”用户界面的“发货日期”字段中点击相应日期，以便修改发货日期。 |
+| 不符合营业时间要求 | 这是一个企业订单，因此已排除那些很有可能在收件人非营业时间送达的配送服务。您必须从购买配送服务中选择其他承运人或配送方式。 |
+
+- 请参阅[购买配送服务](https://developer-docs.amazon.com/sp-api/docs/sp-api-seller-use-cases#buy-shipping)部分，了解如何通过销售伙伴 API 购买配送服务。
 
 ---
 

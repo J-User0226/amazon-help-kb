@@ -1,9 +1,9 @@
 ---
-title: Tax Calculation Services Terms
+title: "Tax Calculation Services Terms"
 doc_id: G200787220
 source: https://sellercentral.amazon.com/help/hub/reference/external/G200787220
-language: zh-CN
-fetched_at: 2026-10-30 12:36:43
+language: en-US
+fetched_at: 2026-10-30T12:36:41
 ---
 
 # Tax Calculation Services Terms
@@ -22,7 +22,7 @@ The following terms apply to the tax calculation services Amazon makes available
 
 **Calculation of Refunds.** For products you fulfill, you are responsible for calculating refunds of all taxes and other transaction-based charges calculated through the tax calculation services and you will process them using functionality we make available through your seller account. For products we fulfill, we will calculate and process refunds of all taxes and other transaction-based charges calculated through the tax calculation services.
 
-**Tax Exemption.** You may be automatically enrolled in the [Amazon Tax-Exemption Program](https://sellercentral.amazon.com/gp/help/external/201641810). If you continue participation in this program, sales will be treated as tax exempt when purchased by customers who have enrolled and provided us with tax exemption information. Some transactions that are not or cannot be exempted at the time of purchase may be addressed through a post-order refund of taxes charged.
+**Tax Exemption.** You may be automatically enrolled in the [Amazon Tax-Exemption Program](https://sellercentral.amazon.com/gp/help/201641810). If you continue participation in this program, sales will be treated as tax exempt when purchased by customers who have enrolled and provided us with tax exemption information. Some transactions that are not or cannot be exempted at the time of purchase may be addressed through a post-order refund of taxes charged.
 
 **Calculation of Refunds for Exempt Transactions.** If you participate in ATEP and receive a customer request for a post-order tax-only refund for a seller-fulfilled order, you must communicate with the customer through buyer/seller messaging to determine the validity of their request. It is your responsibility to obtain, validate, and retain any necessary supporting documentation. If you determine the request is valid, you must process a refund for all taxes and other transaction-based charges calculated through the tax calculation services. If you decide not to grant a tax refund, you must inform the customer and provide your reason.
 
@@ -31,16 +31,23 @@ If you participate in ATEP and a customer seeks a post-order, tax-only refund re
 **Your Responsibilities.** You are solely responsible for your use of the tax calculation services, including ATEP. Your responsibilities include:
 
 - Understanding your obligation to calculate tax.
+
 - Selecting jurisdictions or optional custom rate assignments based on your obligation to calculate tax. If you assign a custom rate to calculate tax, you must in good faith set a rate that accurately reflects a jurisdiction’s actual sales or use tax rate.
+
 - Providing a valid tax registration number for each state or province where you have enabled calculation service.
+
 - Reviewing and determining the correct product tax code assignment for your products.
+
 - Maintaining documentation of all relevant information including documenting and paying all taxes remitted to the appropriate taxing authorities for your transactions.
+
 - Responding to customer requests for post-order tax-only refund requests, including reviewing supplied information and complying with all applicable laws and regulations related to tax-exempt transactions and tax calculations.
 
 Amazon disclaims all responsibility for your use of the tax calculation services. Except to the extent Amazon makes specific services available to you:
 
 - (i) Amazon does not calculate or collect any product-based excise taxes or any fees or surcharges;
+
 - (ii) Amazon does not provide support for sales or use tax exemptions based upon the identity of any individual, corporation or other entity, or the intended use of a product by any individual, corporation or other entity; and
+
 - (iii) You are solely responsible for any non-U.S. taxes and duties (including their collection and payment).
 
 ---

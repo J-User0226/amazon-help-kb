@@ -1,9 +1,9 @@
 ---
-title: 婴幼儿喂养用品
+title: "婴幼儿喂养用品"
 doc_id: GUG6JJCDN6YYQYJP
 source: https://sellercentral.amazon.com/help/hub/reference/external/GUG6JJCDN6YYQYJP
 language: zh-CN
-fetched_at: 2026-10-30 13:59:55
+fetched_at: 2026-10-30T13:59:55
 ---
 
 # 婴幼儿喂养用品
@@ -11,6 +11,7 @@ fetched_at: 2026-10-30 13:59:55
 如果您要在亚马逊商城发布商品，则必须遵守与这些商品和商品信息相关的所有适用法律、法规、标准以及亚马逊政策。
 
 ## **本政策适用的婴幼儿喂养用品**
+
 婴幼儿喂养用品设计用于为三岁及以下的婴幼儿喂食物和液体。此外，用于储存和盛装婴幼儿食品的商品同样适用本政策。例如：奶瓶、学饮杯、婴儿餐具（勺子、叉子）、奶和婴儿配方食品存储袋和存储瓶、鸭嘴杯和零食碗。本政策不包含与婴儿喂养相关的食品、家电、家具和其他商品，如消毒器、吸奶器及配件、婴儿食品、奶瓶清洁用品、安抚奶嘴、温奶器、奶瓶冷却器和儿童餐椅。
 
 **婴儿餐具**
@@ -38,14 +39,19 @@ fetched_at: 2026-10-30 13:59:55
 婴儿自主进食装置专为婴幼儿设计，使其可以在几乎没有看护人看护或帮助的情况下自主进食。使用自主进食用具可能有因窒息或吸入性肺炎而造成伤害或死亡的严重风险。婴儿无法控制或阻止液体从瓶中流出，这意味着液体的流入速度可能比吞咽速度要快。
 
 ## 亚马逊关于婴幼儿喂养用品的政策
+
 **亚马逊政策规定的禁售商品**
 
 我们必须确保买家在亚马逊商城找到的商品品类充足、安全可靠且符合相关法规要求。我们不允许发布或销售不合规商品或禁售商品。
 
 示例包括但不限于：
+
 - 婴儿自主进食装置
+
 - 枕头，也称为“防吐枕”“婴儿奶瓶架”或“多功能便携式婴儿喂养枕”
+
 - 固定在大人或婴儿身上的免手持婴儿奶瓶架，例如围嘴、背巾和背带腰凳
+
 - 固定在坐式婴儿车、卧式婴儿车或幼儿床等物品上的免手持婴儿奶瓶架
 
 有关禁售商品的更多信息，请参阅[商品安全性发布限制](https://sellercentral.amazon.com/help/hub/reference/external/GRLKLZ6WQ9R259LC)。
@@ -53,38 +59,53 @@ fetched_at: 2026-10-30 13:59:55
 **亚马逊政策规定的可售商品**
 
 亚马逊要求所有其他婴幼儿喂养用品均已经过检测并符合下列法规、标准和要求：
-商品 法规、标准和要求
-以下所有项：
-- 《消费品安全改进法》（铅、邻苯二甲酸盐）
-- 《美国消费品安全法》第 14(a)(5) 款（追踪标签）
+
+| 商品 | 法规、标准和要求 |
+| --- | --- |
+| 婴幼儿喂养用品 | 以下所有项： 《消费品安全改进法》（铅、邻苯二甲酸盐） 《美国消费品安全法》第 14(a)(5) 款（追踪标签） |
 
 **您的详情页面必须包含以下信息：**
+
 - 型号、部件编号或商品编号
+
 - 制造商或品牌名称
 
 **您必须提交以下资料：**
 
 **文件：**
+
 - 由美国消费品安全委员会认可的实验室出具的检测报告，证明该商品符合以下所有项：
-  - 《消费品安全改进法》（CPSIA [铅、邻苯二甲酸盐]）
-  - CPSA 追踪标签（《美国消费品安全法》）第 14 (a)(5) 款
+
+- 《消费品安全改进法》（CPSIA [铅、邻苯二甲酸盐]）
+
+- CPSA 追踪标签（《美国消费品安全法》）第 14 (a)(5) 款
 
 - [儿童商品证书 (CPC)](https://sellercentral.amazon.com/help/hub/reference/external/GSGB43AFZNDWD4U8)
 
 **图片：**
+
 - 型号、部件编号或商品编号
+
 - 制造商、进口商、分销商或授权代表的名称和地址
+
 - 品牌名称或注册商标
+
 - 永久贴在商品及其包装上的 [CPSA 追踪标签](https://sellercentral.amazon.com/gp/help/external/GN9YK5Y7TYGRGNRG)
 
 **注意： **向亚马逊提供的所有文件、检测报告或证书必须真实且为原始（即未经修改）格式。
 
 **提交文件和图片时，请确保：**
+
 - 文件并非来自[暂时停用的验证实验室](https://sellercentral.amazon.com/gp/help/external/GQG5MW4Q93L59T5K)
+
 - 提供的所有文件和图片必须真实，采用未经修改的原始格式，且并非电脑或人工智能生成
+
 - 商品说明书、手册、安全信息、标签和警告均要采用目标销售国家/地区的语言
+
 - 图片能够证明该商品与受检商品以及商品详情页面上发布的商品相同
+
 - 图片必须展示商品或其包装的所有面
+
 - 如果商品为套装或捆绑商品，请分别为套装或捆绑商品中包含的每件商品提供文档和图片
 
 **注意： **请提供清晰易读的文档和图片，这样有助于降低批准流程出现延迟的可能性。
@@ -98,18 +119,27 @@ fetched_at: 2026-10-30 13:59:55
 要提交合规信息，或者对此要求提出申诉，请参阅[提交合规信息或申诉](https://sellercentral.amazon.com/gp/help/external/GC35Z63FGCUCUWXX)。
 
 ## 违反政策
+
 对于不符合此政策的商品，亚马逊将采取相应措施。我们保留根据《亚马逊服务商业解决方案协议》采取任何进一步措施的权利，包括但不限于移除相关商品信息。
 
 ## 其他亚马逊资源
+
 - [亚马逊服务商业解决方案协议](https://sellercentral.amazon.com/help/hub/reference/external/G1791)
+
 - [移除库存概览](https://sellercentral.amazon.com/help/hub/reference/external/G200280650)
+
 - [修复无在售信息的亚马逊库存](https://sellercentral.amazon.com/inventoryplanning/stranded-inventory/)
+
 - [受限商品](https://sellercentral.amazon.com/help/hub/reference/external/G200164330)
+
 - [服务提供商网络](https://sellercentral.amazon.com/gspn/searchpage/Compliance)
 
 ## 其他资源
+
 - [美国消费品安全委员会 (CPSC) 管制商品](https://sellercentral.amazon.com/gp/help/external/GKHQEFBM7834V6AV)
+
 - [《消费品安全改进法》(CPSIA)](https://www.cpsc.gov/Regulations-Laws--Standards/Statutes/The-Consumer-Product-Safety-Improvement-Act)
+
 - [消费品安全委员会商业培训](https://www.cpsc.gov/Business--Manufacturing/Business-Education)
 
 **免责声明：** 本页面提供的信息不构成，且无意构成法律建议。本网站提供的所有信息、内容和材料仅供一般参考。如果您对与商品信息相关的法律法规有疑问，建议咨询法律顾问。

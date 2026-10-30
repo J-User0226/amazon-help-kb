@@ -1,9 +1,9 @@
 ---
-title: 入库绩效通知
+title: "入库绩效通知"
 doc_id: GKHEKK2WJN9KABZQ
 source: https://sellercentral.amazon.com/help/hub/reference/external/GKHEKK2WJN9KABZQ
 language: zh-CN
-fetched_at: 2026-10-30 13:41:11
+fetched_at: 2026-10-30T13:41:11
 ---
 
 # 入库绩效通知
@@ -13,10 +13,13 @@ fetched_at: 2026-10-30 13:41:11
 例如，您的三个货件在同一天抵达运营中心，其中两个存在问题。
 
 - 第一个货件中有五件商品的标签无法扫描。这个问题将生成一条通知。
+
 - 第二个货件中有一个标签无法扫描，有一件商品缺少标签。这个问题将生成两条通知：一条针对无法扫描的标签，另一条针对缺少的标签。
-- 通知中会包含货件名称、编号以及接收日期。此外，我们还会提供一个[货件处理进度](https://sellercentral.amazon.com/gp/fba/inbound-queue/index.html)的链接，以便您查看问题详情。
+
+通知中会包含货件名称、编号以及接收日期。此外，我们还会提供一个[货件处理进度](https://sellercentral.amazon.com/gp/fba/inbound-queue/index.html)的链接，以便您查看问题详情。
 
 ## 绩效提醒通知详情
+
 对于商品级别的绩效提醒，我们通常会针对每个货件创建权限被暂停的商品发送一条通知。通知中会汇总我们在过去 90 天内发现的此商品存在的问题，以及受影响的商品数量。此外，我们还会提供受影响货件的“问题一览”页面的链接，以便于您查看问题详情和确认问题。
 
 对于货件级别的绩效提醒，您只会收到一封电子邮件，告知您的货件相关权限已被暂停。通知中包含货件编号、遇到的问题，以及“问题一览”页面的链接。
@@ -25,9 +28,11 @@ fetched_at: 2026-10-30 13:41:11
 
 要关闭提醒，请执行以下操作：
 
-1. 在卖家平台主页上，转至【设置】，然后选择【通知首选项】。
-2. 点击[订单通知](https://sellercentral.amazon.com/notifications/preferences)右侧的【编辑】。
-3. 取消选中【入库货件问题通知】，然后点击【保存】。
+- 在卖家平台主页上，转至【设置】，然后选择【通知首选项】。
+
+- 点击[订单通知](https://sellercentral.amazon.com/notifications/preferences)右侧的【编辑】。
+
+- 取消选中【入库货件问题通知】，然后点击【保存】。
 
 ---
 

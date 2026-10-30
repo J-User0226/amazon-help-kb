@@ -1,14 +1,15 @@
 ---
-title: 面向荷兰卖家的卖家钱包注册常见问题
+title: "面向荷兰卖家的卖家钱包注册常见问题"
 doc_id: GKWQYH76P2MQRTJW
 source: https://sellercentral.amazon.com/help/hub/reference/external/GKWQYH76P2MQRTJW
 language: zh-CN
-fetched_at: 2026-10-30 14:17:49
+fetched_at: 2026-10-30T14:17:46
 ---
 
 # 面向荷兰卖家的卖家钱包注册常见问题
 
 ## 概述
+
 本页面包含相关信息和常见问题，可帮助荷兰卖家注册亚马逊卖家钱包。有关更多一般常见问题，请参阅[卖家钱包常见问题](https://sellercentral.amazon.com/gp/help/external/GW57DZACAZGNREVQ)。
 
 有关注册流程的信息，请转至[卖家钱包注册](https://sellercentral.amazon.com/gp/help/external/GY2HWC8DQNU8NZJ2)。
@@ -16,13 +17,19 @@ fetched_at: 2026-10-30 14:17:49
 当您注册卖家钱包时，必须向我们提供有关您企业的最新信息和文件、您企业的联系人以及受益所有人。根据法律规定，亚马逊需要先验证您的个人和企业信息，然后您才能使用我们的服务。
 
 您提供的信息有助于确保通过卖家钱包进行的所有交易的安全性。在注册过程中，我们可能会要求您提供以下文件：
+
 - 注册信息： 企业存续证明
+
 - 身份证明文件： 企业联系人和企业所有受益所有人的身份证明
+
 - 地址证明文件： 企业、企业联系人和企业所有受益所有人的地址证明
+
 - 授权书： 如果联系人不是法人代表，则需要由法人代表签署的授权书
+
 - 股份分配文件（例如，公司章程文件）： 文件必须显示每个受益所有人持有的股票或股权数量，以及公司发行的股票或股权数量（个人卖家无需提供此文件）
 
 ## 注册卖家钱包时，我应该选择哪种业务类型？
+
 请仔细选择并确认您的业务类型，因为错误信息可能会导致亚马逊无法处理您的卖家钱包注册。确保在适用的注册帮助页面上查看您所在地区或国家的业务类型。
 
 卖家钱包只能用于企业或商业用途。不得用于个人或家庭用途。
@@ -42,22 +49,35 @@ fetched_at: 2026-10-30 14:17:49
 **个人**： 如果您的企业由一人所有且没有企业名称，请选择此业务类型。
 
 ## 哪些文件可以作为联系人或受益所有人的身份证明文件？
+
 - **护照**： 如果您想要提供护照，请确保您的护照有效（未过期）。请包含照片和信息页面及您的签名页面。如果您的护照不包含出生日期，请提供您的出生证明。
+
 - **居民身份证**： 如果您想提供荷兰居民身份证，请确保提供有效居民身份证的正反面。
+
 - **驾照**： 如果您想要提供驾照，请确保提供有效驾照的正反两面。如果驾照不包含该人的出生地，还需提供该人的出生证明。如果驾照签发国家/地区与个人的出生国家/地区不同，请同时提供该人的护照。
 
 ## 哪些文件可以作为注册摘要？
+
 提供 Volledig Uittreksel Handelsregister Kamer van Koophandel，提供电子签名或名为“Online Inzien”的自打印副本。 包含整个文件，包括签发日期和有关“Eigenaar”、“Aandeelhouders”和“Vennoten”的部分。
 
 ## 哪些文件可以作为地址证明文件？
+
 您可以提供以下文件之一：
+
 - 煤气费账单
+
 - 电视账单
+
 - 有限电视账单
+
 - 水费账单
+
 - 电费账单
+
 - 上网费账单
+
 - 电话费账单
+
 - 银行账户对账单
 
 文件的开具日期必须在 180 天内。
@@ -67,17 +87,26 @@ fetched_at: 2026-10-30 14:17:49
 若要使用地址证明文件验证联系人或受益所有人的居住地址，文件上的姓名必须与接受验证的每个人的姓名一致。
 
 ## 哪些文件可作为股份分配文件（例如，公司章程文件）？
+
 股份分配文件（例如，公司章程文件）是显示每个受益所有人持有的股票或股权数量以及公司发行的股票或股权数量的文件。
 
 您可以提供以下文件之一：
+
 - 如果您的业务属于有限公司或公共有限公司（Besloten Vennootschap 或 Naamloze Vennootschap），请提供经过公证的章程 (Akte van Oprichting)，如果 KvK-Uittreksel 中不包含股东信息，请提供最新的股东名单（在 Aandeelhouders 注册）。股票上市的公司不需要提供股东名单。
+
 - 如果您的业务属于合伙公司（ennootschap Onder Firma、Commanditaire Vennootschap 或 Maatschap），请提供经营协议。如果您没有签订经营协议，请提供经公证的不存在协议确认书，以及经公证的企业受益所有人确认书。
+
 - 如果您的业务属于慈善机构 (Stichting) 或合作组织（Coöperatie 或 Vereniging），请提供经过公证的章程 (Statuten)。
+
 - 如果 STAK (Stichting Administratiekantoor) 是您业务的所有方，请提供 STAK 的章程 (Statuten) 和证书持有人注册表。
+
 - 如果您的业务是宗教教派 (Kerkgenootschap)，请提供章程 (Statuten) 和董事的书面确认函（包括全名和出生日期）。
 
 ## 卖家钱包期望收到的主要联系人的授权书是什么？
+
 如果您不是企业的法人代表，则必须提供以下信息才有资格使用卖家钱包。我们期望收到如下或类似的声明：
+
+------------------------------------------------------------------------
 
 +++++++++
 
@@ -91,35 +120,56 @@ fetched_at: 2026-10-30 14:17:49
 
 签名者：
 
+------------------------------------------------------------------------
+
 ## 如果您需要我提供额外信息，我将如何得知？
+
 如果我们需要额外的信息，我们将通过与您的卖家账户关联的电子邮件地址通知您。
 
 ## 我如何同时上传多个文件？
+
 有时，我们可能需要您通过卖家平台上传更多文件。在这种情况下，您必须将多个文件合并为一个文件，然后上传至“卖家平台”以供审核。
 
 我们建议您使用以下方法之一：
+
 - 将扫描的 JPEG 图片合并到一个 Microsoft Word 文档中，然后按如下步骤创建一个 PDF 文件：
-  1. 在 Microsoft Word 顶部的工具栏中点击【插入】。
-  2. 点击【图片】并找到您要添加至文档的文件夹。
-  3. 重复上述步骤，直到将所有图片都添加到文档中。
-  4. 每页只添加一张图片。
-  5. 点击【文件】 > 【另存为】并选择 【PDF】 作为文档类型。
+
+- 在 Microsoft Word 顶部的工具栏中点击【插入】。
+
+- 点击【图片】并找到您要添加至文档的文件夹。
+
+- 重复上述步骤，直到将所有图片都添加到文档中。
+
+- 每页只添加一张图片。
+
+- 点击【文件】 > 【另存为】并选择 【PDF】 作为文档类型。
 
 - 使用 Adobe Acrobat 创建 PDF 文档。
+
 - 将多个页面扫描成一个 PDF 文档。
 
 ## 我缺少一份所需文件，该怎么做？
+
 如果您缺少一份或多份所需文件，请联系[销售伙伴支持](https://sellercentral.amazon.com/help/hub?ref=/gp/contact-us/)。请务必提供所缺特定文件的有关详情。我们将与您联系，告知我们可以接受的替代文件。
 
 ## 相关帮助页面
+
 - [卖家钱包常见问题](https://sellercentral.amazon.com/gp/help/external/GW57DZACAZGNREVQ)
+
 - [卖家钱包支持的国家/地区和货币](https://sellercentral.amazon.com/gp/help/external/GKD4GS8VTWVYCWRH)
+
 - [卖家钱包注册](https://sellercentral.amazon.com/gp/help/external/GY2HWC8DQNU8NZJ2)
-- [卖家钱包用户权限](https://sellercentral.amazon.com/gp/help/help.html?itemID=/gp/help/external/GL3K2HCP4FDARB6C)
-- [卖家钱包银行账户更新](https://sellercentral.amazon.com/gp/help/help.html?itemID=/gp/help/external/GW74AYKCGANY96WK)
-- [卖家钱包转账和费用](https://sellercentral.amazon.com/gp/help/help.html?itemID=/gp/help/external/GE8JLFJQBVYFZT6S)
-- [卖家钱包其他常见问题](https://sellercentral.amazon.com/gp/help/help.html?itemID=/gp/help/external/G888Q5AWBAF3YX8B)
+
+- [卖家钱包用户权限](https://sellercentral.amazon.com/gp/help/help.html?itemID=/gp/help/GL3K2HCP4FDARB6C)
+
+- [卖家钱包银行账户更新](https://sellercentral.amazon.com/gp/help/help.html?itemID=/gp/help/GW74AYKCGANY96WK)
+
+- [卖家钱包转账和费用](https://sellercentral.amazon.com/gp/help/help.html?itemID=/gp/help/GE8JLFJQBVYFZT6S)
+
+- [卖家钱包其他常见问题](https://sellercentral.amazon.com/gp/help/help.html?itemID=/gp/help/G888Q5AWBAF3YX8B)
+
 - [添加、查看和更新您的银行账户信息](https://sellercentral.amazon.com/gp/help/external/GWHNLFB8G85QAZ5W)
+
 - [设置和编辑用户权限](https://sellercentral.amazon.com/gp/help/external/G901)
 
 ---

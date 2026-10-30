@@ -1,9 +1,9 @@
 ---
-title: 错误 90238
+title: "错误 90238"
 doc_id: G7MYRJAJ9K3V3FSY
 source: https://sellercentral.amazon.com/help/hub/reference/external/G7MYRJAJ9K3V3FSY
 language: zh-CN
-fetched_at: 2026-10-30 13:22:38
+fetched_at: 2026-10-30T13:22:38
 ---
 
 # 错误 90238

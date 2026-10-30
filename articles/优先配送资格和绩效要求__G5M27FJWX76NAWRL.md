@@ -1,9 +1,9 @@
 ---
-title: 优先配送资格和绩效要求
+title: "优先配送资格和绩效要求"
 doc_id: G5M27FJWX76NAWRL
 source: https://sellercentral.amazon.com/help/hub/reference/external/G5M27FJWX76NAWRL
 language: zh-CN
-fetched_at: 2026-10-30 13:19:14
+fetched_at: 2026-10-30T13:19:14
 ---
 
 # 优先配送资格和绩效要求
@@ -13,12 +13,15 @@ fetched_at: 2026-10-30 13:19:14
 如果符合要求，一旦您对配送模板启用了优先配送，我们每周都会审核您的计划绩效，并对前一周（从周日到周六）进行评估。要保持参与该计划的资格，您必须满足以下绩效要求：
 
 - 准时送达率至少为 93.5%
+
 - 有效追踪率至少为 99%
+
 - 取消率低于 0.5%
 
 有关更多信息，请参阅[优先配送计划政策](https://sellercentral.amazon.com/gp/help/external/G201503640)。
 
 ## 绩效要求列表
+
 **准时送达率**
 
 准时送达率是用订单详情中显示的承诺送达日期当日或之前已完成配送的优先配送商品数量，除以进行妥投扫描的所有优先配送商品。

@@ -1,9 +1,9 @@
 ---
-title: 快速付款（英国 Visa 借记卡）服务条款和条件
+title: "快速付款（英国 Visa 借记卡）服务条款和条件"
 doc_id: G6HWWWCJWX3VACGT
 source: https://sellercentral.amazon.com/help/hub/reference/external/G6HWWWCJWX3VACGT
 language: zh-CN
-fetched_at: 2026-10-30 15:24:09
+fetched_at: 2026-10-30T15:24:09
 ---
 
 # 快速付款（英国 Visa 借记卡）服务条款和条件

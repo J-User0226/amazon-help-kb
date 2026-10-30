@@ -1,9 +1,9 @@
 ---
-title: 如何设置有效预算
+title: "如何设置有效预算"
 doc_id: GYARGFE3ZG77FBLJ
 source: https://sellercentral.amazon.com/help/hub/reference/external/GYARGFE3ZG77FBLJ
 language: zh-CN
-fetched_at: 2026-10-30 14:18:40
+fetched_at: 2026-10-30T14:18:40
 ---
 
 # 如何设置有效预算

@@ -1,9 +1,9 @@
 ---
-title: 账户状况评级涉及的政策
+title: "账户状况评级涉及的政策"
 doc_id: GQ5DSES264XVXNX7
 source: https://sellercentral.amazon.com/help/hub/reference/external/GQ5DSES264XVXNX7
 language: zh-CN
-fetched_at: 2026-10-30 13:48:06
+fetched_at: 2026-10-30T13:48:06
 ---
 
 # 账户状况评级涉及的政策

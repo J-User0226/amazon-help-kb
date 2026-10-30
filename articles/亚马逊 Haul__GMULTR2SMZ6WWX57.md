@@ -1,9 +1,9 @@
 ---
-title: 亚马逊 Haul
+title: "亚马逊 Haul"
 doc_id: GMULTR2SMZ6WWX57
 source: https://sellercentral.amazon.com/help/hub/reference/external/GMULTR2SMZ6WWX57
 language: zh-CN
-fetched_at: 2026-10-30 13:43:47
+fetched_at: 2026-10-30T13:43:47
 ---
 
 # 亚马逊 Haul
@@ -29,14 +29,19 @@ fetched_at: 2026-10-30 13:43:47
 **商品**
 
 - [允许在亚马逊 Haul 中销售的选品](https://sellercentral.amazon.com/gp/help/external/GAK9UAJGQRN3Y87A)
+
 - [创建和编辑亚马逊 Haul 商品信息](https://sellercentral.amazon.com/gp/help/external/GN8NWNGP9JUA763Y)
+
 - [对亚马逊 Haul 商品停售问题进行故障排除](https://sellercentral.amazon.com/gp/help/external/GXAUGKFRDR7FMLM5)
 
 **配送**
 
 - [向亚马逊 Haul 发送库存](https://sellercentral.amazon.com/gp/help/external/G356BWPNCC2UT9AC)
+
 - [管理亚马逊 Haul 库存](https://sellercentral.amazon.com/gp/help/external/GTXFLW6Z5AQ3HG33)
+
 - [亚马逊 Haul 容量限制](https://sellercentral.amazon.com/gp/help/external/G4XBCSWW4537UC5T)
+
 - [Haul 容量管理器](https://sellercentral.amazon.com/gp/help/external/GWVZP8MMJUTCAKAW)
 
 **费用**
@@ -44,9 +49,11 @@ fetched_at: 2026-10-30 13:43:47
 - [亚马逊 Haul 费用](https://sellercentral.amazon.com/gp/help/external/GFPPN9PY6E9DH8PQ)
 
 **常见问题**
+
 - [亚马逊 Haul 扩展常见问题](https://sellercentral.amazon.com/gp/help/external/GFGDFCMH6CC53Q28)
 
 **商品合规性**
+
 - [商品合规性 - Haul](https://sellercentral.amazon.com/gp/help/external/GEUR4EZ5AHB6Q4S4)
 
 ---

@@ -1,9 +1,9 @@
 ---
-title: 创建和管理商品
+title: "创建和管理商品"
 doc_id: GFQ8J5JPKERTHQPP
 source: https://sellercentral.amazon.com/help/hub/reference/external/GFQ8J5JPKERTHQPP
 language: zh-CN
-fetched_at: 2026-10-30 13:34:18
+fetched_at: 2026-10-30T13:34:18
 ---
 
 # 创建和管理商品

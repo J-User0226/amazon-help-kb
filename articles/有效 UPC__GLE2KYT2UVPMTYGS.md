@@ -1,9 +1,9 @@
 ---
-title: 有效 UPC
+title: "有效 UPC"
 doc_id: GLE2KYT2UVPMTYGS
 source: https://sellercentral.amazon.com/help/hub/reference/external/GLE2KYT2UVPMTYGS
 language: zh-CN
-fetched_at: 2026-10-30 13:42:22
+fetched_at: 2026-10-30T13:42:22
 ---
 
 # 有效 UPC

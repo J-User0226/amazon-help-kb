@@ -1,9 +1,9 @@
 ---
-title: 高级珠宝首饰条款和条件
+title: "高级珠宝首饰条款和条件"
 doc_id: GB7HYBFT4J6NQG4U
 source: https://sellercentral.amazon.com/help/hub/reference/external/GB7HYBFT4J6NQG4U
 language: zh-CN
-fetched_at: 2026-10-30 13:28:18
+fetched_at: 2026-10-30T13:28:18
 ---
 
 # 高级珠宝首饰条款和条件

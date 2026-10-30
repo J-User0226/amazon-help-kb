@@ -1,9 +1,9 @@
 ---
-title: 错误 8684
+title: "错误 8684"
 doc_id: GKDKNT3DP4MMUGCK
 source: https://sellercentral.amazon.com/help/hub/reference/external/GKDKNT3DP4MMUGCK
 language: zh-CN
-fetched_at: 2026-10-30 13:41:03
+fetched_at: 2026-10-30T13:41:03
 ---
 
 # 错误 8684

@@ -1,9 +1,9 @@
 ---
-title: 错误 90001217
+title: "错误 90001217"
 doc_id: GZZSAPSQYA8KY3FG
 source: https://sellercentral.amazon.com/help/hub/reference/external/GZZSAPSQYA8KY3FG
 language: zh-CN
-fetched_at: 2026-10-30 14:25:27
+fetched_at: 2026-10-30T14:25:27
 ---
 
 # 错误 90001217

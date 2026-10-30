@@ -1,9 +1,9 @@
 ---
-title: 错误 90237
+title: "错误 90237"
 doc_id: GJNXZA5JTDWPP6JV
 source: https://sellercentral.amazon.com/help/hub/reference/external/GJNXZA5JTDWPP6JV
 language: zh-CN
-fetched_at: 2026-10-30 13:39:26
+fetched_at: 2026-10-30T13:39:26
 ---
 
 # 错误 90237

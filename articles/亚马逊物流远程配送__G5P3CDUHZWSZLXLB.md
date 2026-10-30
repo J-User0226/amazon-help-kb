@@ -1,9 +1,9 @@
 ---
-title: 亚马逊物流远程配送
+title: "亚马逊物流远程配送"
 doc_id: G5P3CDUHZWSZLXLB
 source: https://sellercentral.amazon.com/help/hub/reference/external/G5P3CDUHZWSZLXLB
 language: zh-CN
-fetched_at: 2026-10-30 13:19:18
+fetched_at: 2026-10-30T13:19:18
 ---
 
 # 亚马逊物流远程配送

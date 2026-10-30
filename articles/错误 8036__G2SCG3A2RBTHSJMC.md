@@ -1,9 +1,9 @@
 ---
-title: 错误 8036
+title: "错误 8036"
 doc_id: G2SCG3A2RBTHSJMC
 source: https://sellercentral.amazon.com/help/hub/reference/external/G2SCG3A2RBTHSJMC
 language: zh-CN
-fetched_at: 2026-10-30 13:15:47
+fetched_at: 2026-10-30T13:15:47
 ---
 
 # 错误 8036

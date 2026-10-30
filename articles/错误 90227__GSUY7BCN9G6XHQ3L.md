@@ -1,9 +1,9 @@
 ---
-title: 错误 90227
+title: "错误 90227"
 doc_id: GSUY7BCN9G6XHQ3L
 source: https://sellercentral.amazon.com/help/hub/reference/external/GSUY7BCN9G6XHQ3L
 language: zh-CN
-fetched_at: 2026-10-30 13:51:19
+fetched_at: 2026-10-30T13:51:19
 ---
 
 # 错误 90227

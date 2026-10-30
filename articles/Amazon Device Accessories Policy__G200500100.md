@@ -1,9 +1,9 @@
 ---
-title: Amazon Device Accessories Policy
+title: "Amazon Device Accessories Policy"
 doc_id: G200500100
 source: https://sellercentral.amazon.com/help/hub/reference/external/G200500100
 language: zh-CN
-fetched_at: 2026-10-30 12:32:45
+fetched_at: 2026-10-30T12:32:45
 ---
 
 # Amazon Device Accessories Policy
@@ -19,8 +19,11 @@ fetched_at: 2026-10-30 12:32:45
 除亚马逊设备配件政策外，亚马逊设备配件商品的所有商品信息还必须符合[亚马逊设备：公平使用和兼容性准则](https://sellercentral.amazon.com/gp/help/external/G200500120)，并且不可侵犯[亚马逊的知识产权](https://sellercentral.amazon.com/gp/hep/G201361070)（例如，侵犯亚马逊的专利）。您有责任确保您的商品信息符合所有适用的法律和法规。在这种情况下所用的术语“商品信息”是指在售 ASIN，该商品可以是亚马逊商城中新创建的 ASIN，也可以是对亚马逊商城中现有 ASIN 提供的报价。
 
 ## Consequences for policy violations
+
 违反亚马逊设备配件政策可能会导致的后果包括但不限于：
+
 - 下架商品
+
 - 限制发布权限
 
 此外，亚马逊还可能会采取[亚马逊服务商业解决方案协议](https://sellercentral.amazon.com/gp/help/external/G1791)中允许的其他措施。亚马逊保留自行决定某个商品信息是否符合亚马逊设备配件政策要求的权利。
@@ -30,6 +33,7 @@ fetched_at: 2026-10-30 12:32:45
 **注意： **亚马逊的卖家助手可以通过此主题提供帮助。对于大多数语言设置，卖家助手还可以直接将您转接至销售伙伴支持。
 
 ## Report a policy violation
+
 亚马逊建议您在[账户状况页面](https://sellercentral.amazon.com/performance/dashboard)举报可能会违反亚马逊政策或任何适用法律的商品信息。选择[举报滥用](https://sellercentral.amazon.com/abuse-submission/index.html)并确保填写所有相关信息，以便我们进行深入的调查。
 
 ---

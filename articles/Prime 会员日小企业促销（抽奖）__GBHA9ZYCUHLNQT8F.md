@@ -1,9 +1,9 @@
 ---
-title: Prime 会员日小企业促销（抽奖）
+title: "Prime 会员日小企业促销（抽奖）"
 doc_id: GBHA9ZYCUHLNQT8F
 source: https://sellercentral.amazon.com/help/hub/reference/external/GBHA9ZYCUHLNQT8F
 language: zh-CN
-fetched_at: 2026-10-30 13:28:30
+fetched_at: 2026-10-30T13:28:30
 ---
 
 # Prime 会员日小企业促销（抽奖）

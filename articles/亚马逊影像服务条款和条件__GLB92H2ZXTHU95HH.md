@@ -1,9 +1,9 @@
 ---
-title: 亚马逊影像服务条款和条件
+title: "亚马逊影像服务条款和条件"
 doc_id: GLB92H2ZXTHU95HH
 source: https://sellercentral.amazon.com/help/hub/reference/external/GLB92H2ZXTHU95HH
 language: zh-CN
-fetched_at: 2026-10-30 13:42:17
+fetched_at: 2026-10-30T13:42:17
 ---
 
 # 亚马逊影像服务条款和条件

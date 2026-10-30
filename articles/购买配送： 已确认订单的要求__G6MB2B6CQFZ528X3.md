@@ -1,9 +1,9 @@
 ---
-title: 购买配送： 已确认订单的要求
+title: "购买配送： 已确认订单的要求"
 doc_id: G6MB2B6CQFZ528X3
 source: https://sellercentral.amazon.com/help/hub/reference/external/G6MB2B6CQFZ528X3
 language: zh-CN
-fetched_at: 2026-10-30 13:21:52
+fetched_at: 2026-10-30T13:21:51
 ---
 
 # 购买配送： 已确认订单的要求

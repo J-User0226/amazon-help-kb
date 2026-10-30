@@ -1,9 +1,9 @@
 ---
-title: 将货件运送至亚马逊智能卫星仓
+title: "将货件运送至亚马逊智能卫星仓"
 doc_id: GTPL7PGKU7WUKJSW
 source: https://sellercentral.amazon.com/help/hub/reference/external/GTPL7PGKU7WUKJSW
 language: zh-CN
-fetched_at: 2026-10-30 15:29:12
+fetched_at: 2026-10-30T15:29:12
 ---
 
 # 将货件运送至亚马逊智能卫星仓
@@ -23,13 +23,19 @@ fetched_at: 2026-10-30 15:29:12
 然后，按照此工作流程中的步骤创建货件：
 
 - 第 1 步 - [选择要运送的库存](https://sellercentral.amazon.com/gp/help/external/GZLL7RYU2FJRN9BU)
+
 - 第 2 步 - [确认发货](https://sellercentral.amazon.com/gp/help/external/GQ6ZR5KNWKRBPT4M)
+
 - 第 3 步 - [打印箱子标签](https://sellercentral.amazon.com/gp/help/external/G48W2EW89MB5SP6H)
+
 - 第 4 步 - [确认承运人](https://sellercentral.amazon.com/gp/help/external/GQ2DLFVQEYL74ZKW)（仅适用于货车荷载货件）
+
 - 第 5 步 - [打印托拍标签](https://sellercentral.amazon.com/gp/help/external/G6SSGPBBXX7N8YBB)（仅适用于由亚马逊合作承运人运送的货车荷载货件）
+
 - 最后一步 - [追踪详情](https://sellercentral.amazon.com/gp/help/external/GFJSVA7G3WJGVQW3)（仅适用于小包裹快递货件和亚马逊合作承运人货车荷载货件）
 
 ## 亚马逊智能卫星仓常见问题
+
 **我能否通过“运送至亚马逊智能卫星仓”工作流程在分拨中心安排送货预约？**
 
 不可以。亚马逊不允许通过一般公共运输方式送货。只有专业承运人才能通过承运人平台在分拨中心进行送货预约。有关更多信息，请参阅[安排送货预约](https://sellercentral.amazon.com/gp/help/external/GB9BMKQPPRW3FFCU)。

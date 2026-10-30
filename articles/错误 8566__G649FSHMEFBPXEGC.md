@@ -1,9 +1,9 @@
 ---
-title: 错误 8566
+title: "错误 8566"
 doc_id: G649FSHMEFBPXEGC
 source: https://sellercentral.amazon.com/help/hub/reference/external/G649FSHMEFBPXEGC
 language: zh-CN
-fetched_at: 2026-10-30 13:19:40
+fetched_at: 2026-10-30T13:19:39
 ---
 
 # 错误 8566

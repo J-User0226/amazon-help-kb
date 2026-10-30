@@ -1,9 +1,9 @@
 ---
-title: 查看您的库存
+title: "查看您的库存"
 doc_id: G8GKMW7345AV3LCY
 source: https://sellercentral.amazon.com/help/hub/reference/external/G8GKMW7345AV3LCY
 language: zh-CN
-fetched_at: 2026-10-30 13:24:19
+fetched_at: 2026-10-30T13:24:19
 ---
 
 # 查看您的库存

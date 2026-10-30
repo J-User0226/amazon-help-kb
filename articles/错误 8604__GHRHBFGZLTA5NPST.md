@@ -1,9 +1,9 @@
 ---
-title: 错误 8604
+title: "错误 8604"
 doc_id: GHRHBFGZLTA5NPST
 source: https://sellercentral.amazon.com/help/hub/reference/external/GHRHBFGZLTA5NPST
 language: zh-CN
-fetched_at: 2026-10-30 13:38:34
+fetched_at: 2026-10-30T13:38:34
 ---
 
 # 错误 8604

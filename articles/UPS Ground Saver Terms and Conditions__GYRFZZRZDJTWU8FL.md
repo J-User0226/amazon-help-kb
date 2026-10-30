@@ -1,9 +1,9 @@
 ---
-title: UPS Ground Saver Terms and Conditions
+title: "UPS Ground Saver Terms and Conditions"
 doc_id: GYRFZZRZDJTWU8FL
 source: https://sellercentral.amazon.com/help/hub/reference/external/GYRFZZRZDJTWU8FL
-language: zh-CN
-fetched_at: 2026-10-30 14:19:35
+language: en-US
+fetched_at: 2026-10-30T14:19:35
 ---
 
 # UPS Ground Saver Terms and Conditions

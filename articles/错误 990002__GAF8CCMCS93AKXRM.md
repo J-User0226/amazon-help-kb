@@ -1,9 +1,9 @@
 ---
-title: 错误 990002
+title: "错误 990002"
 doc_id: GAF8CCMCS93AKXRM
 source: https://sellercentral.amazon.com/help/hub/reference/external/GAF8CCMCS93AKXRM
 language: zh-CN
-fetched_at: 2026-10-30 13:39:12
+fetched_at: 2026-10-30T13:39:12
 ---
 
 # 错误 990002

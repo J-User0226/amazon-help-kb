@@ -1,9 +1,9 @@
 ---
-title: 华盛顿州关于发泡聚苯乙烯的禁令
+title: "华盛顿州关于发泡聚苯乙烯的禁令"
 doc_id: GEU8B9UPLKJHKU9G
 source: https://sellercentral.amazon.com/help/hub/reference/external/GEU8B9UPLKJHKU9G
 language: zh-CN
-fetched_at: 2026-10-30 13:31:44
+fetched_at: 2026-10-30T13:31:44
 ---
 
 # 华盛顿州关于发泡聚苯乙烯的禁令

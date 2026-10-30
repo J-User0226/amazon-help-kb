@@ -1,9 +1,9 @@
 ---
-title: 亚马逊全球物流的增值服务
+title: "亚马逊全球物流的增值服务"
 doc_id: G4R925S74NFMCLXA
 source: https://sellercentral.amazon.com/help/hub/reference/external/G4R925S74NFMCLXA
 language: zh-CN
-fetched_at: 2026-10-30 13:18:02
+fetched_at: 2026-10-30T13:18:02
 ---
 
 # 亚马逊全球物流的增值服务
@@ -23,9 +23,11 @@ fetched_at: 2026-10-30 13:18:02
 [支付亚马逊全球物流费用](https://sellercentral.amazon.com/gp/help/external/GZJ4B4HXDUEWP4PC)
 
 ## 亚马逊指定的报关行
+
 作为我们端到端服务的一部分，亚马逊全球物流允许使用第三方报关行。这意味着您的所有货件将自动转至指定的报关行。有关更多信息，请访问[亚马逊全球物流进口商设置和海关合规性](https://sellercentral.amazon.com/gp/help/external/ASFW4BD897LNTNN)。
 
 ## 托拍
+
 对于某些取件和投件选项，亚马逊可采用托拍装载您的货物，但需支付一定费用。如果您的货物需要托拍，请在预约货件时选择【托拍】。我们将根据您的货件体积计算费用。
 
 ---

@@ -1,918 +1,130 @@
 ---
-title: Required vehicle information
+title: "Required vehicle information"
 doc_id: GHTLL7GRVSKV5PTU
 source: https://sellercentral.amazon.com/help/hub/reference/external/GHTLL7GRVSKV5PTU
-language: zh-CN
-fetched_at: 2026-10-30 13:42:20
+language: en-US
+fetched_at: 2026-10-30T13:42:20
 ---
 
 # Required vehicle information
 
-**Attribute Name**
-
-**Description**
-
-**Example Value**
-
-**1.**
-
-Acceleration
-
-Vehicle acceleration
-
-0 - 60 mph 2.3 s
-
-**2.**
-
-Accessibility Details
-
-Accessibility features available on a vehicle
-
-Hoist lift, Fold out ramp, Platform lift
-
-**3.**
-
-Accident Free
-
-Flag if car is accident free
-
-Accident free, 1 accident
-
-**4.**
-
-Airbag Description
-
-Description of airbags on vehicle
-
-Curtain first, second and third-row overhead airbags
-
-**5.**
-
-Airbag Type
-
-Location of airbags
-
-Driver, Passenger, Side Curtain
-
-**6.**
-
-Airbags (Number Of)
-
-Number of airbags available on the vehicle
-
-4
-
-**7.**
-
-Air Conditioning (AC) Type
-
-Type of vehicle AC
-
-Automatic, Manual
-
-**8.**
-
-Air Conditioning (AC) Features
-
-AC specific features
-
-Automatic defogging system, Pre-cooling, Pre-heating
-
-**9.**
-
-Air Conditioning (AC) Zone Count
-
-Number of AC zones
-
-3
-
-**10.**
-
-Alexa Capability Certification
-
-Certification of Alexa voice assistant capabilities in vehicles
-
-Yes, No
-
-**11.**
-
-Alternative Fuel Type
-
-Alternative vehicle fuel type
-
-LPG, Propane, Hydrogen
-
-**12.**
-
-Automatic Transmission Type
-
-Type of Automatic Transmission
-
-Automated Manual Transmission (Amt), Continuously Variable Transmission (Cvt), Dual-Clutch Transmission (Dct),
-
-**13.**
-
-Autonomous Driving Technology
-
-Advanced systems and components that allow a vehicle to navigate and operate with little or no human input or intervention
-
-Level 1, Level 2, Level 3
-
-**14.**
-
-Batteries (Number Of) (EV)
-
-Electric Vehicle Only; Total number of batteries
-
-60
-
-**15.**
-
-Battery Capacity (EV)
-
-Electric Vehicle Only; Total battery capacity
-
-60 kWh
-
-**16.**
-
-Battery Cell Composition (EV)
-
-Electric Vehicle Only; Battery cell composition
-
-Lithium Phosphate, Polymer
-
-**17.**
-
-Battery Charging Time (EV)
-
-Electric Vehicle Only; Battery charging time
-
-12 hours 15 minutes
-
-**18.**
-
-Battery Energy Content (EV)
-
-Electric Vehicle Only; Battery energy content
-
-60 kWh
-
-**19.**
-
-Battery Life Expectancy Time (EV)
-
-Electric Vehicle Only; Average battery life expectancy
-
-15 years, 2 month, 10 days, 11 hours
-
-**20.**
-
-Battery Supplier (EV)
-
-Electric Vehicle Only; Battery manufacturer
-
-Byd, calb, catl, guoxuan, lg_energy_solution, panasonic, samsung_sdi, sk_innovation, sunwoda, svolt
-
-**21.**
-
-Battery Swap Time (EV)
-
-Electric Vehicle Only; If available, average battery swap time
-
-30 minutes
-
-**22.**
-
-Battery Type (EV)
-
-Electric Vehicle Only; Type of battery
-
-**23.**
-
-Battery Voltage (EV)
-
-Electric Vehicle Only; Optimum battery charging voltage
-
-20V
-
-**24.**
-
-Battery Voltage (EV)
-
-Electric Vehicle Only; Optimum battery charging voltage
-
-20V
-
-**25.**
-
-Bed Length (Truck)
-
-Total bed length of a truck
-
-30 in length
-
-**26.**
-
-Body Style
-
-Vehicle Body Style
-
-Sedan, SUV, Minivan
-
-**27.**
-
-Break Type
-
-Location and type of breaks
-
-Front axle Rear axle Front-wheel disc breaks Rear-wheel disc breaks
-
-**28.**
-
-Cab Style
-
-Truck cab style
-
-Regular, Extended, Crew
-
-**29.**
-
-Charging System (EV)
-
-Electric Vehicle Only; Charging technology
-
-Level 1, Level 2
-
-**30.**
-
-Climate Control number of zones
-
-How many of vehicle's heating, ventilation, AC can by controlled independently
-
-Single Zone, Dual Zone, Three Zone, Four Zone
-
-**31.**
-
-Climate Control Type
-
-Control mechanism used to adjust heating, ventilation and AC
-
-Automatic
-
-**32.**
-
-Compatible Operating System
-
-Vehicle OS and supported media systems
-
-Amazon Alexa, Apple Carplay, Android Auto
-
-**33.**
-
-Condition description
-
-The description of the vehicle condition
-
-“Scratch right, front bumper”
-
-**34.**
-
-Country of Origin
-
-Vehicle's original country of manufacture
-
-Mexico, USA
-
-**35.**
-
-Currency
-
-Currency of vehicle sale
-
-USD
-
-**36.**
-
-Dealership Warranty
-
-Warranty details offered by the dealership
-
-2 year 10,000 miles - Drivetrain
-
-**37.**
-
-Dimensions of Vehicle
-
-Vehicle dimensions: height, length, width
-
-6.2 ft, 3200 mm
-
-**38.**
-
-Doors (number of)
-
-Total number of doors on the vehicle
-
-4
-
-**39.**
-
-Driver Assistance Features
-
-Non-safety driver assistance features
-
-Automated parking, Adaptive Cruise Control, Remote Parking
-
-**40.**
-
-Drivetrain
-
-Vehicle Drivetrain
-
-All wheel drive, Front wheel drive
-
-**41.**
-
-Driving Assistance Features - Safety
-
-Safety related driver assistance features
-
-Autolocking doors, Anti roll bar, TPMS
-
-**42.**
-
-Electric Energy Consumption
-
-Energy consumption
-
-188 Kwh/m
-
-**43.**
-
-Electric Motor Maximum Torque
-
-Maximum torque generated by the vehicle's engine
-
-200 Nm
-
-**44.**
-
-Electric motor power
-
-Power from electric motor
-
-200kw
-
-**45.**
-
-Engine Cylinders (number of)
-
-Number of cylinders in the engine
-
-6
-
-**46.**
-
-Engine Displacement
-
-Volume of air displaced by the engine's pistons
-
-5.0 L
-
-**47.**
-
-Engine Maximum Power
-
-Engine's Maximum Power
-
-200 HP, 110 KW
-
-**48.**
-
-Engine Maximum Torque
-
-Maximum torque generated by the vehicle's engine
-
-350 nm
-
-**49.**
-
-Engine Total Torque
-
-Total torque generated by the vehicle's engine
-
-350 nm
-
-**50.**
-
-Engine Type
-
-Type of engine installed in the vehicle
-
-V8 5.0L
-
-**51.**
-
-Engine Valves (number of)
-
-Number of engine valves
-
-**52.**
-
-EPA- estimated electric driving range
-
-Estimated driving range for EV
-
-300 Miles
-
-**53.**
-
-EV Charging system maximum charging power
-
-Maximum charging power (EV)
-
-20 kilowatts
-
-**54.**
-
-EV Engine Maximum Power
-
-Electric Vehicle Only; Maximum engine power
-
-**55.**
-
-EV Motor Type
-
-Electric Vehicle Only; Location and motor type
-
-ac_induction_motor permanent_ magnet_synchronous_motor switched_ reluctance_motor front front_ left rear rear_left rear_right
-
-**56.**
-
-Exterior Features
-
-Exterior features of a vehicle
-
-running boards, spoiler
-
-**57.**
-
-Exterior Lighting Location
-
-Location for the light source type
-
-Low Beam Headlights, Rear Fog Light, Rear Side Marker Lights, Rear Turn Signal Lights, Tail Lights
-
-**58.**
-
-Exterior Lighting
-
-Exterior lighting features
-
-adaptive_headlights, automatic_headlights, automatic_high_beam, cornering_lights, dynamic_turn_signal, headlight_washers, matrix_technology, puddle_lights, self_levelling_headlights, welcome_lighting
-
-**59.**
-
-Front Brakes
-
-Indicates front brake description
-
-Carbon ceramic brakes
-
-**60.**
-
-Fuel Capacity
-
-Total fuel capacity of the Vehicle (ICE only)
-
-15 Gallons
-
-**61.**
-
-Fuel Economy - City
-
-EPA estimates for city driving
-
-20 MPG
-
-**62.**
-
-Fuel Economy - Combined
-
-EPA estimates for combined
-
-25 MPG
-
-**63.**
-
-Fuel Economy - Highway
-
-EPA estimates for highway driving
-
-30 MPG
-
-**64.**
-
-Fuel Type
-
-Type of vehicle Fuel
-
-Gasoline, Flex
-
-**65.**
-
-Headlight Type
-
-Type of Headlight
-
-LED
-
-**66.**
-
-Interior Color Standardized
-
-Standardized interior color of the vehicle
-
-Red, Blue, Green
-
-**67.**
-
-Interior Features
-
-Components included in interior of vehicle
-
-Cargo mat, floor mats
-
-**68.**
-
-Interior Lighting
-
-Location of interior lighting
-
-Ambient, Dome, Trunk, Reading
-
-**69.**
-
-** ******Instrument Display
-
-Instrument cluster or driver information display, is the panel of gauges and readouts directly in front of the driver that provides critical information about the vehicle's operation and status.
-
-Speedometer, tachometer, odometer
-
-**70.**
-
-Mats
-
-Type of mats available
-
-All weather, Carpet
-
-**71.**
-
-Maximum Speed
-
-Maximum vehicle designated speed
-
-200 mph
-
-**72.**
-
-Media Connectivity Features
-
-Available media features
-
-Heads-up display, Touch screen, Gesture control, Digital dashboard
-
-**73.**
-
-Mileage
-
-Mileage of the vehicle
-
-1,392 miles
-
-**74.**
-
-Mirrors
-
-Location and mirror features
-
-auto_dimming, electrically_adjustable, electrically_folding, heated, memory, towing, virtual ****driver_side_view, passenger_side_view, rearview
-
-**75.**
-
-NHSTA Rating
-
-Advertised NHSTA rating
-
-5 Star, 4 Star
-
-**76.**
-
-OEM Warranty
-
-Warranty details offered by the OEM
-
-5 Year 20,000 miles - Engine, 4 Year 50,000 miles - Drivetrain
-
-**77.**
-
-Parking Assistance Features
-
-Technologies designed to help drivers park their vehicles more easily and safely
-
-360 Parking Aid front and rear parking sensors
-
-**78.**
-
-Payload Capacity
-
-Maximum weight a vehicle can safely carry
-
-7,000 lbs
-
-**79.**
-
-Radio
-
-Type of radio
-
-AM/FM, Satellite
-
-**80.**
-
-Rear Brakes
-
-Rear Brake Type
-
-Carbon ceramic brakes
-
-**81.**
-
-Rear Wheels (number of)
-
-Total number of rear wheels
-
-2
-
-**82.**
-
-Registration State
-
-Location of vehicle registration
-
-MN, VA
-
-**83.**
-
-Rim Size
-
-The size of the vehicle’s rims
-
-20”, 18”
-
-**84.**
-
-RPM for Maximum Torque
-
-RPM value at maximum torque
-
-2400 rpm
-
-**85.**
-
-Safety Features
-
-Safety features installed in the vehicle
-
-ABS, Front Collision Warning, Lane Departure Warning
-
-**86.**
-
-Seat Material
-
-Seat material type
-
-Alcantara, Leather, Fabric
-
-**87.**
-
-Seat Types
-
-Location and seat features
-
-heated_front_seat, heated_rear_seat, ventilated_seat, cooled_seat, fold_flat_seat, split_folding_rear_seat, front_armrest, rear_armrest, sports_seat, bucket_seat, captain_seat, adjustable_height, adjustable_lumbar_and_thigh_support, adjustable_position, armrest, third_row_seating, power_driver_seat, power_passenger_seat, memory_function, massage river, passenger, rear
-
-**88.**
-
-Seats (number of)
-
-Total number of seats in the vehicle or vehicle seating capacity
-
-5
-
-**89.**
-
-Speakers (number of)
-
-Total number of speakers
-
-12
-
-**90.**
-
-Special Features
-
-Special or stand-alone features not included in a package
-
-Electric Sunroof
-
-**91.**
-
-Steering System
-
-Type of steering
-
-Automatic, Manual
-
-**92.**
-
-Steering Wheel Controls
-
-Vehicle controls available on the steering wheel
-
-cruise_control_button phone_control_ button sound_system_control_button interior_ climate_control_button heated_steering_ wheel_control_button driving_profile_ control_button voice_control_button
-
-**93.**
-
-Steering Wheel Features
-
-Special features of the steering wheel
-
-memory_function heated
-
-**94.**
-
-Steering Wheel Material
-
-Steering wheel cover material
-
-acrylonitrile_butadiene_styrene_abs, alcantara, carbon_fiber, cotton, crystal, faux_fur, faux_leather, faux_wool, fur, leather, neoprene, nylon, plastic, polyester, polyurethane, polyvinyl_chloride, rubber, silicone, suede, thermoplastic_elastomer_tpe, thermoplastic_polyurethane, vinyl, wool
-
-**95.**
-
-Sunroof mechanism
-
-Mechanism of the installed sunroof
-
-electric, manual
-
-**96.**
-
-Sunroof Type
-
-Type of sunroof installed on the vehicle
-
-Built-In, Panoramic, Pop-Up, Ragtop, Rail Mount Top-Slider, Tilt & Slide
-
-**97.**
-
-Suspension
-
-Type of vehicle suspension
-
-Air, Adaptive, Sport
-
-**98.**
-
-Tire Size
-
-Isometric tire location and size
-
-Rear - 22 in, Front - 20 in
-
-**99.**
-
-Tire Type
-
-Type of vehicle tires
-
-All Weather, Run Flat, Winter, Summer
-
-**100.**
-
-Towing Capacity
-
-Towing capacity of vehicle
-
-14000 lbs
-
-**101.**
-
-Trailer Hitch Class
-
-The rating or capacity of the trailer hitch system on a vehicle
-
-Class 1, Class 2
-
-**102.**
-
-Transmission
-
-Vehicle Transmission Type
-
-Manual, Automatic, Semi-Automatic
-
-**103.**
-
-Truck Bed Length
-
-Length of a truck's bed.
-
-5ft
-
-**104.**
-
-Truck Cab Size
-
-Cab size of truck
-
-Crew Cab, Extended Cab, Extended Crew Cab, Regular Cab
-
-**105.**
-
-Trunk Storage Volume
-
-Total vehicle storage volume
-
-20 cubic ft.
-
-**106.**
-
-Tuner Technology
-
-Tuner technology in the vehicle
-
-AM/FM, Satellite
-
-**107.**
-
-Vehicle Anti-theft/Security features
-
-Security systems and technologies designed to prevent or deter vehicle theft
-
-**108.**
-
-** **
-
-Vehicle Cameras
-
-The various camera systems integrated into vehicles to provide enhanced visibility, safety features, and driver assistance.
-
-** **
-
-Aerial view, front facing, rear facing
-
-**109.**
-
-Vehicle Differential Type
-
-Type of vehicle differential
-
-front_axle, rear_axle active, limited_slip, locking, open, torque_vectoring
-
-**110.**
-
-Vehicle Gross Weight
-
-Gross vehicle weight
-
-2300 pounds
-
-**111.**
-
-Verified Inspections
-
-Flag if car has verified inspections
-
-**112.**
-
-Wheel Base Size
-
-Wheel size
-
-20 in.
-
-**113.**
-
-Wheel Material
-
-Type of wheels on the vehicle
-
-Alloy, Aluminum, Forged, Metal, Chrome
-
-** **
+| | Attribute Name | Description | Example Value |
+| --- | --- | --- | --- |
+| 1. | Acceleration | Vehicle acceleration | 0 - 60 mph 2.3 s |
+| 2. | Accessibility Details | Accessibility features available on a vehicle | Hoist lift, Fold out ramp, Platform lift |
+| 3. | Accident Free | Flag if car is accident free | Accident free, 1 accident |
+| 4. | Airbag Description | Description of airbags on vehicle | Curtain first, second and third-row overhead airbags |
+| 5. | Airbag Type | Location of airbags | Driver, Passenger, Side Curtain |
+| 6. | Airbags (Number Of) | Number of airbags available on the vehicle | 4 |
+| 7. | Air Conditioning (AC) Type | Type of vehicle AC | Automatic, Manual |
+| 8. | Air Conditioning (AC) Features | AC specific features | Automatic defogging system, Pre-cooling, Pre-heating |
+| 9. | Air Conditioning (AC) Zone Count | Number of AC zones | 3 |
+| 10. | Alexa Capability Certification | Certification of Alexa voice assistant capabilities in vehicles | Yes, No |
+| 11. | Alternative Fuel Type | Alternative vehicle fuel type | LPG, Propane, Hydrogen |
+| 12. | Automatic Transmission Type | Type of Automatic Transmission | Automated Manual Transmission (Amt), Continuously Variable Transmission (Cvt), Dual-Clutch Transmission (Dct), |
+| 13. | Autonomous Driving Technology | Advanced systems and components that allow a vehicle to navigate and operate with little or no human input or intervention | Level 1, Level 2, Level 3 |
+| 14. | Batteries (Number Of) (EV) | Electric Vehicle Only; Total number of batteries | 60 |
+| 15. | Battery Capacity (EV) | Electric Vehicle Only; Total battery capacity | 60 kWh |
+| 16. | Battery Cell Composition (EV) | Electric Vehicle Only; Battery cell composition | Lithium Phosphate, Polymer |
+| 17. | Battery Charging Time (EV) | Electric Vehicle Only; Battery charging time | 12 hours 15 minutes |
+| 18. | Battery Energy Content (EV) | Electric Vehicle Only; Battery energy content | 60 kWh |
+| 19. | Battery Life Expectancy Time (EV) | Electric Vehicle Only; Average battery life expectancy | 15 years, 2 month, 10 days, 11 hours |
+| 20. | Battery Supplier (EV) | Electric Vehicle Only; Battery manufacturer | Byd, calb, catl, guoxuan, lg_energy_solution, panasonic, samsung_sdi, sk_innovation, sunwoda, svolt |
+| 21. | Battery Swap Time (EV) | Electric Vehicle Only; If available, average battery swap time | 30 minutes |
+| 22. | Battery Type (EV) | Electric Vehicle Only; Type of battery | |
+| 23. | Battery Voltage (EV) | Electric Vehicle Only; Optimum battery charging voltage | 20V |
+| 24. | Battery Voltage (EV) | Electric Vehicle Only; Optimum battery charging voltage | 20V |
+| 25. | Bed Length (Truck) | Total bed length of a truck | 30 in length |
+| 26. | Body Style | Vehicle Body Style | Sedan, SUV, Minivan |
+| 27. | Break Type | Location and type of breaks | Front axleRear axleFront-wheel disc breaksRear-wheel disc breaks |
+| 28. | Cab Style | Truck cab style | Regular, Extended, Crew |
+| 29. | Charging System (EV) | Electric Vehicle Only; Charging technology | Level 1, Level 2 |
+| 30. | Climate Control number of zones | How many of vehicle's heating, ventilation, AC can by controlled independently | Single Zone, Dual Zone, Three Zone, Four Zone |
+| 31. | Climate Control Type | Control mechanism used to adjust heating, ventilation and AC | Automatic |
+| 32. | Compatible Operating System | Vehicle OS and supported media systems | Amazon Alexa, Apple Carplay, Android Auto |
+| 33. | Condition description | The description of the vehicle condition | “Scratch right, front bumper” |
+| 34. | Country of Origin | Vehicle's original country of manufacture | Mexico, USA |
+| 35. | Currency | Currency of vehicle sale | USD |
+| 36. | Dealership Warranty | Warranty details offered by the dealership | 2 year 10,000 miles - Drivetrain |
+| 37. | Dimensions of Vehicle | Vehicle dimensions: height, length, width | 6.2 ft, 3200 mm |
+| 38. | Doors (number of) | Total number of doors on the vehicle | 4 |
+| 39. | Driver Assistance Features | Non-safety driver assistance features | Automated parking, Adaptive Cruise Control, Remote Parking |
+| 40. | Drivetrain | Vehicle Drivetrain | All wheel drive, Front wheel drive |
+| 41. | Driving Assistance Features - Safety | Safety related driver assistance features | Autolocking doors, Anti roll bar, TPMS |
+| 42. | Electric Energy Consumption | Energy consumption | 188 Kwh/m |
+| 43. | Electric Motor Maximum Torque | Maximum torque generated by the vehicle's engine | 200 Nm |
+| 44. | Electric motor power | Power from electric motor | 200kw |
+| 45. | Engine Cylinders (number of) | Number of cylinders in the engine | 6 |
+| 46. | Engine Displacement | Volume of air displaced by the engine's pistons | 5.0 L |
+| 47. | Engine Maximum Power | Engine's Maximum Power | 200 HP, 110 KW |
+| 48. | Engine Maximum Torque | Maximum torque generated by the vehicle's engine | 350 nm |
+| 49. | Engine Total Torque | Total torque generated by the vehicle's engine | 350 nm |
+| 50. | Engine Type | Type of engine installed in the vehicle | V8 5.0L |
+| 51. | Engine Valves (number of) | Number of engine valves | |
+| 52. | EPA- estimated electric driving range | Estimated driving range for EV | 300 Miles |
+| 53. | EV Charging system maximum charging power | Maximum charging power (EV) | 20 kilowatts |
+| 54. | EV Engine Maximum Power | Electric Vehicle Only; Maximum engine power | |
+| 55. | EV Motor Type | Electric Vehicle Only; Location and motor type | ac_induction_motor permanent_magnet_synchronous_motor switched_reluctance_motor front front_left rear rear_left rear_right |
+| 56. | Exterior Features | Exterior features of a vehicle | running boards, spoiler |
+| 57. | Exterior Lighting Location | Location for the light source type | Low Beam Headlights, Rear Fog Light, Rear Side Marker Lights, Rear Turn Signal Lights, Tail Lights |
+| 58. | Exterior Lighting | Exterior lighting features | adaptive_headlights, automatic_headlights, automatic_high_beam, cornering_lights, dynamic_turn_signal, headlight_washers, matrix_technology, puddle_lights, self_levelling_headlights, welcome_lighting |
+| 59. | Front Brakes | Indicates front brake description | Carbon ceramic brakes |
+| 60. | Fuel Capacity | Total fuel capacity of the Vehicle (ICE only) | 15 Gallons |
+| 61. | Fuel Economy - City | EPA estimates for city driving | 20 MPG |
+| 62. | Fuel Economy - Combined | EPA estimates for combined | 25 MPG |
+| 63. | Fuel Economy - Highway | EPA estimates for highway driving | 30 MPG |
+| 64. | Fuel Type | Type of vehicle Fuel | Gasoline, Flex |
+| 65. | Headlight Type | Type of Headlight | LED |
+| 66. | Interior Color Standardized | Standardized interior color of the vehicle | Red, Blue, Green |
+| 67. | Interior Features | Components included in interior of vehicle | Cargo mat, floor mats |
+| 68. | Interior Lighting | Location of interior lighting | Ambient, Dome, Trunk, Reading |
+| 69. | Instrument Display | Instrument cluster or driver information display, is the panel of gauges and readouts directly in front of the driver that provides critical information about the vehicle's operation and status. | Speedometer, tachometer, odometer |
+| 70. | Mats | Type of mats available | All weather, Carpet |
+| 71. | Maximum Speed | Maximum vehicle designated speed | 200 mph |
+| 72. | Media Connectivity Features | Available media features | Heads-up display, Touch screen, Gesture control, Digital dashboard |
+| 73. | Mileage | Mileage of the vehicle | 1,392 miles |
+| 74. | Mirrors | Location and mirror features | auto_dimming, electrically_adjustable, electrically_folding, heated, memory, towing, virtual driver_side_view, passenger_side_view, rearview |
+| 75. | NHSTA Rating | Advertised NHSTA rating | 5 Star, 4 Star |
+| 76. | OEM Warranty | Warranty details offered by the OEM | 5 Year 20,000 miles - Engine, 4 Year 50,000 miles - Drivetrain |
+| 77. | Parking Assistance Features | Technologies designed to help drivers park their vehicles more easily and safely | 360 Parking Aid front and rear parking sensors |
+| 78. | Payload Capacity | Maximum weight a vehicle can safely carry | 7,000 lbs |
+| 79. | Radio | Type of radio | AM/FM, Satellite |
+| 80. | Rear Brakes | Rear Brake Type | Carbon ceramic brakes |
+| 81. | Rear Wheels (number of) | Total number of rear wheels | 2 |
+| 82. | Registration State | Location of vehicle registration | MN, VA |
+| 83. | Rim Size | The size of the vehicle’s rims | 20”, 18” |
+| 84. | RPM for Maximum Torque | RPM value at maximum torque | 2400 rpm |
+| 85. | Safety Features | Safety features installed in the vehicle | ABS, Front Collision Warning, Lane Departure Warning |
+| 86. | Seat Material | Seat material type | Alcantara, Leather, Fabric |
+| 87. | Seat Types | Location and seat features | heated_front_seat, heated_rear_seat, ventilated_seat, cooled_seat, fold_flat_seat, split_folding_rear_seat, front_armrest, rear_armrest, sports_seat, bucket_seat, captain_seat, adjustable_height, adjustable_lumbar_and_thigh_support, adjustable_position, armrest, third_row_seating, power_driver_seat, power_passenger_seat, memory_function, massage river, passenger, rear |
+| 88. | Seats (number of) | Total number of seats in the vehicle or vehicle seating capacity | 5 |
+| 89. | Speakers (number of) | Total number of speakers | 12 |
+| 90. | Special Features | Special or stand-alone features not included in a package | Electric Sunroof |
+| 91. | Steering System | Type of steering | Automatic, Manual |
+| 92. | Steering Wheel Controls | Vehicle controls available on the steering wheel | cruise_control_button phone_control_button sound_system_control_button interior_climate_control_button heated_steering_wheel_control_button driving_profile_control_button voice_control_button |
+| 93. | Steering Wheel Features | Special features of the steering wheel | memory_function heated |
+| 94. | Steering Wheel Material | Steering wheel cover material | acrylonitrile_butadiene_styrene_abs, alcantara, carbon_fiber, cotton, crystal, faux_fur, faux_leather, faux_wool, fur, leather, neoprene, nylon, plastic, polyester, polyurethane, polyvinyl_chloride, rubber, silicone, suede, thermoplastic_elastomer_tpe, thermoplastic_polyurethane, vinyl, wool |
+| 95. | Sunroof mechanism | Mechanism of the installed sunroof | electric, manual |
+| 96. | Sunroof Type | Type of sunroof installed on the vehicle | Built-In, Panoramic, Pop-Up, Ragtop, Rail Mount Top-Slider, Tilt & Slide |
+| 97. | Suspension | Type of vehicle suspension | Air, Adaptive, Sport |
+| 98. | Tire Size | Isometric tire location and size | Rear - 22 in, Front - 20 in |
+| 99. | Tire Type | Type of vehicle tires | All Weather, Run Flat, Winter, Summer |
+| 100. | Towing Capacity | Towing capacity of vehicle | 14000 lbs |
+| 101. | Trailer Hitch Class | The rating or capacity of the trailer hitch system on a vehicle | Class 1, Class 2 |
+| 102. | Transmission | Vehicle Transmission Type | Manual, Automatic, Semi-Automatic |
+| 103. | Truck Bed Length | Length of a truck's bed. | 5ft |
+| 104. | Truck Cab Size | Cab size of truck | Crew Cab, Extended Cab, Extended Crew Cab, Regular Cab |
+| 105. | Trunk Storage Volume | Total vehicle storage volume | 20 cubic ft. |
+| 106. | Tuner Technology | Tuner technology in the vehicle | AM/FM, Satellite |
+| 107. | Vehicle Anti-theft/Security features | Security systems and technologies designed to prevent or deter vehicle theft | |
+| 108. | Vehicle Cameras | The various camera systems integrated into vehicles to provide enhanced visibility, safety features, and driver assistance. | Aerial view, front facing, rear facing |
+| 109. | Vehicle Differential Type | Type of vehicle differential | front_axle, rear_axle active, limited_slip, locking, open, torque_vectoring |
+| 110. | Vehicle Gross Weight | Gross vehicle weight | 2300 pounds |
+| 111. | Verified Inspections | Flag if car has verified inspections | |
+| 112. | Wheel Base Size | Wheel size | 20 in. |
+| 113. | Wheel Material | Type of wheels on the vehicle | Alloy, Aluminum, Forged, Metal, Chrome |
+
+** **
 
 ---
 

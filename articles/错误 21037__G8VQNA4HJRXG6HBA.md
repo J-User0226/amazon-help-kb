@@ -1,9 +1,9 @@
 ---
-title: 错误 21037
+title: "错误 21037"
 doc_id: G8VQNA4HJRXG6HBA
 source: https://sellercentral.amazon.com/help/hub/reference/external/G8VQNA4HJRXG6HBA
 language: zh-CN
-fetched_at: 2026-10-30 13:24:31
+fetched_at: 2026-10-30T13:24:31
 ---
 
 # 错误 21037

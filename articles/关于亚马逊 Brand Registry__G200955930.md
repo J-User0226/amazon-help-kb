@@ -1,9 +1,9 @@
 ---
-title: 关于亚马逊 Brand Registry
+title: "关于亚马逊 Brand Registry"
 doc_id: G200955930
 source: https://sellercentral.amazon.com/help/hub/reference/external/G200955930
 language: zh-CN
-fetched_at: 2026-10-30 15:16:48
+fetched_at: 2026-10-30T15:16:47
 ---
 
 # 关于亚马逊 Brand Registry

@@ -1,9 +1,9 @@
 ---
-title: 卖家自配送易融商品政策
+title: "卖家自配送易融商品政策"
 doc_id: GTH8F8BDZPPZTBEZ
 source: https://sellercentral.amazon.com/help/hub/reference/external/GTH8F8BDZPPZTBEZ
 language: zh-CN
-fetched_at: 2026-10-30 13:52:35
+fetched_at: 2026-10-30T13:52:35
 ---
 
 # 卖家自配送易融商品政策
@@ -19,6 +19,7 @@ fetched_at: 2026-10-30 13:52:35
 在亚马逊商城发布商品之前，请务必了解适合发布哪些商品。有关商品要求和限制的信息，请参阅以下帮助页面：
 
 - [需要批准的分类和商品](https://sellercentral.amazon.com/gp/help/external/G200333160)
+
 - [受限商品](https://sellercentral.amazon.com/gp/help/external/200164330)
 
 ---

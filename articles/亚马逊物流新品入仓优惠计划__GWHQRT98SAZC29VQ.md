@@ -1,14 +1,15 @@
 ---
-title: 亚马逊物流新品入仓优惠计划
+title: "亚马逊物流新品入仓优惠计划"
 doc_id: GWHQRT98SAZC29VQ
 source: https://sellercentral.amazon.com/help/hub/reference/external/GWHQRT98SAZC29VQ
 language: zh-CN
-fetched_at: 2026-10-30 14:10:00
+fetched_at: 2026-10-30T14:10:00
 ---
 
 # 亚马逊物流新品入仓优惠计划
 
 **注意： **
+
 **此亚马逊物流新品入仓优惠计划已于 2026 年 7 月 30 日结束。**
 
 您剩余的亚马逊物流新品入仓优惠计划权益余额在到期前仍可继续使用。
@@ -27,7 +28,8 @@ fetched_at: 2026-10-30 14:10:00
 
 参与亚马逊物流新品入仓优惠计划，即表示您同意相关的[条款和条件](https://sellercentral.amazon.com/help/hub/reference/GNNBARVDT97NGLQ4)。
 
-**重要： ** [立即注册](https://sellercentral.amazon.com/fba/programs/subscribeMerchant/default?programId=FBA_NEW_SELECTION)
+**重要： **
+[立即注册](https://sellercentral.amazon.com/fba/programs/subscribeMerchant/default?programId=FBA_NEW_SELECTION)
 
 注册后，您将能够访问[亚马逊物流新品入仓优惠计划控制面板](https://sellercentral.amazon.com/fulfillment-by-amazon/new-selection/dashboard)，以查看您参与本计划的情况。
 
@@ -36,17 +38,25 @@ fetched_at: 2026-10-30 14:10:00
 **注意： **： 使用单点入仓时，每个 SKU 至少运送 5 箱单一 SKU 商品，从而缩短处理时间。
 
 ## 计划详情
+
 - **符合要求的 ASIN 的销售额平均可享受 10% 的返点：** 对于新加入 FBA 的符合要求的父 ASIN，加入该计划的卖家每月平均可获得 10% 的销售额返点。我们会根据商品分类计算返点，并考虑收取的销售佣金，为您提供介于 0% 到 12% 之间的返点。返点将用于抵扣获得返点次月的配送费用，未使用的金额将在发放到您账户之日起一年后过期。对于新加入 FBA 且符合要求的品牌和非品牌父 ASIN，在首件库存接收之日起的 120 天内，返点用于最多 50 件符合要求的非标准尺寸商品，以及最多 100 件符合要求的标准尺寸商品。
+
 - **降低 Vine 注册费：** 对于符合要求的选品，注册 Vine 计划的卖家可获得 25% 的注册费折扣。只要在 Vine 中为每个父 ASIN 注册 3 至 10 件商品，就可以使用此折扣。ASIN 必须在 2024 年 9 月 15 日当日或之后运送到运营中心，并在运营中心收到首批货件后的 5 至 60 天内加入 Vine 计划。以前加入 Vine 计划的 ASIN 不符合折扣要求。针对每个符合要求的父 ASIN，此折扣可以使用一次。
+
 - **免除标准尺寸 ASIN 的月度仓储费和清货费用：** 在亚马逊运营中心收到首件商品后的 120 天内，对于每个新父 ASIN 的前 100 件商品，将免除月度仓储费。在首件库存接收之日后的 180 天内，可以对前 100 件商品中的任意商品进行清货，并且无需支付清货费用。
+
 - **免除非标准尺寸 ASIN 的月度仓储费和清货费用：** 在亚马逊运营中心收到首件商品后的 120 天内，对于每个新父 ASIN 的前 50 件商品，将免除月度仓储费。在首件库存接收之日后的 180 天内，可以对前 50 件商品中的任意商品进行清货，并且无需支付清货费用。
+
 - **免除退货处理费：** 对于每个标准尺寸父 ASIN，我们将免除最多 20 件商品的退货处理费。退货商品必须在首件库存接收之日后的 180 天内送到亚马逊运营中心。
+
 - **全球注册：** 您只需注册一次，就可以在自己拥有活跃账户（具体取决于您的卖家编号和电子邮件地址）且已向运营中心运送符合要求的新选品的每个商城自动享受计划权益。
+
 - **仅限新加入 FBA 的父 ASIN：** 注册该计划后，对于您创建的新加入 FBA 的[父 ASIN](https://sellercentral.amazon.com/gp/help/external/G8831)，均可使用费用减免权益，数量不限。
 
 除降低 Vine 注册费之外的权益都适用于运营中心在 2024 年 3 月 1 日当日或之后收到的父 ASIN。
 
 ## 卖家资格
+
 专业卖家可以注册亚马逊物流新品入仓优惠计划。如果您已获得[库存绩效指标](https://sellercentral.amazon.com/gp/help/external/G202174810)分数，则必须达到 300 分或以上才能参与本计划。如果您尚未获得库存绩效指标分数，也可以注册本计划并享受计划权益。
 
 要享受权益，您必须在注册后始终满足资格条件。您的资格状态将根据您的库存绩效指标分数每天进行更新。
@@ -64,6 +74,7 @@ fetched_at: 2026-10-30 14:10:00
 要了解更多信息，请参阅[新卖家入门大礼包](https://sellercentral.amazon.com/help/hub/reference/GXMJ38VA95GUN5XU)。
 
 ## ASIN 资格
+
 标准尺寸和非标准尺寸（包括小号、中号及大号非标准尺寸，但不包括特殊非标准尺寸）商品符合本计划的要求。有关更多信息，请参阅[商品尺寸分段](https://sellercentral.amazon.com/gp/help/external/G201105770)。
 
 父 ASIN 必须是新加入 FBA 的 ASIN。有关父 ASIN 的更多信息，请参阅[变体关系](https://sellercentral.amazon.com/gp/help/external/8831)。
@@ -76,10 +87,12 @@ fetched_at: 2026-10-30 14:10:00
 
 **提示： **要查看您的 ASIN 在各亚马逊商城中是否属于新加入 FBA，请前往[亚马逊物流新品入仓优惠计划](https://sellercentral.amazon.com/gc/fulfillment-by-amazon/new-selection)，或者使用我们的[商品搜索工具](https://sellercentral.amazon.com/gc/fulfilment-by-amazon/new-to-fbaproductsearch)。
 
-有关更多详情，请参阅计划[条款和条件](help/hub/reference/GNNBARVDT97NGLQ4)部分。
+有关更多详情，请参阅计划[条款和条件](https://sellercentral.amazon.com/help/hub/reference/GNNBARVDT97NGLQ4)部分。
 
 ## 常见问题
+
 #### 如何计算我的返点？
+
 加入该计划的卖家可以获得符合要求的销售额平均 10% 的返点。 要估算您的返点，请将符合要求的销售额乘以相应商品分类的最低返点率。
 
 返点权益是根据每个商品分类的销售佣金计算得出的。为了确定返点，我们会将适用于每笔销售额的每个分类的销售佣金百分比减去 5%。这会导致大多数商品分类的销售佣金为 5%。
@@ -91,9 +104,11 @@ fetched_at: 2026-10-30 14:10:00
 您的实际返点率可能有所不同，具体取决于多种因素，例如额外的运费和礼品包装费。这些因素可能随具体卖家而异。
 
 #### 在哪里可以追踪我在本计划中的权益？
-注册后，您可以访问[亚马逊物流新品入仓优惠计划控制面板](fulfillment-by-amazon/new-selection/dashboard)。该控制面板会显示您参与本计划的情况，包括您获得的权益以及符合要求的 ASIN。
+
+注册后，您可以访问[亚马逊物流新品入仓优惠计划控制面板](https://sellercentral.amazon.com/fulfillment-by-amazon/new-selection/dashboard)。该控制面板会显示您参与本计划的情况，包括您获得的权益以及符合要求的 ASIN。
 
 #### 批量清货如何运作？
+
 我们会将您的库存发送给批量清货人，这样您通常可以收回商品平均销售价格的 5% 到 10%。 批量清货计划为弃置库存或将库存退还给您提供了一个替代操作。
 
 在美国商城，虽然亚马逊物流新品入仓优惠计划仅提供一项免费的价值回收选项，但如果您愿意，仍然可以通过其他移除渠道移除库存。
@@ -103,9 +118,11 @@ fetched_at: 2026-10-30 14:10:00
 有关更多信息，或者如需退出自动批量清货，请参阅[亚马逊物流批量清货计划](https://sellercentral.amazon.com/gp/help/external/GYVCG5Q3BEJ6MLMF)。
 
 #### 我是否只能向运营中心运送不超过 100 件商品？
+
 不，您可以运送任意数量的商品。但是，只有运营中心接收的每个符合要求的标准尺寸 ASIN 的前 100 件商品和每个符合要求的非标准尺寸 ASIN 的前 50 件商品才能享受费用减免。
 
 #### 我可以同时获得新品入仓优惠计划的返点和新卖家入门大礼包的奖励吗？
+
 对于新的[品牌代表](https://sellercentral.amazon.com/gp/help/external/GJ84K745AL3R5N3Q)，将首先适用新卖家入门大礼包奖励。您可以享受新卖家入门大礼包奖励，时间为在确定相应资格后的一年内或者是直到您的品牌销售额首次达到 $1,000,000（以时间较早者为准）。之后，您将有资格获得新品入仓优惠计划返点。
 
 ---

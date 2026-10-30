@@ -1,23 +1,29 @@
 ---
-title: 备战假日季
+title: "备战假日季"
 doc_id: G8ZDWEJB9Z9YPFQ8
 source: https://sellercentral.amazon.com/help/hub/reference/external/G8ZDWEJB9Z9YPFQ8
 language: zh-CN
-fetched_at: 2026-10-30 13:25:32
+fetched_at: 2026-10-30T13:25:31
 ---
 
 # 备战假日季
 
-在假日季期间，您的销量可能会增加。我们编制了一份最佳实践列表，帮助您在假日季期间做好准备并成功管理您的卖家自配送订单。 **注意： ** 即使您没有计划在假日季推出促销活动，但由于亚马逊流量的增加，您的销量应该也会高于正常水平。有关更多信息，请参阅[季节性促销指南](https://sellercentral.amazon.com/learn/courses?moduleId=33b24db7-f2e2-4be3-b31e-9f3efa5977c2&sid=SU-SEARCH-ce340ecb-b6c6-4fcc-b85c-dfb71d2747ea&ref_=su_search&modLanguage=English)。
+在假日季期间，您的销量可能会增加。我们编制了一份最佳实践列表，帮助您在假日季期间做好准备并成功管理您的卖家自配送订单。
+
+**注意： ** 即使您没有计划在假日季推出促销活动，但由于亚马逊流量的增加，您的销量应该也会高于正常水平。有关更多信息，请参阅[季节性促销指南](https://sellercentral.amazon.com/learn/courses?moduleId=33b24db7-f2e2-4be3-b31e-9f3efa5977c2&sid=SU-SEARCH-ce340ecb-b6c6-4fcc-b85c-dfb71d2747ea&ref_=su_search&modLanguage=English)。
 
 ## 备战假日季销量 - 最佳实践
+
 **追踪绩效**
 
 您必须达到以下要求，才能使您的账户具备相应的资格：
 
 - 确保您在承诺最晚发货日期当天或之前发出包裹并在卖家平台确认发货，以避免延迟发货、无效追踪、延迟配送和取消订单，从而保持良好的账户状况。确保您定期监控您的[绩效指标](https://sellercentral.amazon.com/performance/dashboard)。
+
 - 对于您提供优先配送的 SKU，您可以在[优先配送选项控制面板](https://sellercentral.amazon.com/performance/eligibilities)上查看您的绩效指标。
+
 - 使用[亚马逊购买配送服务](https://sellercentral.amazon.com/gc/sell-online/amazon-buy-shipping)购买货件标签，并在使用亚马逊预先商定的费率或[您自己的关联承运人费率](https://sellercentral.amazon.com/carrier-preferences/main)时获得针对配送问题的账户保护。
+
 - 如果您在“亚马逊购买配送服务”之外购买货件标签，则在确认订单时，请从与亚马逊集成的下拉菜单中选择承运人。这些承运人均可向亚马逊提供订单的实时追踪状态。在确认发货时，确认承运人名称、配送服务级别和追踪编码输入正确无误，且属于同一承运人。确保承运人已扫描您的包裹。
 
 **密切关注您的订单**

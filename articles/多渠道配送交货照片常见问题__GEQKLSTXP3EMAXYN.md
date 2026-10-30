@@ -1,9 +1,9 @@
 ---
-title: 多渠道配送交货照片常见问题
+title: "多渠道配送交货照片常见问题"
 doc_id: GEQKLSTXP3EMAXYN
 source: https://sellercentral.amazon.com/help/hub/reference/external/GEQKLSTXP3EMAXYN
 language: zh-CN
-fetched_at: 2026-10-30 13:31:43
+fetched_at: 2026-10-30T13:31:42
 ---
 
 # 多渠道配送交货照片常见问题
@@ -31,8 +31,11 @@ fetched_at: 2026-10-30 13:31:43
 **我如何自动将交货照片分享给买家？**
 
 要直接将包裹交货照片分享给买家，我们建议您在创建订单时通过以下方式之一添加买家的电子邮件地址（如尚未添加）：
+
 - 卖家平台“创建多渠道配送订单”页面 - 字段名称为“买家电子邮件地址”
+
 - 卖家平台“多渠道配送批量创建订单”- 字段名称为“NotificationEmail”
+
 - 配送出库 API - 通过 CreateFulfillmentOrderRequest 调用 notificationEmails
 
 **如果没有交货照片，我能够要求赔偿？**
@@ -41,7 +44,9 @@ fetched_at: 2026-10-30 13:31:43
 
 **我该如何查看 UPS/Fedex 配送货件的照片？**
 
-对于由 UPS 和 FedEx 等外部承运人配送的包裹，您可以通过承运人的追踪页面查看交货照片。要查看追踪信息，请在卖家平台的货件详情页面点击追踪编码，从而打开 Swiship 追踪页面。在此页面，点击 UPS 追踪编码链接（或将其复制粘贴到 [UPS 追踪页面](https://www.ups.com/track?loc=en_US&requester=ST/)）。如有交货照片，将显示“有交货照片”横幅。输入您货件的邮政编码，即可查看照片。对于 FedEx 货件，在 Swiship 页面复制追踪编码，然后在 [FedEx 追踪页面](https://www.fedex.com/en-us/tracking.html)搜索该编码，此时，若有照片的话，便会显示照片。 **注意： **并非所有配送服务都会提供照片。如果没有提供照片或您对交付证据存有疑问，请直接联系承运人寻求帮助。
+对于由 UPS 和 FedEx 等外部承运人配送的包裹，您可以通过承运人的追踪页面查看交货照片。要查看追踪信息，请在卖家平台的货件详情页面点击追踪编码，从而打开 Swiship 追踪页面。在此页面，点击 UPS 追踪编码链接（或将其复制粘贴到 [UPS 追踪页面](https://www.ups.com/track?loc=en_US&requester=ST/)）。如有交货照片，将显示“有交货照片”横幅。输入您货件的邮政编码，即可查看照片。对于 FedEx 货件，在 Swiship 页面复制追踪编码，然后在 [FedEx 追踪页面](https://www.fedex.com/en-us/tracking.html)搜索该编码，此时，若有照片的话，便会显示照片。
+
+**注意： **并非所有配送服务都会提供照片。如果没有提供照片或您对交付证据存有疑问，请直接联系承运人寻求帮助。
 
 ---
 

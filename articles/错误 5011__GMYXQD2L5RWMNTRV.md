@@ -1,9 +1,9 @@
 ---
-title: 错误 5011
+title: "错误 5011"
 doc_id: GMYXQD2L5RWMNTRV
 source: https://sellercentral.amazon.com/help/hub/reference/external/GMYXQD2L5RWMNTRV
 language: zh-CN
-fetched_at: 2026-10-30 15:27:24
+fetched_at: 2026-10-30T15:27:10
 ---
 
 # 错误 5011

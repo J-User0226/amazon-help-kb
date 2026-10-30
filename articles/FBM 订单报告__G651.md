@@ -1,9 +1,9 @@
 ---
-title: FBM 订单报告
+title: "FBM 订单报告"
 doc_id: G651
 source: https://sellercentral.amazon.com/help/hub/reference/external/G651
 language: zh-CN
-fetched_at: 2026-10-30 13:19:52
+fetched_at: 2026-10-30T13:19:48
 ---
 
 # FBM 订单报告
@@ -19,13 +19,21 @@ FBM 订单报告仅显示在您所选天数内收到的卖家自配送订单的�
 您也可以根据需要，安排定期生成订单报告。有关安排定期生成订单报告的详细信息，请参阅[计划订单报告](https://sellercentral.amazon.com/gp/help/external/G201648760)。
 
 ## 另请参阅：
+
 - [下载订单报告](https://sellercentral.amazon.com/gp/help/external/G200259200)
+
 - [手动请求新的订单报告](https://sellercentral.amazon.com/gp/help/external/G201648820)
+
 - [已存档订单报告](https://sellercentral.amazon.com/gp/help/external/GQE5U7B4QEZY5HEJ)
+
 - [阅读订单报告](https://sellercentral.amazon.com/gp/help/external/G201648770)
+
 - [订单报告字段定义](https://sellercentral.amazon.com/gp/help/external/G201648780)
+
 - [CustomizationInfo 和 CustomerOrderInfo 字段](https://sellercentral.amazon.com/gp/help/external/G200747980)
+
 - [计划订单报告](https://sellercentral.amazon.com/gp/help/external/G201648760)
+
 - [FBM 未发货订单报告](https://sellercentral.amazon.com/gp/help/external/G200133720)
 
 ---

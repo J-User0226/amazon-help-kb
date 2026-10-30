@@ -1,9 +1,9 @@
 ---
-title: 错误 18035
+title: "错误 18035"
 doc_id: G7VZTJFCLPLFC9VM
 source: https://sellercentral.amazon.com/help/hub/reference/external/G7VZTJFCLPLFC9VM
 language: zh-CN
-fetched_at: 2026-10-30 13:23:16
+fetched_at: 2026-10-30T13:23:16
 ---
 
 # 错误 18035

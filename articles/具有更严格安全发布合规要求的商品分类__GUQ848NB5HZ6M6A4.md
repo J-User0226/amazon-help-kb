@@ -1,9 +1,9 @@
 ---
-title: 具有更严格安全发布合规要求的商品分类
+title: "具有更严格安全发布合规要求的商品分类"
 doc_id: GUQ848NB5HZ6M6A4
 source: https://sellercentral.amazon.com/help/hub/reference/external/GUQ848NB5HZ6M6A4
 language: zh-CN
-fetched_at: 2026-10-30 15:29:43
+fetched_at: 2026-10-30T15:29:37
 ---
 
 # 具有更严格安全发布合规要求的商品分类
@@ -11,70 +11,29 @@ fetched_at: 2026-10-30 15:29:43
 如果您要在亚马逊商城发布商品，则必须遵守与这些商品和商品信息相关的所有适用法律、法规、标准以及亚马逊政策。
 
 ## 我们针对具有更严格安全发布合规要求的商品分类的政策
+
 亚马逊对某些商品分类有额外的发布要求。如果缺陷或不合规可能损害买家的健康、安全或福祉，则这些要求适用。如果您的商品必须符合这些要求，亚马逊会在[账户状况](https://sellercentral.amazon.com/performance/account/health/product-policies?t=safe)中通知您。
 
 ## 商品分类
+
 以下是具有更严格安全发布要求的商品分类。此列表会随着亚马逊添加新分类而发生变化，且不涵盖符合这些要求的所有商品。请前往[账户状况](https://sellercentral.amazon.com/performance/account/health/product-policies?t=safe)查看可能适用于您商品的要求。您必须遵守所有适用的要求才能继续销售。
 
-**分类** **包括的商品**
-**儿童商品**，包括但不限于为儿童使用而设计、制造或营销的商品
-- [儿童安全保护带系统、儿童增高椅和旅行装置](https://sellercentral.amazon.com/help/hub/reference/external/G202137200?locale=en-US)
-- [儿童玩具](https://sellercentral.amazon.com/help/hub/reference/external/GKJRA3FRPRKVBJJS?locale=en-US)
-- [婴儿支撑垫和哺乳枕](https://sellercentral.amazon.com/help/hub/reference/external/GF37SYYLMCRJZ35Q?locale=en-US)
-- [婴幼儿睡眠用品](https://sellercentral.amazon.com/help/hub/reference/external/GPCC6385YHNT35A9)
-- [婴儿游戏围栏](https://sellercentral.amazon.com/help/hub/reference/external/GPCC6385YHNT35A9)
-- [儿童活动床栏](https://sellercentral.amazon.com/help/hub/reference/external/GXPFG3RRZB9WFPJE?locale=en-US)
-
-**消费类商品和可食用商品**，包括但不限于用于局部涂抹、摄入或食用以维持或改善健康及外观的商品
-- [膳食补充剂](https://sellercentral.amazon.com/help/hub/reference/external/G55N3JF2WQS7RVNE?locale=en-US)
-- [口服非处方药](https://sellercentral.amazon.com/help/hub/reference/external/G200164490)
-- [眼药商品](https://sellercentral.amazon.com/help/hub/reference/external/G6VSU6Q86RKZKEZW)
-
-**消防相关商品**，包括但不限于用于火灾探测、灭火、火势控制或用火的商品
-- [灭火器](https://sellercentral.amazon.com/help/hub/reference/external/GS972L5FPTCLNYNR?locale=en-US)
-- [烟雾和一氧化碳报警器](https://sellercentral.amazon.com/gp/help/external/GXUCN5ZRJSYN9W9S)
-
-**一般家用设备**，包括但不限于家中或住宅周围使用的电动和非电动商品
-- 浸入式热水器。浸入式热水器是一种用途广泛的便携式电加热设备，通过浸入式加热元件直接对水加热。
-- 小型厨房电器。小型厨房电器是一种紧凑型电动或非电动设备，用于在家中的台面或炉灶上准备、烹饪或加热食物。
-
-**家用医疗器械**，包括但不限于在家中用于医疗治疗、健康监测或身体支撑的设备
-- 医用移动和转运设备。用于辅助、移动或转运行动受限人员的医疗器械或工具。
-- 家用呼吸护理用品。用于帮助个人在家中管理呼吸状况的医疗器械或用品。
-- [助行架和轮式助行器](https://sellercentral.amazon.com/help/hub/reference/external/GCJU83NDQS8JX26Q?locale=en-US)
-
-**锂电池商品**，包括但不限于锂电池以及使用锂电池作为电源的商品
-- [电动交通设备配件](https://sellercentral.amazon.com/help/hub/reference/external/G7HM69VDEMRW7TPE)
-- [电动交通设备](https://sellercentral.amazon.com/help/hub/reference/external/GMUW6CKYLY4AP8MK)
-- [锂电池](https://sellercentral.amazon.com/help/hub/reference/external/G7PAP6BJAUXRM4LH)
-- [锂电池供电的家用电器](https://sellercentral.amazon.com/help/hub/reference/external/G8TM22XFM7WXCRDC)
-- [锂电池供电的智能家居和消费类电子产品](https://sellercentral.amazon.com/help/hub/reference/external/GA2PQDTU5HMC7CRZ?locale=en-US)
-- [便携式电源](https://sellercentral.amazon.com/help/hub/reference/external/GSJFE8S8AES7F7VG)
-
-**户外动力和供暖设备**，包括但不限于专为户外使用而设计的燃油、燃气或机动设备
-- [电动切割工具](https://sellercentral.amazon.com/help/hub/reference/external/G47MZUS764W88ZRP?locale=en-US)
-- 燃气户外供暖商品。一种通过燃烧天然气或丙烷为户外空间供暖的设备。
-- [便携式发电机](https://sellercentral.amazon.com/help/hub/reference/external/GXCXR3BN2ESL6TQC?locale=en-US)
-- [高压清洗机](https://sellercentral.amazon.com/help/hub/reference/external/GCEQ79CVX6XPVK4B?locale=en-US)
-
-**个人防护装备**，包括但不限于为防范人身伤害或环境危害而穿戴或使用的商品
-- [攀岩安全带](https://sellercentral.amazon.com/help/hub/reference/external/GNW6TTB8WVHHECFR?locale=en-US)
-- [攀岩绳](https://sellercentral.amazon.com/help/hub/reference/external/GXQA3Y847TZVJE3R?locale=en-US)
-- [防坠安全带](https://sellercentral.amazon.com/help/hub/reference/external/GL8P7RSBPB3HS553?locale=en-US)
-- [登山锁扣](https://sellercentral.amazon.com/help/hub/reference/external/G52LHU99LA38NLU7?locale=en-US)
-- [登山头盔](https://sellercentral.amazon.com/help/hub/reference/external/GAPBV3UDXPHP3C42?locale=en-US)
-- 安全头盔。头盔是一种用于保护头部免受伤害的头部护具。它通过吸收冲击力来发挥作用。头盔用于多种活动，如骑行、轮滑、体育运动和建筑作业。
-
-**睡眠用品**，包括但不限于床垫以及用于安全睡眠和预防睡眠相关伤害的商品
-- [成人活动床栏](https://sellercentral.amazon.com/help/hub/reference/external/GBG6Z6TKMZHXQU7X)
-- [床垫](https://sellercentral.amazon.com/help/hub/reference/external/GBSYAXLHERCMCSQW)
-
-**运输相关商品**，包括但不限于用于运送人员或货物的商品，以及帮助人们更安全、更轻松地出行的商品 汽车和摩托车轮胎。轮胎是安装在车辆车轮上的橡胶环，用于抓地、支撑重量和缓冲冲击。
-**水上和海上安全用品**，包括但不限于旨在防止在水中或水边发生溺水或受伤的商品
-- 可穿戴式或充气式浮力商品。用于使人在水中保持漂浮状态的商品。
-- 泳池安全及出入控制商品。旨在阻止或检测未经允许进入泳池和水域的商品。这些商品包括但不限于报警系统、围栏、池盖和闸门。
+| 分类 | 包括的商品 |
+| --- | --- |
+| 儿童商品，包括但不限于为儿童使用而设计、制造或营销的商品 | 儿童安全保护带系统、儿童增高椅和旅行装置 儿童玩具 婴儿支撑垫和哺乳枕 婴幼儿睡眠用品 婴儿游戏围栏 儿童活动床栏 |
+| 消费类商品和可食用商品，包括但不限于用于局部涂抹、摄入或食用以维持或改善健康及外观的商品 | 膳食补充剂 口服非处方药 眼药商品 |
+| 消防相关商品，包括但不限于用于火灾探测、灭火、火势控制或用火的商品 | 灭火器 烟雾和一氧化碳报警器 |
+| 一般家用设备，包括但不限于家中或住宅周围使用的电动和非电动商品 | 浸入式热水器。浸入式热水器是一种用途广泛的便携式电加热设备，通过浸入式加热元件直接对水加热。 小型厨房电器。小型厨房电器是一种紧凑型电动或非电动设备，用于在家中的台面或炉灶上准备、烹饪或加热食物。 |
+| 家用医疗器械，包括但不限于在家中用于医疗治疗、健康监测或身体支撑的设备 | 医用移动和转运设备。用于辅助、移动或转运行动受限人员的医疗器械或工具。 家用呼吸护理用品。用于帮助个人在家中管理呼吸状况的医疗器械或用品。 助行架和轮式助行器 |
+| 锂电池商品，包括但不限于锂电池以及使用锂电池作为电源的商品 | 电动交通设备配件 电动交通设备 锂电池 锂电池供电的家用电器 锂电池供电的智能家居和消费类电子产品 便携式电源 |
+| 户外动力和供暖设备，包括但不限于专为户外使用而设计的燃油、燃气或机动设备 | 电动切割工具 燃气户外供暖商品。一种通过燃烧天然气或丙烷为户外空间供暖的设备。 便携式发电机 高压清洗机 |
+| 个人防护装备，包括但不限于为防范人身伤害或环境危害而穿戴或使用的商品 | 攀岩安全带 攀岩绳 防坠安全带 登山锁扣 登山头盔 安全头盔。头盔是一种用于保护头部免受伤害的头部护具。它通过吸收冲击力来发挥作用。头盔用于多种活动，如骑行、轮滑、体育运动和建筑作业。 |
+| 睡眠用品，包括但不限于床垫以及用于安全睡眠和预防睡眠相关伤害的商品 | 成人活动床栏 床垫 |
+| 运输相关商品，包括但不限于用于运送人员或货物的商品，以及帮助人们更安全、更轻松地出行的商品 | 汽车和摩托车轮胎。轮胎是安装在车辆车轮上的橡胶环，用于抓地、支撑重量和缓冲冲击。 |
+| 水上和海上安全用品，包括但不限于旨在防止在水中或水边发生溺水或受伤的商品 | 可穿戴式或充气式浮力商品。用于使人在水中保持漂浮状态的商品。 泳池安全及出入控制商品。旨在阻止或检测未经允许进入泳池和水域的商品。这些商品包括但不限于报警系统、围栏、池盖和闸门。 |
 
 ## 更严格的安全发布合规要求
+
 根据您的商品政策，您必须先满足以下一项或多项要求，才能在亚马逊商城发布商品：
 
 **产品责任保险：** 您必须为此页面列出的商品分类取得保险凭证 (COI)，且每次事故和累计保额均至少为 100 万美元。通过卖家平台上的[商业保险验证](https://sellercentral.amazon.com/mario/v2/az/flow/BusinessInsurance/page/InsuranceEstablishment/global/render)提交您的保险凭证。亚马逊将审查您的保险。一旦符合要求，您便会获得销售权限。有关更多信息，请参阅[商业责任险要求](https://sellercentral.amazon.com/help/hub/reference/external/G200386300)。
@@ -84,21 +43,33 @@ fetched_at: 2026-10-30 15:29:43
 **持续检测：** 您的商品可能随时被随机选中进行定期检测或检验。检测将由经授权的具备直接产品验证资质的第三方检测、检验和认证实验室完成。如果您的商品未通过监控检测，我们会与您联系，告知您必须采取的措施。对于严重的安全问题，亚马逊必须向监管机构报告。您可能需要发出商品召回。
 
 ## 移除商品
+
 如果出现以下情况，亚马逊可能会移除您的商品：
+
 - 您的商品未通过验证或监督检测，则需要进行设计更改以满足要求
+
 - 您的商品被证实与安全事故或财产损失有关联
+
 - 您的商品责任险已失效，或不再符合承保要求
+
 - 您在商城中销售该品牌商品的许可被撤销或已到期
+
 - 无法确认您的商品具有合法的供应链，例如仅通过亚马逊商城销售的品牌商品
 
 ## 违反政策
+
 对于不符合此政策的商品，亚马逊将采取相应措施。我们保留根据《亚马逊服务商业解决方案协议》采取任何进一步措施的权利，包括但不限于移除相关商品信息。
 
 ## 其他亚马逊资源
+
 - [亚马逊服务商业解决方案协议](https://sellercentral.amazon.com/help/hub/reference/external/G1791)
+
 - [移除库存概览](https://sellercentral.amazon.com/help/hub/reference/external/G200280650)
+
 - [修复无在售信息的亚马逊库存](https://sellercentral.amazon.com/inventoryplanning/stranded-inventory/)
+
 - [受限商品](https://sellercentral.amazon.com/help/hub/reference/external/G200164330)
+
 - [服务提供商网络](https://sellercentral.amazon.com/gspn/searchpage/Compliance)
 
 **免责声明：** 本页面提供的信息不构成，且无意构成法律建议。本网站提供的所有信息、内容和材料仅供一般参考。如果您对与商品信息相关的法律法规有疑问，建议咨询法律顾问。

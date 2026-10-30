@@ -1,9 +1,9 @@
 ---
-title: UPS 条款和条件
+title: "UPS 条款和条件"
 doc_id: GV5HXM3KAHZYXHTE
 source: https://sellercentral.amazon.com/help/hub/reference/external/GV5HXM3KAHZYXHTE
 language: zh-CN
-fetched_at: 2026-10-30 14:02:36
+fetched_at: 2026-10-30T14:02:36
 ---
 
 # UPS 条款和条件

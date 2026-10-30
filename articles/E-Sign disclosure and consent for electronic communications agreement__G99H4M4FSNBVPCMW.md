@@ -1,16 +1,16 @@
 ---
-title: E-Sign disclosure and consent for electronic communications agreement
+title: "E-Sign disclosure and consent for electronic communications agreement"
 doc_id: G99H4M4FSNBVPCMW
 source: https://sellercentral.amazon.com/help/hub/reference/external/G99H4M4FSNBVPCMW
-language: zh-CN
-fetched_at: 2026-10-30 13:42:18
+language: en-US
+fetched_at: 2026-10-30T13:42:18
 ---
 
 # E-Sign disclosure and consent for electronic communications agreement
 
 **Introduction**
 
-In order to conduct business using electronic communications, to receive any document or communication electronically, and to use your electronic signature in lieu of signing paper documents, the selling dealer (“Seller”) is providing this written notice and request for consent. (All communications, notices and documents subject to this Agreement shall be defined collectively as “Communications”).
+In order to conduct business using electronic communications, to receive any document or communication electronically, and to use your electronic signature in lieu of signing paper documents, the selling dealer (“Seller”) is providing this written notice and request for consent. (All communications, notices and documents subject to this Agreement shall be defined collectively as “Communications”).
 
 **Consent**
 
@@ -26,7 +26,10 @@ You have the right to receive Communications previously provided to you in elect
 
 **Required Hardware and Software**
 
-The following hardware and software is required in order to conduct electronic Transactions: • Internet access with an up-to-date standards-compliant web-browser that supports the HTTPS protocol, HTML, and cookies • A PDF reader such as Adobe Reader or similar • A connected printer to print documents and/or or sufficient computer disk space to save copies of documents
+The following hardware and software is required in order to conduct electronic Transactions:
+• Internet access with an up-to-date standards-compliant web-browser that supports the HTTPS protocol, HTML, and cookies
+• A PDF reader such as Adobe Reader or similar
+• A connected printer to print documents and/or or sufficient computer disk space to save copies of documents
 
 **Changes to Required Hardware or Software**
 
@@ -36,7 +39,8 @@ You will be notified of any changes to the hardware and/or software requirements
 
 Should you desire to change the email address or U.S. Postal Address where the Seller should send notices and disclosures to you, you must contact the Seller via the process outlined [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLC8ZMBWMBTR6QZZ) or directly to make such request. Please include your previous e-mail address or U.S. Postal Address, and your updated email address or U.S. Postal Address.
 
-** **
+**
+**
 
 ---
 

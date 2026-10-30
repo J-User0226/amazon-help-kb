@@ -1,9 +1,9 @@
 ---
-title: ITEM_BOXING
+title: "ITEM_BOXING"
 doc_id: GDRZU8CZXFU9UHJE
 source: https://sellercentral.amazon.com/help/hub/reference/external/GDRZU8CZXFU9UHJE
 language: zh-CN
-fetched_at: 2026-10-30 13:30:18
+fetched_at: 2026-10-30T13:30:18
 ---
 
 # ITEM_BOXING
@@ -15,8 +15,11 @@ fetched_at: 2026-10-30 13:30:18
 以下类型的商品需要进行套箱包装：
 
 - 可能刺穿包装材料的尖锐商品
+
 - 使用气泡膜包装后未通过 3 英尺跌落测试或在运输和处理过程中可能损坏的易碎商品
+
 - 超过 4.2 盎司的玻璃容器中的危险液体
+
 - 黑胶唱片
 
 ---

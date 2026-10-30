@@ -1,9 +1,9 @@
 ---
-title: 错误 90173
+title: "错误 90173"
 doc_id: GZNFVA99HZYSVTLY
 source: https://sellercentral.amazon.com/help/hub/reference/external/GZNFVA99HZYSVTLY
 language: zh-CN
-fetched_at: 2026-10-30 14:25:10
+fetched_at: 2026-10-30T14:25:10
 ---
 
 # 错误 90173

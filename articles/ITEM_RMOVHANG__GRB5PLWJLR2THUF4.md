@@ -1,9 +1,9 @@
 ---
-title: ITEM_RMOVHANG
+title: "ITEM_RMOVHANG"
 doc_id: GRB5PLWJLR2THUF4
 source: https://sellercentral.amazon.com/help/hub/reference/external/GRB5PLWJLR2THUF4
 language: zh-CN
-fetched_at: 2026-10-30 13:49:38
+fetched_at: 2026-10-30T13:49:38
 ---
 
 # ITEM_RMOVHANG
@@ -15,8 +15,11 @@ fetched_at: 2026-10-30 13:49:38
 以下服装属于必须悬挂在衣架上的例外情况：
 
 - 西装夹克和套装
+
 - 市场价单价高于 $299.99、属于正装或晚礼服、或含有压平后会损坏的材质（例如：全褶、串珠、亮片或蝴蝶结之类的其他装饰品）的裙装
+
 - 市场价单价高于 $299.99 或主要材质类型为真皮革、真皮毛或羊毛的外套
+
 - 市场价单价高于 $299.99 的裤子、衬衫、裙子和睡衣
 
 ---

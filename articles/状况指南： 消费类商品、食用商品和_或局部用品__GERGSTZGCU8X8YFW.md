@@ -1,9 +1,9 @@
 ---
-title: 状况指南： 消费类商品、食用商品和/或局部用品
+title: "状况指南： 消费类商品、食用商品和/或局部用品"
 doc_id: GERGSTZGCU8X8YFW
 source: https://sellercentral.amazon.com/help/hub/reference/external/GERGSTZGCU8X8YFW
 language: zh-CN
-fetched_at: 2026-10-30 13:31:43
+fetched_at: 2026-10-30T13:31:42
 ---
 
 # 状况指南： 消费类商品、食用商品和/或局部用品

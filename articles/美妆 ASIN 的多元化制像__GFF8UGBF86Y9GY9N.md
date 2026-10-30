@@ -1,9 +1,9 @@
 ---
-title: 美妆 ASIN 的多元化制像
+title: "美妆 ASIN 的多元化制像"
 doc_id: GFF8UGBF86Y9GY9N
 source: https://sellercentral.amazon.com/help/hub/reference/external/GFF8UGBF86Y9GY9N
 language: zh-CN
-fetched_at: 2026-10-30 13:33:56
+fetched_at: 2026-10-30T13:33:56
 ---
 
 # 美妆 ASIN 的多元化制像
@@ -15,7 +15,13 @@ fetched_at: 2026-10-30 13:33:56
 在所选 ASIN 的图片区中，此新图片将作为第四张图片（PT03 位置）出现。
 
 ## 样本图片
+
+| |
+| --- |
+| |
+
 ## 常见问题
+
 **如何参与该计划？**
 
 我们的团队正在积极选择参与该计划的 ASIN。您目前无需执行任何其他步骤。

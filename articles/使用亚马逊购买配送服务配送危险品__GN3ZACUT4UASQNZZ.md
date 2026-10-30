@@ -1,9 +1,9 @@
 ---
-title: 使用亚马逊购买配送服务配送危险品
+title: "使用亚马逊购买配送服务配送危险品"
 doc_id: GN3ZACUT4UASQNZZ
 source: https://sellercentral.amazon.com/help/hub/reference/external/GN3ZACUT4UASQNZZ
 language: zh-CN
-fetched_at: 2026-10-30 13:45:11
+fetched_at: 2026-10-30T13:45:11
 ---
 
 # 使用亚马逊购买配送服务配送危险品
@@ -15,13 +15,17 @@ fetched_at: 2026-10-30 13:45:11
 有关危险品商品和要求的更多信息，请参阅以下资源：
 
 - [危险品政策](https://sellercentral.amazon.com/gp/help/external/GN4SW35Y4KXHX8BT)
+
 - [可能的危险品示例](https://sellercentral.amazon.com/gp/help/external/G200525640)
+
 - [针对锂电池和锂电池供电商品的要求](https://sellercentral.amazon.com/gp/help/external/G200383420)
 
 ## 使用亚马逊购买配送服务创建允许的危险品货件
+
 要通过[卖家平台中的购买配送服务](https://sellercentral.amazon.com/gp/help/external/G200202280)创建允许的危险品标签，请按照以下步骤操作：
 
 - 在货件创建流程中，选中【此货件包含危险品】复选框。
+
 - 在分类下拉菜单中提供商品 UNID 和危险品属性。
 
 选中【此货件包含危险品】复选框后，可用的配送方式将自动刷新，以仅显示支持危险品货件的方式。如果没有服务满足买家的配送承诺，或者所选的起运地和目的地不可用，则不会显示配送方式。
@@ -33,8 +37,11 @@ fetched_at: 2026-10-30 13:45:11
 有关如何识别危险品以及了解哪些商品可以使用 Amazon Shipping 或 USPS 进行配送的指南，请参阅：
 
 - [Amazon Shipping 危险品配送指南](https://m.media-amazon.com/images/G/01/amazonshipping/Guides/US_DG_Shipping_Guide.pdf)（仅提供英文版）
+
 - [Amazon Shipping 危险品识别指南](https://m.media-amazon.com/images/G/01/amazonshipping/guides/Dangerous_Goods_Identification_Guide.pdf)（仅提供英文版）
+
 - [Amazon Shipping 禁售商品清单](https://m.media-amazon.com/images/G/01/amazonshipping/guides/Prohibited_Items_Checklist.pdf)（仅提供英文版）
+
 - [USPS 国内配送禁止、限制和危险品](https://www.usps.com/ship/shipping-restrictions.htm)
 
 有关使用亚马逊购买配送服务 API 配送危险品的更多信息，请参阅[卖家配送 API](https://developer-docs.amazon.com/sp-api/docs/merchant-fulfillment-api-v0-reference) 和[配送 API](https://developer-docs.amazon.com/amazon-shipping/docs/shipping-api-v2-reference)。

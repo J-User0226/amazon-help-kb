@@ -1,9 +1,9 @@
 ---
-title: Amazon Vine 销售伙伴资格
+title: "Amazon Vine 销售伙伴资格"
 doc_id: GMWK4XNWMHTTUQSD
 source: https://sellercentral.amazon.com/help/hub/reference/external/GMWK4XNWMHTTUQSD
 language: zh-CN
-fetched_at: 2026-10-30 13:44:19
+fetched_at: 2026-10-30T13:44:19
 ---
 
 # Amazon Vine 销售伙伴资格

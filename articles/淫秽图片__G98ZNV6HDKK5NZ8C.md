@@ -1,9 +1,9 @@
 ---
-title: 淫秽图片
+title: "淫秽图片"
 doc_id: G98ZNV6HDKK5NZ8C
 source: https://sellercentral.amazon.com/help/hub/reference/external/G98ZNV6HDKK5NZ8C
 language: zh-CN
-fetched_at: 2026-10-30 13:25:55
+fetched_at: 2026-10-30T13:25:55
 ---
 
 # 淫秽图片
@@ -16,7 +16,9 @@ fetched_at: 2026-10-30 13:25:55
 
 对于平放或采用隐形人体模型展示的商品的图片，只要整个商品没有被裁剪或遮挡，即可采用。
 
-允许
+| 允许 |
+| --- |
+| |
 
 ---
 

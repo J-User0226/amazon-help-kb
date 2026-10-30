@@ -1,9 +1,9 @@
 ---
-title: 错误 90231
+title: "错误 90231"
 doc_id: GX64EDBCAY2F4SGJ
 source: https://sellercentral.amazon.com/help/hub/reference/external/GX64EDBCAY2F4SGJ
 language: zh-CN
-fetched_at: 2026-10-30 14:12:52
+fetched_at: 2026-10-30T14:12:52
 ---
 
 # 错误 90231

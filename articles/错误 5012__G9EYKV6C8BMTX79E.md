@@ -1,9 +1,9 @@
 ---
-title: 错误 5012
+title: "错误 5012"
 doc_id: G9EYKV6C8BMTX79E
 source: https://sellercentral.amazon.com/help/hub/reference/external/G9EYKV6C8BMTX79E
 language: zh-CN
-fetched_at: 2026-10-30 13:26:01
+fetched_at: 2026-10-30T13:26:01
 ---
 
 # 错误 5012

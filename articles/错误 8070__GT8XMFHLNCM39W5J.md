@@ -1,9 +1,9 @@
 ---
-title: 错误 8070
+title: "错误 8070"
 doc_id: GT8XMFHLNCM39W5J
 source: https://sellercentral.amazon.com/help/hub/reference/external/GT8XMFHLNCM39W5J
 language: zh-CN
-fetched_at: 2026-10-30 13:51:49
+fetched_at: 2026-10-30T13:51:45
 ---
 
 # 错误 8070

@@ -1,9 +1,9 @@
 ---
-title: 错误 8040
+title: "错误 8040"
 doc_id: GE92ZKXET3ABXVNP
 source: https://sellercentral.amazon.com/help/hub/reference/external/GE92ZKXET3ABXVNP
 language: zh-CN
-fetched_at: 2026-10-30 13:30:31
+fetched_at: 2026-10-30T13:30:30
 ---
 
 # 错误 8040

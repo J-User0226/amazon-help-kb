@@ -1,9 +1,9 @@
 ---
-title: 错误 99010
+title: "错误 99010"
 doc_id: GKWM4E4QWN663FXX
 source: https://sellercentral.amazon.com/help/hub/reference/external/GKWM4E4QWN663FXX
 language: zh-CN
-fetched_at: 2026-10-30 13:41:46
+fetched_at: 2026-10-30T13:41:46
 ---
 
 # 错误 99010

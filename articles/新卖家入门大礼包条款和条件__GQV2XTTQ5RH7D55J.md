@@ -1,9 +1,9 @@
 ---
-title: 新卖家入门大礼包条款和条件
+title: "新卖家入门大礼包条款和条件"
 doc_id: GQV2XTTQ5RH7D55J
 source: https://sellercentral.amazon.com/help/hub/reference/external/GQV2XTTQ5RH7D55J
 language: zh-CN
-fetched_at: 2026-10-30 14:15:05
+fetched_at: 2026-10-30T14:15:05
 ---
 
 # 新卖家入门大礼包条款和条件

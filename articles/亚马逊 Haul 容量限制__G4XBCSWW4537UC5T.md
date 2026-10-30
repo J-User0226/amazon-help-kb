@@ -1,9 +1,9 @@
 ---
-title: 亚马逊 Haul 容量限制
+title: "亚马逊 Haul 容量限制"
 doc_id: G4XBCSWW4537UC5T
 source: https://sellercentral.amazon.com/help/hub/reference/external/G4XBCSWW4537UC5T
 language: zh-CN
-fetched_at: 2026-10-30 13:43:55
+fetched_at: 2026-10-30T13:43:55
 ---
 
 # 亚马逊 Haul 容量限制

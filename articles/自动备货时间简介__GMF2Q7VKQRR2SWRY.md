@@ -1,9 +1,9 @@
 ---
-title: 自动备货时间简介
+title: "自动备货时间简介"
 doc_id: GMF2Q7VKQRR2SWRY
 source: https://sellercentral.amazon.com/help/hub/reference/external/GMF2Q7VKQRR2SWRY
 language: zh-CN
-fetched_at: 2026-10-30 13:43:24
+fetched_at: 2026-10-30T13:43:24
 ---
 
 # 自动备货时间简介
@@ -19,15 +19,20 @@ fetched_at: 2026-10-30 13:43:24
 如果您在启用自动备货时间后的 90 天内禁用此设置，系统会自动将您的备货时间恢复为您启用自动备货时间之前设置的值。
 
 ## 历史数据和自动备货时间
+
 当自动备货时间功能无法检测到充足的数据时，系统将使用针对 SKU 手动配置的备货时间。
 
 如果您没有为特定的 SKU 配置备货时间，系统将使用该 SKU 所分配到的配送模板上的备货时间。如果配送模板上没有配置备货时间，则自动备货时间将使用针对账户的默认备货时间。
 
 要启用自动备货时间，请按照以下步骤操作：
-1. 从卖家平台的“设置”菜单中，选择【配送设置】。
-2. 点击【一般配送设置】选项卡。
-3. 向下滚动至【备货时间】，然后点击【编辑】。
-4. 点击切换开关，以启用【自动备货时间】，然后点击【保存】。
+
+- 从卖家平台的“设置”菜单中，选择【配送设置】。
+
+- 点击【一般配送设置】选项卡。
+
+- 向下滚动至【备货时间】，然后点击【编辑】。
+
+- 点击切换开关，以启用【自动备货时间】，然后点击【保存】。
 
 **备货时间报告**
 
@@ -36,6 +41,7 @@ fetched_at: 2026-10-30 13:43:24
 您可以在[商品级别配送首选项](https://sellercentral.amazon.com/seller-fulfilled-product/analytics/ref=xx_msfp_dnav_xx#SHIPPING_PREFERENCES)控制面板下载备货时间报告。有关更多信息，请转到[商品级别配送首选项](https://sellercentral.amazon.com/gp/help/external/GVHT3TKQTDRKNLJW)。
 
 ## Prime 订单的自动备货时间
+
 对于采用次日达或隔日达选项的 Prime 订单，将继续采用当日备货时间。Prime 标准配送订单将默认设置一天备货时间，除非您为您的账户配置了默认当日备货时间。在这种情况下，Prime 标准配送订单将设置为当日备货时间。
 
 **注意： **备货时间仅考虑工作日（不包括周末），除非您通过[订单配送设置](https://sellercentral.amazon.com/sbr/order-fulfillment/)启用周末营业。

@@ -1,16 +1,19 @@
 ---
-title: 错误 5665
+title: "错误 5665"
 doc_id: GEBCXCEUGCFQXVPU
 source: https://sellercentral.amazon.com/help/hub/reference/external/GEBCXCEUGCFQXVPU
 language: zh-CN
-fetched_at: 2026-10-30 13:30:40
+fetched_at: 2026-10-30T13:30:35
 ---
 
 # 错误 5665
 
 亚马逊必须先批准所有品牌，然后您才能使用这些品牌在我们的商城中发布商品。
+
 - 品牌所有者应将其品牌注册到亚马逊[品牌注册](https://brandservices.amazon.com/)中。
+
 - 想要添加新品牌商品的所有其他卖家必须通过填写一份申请来完成品牌名称批准流程。
+
 - 我们已将[申请表](https://sellercentral.amazon.com/product-search/blank-form)集成到“添加商品”体验中，以确保我们收到某个示例商品的完整商品信息。如果您要批量上传商品，处理报告中的错误 5665 会附带一个 URL，用于启用该申请表。
 
 品牌已获得批准？

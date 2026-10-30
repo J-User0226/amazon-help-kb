@@ -1,9 +1,9 @@
 ---
-title: 根据商品形态、规范化的规格值、商品数量和净含量等详情而定的单位计数
+title: "根据商品形态、规范化的规格值、商品数量和净含量等详情而定的单位计数"
 doc_id: G2RCDMZR4SKGQFAY
 source: https://sellercentral.amazon.com/help/hub/reference/external/G2RCDMZR4SKGQFAY
 language: zh-CN
-fetched_at: 2026-10-30 13:15:45
+fetched_at: 2026-10-30T13:15:45
 ---
 
 # 根据商品形态、规范化的规格值、商品数量和净含量等详情而定的单位计数
@@ -11,12 +11,15 @@ fetched_at: 2026-10-30 13:15:45
 在搜索结果和商品页面变体中，完整且准确的数据可提供一致的数量信息，帮助买家找到并购买正确的商品。为了改善买家的购物体验，我们已：
 
 - 针对 138 种商品类型 (PT)，将根据其**商品形态**得到**单位计数类型**。这将确保根据相关商品的“商品形态”来得到“单位计数类型”值（下面提供了相关示例）。
+
 - 启动了**规格**值的标准化规则，以便买家可以获得更加一致的数量信息
 
 此外，当您创建商品信息时，不管是一次创建一个商品信息，还是批量创建商品信息，我们都强制要求您提供三个属性。
 
 - **净含量：** 由数量、重量和体积组成的新属性集，有八种商品类型 (PT) 必须提供此属性集。
+
 - **商品形态：** 这是 86 种商品类型的必填属性。
+
 - **商品数量：** 此属性现在是 154 种商品类型的必填属性。
 
 自 2022 年 10 月起，更新的“单位计数类型”值将应用于 33 个商品类型，该属性的详情可在[完整列表](https://m.media-amazon.com/images/G/01/WTS_SOP_REQ3/Unit_count_type_based_on_PT_and_item_form_Updated__V3.xlsx)中找到。
@@ -25,31 +28,44 @@ fetched_at: 2026-10-30 13:15:45
 
 - **根据商品形态而定的单位计数类型：** 适用于 138 种商品类型： 要查看这些商品类型的清单，请转至： [“净含量”、“商品形态”和“商品数量”属性常见问题](https://sellercentral.amazon.com/gp/help/external/GVWWAJAZ3LM8DYFG)。
 
-此属性指商品的计量单位，具体将取决于商品类型和商品的形态（商品形态）。对于“单位计数类型”，卖家现在可以从下拉菜单的值列表中进行选择。但是，为了在 ASIN 创建或更新过程中规范此属性，我们将根据商品类型和商品形态组合将此属性限制为下拉菜单中允许的值。例如，如果您的 ASIN 属于“洗发水”商品类型和“液体”商品形态，那么“单位计数类型”就应该是“液盎司”。有关更多信息，请参阅以下更多示例并查看[完整列表](https://m.media-amazon.com/images/G/01/WTS_SOP_REQ3/Unit_count_type_based_on_PT_and_item_form_Updated__V3.xlsx)。 **注意： **请注意，只有该列表中提供的值会被系统视为有效值。输入该列表中未提及的值可能会导致目录错误。如果这些错误未被纠正，相关 ASIN 可能会从搜索结果中移除，原因是它们不符合商品信息要求。一旦更新了【单位计数类型】和【商品形态】值，相关 ASIN 将得到恢复。
+此属性指商品的计量单位，具体将取决于商品类型和商品的形态（商品形态）。对于“单位计数类型”，卖家现在可以从下拉菜单的值列表中进行选择。但是，为了在 ASIN
+创建或更新过程中规范此属性，我们将根据商品类型和商品形态组合将此属性限制为下拉菜单中允许的值。例如，如果您的 ASIN
+属于“洗发水”商品类型和“液体”商品形态，那么“单位计数类型”就应该是“液盎司”。有关更多信息，请参阅以下更多示例并查看[完整列表](https://m.media-amazon.com/images/G/01/WTS_SOP_REQ3/Unit_count_type_based_on_PT_and_item_form_Updated__V3.xlsx)。
+
+**注意： **请注意，只有该列表中提供的值会被系统视为有效值。输入该列表中未提及的值可能会导致目录错误。如果这些错误未被纠正，相关 ASIN
+可能会从搜索结果中移除，原因是它们不符合商品信息要求。一旦更新了【单位计数类型】和【商品形态】值，相关
+ASIN 将得到恢复。
 
 示例：
 
-**软百货序号** **商品类型** **商品形态** **单位计数类型 - 允许的值**
-1 DISHWASHER_DETERGENT 片、条 计数、盎司
-DISHWASHER_DETERGENT 凝胶 盎司、液盎司
-DISHWASHER_DETERGENT 包、胶囊 计数
-DISHWASHER_DETERGENT 液体 液盎司
-DISHWASHER_DETERGENT 粉末 盎司
-2 EYELID_COLOR 蜡笔、铅笔 计数、液盎司、盎司
-EYELID_COLOR 乳液 盎司、液盎司
-EYELID_COLOR 条 计数
-EYELID_COLOR 凝胶 液盎司
-EYELID_COLOR 粉末 盎司
-3 VITAMIN 囊片、胶囊、软糖、片剂、条 计数、盎司
-VITAMIN 气溶胶、乳液 盎司、液盎司
-VITAMIN 软凝胶、贴片 计数
-VITAMIN 油、滴剂 液盎司
-VITAMIN 粉末 盎司
+| 软百货序号 | 商品类型 | 商品形态 | 单位计数类型 - 允许的值 |
+| --- | --- | --- | --- |
+| 1 | DISHWASHER_DETERGENT | 片、条 | 计数、盎司 |
+| DISHWASHER_DETERGENT | 凝胶 | 盎司、液盎司 | |
+| DISHWASHER_DETERGENT | 包、胶囊 | 计数 | |
+| DISHWASHER_DETERGENT | 液体 | 液盎司 | |
+| DISHWASHER_DETERGENT | 粉末 | 盎司 | |
+| 2 | EYELID_COLOR | 蜡笔、铅笔 | 计数、液盎司、盎司 |
+| EYELID_COLOR | 乳液 | 盎司、液盎司 | |
+| EYELID_COLOR | 条 | 计数 | |
+| EYELID_COLOR | 凝胶 | 液盎司 | |
+| EYELID_COLOR | 粉末 | 盎司 | |
+| 3 | VITAMIN | 囊片、胶囊、软糖、片剂、条 | 计数、盎司 |
+| VITAMIN | 气溶胶、乳液 | 盎司、液盎司 | |
+| VITAMIN | 软凝胶、贴片 | 计数 | |
+| VITAMIN | 油、滴剂 | 液盎司 | |
+| VITAMIN | 粉末 | 盎司 | |
+
 - **数量信息的标准化规格值：** 自 2022 年 6 月起，标准化规则将自动构建**规格**值，从而让买家看到更加一致的数量信息。在此发布过程中，“规格”值将来自其他目录属性，即 unit_count、number_of_items、net_content_weight、net_content_volume、net_content_count。有关完整详情，请参阅[规格标准化常见问题](https://sellercentral.amazon.com/gp/help/external/GZJRCRLWW7WKKDAH)。
+
 - **净含量：** 适用于 8 种商品类型： 要查看这些商品类型的清单，请转至： [“净含量”、“商品形态”和“商品数量”属性常见问题](https://sellercentral.amazon.com/gp/help/external/GVWWAJAZ3LM8DYFG)。
-  - **净含量计数：** 指包装中的商品数量，例如一包瓶装水的瓶数。仅当【单位计数】属性不足以完整描述商品的净含量时，才需使用该属性，此时该属性为 ASIN 的必填属性。根据所选的商品类型和商品形态，将有一个与该商品相关的计数单位（允许的计量单位）。例如，如果商品类型是 GIFT WRAP，商品形态是“张”，那么净含量计数应为“张”。有关完整列表，请参阅[有效单位计数类型列表](https://m.media-amazon.com/images/G/01/WTS_SOP_REQ3/Unit_count_type_based_on_PT_and_item_form_Updated__V3.xlsx)。完整的有效值包括袋、瓶、箱、罐、纸箱、个数、件、对、张和卷（例如：10 卷、3 个和 5 对）。
-  - **净含量重量：** 指商品不含包装的总重量。例如，如果商品的净重为 12 盎司，共 6 件商品，那么净含量重量就是 72 盎司。
-  - **净含量体积：** 当商品是液体时，这个值指一个包装中所含商品的体积（在标签上注明）。例如，如果商品的单瓶净体积为 10 液盎司，共 6 瓶商品，那么净含量体积就是 60 液盎司。
+
+- **净含量计数：** 指包装中的商品数量，例如一包瓶装水的瓶数。仅当【单位计数】属性不足以完整描述商品的净含量时，才需使用该属性，此时该属性为 ASIN 的必填属性。根据所选的商品类型和商品形态，将有一个与该商品相关的计数单位（允许的计量单位）。例如，如果商品类型是 GIFT WRAP，商品形态是“张”，那么净含量计数应为“张”。有关完整列表，请参阅[有效单位计数类型列表](https://m.media-amazon.com/images/G/01/WTS_SOP_REQ3/Unit_count_type_based_on_PT_and_item_form_Updated__V3.xlsx)。完整的有效值包括袋、瓶、箱、罐、纸箱、个数、件、对、张和卷（例如：10 卷、3 个和 5 对）。
+
+- **净含量重量：** 指商品不含包装的总重量。例如，如果商品的净重为 12 盎司，共 6 件商品，那么净含量重量就是 72 盎司。
+
+- **净含量体积：** 当商品是液体时，这个值指一个包装中所含商品的体积（在标签上注明）。例如，如果商品的单瓶净体积为 10 液盎司，共 6
+瓶商品，那么净含量体积就是 60 液盎司。
 
 - **商品形态：** 适用于 86 种商品类型： 要查看这些商品类型的清单，请转至： [“净含量”、“商品形态”和“商品数量”属性常见问题](https://sellercentral.amazon.com/gp/help/external/GVWWAJAZ3LM8DYFG)。
 
@@ -64,16 +80,19 @@ VITAMIN 粉末 盎司
 下面让我们看几个示例：
 
 - 对于燕麦片，“商品数量”应记录燕麦片的包数，而不是外包装盒的盒数。[商品数量 = 8]
+
 - 对于咖啡胶囊（“商品形态”值等于“胶囊”），“商品数量”值应是胶囊的盒数，而不是胶囊的胶囊数。[商品数量 = 6]
+
 - 对于采用嵌套包装的苹果酱（“商品形态”值等于“酱汁”），“商品数量”应是酱袋的数量。[商品数量 = 4]
 
-请参阅下面提供的其他示例：**商品** **商品类型** **商品形态** **规格** **商品数量**
-[瓶装水](https://www.amazon.com/dp/B00FX6NXNC) WATER 液体 16.9 液盎司（24 瓶装） 24
-[零食棒](https://www.amazon.com/gp/product/B08GDB8YVW?language=en_US&ref=efph_xx_cont_G2RCDMZR4SKGQFAY) SNACK_FOOD_BAR 条 18 条（1 盒装） 1
-[罐装百事可乐，10 罐装](https://www.amazon.com/gp/product/B07BYYQD2B?language=en_US&ref=efph_xx_cont_G2RCDMZR4SKGQFAY) DRINK_FLAVORED 液体 7.5 液盎司（10 罐装） 10
-[咖啡囊包，1 盒装](https://www.amazon.com/dp/B00I08JH3U) COFFEE 胶囊 72 颗（1 盒装） 1
-[咖啡囊包，4 盒装](https://www.amazon.com/dp/B07YF4FNL1) COFFEE 胶囊 22 颗（4 盒装） 4
-[苹果酱](https://www.amazon.com/dp/B0025UOO1Y) FRUIT_SNACK 酱汁 3.9 液盎司（72 袋装） 72
+| 请参阅下面提供的其他示例：商品 | 商品类型 | 商品形态 | 规格 | 商品数量 |
+| --- | --- | --- | --- | --- |
+| 瓶装水 | WATER | 液体 | 16.9 液盎司（24 瓶装） | 24 |
+| 零食棒 | SNACK_FOOD_BAR | 条 | 18 条（1 盒装） | 1 |
+| 罐装百事可乐，10 罐装 | DRINK_FLAVORED | 液体 | 7.5 液盎司（10 罐装） | 10 |
+| 咖啡囊包，1 盒装 | COFFEE | 胶囊 | 72 颗（1 盒装） | 1 |
+| 咖啡囊包，4 盒装 | COFFEE | 胶囊 | 22 颗（4 盒装） | 4 |
+| 苹果酱 | FRUIT_SNACK | 酱汁 | 3.9 液盎司（72 袋装） | 72 |
 
 ---
 

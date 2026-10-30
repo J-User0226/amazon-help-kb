@@ -1,9 +1,9 @@
 ---
-title: 文件后缀不受支持
+title: "文件后缀不受支持"
 doc_id: G2AHG9AAHGG2DPVH
 source: https://sellercentral.amazon.com/help/hub/reference/external/G2AHG9AAHGG2DPVH
 language: zh-CN
-fetched_at: 2026-10-30 13:15:31
+fetched_at: 2026-10-30T13:15:31
 ---
 
 # 文件后缀不受支持

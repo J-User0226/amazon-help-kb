@@ -1,9 +1,9 @@
 ---
-title: Amazon EU and UK stores
+title: "Amazon EU and UK stores"
 doc_id: G200671260
 source: https://sellercentral.amazon.com/help/hub/reference/external/G200671260
 language: zh-CN
-fetched_at: 2026-10-30 12:33:32
+fetched_at: 2026-10-30T12:33:32
 ---
 
 # Amazon EU and UK stores
@@ -11,14 +11,21 @@ fetched_at: 2026-10-30 12:33:32
 使用**欧洲亚马逊商城**账户，您可以在欧洲卖家平台中方便地在 Amazon.de、Amazon.co.uk、Amazon.fr、Amazon.it、Amazon.es 和 Amazon.nl 卖家工具之间切换，以在多个商城中发布商品和管理订单。
 
 ## Benefits of an Amazon Europe Stores account
+
 借助欧洲亚马逊商城账户可以实现：
 
 - 使用一个联合账户，即可在所有欧洲亚马逊商城向买家提供您的商品。
+
 - 在多个欧洲商城共享商品信息并统一管理您的库存。
+
 - 在【管理订单】中或通过一份汇总的订单报告追踪多个欧洲销售渠道的订单。
+
 - 在您的来源商城中使用亚马逊物流作为主要的物流方式，让亚马逊可以通过欧洲配送网络为您的所有买家提供服务。
+
 - 只需每月支付一笔专业卖家服务订阅费。
+
 - 通过合并的用户界面更新或共享账户信息。
+
 - 查看 Amazon.de、Amazon.fr、Amazon.it、Amazon.es 和 Amazon.nl 商城的英文版卖家平台页面。
 
 **重要： **您必须以您销售商品所在商城的当地官方语言提供客户服务。

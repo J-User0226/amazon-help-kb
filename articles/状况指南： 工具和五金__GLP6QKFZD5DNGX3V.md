@@ -1,9 +1,9 @@
 ---
-title: 状况指南： 工具和五金
+title: "状况指南： 工具和五金"
 doc_id: GLP6QKFZD5DNGX3V
 source: https://sellercentral.amazon.com/help/hub/reference/external/GLP6QKFZD5DNGX3V
 language: zh-CN
-fetched_at: 2026-10-30 13:42:33
+fetched_at: 2026-10-30T13:42:33
 ---
 
 # 状况指南： 工具和五金

@@ -1,14 +1,14 @@
 ---
-title: FBA New Selection Terms and Conditions
+title: "FBA New Selection Terms and Conditions"
 doc_id: GNNBARVDT97NGLQ4
 source: https://sellercentral.amazon.com/help/hub/reference/external/GNNBARVDT97NGLQ4
-language: zh-CN
-fetched_at: 2026-10-30 13:46:05
+language: en-US
+fetched_at: 2026-10-30T13:46:05
 ---
 
 # FBA New Selection Terms and Conditions
 
-These FBA New Selection Terms and Conditions (“**Terms and Conditions**”) apply to your participation in the FBA New Selection program (“**FBA New Selection**” or “**Program**”), which is described in full detail on the FBA New Selection page. These Terms and Conditions supplement the [Amazon Services Business Solutions Agreement](https://sellercentral.amazon.com/gp/help/external/G1791) (the “**Agreement**”). Capitalized terms used and not defined in these Terms and Conditions have the meanings ascribed to them in the Agreement.
+These FBA New Selection Terms and Conditions (“**Terms and Conditions**”) apply to your participation in the FBA New Selection program (“**FBA New Selection**” or “**Program**”), which is described in full detail on the FBA New Selection page. These Terms and Conditions supplement the [Amazon Services Business Solutions Agreement](https://sellercentral.amazon.com/gp/help/external/G1791) (the “**Agreement**”). Capitalized terms used and not defined in these Terms and Conditions have the meanings ascribed to them in the Agreement.
 
 **FBA New Selection Program overview**
 
@@ -16,7 +16,7 @@ The Program provides benefits to help Amazon Professional sellers bring new ASIN
 
 **Seller Eligibility**
 
-To be eligible for the Program, you must have a Professional Selling account. Additional seller eligibility criteria may be specified for certain Program benefits on the FBA New Selection page. Your continued participation in the Program is subject to Amazon’s approval, and you must maintain eligibility status throughout your enrollment in the Program in order to receive associated benefits. Sellers may be eligible to receive some or all of the Program benefits.
+To be eligible for the Program, you must have a Professional Selling account. Additional seller eligibility criteria may be specified for certain Program benefits on the FBA New Selection page. Your continued participation in the Program is subject to Amazon’s approval, and you must maintain eligibility status throughout your enrollment in the Program in order to receive associated benefits. Sellers may be eligible to receive some or all of the Program benefits.
 
 **ASIN Eligibility**
 

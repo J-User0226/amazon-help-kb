@@ -1,9 +1,9 @@
 ---
-title: 确保您的商品处于可发现状态
+title: "确保您的商品处于可发现状态"
 doc_id: G2KNH9H3CXZN6ULZ
 source: https://sellercentral.amazon.com/help/hub/reference/external/G2KNH9H3CXZN6ULZ
 language: zh-CN
-fetched_at: 2026-10-30 13:15:41
+fetched_at: 2026-10-30T13:15:41
 ---
 
 # 确保您的商品处于可发现状态

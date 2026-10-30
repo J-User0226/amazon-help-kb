@@ -1,9 +1,9 @@
 ---
-title: 当日达备货
+title: "当日达备货"
 doc_id: GLL8GJCFS23K333Q
 source: https://sellercentral.amazon.com/help/hub/reference/external/GLL8GJCFS23K333Q
 language: zh-CN
-fetched_at: 2026-10-30 13:42:31
+fetched_at: 2026-10-30T13:42:31
 ---
 
 # 当日达备货
@@ -18,7 +18,7 @@ fetched_at: 2026-10-30 13:42:31
 
 同样的逻辑适用于使用默认上午 8:00 截止时间的从中国发往美国的货件。发货仓库当地时间周一上午 7:00 收到的订单必须在当天发货并确认，而下午 4:00 收到的订单必须在周二发货并确认。
 
-**注意： **要计算您的截止时间，除非您配置了特定地点的截止时间，否则我们将会考虑您的默认位置所在的时区。要了解详情，请参阅[基于位置的配送设置](https://www.sellercentral.amazon.dev/gp/help/external/G4LD7W2EKPFK2ULE)。
+**注意： **要计算您的截止时间，除非您配置了特定地点的截止时间，否则我们将会考虑您的默认位置所在的时区。要了解详情，请参阅[基于位置的配送设置](https://www.sellercentral.amazon.dev/gp/help/G4LD7W2EKPFK2ULE)。
 
 **卖家自配送 Prime 订单和优先配送订单**
 
@@ -27,34 +27,44 @@ fetched_at: 2026-10-30 13:42:31
 **注意： **美国国内货件的默认订单截止时间为当地时间下午 2:00，从中国发往美国的订单默认截止时间为当地时间上午 8:00，但您可以在[一般配送设置](https://sellercentral.amazon.com/sbr#settings)中进行编辑。
 
 要设置当日备货时间，您有三个选项：
-- 通过在【一般配送设置】选项卡上编辑[默认备货时间](https://sellercentral.amazon.com/sbr#settings)，将“当日备货时间”设置为针对账户的默认备货时间。所有专业卖家都可以采用该选项。 **注意： **在将默认备货时间设置为当日时，您还可以考虑为准备时间较长的 ASIN 设置更长的备货时间，您可以通过卖家平台的[管理所有库存](https://sellercentral.amazon.com/inventory/ref=xx_invmgr_dnav_xx?tbla_myitable=sort:%7B%22sortOrder%22%3A%22DESCENDING%22%2C%22sortedColumnId%22%3A%22date%22%7D;search:;pagination:1;)工具（一次更新一个商品）或上传库存文件模板（批量更新）进行此操作。为特定 ASIN 设置的备货时间将会覆盖针对账户的备货时间。
+
+- 通过在【一般配送设置】选项卡上编辑[默认备货时间](https://sellercentral.amazon.com/sbr#settings)，将“当日备货时间”设置为针对账户的默认备货时间。所有专业卖家都可以采用该选项。
+
+**注意： **在将默认备货时间设置为当日时，您还可以考虑为准备时间较长的 ASIN 设置更长的备货时间，您可以通过卖家平台的[管理所有库存](https://sellercentral.amazon.com/inventory/ref=xx_invmgr_dnav_xx?tbla_myitable=sort:%7B%22sortOrder%22%3A%22DESCENDING%22%2C%22sortedColumnId%22%3A%22date%22%7D;search:;pagination:1;)工具（一次更新一个商品）或上传库存文件模板（批量更新）进行此操作。为特定 ASIN 设置的备货时间将会覆盖针对账户的备货时间。
 
 - 如果您在过去 30 天已经证明自己有能力满足以下绩效要求，就可以针对特定的配送模板选择当日备货时间。配送模板上的当日备货时间仅适用于标准配送和加急配送选项。
-  - 所有货件的[准时送达率](https://sellercentral.amazon.com/gp/help/external/200633610)至少为 97%
-  - 所有货件的[迟发率](https://sellercentral.amazon.com/gp/help/external/200285190)低于 4%
+
+- 所有货件的[准时送达率](https://sellercentral.amazon.com/gp/help/external/200633610)至少为 97%
+
+- 所有货件的[迟发率](https://sellercentral.amazon.com/gp/help/external/200285190)低于 4%
 
 - 您可以通过在[管理所有库存](https://sellercentral.amazon.com/myinventory/inventory)页面上将您的备货时间设为“0”，或者通过在卖家平台中的[上传数据文件](https://sellercentral.amazon.com/gp/help/external/G1641)来更新特定 SKU 的备货时间。这样，您可以更加灵活地选择将部分或全部商品的备货时间设置为当日。
 
 ## 订单截止时间
+
 对于启用了当日备货时间的商品，将标准配送和加急配送订单的默认订单截止时间设置为当地时间（根据您默认发货地址的时区）。您可以前往[一般配送设置](https://sellercentral.amazon.com/sbr#settings)选项卡，在[订单配送设置](https://sellercentral.amazon.com/gp/help/external/202096730)下查看和编辑您的订单截止时间。
 
 ## 将账户的默认备货时间切换为当日备货
+
 登录卖家平台，然后按照以下步骤操作：
 
-1. 前往[一般配送设置](https://sellercentral.amazon.com/sbr#settings)选项卡。
+- 前往[一般配送设置](https://sellercentral.amazon.com/sbr#settings)选项卡。
 
-2. 向下滚动至【默认备货时间】，然后点击【编辑】。
+- 向下滚动至【默认备货时间】，然后点击【编辑】。
 
-3. 选择【当日（0 天）】，然后点击【保存】。
+- 选择【当日（0 天）】，然后点击【保存】。
 
-4. 可选： 输入您的[订单处理容量](https://sellercentral.amazon.com/gp/help/external/GGKKJFSR59D8SFNP)，然后点击【保存】。这样您就可以设置在默认备货时间内可以处理的订单数量限制，以避免影响[迟发率](https://sellercentral.amazon.com/gp/help/external/G200285190)指标。当您收到的订单多于您能够处理的数量时，系统会根据订单处理容量的值为超出所设容量的所有订单额外增加一天的备货时间。
+- 可选： 输入您的[订单处理容量](https://sellercentral.amazon.com/gp/help/external/GGKKJFSR59D8SFNP)，然后点击【保存】。这样您就可以设置在默认备货时间内可以处理的订单数量限制，以避免影响[迟发率](https://sellercentral.amazon.com/gp/help/external/G200285190)指标。当您收到的订单多于您能够处理的数量时，系统会根据订单处理容量的值为超出所设容量的所有订单额外增加一天的备货时间。
 
 ## 在配送模板上启用或禁用当日备货
+
 如果您满足上述绩效要求，则可以在当前和新的配送模板中启用当日备货。此选项仅适用于**国内标准**配送和**加急配送**选项。要启用或禁用当日备货时间，您可以执行以下步骤：
 
-1. 前往[一般配送设置](https://sellercentral.amazon.com/sbr#settings)。
+- 前往[一般配送设置](https://sellercentral.amazon.com/sbr#settings)。
 
-2. 在配送模板中查找【备货时间】设置部分（仅对符合要求的卖家可见）。默认情况下，当日备货时间处于禁用状态。选中复选框，启用当日备货时间。 **注意： **如果编辑现有的配送模板，请确保与该模板相关的所有 SKU 可在当天发货。如果这是新创建的配送模板，请将可在当天配送的 SKU 分配给该配送模板。有关更多信息，请参阅[向配送模板分配 SKU](https://sellercentral.amazon.com/gp/help/external/G201841600)。
+- 在配送模板中查找【备货时间】设置部分（仅对符合要求的卖家可见）。默认情况下，当日备货时间处于禁用状态。选中复选框，启用当日备货时间。
+
+**注意： **如果编辑现有的配送模板，请确保与该模板相关的所有 SKU 可在当天发货。如果这是新创建的配送模板，请将可在当天配送的 SKU 分配给该配送模板。有关更多信息，请参阅[向配送模板分配 SKU](https://sellercentral.amazon.com/gp/help/external/G201841600)。
 
 您可以按照同一流程为所有分配的 SKU 禁用当日备货。在配送模板中禁用该设置后，系统将根据【管理所有库存】页面上为 SKU 设置的“备货时间”值来计算商品的承诺配送时间。
 

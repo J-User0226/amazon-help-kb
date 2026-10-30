@@ -1,9 +1,9 @@
 ---
-title: 包装箱级库存配置
+title: "包装箱级库存配置"
 doc_id: GWK3VTXZ9W5LHMEN
 source: https://sellercentral.amazon.com/help/hub/reference/external/GWK3VTXZ9W5LHMEN
 language: zh-CN
-fetched_at: 2026-10-30 14:10:36
+fetched_at: 2026-10-30T14:10:36
 ---
 
 # 包装箱级库存配置
@@ -17,16 +17,18 @@ fetched_at: 2026-10-30 14:10:36
 **注意： **您的入库计划可能需要几分钟时间来完成更新。在更新完成之前，请勿关闭浏览器。
 
 ## 合作承运人货件
+
 对于[合作承运人](https://sellercentral.amazon.com/gp/help/external/G201119120)货件，我们会与承运人合作处理您的货件，不会对您的承运人运营和成本产生任何影响。您的货件标签将显示不同的运营中心，以便合作承运人按照包装箱组进行操作，简化商品运输流程。
 
 **注意： **包装箱级库存配置目前不适用于通过非合作承运人运送的货件。当此类货件可以使用包装箱级配置时，我们会通知您。
 
 ## 货件追踪
+
 要追踪包装箱级库存配置货件，请执行以下操作：
 
-1. 前往[货件处理进度](https://sellercentral.amazon.com/gp/ssof/shipping-queue.html)。
+- 前往[货件处理进度](https://sellercentral.amazon.com/gp/ssof/shipping-queue.html)。
 
-2. 点击相关货件对应的【追踪货件】，前往**货件活动**选项卡。
+- 点击相关货件对应的【追踪货件】，前往**货件活动**选项卡。
 
 ---
 

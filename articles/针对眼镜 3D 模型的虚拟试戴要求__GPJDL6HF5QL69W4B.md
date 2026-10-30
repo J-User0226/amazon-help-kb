@@ -1,9 +1,9 @@
 ---
-title: 针对眼镜 3D 模型的虚拟试戴要求
+title: "针对眼镜 3D 模型的虚拟试戴要求"
 doc_id: GPJDL6HF5QL69W4B
 source: https://sellercentral.amazon.com/help/hub/reference/external/GPJDL6HF5QL69W4B
 language: zh-CN
-fetched_at: 2026-10-30 13:46:55
+fetched_at: 2026-10-30T13:46:55
 ---
 
 # 针对眼镜 3D 模型的虚拟试戴要求
@@ -12,13 +12,25 @@ fetched_at: 2026-10-30 13:46:55
 
 节点名称应遵循以下术语： Frame、TempleR、TempleL、LensR、LensL。
 
+![](https://m.media-amazon.com/images/G/01/rainier/help/Spects1.png)
+
+![](https://m.media-amazon.com/images/G/01/rainier/help/Spects2.png)
+
 *3D 网格中的节点示例*
+
+![](https://m.media-amazon.com/images/G/01/rainier/help/spects_3.png)
 
 *节点名称*
 
+![](https://m.media-amazon.com/images/G/01/rainier/help/Spects_4.png)
+
 *Frame node（镜框网状切割）*
 
+![](https://m.media-amazon.com/images/G/01/rainier/help/Spects_5.png)
+
 *TempleL node（左侧太阳穴网格切割）*
+
+![](https://m.media-amazon.com/images/G/01/rainier/help/Spects_6.png)
 
 *LensL node（左侧镜片网格切割）*
 
@@ -26,13 +38,23 @@ fetched_at: 2026-10-30 13:46:55
 
 对于一片式镜片（请参见以下示例），节点名称应遵循以下术语： Frame、TempleR、TempleL、Lens。
 
+![](https://m.media-amazon.com/images/G/01/rainier/help/Spects_7.jpg)
+
+![](https://m.media-amazon.com/images/G/01/rainier/help/Spects_8.jpg)
+
 **材料**
 
 为了以遵循基本物理规律的方式呈现透明材料，必须对眼镜模型的相关部分应用 glTF 扩展 KHR_materials_transmission。
 
 如果 glTF 清单文件中存在 KHR_materials_transmission，则“alphaMode”的值必须设置为“OPAQUE”，并且“transmissionFactor”必须设置为 (0,1] 的范围内。
 
+![](https://m.media-amazon.com/images/G/01/rainier/help/Spects9.png)
+
 镜片的粗糙度值应设置为 1（白色）或 0（黑色），不支持介于中间的值。
+
+![](https://m.media-amazon.com/images/G/01/rainier/help/Spects10.png)
+
+![](https://m.media-amazon.com/images/G/01/rainier/help/Spects11.png)
 
 **方向与对齐**
 
@@ -41,6 +63,8 @@ fetched_at: 2026-10-30 13:46:55
 **对齐：** 中心
 
 **中心点：** 对齐眼镜鼻梁的中心位置
+
+![](https://m.media-amazon.com/images/G/01/rainier/help/Spects12.png)
 
 ---
 

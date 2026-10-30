@@ -1,9 +1,9 @@
 ---
-title: 错误 5010
+title: "错误 5010"
 doc_id: GK4UUYXDF7DUCSMK
 source: https://sellercentral.amazon.com/help/hub/reference/external/GK4UUYXDF7DUCSMK
 language: zh-CN
-fetched_at: 2026-10-30 13:39:43
+fetched_at: 2026-10-30T13:39:43
 ---
 
 # 错误 5010

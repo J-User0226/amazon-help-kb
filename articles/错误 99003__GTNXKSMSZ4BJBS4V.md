@@ -1,9 +1,9 @@
 ---
-title: 错误 99003
+title: "错误 99003"
 doc_id: GTNXKSMSZ4BJBS4V
 source: https://sellercentral.amazon.com/help/hub/reference/external/GTNXKSMSZ4BJBS4V
 language: zh-CN
-fetched_at: 2026-10-30 15:28:58
+fetched_at: 2026-10-30T15:28:56
 ---
 
 # 错误 99003

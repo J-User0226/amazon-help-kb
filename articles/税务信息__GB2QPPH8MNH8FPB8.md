@@ -1,9 +1,9 @@
 ---
-title: 税务信息
+title: "税务信息"
 doc_id: GB2QPPH8MNH8FPB8
 source: https://sellercentral.amazon.com/help/hub/reference/external/GB2QPPH8MNH8FPB8
 language: zh-CN
-fetched_at: 2026-10-30 13:28:07
+fetched_at: 2026-10-30T13:28:07
 ---
 
 # 税务信息

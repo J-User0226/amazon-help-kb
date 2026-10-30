@@ -1,9 +1,9 @@
 ---
-title: 达速度（卖家自配送）
+title: "达速度（卖家自配送）"
 doc_id: GMQG9J9KCDF4Y8FM
 source: https://sellercentral.amazon.com/help/hub/reference/external/GMQG9J9KCDF4Y8FM
 language: zh-CN
-fetched_at: 2026-10-30 14:24:10
+fetched_at: 2026-10-30T14:24:10
 ---
 
 # 达速度（卖家自配送）
@@ -28,13 +28,13 @@ fetched_at: 2026-10-30 14:24:10
 
 此卖家的品牌绩效低于配送速度百分比基准。
 
-**ASIN** **尺寸** **配送** **最近 90 天的当日页面浏览量** **最近 90 天的次日页面浏览量** **最近 90 天的隔日页面浏览量** **最近 90 天的总页面浏览量**
-B00EPP5ZZZ 标准 卖家自配送 8 10 32 1521
-B00SLL5ZZZ 标准 卖家自配送 3 4 18 1461
-B0123D5ZZZ 标准 卖家自配送 2 6 31 798
-总计
+| ASIN | 尺寸 | 配送 | 最近 90 天的当日页面浏览量 | 最近 90 天的次日页面浏览量 | 最近 90 天的隔日页面浏览量 | 最近 90 天的总页面浏览量 |
+| --- | --- | --- | --- | --- | --- | --- |
+| B00EPP5ZZZ | 标准 | 卖家自配送 | 8 | 10 | 32 | 1521 |
+| B00SLL5ZZZ | 标准 | 卖家自配送 | 3 | 4 | 18 | 1461 |
+| B0123D5ZZZ | 标准 | 卖家自配送 | 2 | 6 | 31 | 798 |
+| 总计 | | | 13 | 20 | 81 | 3780 |
 
-13 20 81 3780
 不超过 1 天的配送速度 % =（卖家自配送当日 + 次日页面浏览量）/（卖家自配送总页面浏览量）
 
 = (13 + 20) / 3780
@@ -49,17 +49,21 @@ B0123D5ZZZ 标准 卖家自配送 2 6 31 798
 
 请考虑以下选项，以确保您始终保持在不超过 天的配送速度基准之上：
 
-1. 改为亚马逊配送，或者加入卖家自配送 Prime 计划 - 考虑将您的配送速度提升至 2 天或更短时间，包括加入[亚马逊物流注册建议](https://sellercentral.amazon.com/gp/help/external/GLVZKY7AM8CKEBU6)和/或[卖家自配送 Prime](https://sellercentral.amazon.com/gp/help/external/G201812230) 计划。
-2. 加入配送设置自动化 - 要通过运输时间提高配送速度，请使用[配送设置自动化 (SSA)](https://www.sellercentral.amazon.dev/help/hub/reference/G8WRJF2N5B787XKQ) 自动计算运输时间。
-3. 扩展您的 Prime 区域覆盖范围（如果加入了卖家自配送 Prime 计划）- 已加入卖家自配送 Prime 计划的卖家可以增加您向买家提供 Prime 商品的覆盖区域（邮政编码），从而加快这些买家收到商品的速度。请参阅[配置卖家自配送 Prime 的配送设置](https://sellercentral.amazon.com/gp/help/external/G201860010)页面。
+- 改为亚马逊配送，或者加入卖家自配送 Prime 计划 - 考虑将您的配送速度提升至 2 天或更短时间，包括加入[亚马逊物流注册建议](https://sellercentral.amazon.com/gp/help/external/GLVZKY7AM8CKEBU6)和/或[卖家自配送 Prime](https://sellercentral.amazon.com/gp/help/external/G201812230) 计划。
+
+- 加入配送设置自动化 - 要通过运输时间提高配送速度，请使用[配送设置自动化 (SSA)](https://www.sellercentral.amazon.dev/help/hub/reference/G8WRJF2N5B787XKQ) 自动计算运输时间。
+
+- 扩展您的 Prime 区域覆盖范围（如果加入了卖家自配送 Prime 计划）- 已加入卖家自配送 Prime 计划的卖家可以增加您向买家提供 Prime 商品的覆盖区域（邮政编码），从而加快这些买家收到商品的速度。请参阅[配置卖家自配送 Prime 的配送设置](https://sellercentral.amazon.com/gp/help/external/G201860010)页面。
 
 **常见问题：**
 
-1. 如果改善了不超过 1 天或 2 天的配送速度，是否肯定能赢得推荐报价？
-2. 不能。但提供配送速度承诺可改善买家体验，因此应优先考虑。我们会考虑一系列因素，包括商品价格、供货情况、配送速度和客户服务，来确定买家最可能想要的商品。有关如何成为推荐报价的更多详情，请参阅[推荐报价](https://sellercentral.amazon.com/gp/help/external/G37911)页面。
+- 如果改善了不超过 1 天或 2 天的配送速度，是否肯定能赢得推荐报价？
 
-3. 如何确定优先操作哪些 ASIN？
-4. 您必须使用最佳判断来确定要首先操作哪些 ASIN。我们建议您在做出这一决定时考虑几个因素，包括首先解决在 ASB 计划通信中确定的品牌，然后优先操作页面浏览量最高的 ASIN。在上述假设中，ASIN B00EPP5ZZZ 的页面浏览量最高，因此您可以考虑优先对其执行操作。
+不能。但提供配送速度承诺可改善买家体验，因此应优先考虑。我们会考虑一系列因素，包括商品价格、供货情况、配送速度和客户服务，来确定买家最可能想要的商品。有关如何成为推荐报价的更多详情，请参阅[推荐报价](https://sellercentral.amazon.com/gp/help/external/G37911)页面。
+
+- 如何确定优先操作哪些 ASIN？ 
+
+您必须使用最佳判断来确定要首先操作哪些 ASIN。我们建议您在做出这一决定时考虑几个因素，包括首先解决在 ASB 计划通信中确定的品牌，然后优先操作页面浏览量最高的 ASIN。在上述假设中，ASIN B00EPP5ZZZ 的页面浏览量最高，因此您可以考虑优先对其执行操作。
 
 ---
 

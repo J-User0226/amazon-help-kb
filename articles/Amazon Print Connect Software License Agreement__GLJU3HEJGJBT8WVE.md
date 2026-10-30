@@ -1,9 +1,9 @@
 ---
-title: Amazon Print Connect Software License Agreement
+title: "Amazon Print Connect Software License Agreement"
 doc_id: GLJU3HEJGJBT8WVE
 source: https://sellercentral.amazon.com/help/hub/reference/external/GLJU3HEJGJBT8WVE
 language: zh-CN
-fetched_at: 2026-10-30 13:42:30
+fetched_at: 2026-10-30T13:42:30
 ---
 
 # Amazon Print Connect Software License Agreement

@@ -1,9 +1,9 @@
 ---
-title: 加利福尼亚州农药管理处 (CDPR)
+title: "加利福尼亚州农药管理处 (CDPR)"
 doc_id: GX2ZFS3DLL64ULGW
 source: https://sellercentral.amazon.com/help/hub/reference/external/GX2ZFS3DLL64ULGW
 language: zh-CN
-fetched_at: 2026-10-30 14:11:38
+fetched_at: 2026-10-30T14:11:38
 ---
 
 # 加利福尼亚州农药管理处 (CDPR)

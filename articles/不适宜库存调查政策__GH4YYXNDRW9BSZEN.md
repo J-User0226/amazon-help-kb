@@ -1,9 +1,9 @@
 ---
-title: 不适宜库存调查政策
+title: "不适宜库存调查政策"
 doc_id: GH4YYXNDRW9BSZEN
 source: https://sellercentral.amazon.com/help/hub/reference/external/GH4YYXNDRW9BSZEN
 language: zh-CN
-fetched_at: 2026-10-30 13:37:54
+fetched_at: 2026-10-30T13:37:54
 ---
 
 # 不适宜库存调查政策

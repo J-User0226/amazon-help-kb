@@ -1,9 +1,9 @@
 ---
-title: 卖家自配送 Prime 配送速度报告
+title: "卖家自配送 Prime 配送速度报告"
 doc_id: G4EPNZYYU6ELW96U
 source: https://sellercentral.amazon.com/help/hub/reference/external/G4EPNZYYU6ELW96U
 language: zh-CN
-fetched_at: 2026-10-30 13:17:50
+fetched_at: 2026-10-30T13:17:50
 ---
 
 # 卖家自配送 Prime 配送速度报告
@@ -21,13 +21,17 @@ fetched_at: 2026-10-30 13:17:50
 要下载配送速度报告，请前往[卖家自配送 Prime 绩效控制面板](https://sellercentral.amazon.com/seller-fulfilled-prime/seller-performance)，然后选择【配送速度指标】部分下的【下载配送速度报告】。
 
 ## 卖家自配送 Prime 配送速度报告中包含的字段
+
 #### ASIN
+
 亚马逊商品编码 (ASIN) 是在 Amazon.com 发布待售商品的唯一标识。ASIN 由亚马逊分配。您可以访问[管理卖家自配送商品](https://sellercentral.amazon.com/seller-fulfilled-product/analytics/ref=xx_msfp_dnav_xx#PRODUCTS_LIST)上的商品列表页面，了解哪些 ASIN 导致了配送速度报告中较慢的配送速度，并确定它们与哪些配送模板关联。考虑使用次日达空运/特快配送服务更新这些配送模板，以提供更快的配送速度。
 
 #### 日期
+
 ASIN 列中定义的商品的页面浏览量计算的日期。
 
 #### 尺寸分段
+
 尺寸分段列代表 ASIN 列中列出的商品的尺寸分段分类。尺寸分段包括标准尺寸、大件或超大件。
 
 配送速度要求因尺寸分段而异，因此请务必根据要求了解每个尺寸分段的配送速度绩效。
@@ -35,18 +39,23 @@ ASIN 列中定义的商品的页面浏览量计算的日期。
 请参阅[卖家自配送 Prime 商品尺寸、重量和包裹尺寸](https://sellercentral.amazon.com/gp/help/external/G8Z8W3UU58Q9KDT7)了解尺寸分段定义，以及[卖家自配送 Prime 绩效要求](https://sellercentral.amazon.com/gp/help/external/G202072550)了解配送速度阈值。
 
 #### 当日达详情页面浏览量
+
 承诺提供当日达的详情页面浏览量。
 
 #### ≤ 1 天的详情页面浏览量
+
 承诺配送少于或等于 (≤) 1 天的详情页面浏览量。如果买家看到了“当日达”或“次日达”承诺，页面浏览量将计为 ≤ 1 天阈值。
 
 #### ≤ 2 天的详情页面浏览量
+
 承诺配送少于或等于 (≤) 2 天的详情页面浏览量。如果买家看到了“当日达”“次日达”或“隔日达”的配送承诺，此次页面浏览量将计入 ≤ 2 天的阈值。
 
 #### ≤ 5 天的详情页面浏览量
+
 配送承诺小于或等于 (≤) 5 天的详情页面浏览量。如果买家看到了 5 天或更短时间的配送承诺，此次页面浏览量将计入 ≤ 5 天的阈值。
 
 #### > 5 天的详情页面浏览量
+
 配送承诺超过 (>) 5 天的详情页面浏览量。如果买家看到了 6 天或更长时间的配送承诺，此次页面浏览量将计入 > 5 天的阈值。
 
 ---

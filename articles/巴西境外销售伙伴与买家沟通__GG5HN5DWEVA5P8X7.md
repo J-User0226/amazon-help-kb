@@ -1,9 +1,9 @@
 ---
-title: 巴西境外销售伙伴与买家沟通
+title: "巴西境外销售伙伴与买家沟通"
 doc_id: GG5HN5DWEVA5P8X7
 source: https://sellercentral.amazon.com/help/hub/reference/external/GG5HN5DWEVA5P8X7
 language: zh-CN
-fetched_at: 2026-10-30 13:43:26
+fetched_at: 2026-10-30T13:43:26
 ---
 
 # 巴西境外销售伙伴与买家沟通

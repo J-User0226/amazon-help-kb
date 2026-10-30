@@ -1,9 +1,9 @@
 ---
-title: 为什么我的销售佣金分类与零售网站上显示的分类不同？
+title: "为什么我的销售佣金分类与零售网站上显示的分类不同？"
 doc_id: GUMAYEVLKPU8LMBN
 source: https://sellercentral.amazon.com/help/hub/reference/external/GUMAYEVLKPU8LMBN
 language: zh-CN
-fetched_at: 2026-10-30 14:00:58
+fetched_at: 2026-10-30T14:00:58
 ---
 
 # 为什么我的销售佣金分类与零售网站上显示的分类不同？

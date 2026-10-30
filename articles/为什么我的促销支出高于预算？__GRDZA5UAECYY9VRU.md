@@ -1,9 +1,9 @@
 ---
-title: 为什么我的促销支出高于预算？
+title: "为什么我的促销支出高于预算？"
 doc_id: GRDZA5UAECYY9VRU
 source: https://sellercentral.amazon.com/help/hub/reference/external/GRDZA5UAECYY9VRU
 language: zh-CN
-fetched_at: 2026-10-30 13:49:43
+fetched_at: 2026-10-30T13:49:43
 ---
 
 # 为什么我的促销支出高于预算？

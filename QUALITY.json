@@ -1,0 +1,12 @@
+{
+  "audited_at": "2026-10-30T15:52:22",
+  "canonical_articles": 2767,
+  "address_aliases": 624,
+  "untitled": 35,
+  "languages": {
+    "zh-CN": 2726,
+    "en-US": 41
+  },
+  "tables_preserved": 711,
+  "scope": "缓存正文按官方返回的guid合并，保留表格和图片引用；无标题内容标记待核验。尚未逐篇人工核验。"
+}

@@ -1,9 +1,9 @@
 ---
-title: Customer Service by Amazon 条款和条件
+title: "Customer Service by Amazon 条款和条件"
 doc_id: G65T4N3XGC3MJB38
 source: https://sellercentral.amazon.com/help/hub/reference/external/G65T4N3XGC3MJB38
 language: zh-CN
-fetched_at: 2026-10-30 13:19:54
+fetched_at: 2026-10-30T13:19:54
 ---
 
 # Customer Service by Amazon 条款和条件

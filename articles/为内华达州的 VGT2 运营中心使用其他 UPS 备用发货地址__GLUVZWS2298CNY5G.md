@@ -1,9 +1,9 @@
 ---
-title: 为内华达州的 VGT2 运营中心使用其他 UPS 备用发货地址
+title: "为内华达州的 VGT2 运营中心使用其他 UPS 备用发货地址"
 doc_id: GLUVZWS2298CNY5G
 source: https://sellercentral.amazon.com/help/hub/reference/external/GLUVZWS2298CNY5G
 language: zh-CN
-fetched_at: 2026-10-30 13:42:44
+fetched_at: 2026-10-30T13:42:44
 ---
 
 # 为内华达州的 VGT2 运营中心使用其他 UPS 备用发货地址
@@ -17,22 +17,10 @@ fetched_at: 2026-10-30 13:42:44
 如果您自行与 UPS 安排运送事宜，则您必须自行打印具有该备用地址的标签。如果您通过其他承运人运送，则可以继续使用 VGT2 的实际地址。
 
 具体地址如下：
-VGT2 的实际地址
 
-（没有使用 UPS 的所有货件） VGT2 的备用地址
-
-（仅适用于所有使用 UPS 的货件）
-Amazon.com Services Inc.
-
-6401 Howdy Wells Avenue
-
-Las Vegas, NV 89115
-
-VGT2 via UPS March Air Reserve Base
-
-20701 Krameria Avenue
-
-March Air Reserve Base, CA 92518
+| VGT2 的实际地址 （没有使用 UPS 的所有货件） | VGT2 的备用地址 （仅适用于所有使用 UPS 的货件） |
+| --- | --- |
+| Amazon.com Services Inc. 6401 Howdy Wells Avenue Las Vegas, NV 89115 | VGT2 via UPS March Air Reserve Base 20701 Krameria Avenue March Air Reserve Base, CA 92518 |
 
 ---
 

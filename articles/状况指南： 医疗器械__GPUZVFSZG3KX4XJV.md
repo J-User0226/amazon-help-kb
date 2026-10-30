@@ -1,9 +1,9 @@
 ---
-title: 状况指南： 医疗器械
+title: "状况指南： 医疗器械"
 doc_id: GPUZVFSZG3KX4XJV
 source: https://sellercentral.amazon.com/help/hub/reference/external/GPUZVFSZG3KX4XJV
 language: zh-CN
-fetched_at: 2026-10-30 13:47:07
+fetched_at: 2026-10-30T13:47:07
 ---
 
 # 状况指南： 医疗器械

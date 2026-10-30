@@ -1,9 +1,9 @@
 ---
-title: 创建新 SKU 以切换为亚马逊条形码
+title: "创建新 SKU 以切换为亚马逊条形码"
 doc_id: G9P8W8RZ96JFHVZH
 source: https://sellercentral.amazon.com/help/hub/reference/external/G9P8W8RZ96JFHVZH
 language: zh-CN
-fetched_at: 2026-10-30 13:26:42
+fetched_at: 2026-10-30T13:26:42
 ---
 
 # 创建新 SKU 以切换为亚马逊条形码
@@ -14,56 +14,78 @@ fetched_at: 2026-10-30 13:26:42
 
 如果您的商品不再符合制造商条形码的使用要求，我们会在货件创建期间通知您。对于在 2026 年 3 月 31 日之前已存放在亚马逊运营中心或已经在运往亚马逊运营中心途中的商品，您无需执行任何操作。
 
-**注意： **如果您是品牌所有者，并且已在[亚马逊品牌注册 (Brand Registry)](https://sellercentral.amazon.com/gp/help//G202130410) 中注册了您的 ASIN，则这些变化不适用。
+**注意： **如果您是品牌所有者，并且已在[亚马逊品牌注册 (Brand Registry)](https://sellercentral.amazon.com/gp/help/external//G202130410) 中注册了您的 ASIN，则这些变化不适用。
 
 ## 更改单个 ASIN 的亚马逊条形码设置
+
 **要更改单个 ASIN 的亚马逊条形码设置，请为受影响的 ASIN 创建新 SKU：**
 
 - 在卖家平台中，前往【库存】 > 【管理所有库存】。
+
 - 通过输入受影响的 ASIN 或 SKU，使用搜索栏查找受影响的 SKU。
+
 - 在受影响的 ASIN 或 SKU 旁边，点击三点菜单，然后选择【添加其他状况】。
-- 在商品创建页面上：
-  - 输入新的卖家 SKU 并填写所有必填字段。
-  - 点击【提交/保存并继续】。
+
+- 在商品创建页面上： 
+
+- 输入新的卖家 SKU 并填写所有必填字段。
+
+- 点击【提交/保存并继续】。
 
 **注意： **您可以使用与现有 SKU 相同的商品状况。
 
-- 在【转换为亚马逊物流】页面上：
-  - 选择【亚马逊条形码】作为条形码类型。
-  - 点击【保存并继续】。
-  - 如果需要，请添加危险品信息。
-  - 点击【发布为亚马逊物流商品】。
+- 在【转换为亚马逊物流】页面上： 
+
+- 选择【亚马逊条形码】作为条形码类型。
+
+- 点击【保存并继续】。
+
+- 如果需要，请添加危险品信息。
+
+- 点击【发布为亚马逊物流商品】。
 
 ## 通过批量上传工具更改亚马逊条形码设置
+
 要使用**批量上传**工具创建新的 SKU，请执行以下步骤：
-1. 导航至[亚马逊物流设置](https://sellercentral.amazon.com/fba/settings/index.html#/)，然后向下滚动至【亚马逊物流商品条形码首选项】。点击【编辑】，然后将您的条形码首选项更新为【亚马逊条形码】。
-2. 在[批量上传商品](https://sellercentral.amazon.com/product-search/bulk)页面上，导航至【电子表格】，然后选择“下载空白模板”。要发布亚马逊目录中已有的商品，请选择【获取商品信息加载工具】。
-3. 在“搜索商品编码”下，输入目前使用制造商条形码且需要切换为亚马逊条形码的所有 ASIN。点击【生成电子表格】。
-4. 选择配送渠道代码 AMAZON_XX（XX 随地区变化）后，请按照工作表中提供的【说明】输入所有必填字段，更新模板。
-5. 确保在 E 列“SKU”中输入了新的首选 SKU。 **注意： **成功创建新的 SKU 后，您可以选择在模板上或【管理所有库存】下添加商品价格和其他商品信息。
 
-6. 返回[批量上传商品](https://sellercentral.amazon.com/product-search/bulk)并保存和上传模板。
-7. 如果[商品状态](https://sellercentral.amazon.com/listing/status)页面上的上传状态为【完成】，则表示商品已成功添加到您的目录中。如果状态为【需操作】，请下载处理一览并更正错误以重新上传文件。
+- 导航至[亚马逊物流设置](https://sellercentral.amazon.com/fba/settings/index.html#/)，然后向下滚动至【亚马逊物流商品条形码首选项】。点击【编辑】，然后将您的条形码首选项更新为【亚马逊条形码】。
 
-**注意： ** **批量上传**功能仅适用于参与专业销售计划的卖家。要了解更多信息，请参阅[销售计划对比](https://sellercentral.amazon.com/gp/help/external/G64491)。
+- 在[批量上传商品](https://sellercentral.amazon.com/product-search/bulk)页面上，导航至【电子表格】，然后选择“下载空白模板”。要发布亚马逊目录中已有的商品，请选择【获取商品信息加载工具】。
+
+- 在“搜索商品编码”下，输入目前使用制造商条形码且需要切换为亚马逊条形码的所有 ASIN。点击【生成电子表格】。
+
+- 选择配送渠道代码 AMAZON_XX（XX 随地区变化）后，请按照工作表中提供的【说明】输入所有必填字段，更新模板。
+
+- 确保在 E 列“SKU”中输入了新的首选 SKU。
+
+**注意： **成功创建新的 SKU 后，您可以选择在模板上或【管理所有库存】下添加商品价格和其他商品信息。
+
+- 返回[批量上传商品](https://sellercentral.amazon.com/product-search/bulk)并保存和上传模板。
+
+- 如果[商品状态](https://sellercentral.amazon.com/listing/status)页面上的上传状态为【完成】，则表示商品已成功添加到您的目录中。如果状态为【需操作】，请下载处理一览并更正错误以重新上传文件。
+
+**注意： **
+**批量上传**功能仅适用于参与专业销售计划的卖家。要了解更多信息，请参阅[销售计划对比](https://sellercentral.amazon.com/gp/help/external/G64491)。
 
 打印新的亚马逊条形码，并将其贴在每件商品上。无需支付贴标费用。有关更多信息，请参阅[对亚马逊物流使用亚马逊条形码](https://sellercentral.amazon.com/gp/help/external/G200141490)。
 
 ## 切换为亚马逊条形码后
+
 切换为使用亚马逊条形码后创建新 SKU 时，之前卖家 SKU 的信息通常不会适用。下表总结了针对新 SKU 的变更和建议步骤。
 
-**受影响的区域** **更改** **建议操作**
-库存建议 新 SKU 将具有自己的[库存建议](https://sellercentral.amazon.com/hz/sellingcoach?reportId=INVENTORY)。 为避免混淆，请考虑关闭旧 SKU 商品并提交移除订单，申请将商品退还给您。
-定价建议 [定价建议](https://sellercentral.amazon.com/hz/pricing/dashboard)不适用于新 SKU。这是因为当商品在最近 60 天内但非最近 7 天内售出时，某些提示才会显示。 我们建议您对新 SKU 使用过去的定价建议。
-广告建议 仅当有一定数量的买家查看新 SKU 后，系统才会对其显示[广告建议](https://sellercentral.amazon.com/grow/ref=xx_MYG_dnav_xx?objective=IMPROVE_CONVERSION&recommendationType=SPONSORED_PRODUCTS)。 如果您收到旧 SKU 的通知，并想参加可用的促销，则可将促销应用于新 SKU。
-企业商品价格和数量折扣 如果您是亚马逊企业购卖家，您将收到相关[建议](https://sellercentral.amazon.com/gp/help/external/G201740300)，这些建议可能不会立即适用于新 SKU。 考虑将历史建议应用于新 SKU。
-库存规划 您的新旧 SKU 将在[管理冗余库存](https://sellercentral.amazon.com/inventoryplanning/excess-inventory)、[亚马逊物流库龄](https://sellercentral.amazon.com/inventoryplanning/inventory-age)和[修复无在售信息的亚马逊库存](https://sellercentral.amazon.com/hz/inventory?viewId=STRANDED)下分别拥有一个单独条目。 请务必管理正确的库存条目。
-定向广告 定向广告（如[商品推广](https://services.amazon.com/advertising/overview.html)）不会自动应用于新的 SKU。 为新 SKU 发布新的定向广告活动，或将新 SKU 添加至现有广告活动。
-其他广告 特惠、优惠券、Prime 专享折扣和促销不会自动应用于新 SKU。 为新 SKU 发布新的广告选项。
-订购省 [订购省](https://sellercentral.amazon.com/gp/help/external/G201620110)订阅服务不会自动应用于新 SKU。 在[管理“订购省”商品](https://sellercentral.amazon.com/gp/help/external/G201958650)中为您的新 SKU 创建转移订阅请求。
-虚拟捆绑商品 现有的[虚拟捆绑商品](https://sellercentral.amazon.com/gp/help/external/G87HAE6PMKKM23Z7)不会自动与新 SKU 合并。 创建包含新 SKU 的新虚拟捆绑商品。
-计划中的 ASIN 转换后的 ASIN 可能不再符合[卖家自配送 Prime](https://sellercentral.amazon.com/gp/help/external/G201812230) 的要求。 查看资格要求并根据情况注册商品。
-全球开店 系统将仅为您的主商城创建新 SKU。 如需[全球开店](https://sellercentral.amazon.com/global-selling/dashboard)，则必须完成相同的流程来更改每个目标商城的设置。条形码资格可能随商城变化。
+| 受影响的区域 | 更改 | 建议操作 |
+| --- | --- | --- |
+| 库存建议 | 新 SKU 将具有自己的库存建议。 | 为避免混淆，请考虑关闭旧 SKU 商品并提交移除订单，申请将商品退还给您。 |
+| 定价建议 | 定价建议不适用于新 SKU。这是因为当商品在最近 60 天内但非最近 7 天内售出时，某些提示才会显示。 | 我们建议您对新 SKU 使用过去的定价建议。 |
+| 广告建议 | 仅当有一定数量的买家查看新 SKU 后，系统才会对其显示广告建议。 | 如果您收到旧 SKU 的通知，并想参加可用的促销，则可将促销应用于新 SKU。 |
+| 企业商品价格和数量折扣 | 如果您是亚马逊企业购卖家，您将收到相关建议，这些建议可能不会立即适用于新 SKU。 | 考虑将历史建议应用于新 SKU。 |
+| 库存规划 | 您的新旧 SKU 将在管理冗余库存、亚马逊物流库龄和修复无在售信息的亚马逊库存下分别拥有一个单独条目。 | 请务必管理正确的库存条目。 |
+| 定向广告 | 定向广告（如商品推广）不会自动应用于新的 SKU。 | 为新 SKU 发布新的定向广告活动，或将新 SKU 添加至现有广告活动。 |
+| 其他广告 | 特惠、优惠券、Prime 专享折扣和促销不会自动应用于新 SKU。 | 为新 SKU 发布新的广告选项。 |
+| 订购省 | 订购省订阅服务不会自动应用于新 SKU。 | 在管理“订购省”商品中为您的新 SKU 创建转移订阅请求。 |
+| 虚拟捆绑商品 | 现有的虚拟捆绑商品不会自动与新 SKU 合并。 | 创建包含新 SKU 的新虚拟捆绑商品。 |
+| 计划中的 ASIN | 转换后的 ASIN 可能不再符合卖家自配送 Prime 的要求。 | 查看资格要求并根据情况注册商品。 |
+| 全球开店 | 系统将仅为您的主商城创建新 SKU。 | 如需全球开店，则必须完成相同的流程来更改每个目标商城的设置。条形码资格可能随商城变化。 |
 
 ---
 

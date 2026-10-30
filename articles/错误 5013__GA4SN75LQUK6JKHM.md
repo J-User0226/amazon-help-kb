@@ -1,9 +1,9 @@
 ---
-title: 错误 5013
+title: "错误 5013"
 doc_id: GA4SN75LQUK6JKHM
 source: https://sellercentral.amazon.com/help/hub/reference/external/GA4SN75LQUK6JKHM
 language: zh-CN
-fetched_at: 2026-10-30 13:26:53
+fetched_at: 2026-10-30T13:26:52
 ---
 
 # 错误 5013

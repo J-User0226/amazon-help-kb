@@ -1,9 +1,9 @@
 ---
-title: 错误 8065
+title: "错误 8065"
 doc_id: GGT2JTB7G54L7GHC
 source: https://sellercentral.amazon.com/help/hub/reference/external/GGT2JTB7G54L7GHC
 language: zh-CN
-fetched_at: 2026-10-30 15:26:26
+fetched_at: 2026-10-30T15:26:21
 ---
 
 # 错误 8065

@@ -1,9 +1,9 @@
 ---
-title: 为卖家自配送订单发放退款和补偿
+title: "为卖家自配送订单发放退款和补偿"
 doc_id: GU7K5N5GUP67M4X9
 source: https://sellercentral.amazon.com/help/hub/reference/external/GU7K5N5GUP67M4X9
 language: zh-CN
-fetched_at: 2026-10-30 15:29:30
+fetched_at: 2026-10-30T15:29:30
 ---
 
 # 为卖家自配送订单发放退款和补偿
@@ -19,8 +19,11 @@ fetched_at: 2026-10-30 15:29:30
 如果您希望买家退还商品，建议您在收到商品后发放退款，以便评估退货商品的状况。为确保良好的买家体验，请积极监控退款进度，确保及时将退款发放给买家。要设置退货说明，请前往[退货设置](https://sellercentral.amazon.com/gp/returns/settings/ref=xx_myr_dnav_help)。
 
 有关更多详情，请参阅：
+
 - [发放全额退款](https://sellercentral.amazon.com/help/hub/reference/G201650090)
+
 - [发放部分退款](https://sellercentral.amazon.com/help/hub/reference/G201650140)
+
 - [发放补偿](https://sellercentral.amazon.com/help/hub/reference/G200359070)
 
 **注意： **所有亚马逊物流订单的退款，以及发往由亚马逊自动收取税费的州的订单的仅税费退款，均由亚马逊客户服务处理。有关更多信息，请参阅[美国商城税务和监管费用征收常见问题](https://sellercentral.amazon.com/help/hub/reference/G7VYHGJ8ZT2M58CP)。
