@@ -385,6 +385,20 @@
     "file": "状况指南__200339950.md"
   },
   {
+    "title": "发放优惠",
+    "doc_id": "200359070",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200359070",
+    "fetched_at": "2026-10-30 12:23:09",
+    "file": "发放优惠__200359070.md"
+  },
+  {
+    "title": "就账户被停用或商品被移除提出申诉",
+    "doc_id": "200370560",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200370560",
+    "fetched_at": "2026-10-30 12:23:00",
+    "file": "就账户被停用或商品被移除提出申诉__200370560.md"
+  },
+  {
     "title": "墨水或墨粉",
     "doc_id": "200373340",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200373340",
@@ -460,6 +474,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200404870",
     "fetched_at": "2026-10-30 12:07:59",
     "file": "国际卖家重要须知__200404870.md"
+  },
+  {
+    "title": "税费政策",
+    "doc_id": "200405820",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200405820",
+    "fetched_at": "2026-10-30 12:23:38",
+    "file": "税费政策__200405820.md"
   },
   {
     "title": "发布没有商品编码（UPC、EAN、JAN 或 ISBN）的商品",
@@ -642,6 +663,27 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200785170",
     "fetched_at": "2026-10-30 12:11:33",
     "file": "管理您的承运人账户__200785170.md"
+  },
+  {
+    "title": "Tax Calculation Services Terms",
+    "doc_id": "200787220",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200787220",
+    "fetched_at": "2026-10-30 12:23:10",
+    "file": "Tax Calculation Services Terms__200787220.md"
+  },
+  {
+    "title": "亚马逊税务计算服务",
+    "doc_id": "200787660",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200787660",
+    "fetched_at": "2026-10-30 12:23:00",
+    "file": "亚马逊税务计算服务__200787660.md"
+  },
+  {
+    "title": "Product Tax Codes",
+    "doc_id": "200794510",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200794510",
+    "fetched_at": "2026-10-30 12:23:10",
+    "file": "Product Tax Codes__200794510.md"
   },
   {
     "title": "解决接收问题",
@@ -973,6 +1015,13 @@
     "file": "从亚马逊运营中心移除库存__201436560.md"
   },
   {
+    "title": "修复无在售信息的亚马逊库存",
+    "doc_id": "201436600",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201436600",
+    "fetched_at": "2026-10-30 12:23:00",
+    "file": "修复无在售信息的亚马逊库存__201436600.md"
+  },
+  {
     "title": "销售服务条款",
     "doc_id": "201484410",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201484410",
@@ -1050,6 +1099,13 @@
     "file": "视频、DVD 和蓝光光盘__201607580.md"
   },
   {
+    "title": "亚马逊免税计划",
+    "doc_id": "201641810",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201641810",
+    "fetched_at": "2026-10-30 12:23:01",
+    "file": "亚马逊免税计划__201641810.md"
+  },
+  {
     "title": "亚马逊翻新商品计划概览",
     "doc_id": "201648580",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201648580",
@@ -1069,6 +1125,48 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201689020",
     "fetched_at": "2026-10-30 12:13:58",
     "file": "激光商品__201689020.md"
+  },
+  {
+    "title": "州税务登记号",
+    "doc_id": "201706660",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201706660",
+    "fetched_at": "2026-10-30 12:23:13",
+    "file": "州税务登记号__201706660.md"
+  },
+  {
+    "title": "设置税务计算服务",
+    "doc_id": "201706700",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201706700",
+    "fetched_at": "2026-10-30 12:23:03",
+    "file": "设置税务计算服务__201706700.md"
+  },
+  {
+    "title": "亚马逊免税计划 (ATEP) 如何运作",
+    "doc_id": "201707880",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201707880",
+    "fetched_at": "2026-10-30 12:23:03",
+    "file": "亚马逊免税计划 (ATEP) 如何运作__201707880.md"
+  },
+  {
+    "title": "Customers With Tax-Exempt Status",
+    "doc_id": "201707890",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201707890",
+    "fetched_at": "2026-10-30 12:23:13",
+    "file": "Customers With Tax-Exempt Status__201707890.md"
+  },
+  {
+    "title": "获取免税证书",
+    "doc_id": "201707900",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201707900",
+    "fetched_at": "2026-10-30 12:23:13",
+    "file": "获取免税证书__201707900.md"
+  },
+  {
+    "title": "切换到个人销售计划",
+    "doc_id": "201710030",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201710030",
+    "fetched_at": "2026-10-30 12:23:35",
+    "file": "切换到个人销售计划__201710030.md"
   },
   {
     "title": "预留库存报告",
@@ -1239,6 +1337,13 @@
     "file": "卖家自配送订单的预付费退货__202072200.md"
   },
   {
+    "title": "预付费退货的退货原因代码",
+    "doc_id": "202080050",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202080050",
+    "fetched_at": "2026-10-30 12:23:29",
+    "file": "预付费退货的退货原因代码__202080050.md"
+  },
+  {
     "title": "购买配送服务首选项",
     "doc_id": "202086070",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202086070",
@@ -1251,6 +1356,20 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202094740",
     "fetched_at": "2026-10-30 12:22:06",
     "file": "创建库存文件模板__202094740.md"
+  },
+  {
+    "title": "降级/升级以及税务计算服务",
+    "doc_id": "202101950",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202101950",
+    "fetched_at": "2026-10-30 12:23:29",
+    "file": "降级_升级以及税务计算服务__202101950.md"
+  },
+  {
+    "title": "自定义税率",
+    "doc_id": "202102080",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202102080",
+    "fetched_at": "2026-10-30 12:23:35",
+    "file": "自定义税率__202102080.md"
   },
   {
     "title": "补货报告",
@@ -2210,6 +2329,69 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200226780",
     "fetched_at": "2026-10-30 12:22:08",
     "file": "配送设置权限__G200226780.md"
+  },
+  {
+    "title": "使用商品信息加载工具上传库存",
+    "doc_id": "G200231860",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200231860",
+    "fetched_at": "2026-10-30 12:22:57",
+    "file": "使用商品信息加载工具上传库存__G200231860.md"
+  },
+  {
+    "title": "商品信息加载工具概览",
+    "doc_id": "G200231900",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200231900",
+    "fetched_at": "2026-10-30 12:23:46",
+    "file": "商品信息加载工具概览__G200231900.md"
+  },
+  {
+    "title": "商品信息加载工具格式",
+    "doc_id": "G200231910",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200231910",
+    "fetched_at": "2026-10-30 12:23:46",
+    "file": "商品信息加载工具格式__G200231910.md"
+  },
+  {
+    "title": "亚马逊物流视频教程",
+    "doc_id": "G200249180",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200249180",
+    "fetched_at": "2026-10-30 12:22:57",
+    "file": "亚马逊物流视频教程__G200249180.md"
+  },
+  {
+    "title": "修复“无商品信息”错误",
+    "doc_id": "G200252930",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200252930",
+    "fetched_at": "2026-10-30 12:22:57",
+    "file": "修复“无商品信息”错误__G200252930.md"
+  },
+  {
+    "title": "要求和限制",
+    "doc_id": "G200253000",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200253000",
+    "fetched_at": "2026-10-30 12:23:46",
+    "file": "要求和限制__G200253000.md"
+  },
+  {
+    "title": "下载 FBM 订单报告",
+    "doc_id": "G200259200",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200259200",
+    "fetched_at": "2026-10-30 12:23:48",
+    "file": "下载 FBM 订单报告__G200259200.md"
+  },
+  {
+    "title": "在玩具和游戏店铺中添加商品",
+    "doc_id": "G200264390",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200264390",
+    "fetched_at": "2026-10-30 12:23:48",
+    "file": "在玩具和游戏店铺中添加商品__G200264390.md"
+  },
+  {
+    "title": "商品页面风格指南",
+    "doc_id": "G200270100",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200270100",
+    "fetched_at": "2026-10-30 12:23:48",
+    "file": "商品页面风格指南__G200270100.md"
   },
   {
     "title": "关闭您的卖家账户",
