@@ -3,7 +3,7 @@ title: 全球卖家身份、地址和公司验证
 doc_id: GQRP483PDN88Q3M9
 source: https://sellercentral.amazon.com/help/hub/reference/external/GQRP483PDN88Q3M9
 language: zh-CN
-fetched_at: 2026-10-30 09:52:38
+fetched_at: 2026-10-30 13:49:15
 ---
 
 # 全球卖家身份、地址和公司验证
@@ -12,7 +12,6 @@ fetched_at: 2026-10-30 09:52:38
 
 ## 文件提交
 提交相关文件以激活卖家账户之前，您必须登录卖家平台并完成注册流程：
-
 1. 更新业务信息
 2. 卖家信息
 3. 账单
@@ -25,7 +24,6 @@ fetched_at: 2026-10-30 09:52:38
 我们必须验证注册账户的法人代表或受益所有人的身份，以及公司和地址信息的合法性。
 
 注册账户的人员（又称“主要联系人”）必须提供以下文件：
-
 - 身份证明文件
 - 公司验证文件
 - 地址证明
@@ -37,7 +35,6 @@ fetched_at: 2026-10-30 09:52:38
 **公司验证文件**
 
 我们要求提供政府签发的显示贵公司相关信息的文件。这些文件必须与您在注册时输入的公司信息一致。我们需要您提供以下文件，证明您的公司是合法的：
-
 - 信用良好证明或同等证明文件，明确表明公司近期处于营业状态且符合法规要求。此证明在不同国家/地区的名称可能会有所不同，例如“存续证书”“Attestation de situation”“Aktif Belge”。
 - 最近签发或续期的营业执照
 - 其他官方文件：
@@ -71,7 +68,6 @@ fetched_at: 2026-10-30 09:52:38
 [在此处签名]
 
 请确保您的业务文件符合以下文件要求和标准，并且是在过去 180 天内签发。政府授权机构签发的有效公司文件。企业文件必须包含以下信息：
-
 - 提供商或签发机构的名称或徽标
 - 公司或实体的名称
 - 营业执照或商业登记号
@@ -81,7 +77,6 @@ fetched_at: 2026-10-30 09:52:38
 **地址证明**
 
 根据您的卖家账户类型，我们要求提供以下文件来证明您的地址有效。
-
 - **个人卖家：**
   - 支票、储蓄或贷款账户的银行对账单
   - 电子商务支付服务商提供的信用卡对账单、账单或账户对账单
@@ -106,7 +101,6 @@ fetched_at: 2026-10-30 09:52:38
   - 营业执照或业务摘要（也可接受电子版）
 
 请确保您的文件符合文件要求和以下标准。有效的地址证明是一份由可靠的独立提供商提供的文件。有效的地址证明不能是手写的，且必须包含以下信息：
-
 - 提供商或签发机构的名称或徽标
 - 客户名称
   - **专业卖家**： 必须包含公司或实体的名称
@@ -125,7 +119,6 @@ fetched_at: 2026-10-30 09:52:38
 根据您公司的实际位置或开店的商城，我们可能会要求您提供有关您公司的其他文件和信息。
 
 **为避免文件被拒绝，这些文件必须满足以下要求：**
-
 - 当前有效（未过期、撤销、失效或吊销）
 - 分辨率高且无遮挡（清晰、可读、可辨、对焦准确）
 - 完整、任一侧边均无切断（无歪斜、无裁剪）
@@ -139,7 +132,6 @@ fetched_at: 2026-10-30 09:52:38
 
 ## 每个国家/地区的要求
 有关详细的文件要求，请点击您选择的公司地址：
-
 [澳大利亚](https://sellercentral.amazon.com/gp/help/external/GQVPQARLRERHWKBV) [中国香港](https://sellercentral.amazon.com/gp/help/external/GVEGSMPP7CJP2Z2F) [西班牙](https://sellercentral.amazon.com/gp/help/external/GNVB7W46WT2CB3RE)
 [巴西](https://sellercentral.amazon.com/gp/help/external/GAZSVFRDYZPFBYHD) [印度](https://sellercentral.amazon.com/gp/help/external/GF4CEZLPSKFXPCM3) [瑞典](https://sellercentral.amazon.com/gp/help/external/GHCZ2QCPHULGPHDR)
 [加拿大](https://sellercentral.amazon.com/gp/help/external/GTNS9EVXU2KVBHC5) [意大利](https://sellercentral.amazon.com/gp/help/external/G8MDJRDWCY6SH6E2) [阿联酋](https://sellercentral.amazon.com/gp/help/external/GM9MYVG9NBJCDFVT)
@@ -148,20 +140,17 @@ fetched_at: 2026-10-30 09:52:38
 [法国](https://sellercentral.amazon.com/gp/help/external/G66JB7E3P2RBVDWJ) [波兰](https://sellercentral.amazon.com/gp/help/external/GDK9GP9K2N9862KZ) [中国台湾](https://sellercentral.amazon.com/gp/help/external/GSB8S8BQF68WHN9W)
 [德国](https://sellercentral.amazon.com/gp/help/external/GSDEZ743QCQ2VMGZ) [沙特阿拉伯](https://sellercentral.amazon.com/gp/help/external/GHSP9MFQ33KW5LSX) [土耳其](https://sellercentral.amazon.com/gp/help/external/GHMMVB2ARHVMNZMR)
 [日本](https://sellercentral.amazon.com/gp/help/external/G4GJXD8MWGJK7BJD) [新加坡](https://sellercentral.amazon.com/gp/help/external/G2FYAUYVBPV7C3AJ)
-[爱尔兰](https://sellercentral.amazon.com/help/hub/reference/external/GG8XNRBQNFCFRPQB)
+[爱尔兰](https://sellercentral.amazon.com/help/hub/reference/GG8XNRBQNFCFRPQB)
 
-[南非](https://sellercentral.amazon.com/help/hub/reference/external/GBVK5PEDGFPCVBKJ)
+[南非](https://sellercentral.amazon.com/help/hub/reference/GBVK5PEDGFPCVBKJ)
 
-如果您的公司地址（国家/地区）不在上表中，请按照以下原则提交文件：
-
-**重要： **如果您的身份证明文件与现在居住的国家/地区不符，请确保您的地址证明与现在居住的国家/地区一致。
+如果您的公司地址（国家/地区）不在上表中，请按照以下原则提交文件： **重要： **如果您的身份证明文件与现在居住的国家/地区不符，请确保您的地址证明与现在居住的国家/地区一致。
 
 **身份证明文件**
 
 我们接受的身份证明文件包括护照、护照卡、居民身份证、驾照、加强版驾照、国籍卡、永久居民卡、医疗卡或军人身份证。
 
 请确保您的身份证明文件符合文件要求和以下标准：
-
 - 必须为政府签发的带照片的身份证明文件，该文件必须在您以公民或居民身份所在的国家/地区受认可且由该国家/地区签发。
 - 必须显示姓名。姓名必须与您在卖家账户中作为主要联系人输入的姓名一致。
 - 必须包含出生日期。身份证件持有人必须年满 18 周岁。
@@ -179,7 +168,6 @@ fetched_at: 2026-10-30 09:52:38
 如果您是企业卖家，您需要提供公司受益所有人、董事或受托人的信息。受益所有人、董事或受托人是指直接或间接拥有企业 25% 以上的股份或表决权，或通过其他方式拥有企业的自然人。如果没有个人符合上述标准，那么任何担任高级管理职位的个人都是受益所有人、董事或受托人。
 
 以下问题可帮助您确定控制公司的人员：
-
 - 是否存在直接或间接控制公司的个人？
 - 是否有人有权直接或间接任命或罢免行政、管理或监督部门的成员？
 - 是否存在直接或间接负责关键决策的个人？
@@ -191,7 +179,6 @@ fetched_at: 2026-10-30 09:52:38
 **如何在账户中添加受益所有人、董事或受托人？**
 
 如果受益所有人、董事或受托人与主要联系人不是同一人，您必须提供他们以及符合上述条件的公司每位受益所有人、董事或受托人的详细信息。要更新受益所有人、董事或受托人的数量，请按以下说明操作：
-
 1. 找到您的【账户信息】。例如，选择【设置】 > 【账户设置】。
 2. 找到【企业信息】部分，然后点击【身份信息】。
 3. 点击屏幕底部的蓝色字体 **+ 添加受益所有人、董事或受托人**。
@@ -200,13 +187,9 @@ fetched_at: 2026-10-30 09:52:38
 6. 点击**提交**以供验证。
 
 ## 上传文件后会发生什么
-在您上传所有必要的文件和信息后，卖家平台将显示一条确认消息。您可以关闭浏览器中的选项卡。亚马逊会审核您的信息，如有需要，可能会在 2 个工作日内与您联系，请您作出进一步说明。我们将通过电子邮件将相关信息发送到您在注册时提供的电子邮件地址。
+在您上传所有必要的文件和信息后，卖家平台将显示一条确认消息。您可以关闭浏览器中的选项卡。亚马逊会审核您的信息，如有需要，可能会在 2 个工作日内与您联系，请您作出进一步说明。我们将通过电子邮件将相关信息发送到您在注册时提供的电子邮件地址。 **重要： **在亚马逊审核您的信息期间，请勿重新提交文件或提出申诉。
 
-**重要： **在亚马逊审核您的信息期间，请勿重新提交文件或提出申诉。
-
-如果我们无法验证您提供的信息并要求您重新提交文件，您需要在 30 天内提交相关文件。如果我们未在此时间段内收到您的相关文件，则会关闭您的卖家账户注册流程，且无法激活您的账户使您在亚马逊商城进行销售。出于安全原因，我们仅接受通过卖家平台上传的文件。
-
-**重要： **如果您的亚马逊卖家账户在通过验证后被停用，请参阅[卖家绩效审核](https://sellercentral.amazon.com/gp/help/external/GW5QB6H8Q8CHA483)帮助页面。
+如果我们无法验证您提供的信息并要求您重新提交文件，您需要在 30 天内提交相关文件。如果我们未在此时间段内收到您的相关文件，则会关闭您的卖家账户注册流程，且无法激活您的账户使您在亚马逊商城进行销售。出于安全原因，我们仅接受通过卖家平台上传的文件。 **重要： **如果您的亚马逊卖家账户在通过验证后被停用，请参阅[卖家绩效审核](https://sellercentral.amazon.com/gp/help/external/GW5QB6H8Q8CHA483)帮助页面。
 
 有关全球卖家身份验证的更多信息，请参阅[有关全球卖家身份验证的常见问题](https://sellercentral.amazon.com/gp/help/external/G2MJXHQCR62DZSSM)。
 
@@ -231,7 +214,7 @@ fetched_at: 2026-10-30 09:52:38
 
 [如果您的企业地址位于中国香港](https://sellercentral.amazon.com/help/hub/reference/external/GVEGSMPP7CJP2Z2F)
 
-[如果您的企业地址位于爱尔兰](https://sellercentral.amazon.com/help/hub/reference/external/GG8XNRBQNFCFRPQB)
+[如果您的企业地址位于爱尔兰](https://sellercentral.amazon.com/help/hub/reference/GG8XNRBQNFCFRPQB)
 
 [如果您的企业地址位于意大利](https://sellercentral.amazon.com/help/hub/reference/external/G8MDJRDWCY6SH6E2)
 
@@ -249,7 +232,7 @@ fetched_at: 2026-10-30 09:52:38
 
 [如果您的企业地址位于新加坡](https://sellercentral.amazon.com/help/hub/reference/external/G2FYAUYVBPV7C3AJ)
 
-[如果您的企业地址位于南非](https://sellercentral.amazon.com/help/hub/reference/external/GBVK5PEDGFPCVBKJ)
+[如果您的企业地址位于南非](https://sellercentral.amazon.com/help/hub/reference/GBVK5PEDGFPCVBKJ)
 
 [如果您的企业地址位于西班牙](https://sellercentral.amazon.com/help/hub/reference/external/GNVB7W46WT2CB3RE)
 
