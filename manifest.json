@@ -1687,6 +1687,13 @@
     "file": "将商品数据添加至库存文件__201576640.md"
   },
   {
+    "title": "使用“清除和替换”工具",
+    "doc_id": "201576690",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201576690",
+    "fetched_at": "2026-10-30 12:59:34",
+    "file": "使用“清除和替换”工具__201576690.md"
+  },
+  {
     "title": "视频、DVD 和蓝光光盘",
     "doc_id": "201607580",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201607580",
@@ -2245,6 +2252,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201995470",
     "fetched_at": "2026-10-30 12:30:31",
     "file": "使用批量商品信息模板添加企业商品价格和数量折扣__201995470.md"
+  },
+  {
+    "title": "将 SKU 添加到自动定价规则",
+    "doc_id": "201995760",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201995760",
+    "fetched_at": "2026-10-30 12:59:20",
+    "file": "将 SKU 添加到自动定价规则__201995760.md"
   },
   {
     "title": "按要求移除",
@@ -7593,6 +7607,188 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201972720",
     "fetched_at": "2026-10-30 12:58:17",
     "file": "亚马逊配送的库存__G201972720.md"
+  },
+  {
+    "title": "自动定价",
+    "doc_id": "G201994820",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201994820",
+    "fetched_at": "2026-10-30 12:59:07",
+    "file": "自动定价__G201994820.md"
+  },
+  {
+    "title": "使用批量商品信息模板添加企业商品价格和数量折扣",
+    "doc_id": "G201995470",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201995470",
+    "fetched_at": "2026-10-30 12:59:07",
+    "file": "使用批量商品信息模板添加企业商品价格和数量折扣__G201995470.md"
+  },
+  {
+    "title": "创建自动定价规则",
+    "doc_id": "G201995750",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201995750",
+    "fetched_at": "2026-10-30 12:59:07",
+    "file": "创建自动定价规则__G201995750.md"
+  },
+  {
+    "title": "将 SKU 添加到自动定价规则",
+    "doc_id": "G201995760",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201995760",
+    "fetched_at": "2026-10-30 12:59:20",
+    "file": "将 SKU 添加到自动定价规则__G201995760.md"
+  },
+  {
+    "title": "暂停、恢复或删除定价规则",
+    "doc_id": "G201995770",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201995770",
+    "fetched_at": "2026-10-30 12:59:20",
+    "file": "暂停、恢复或删除定价规则__G201995770.md"
+  },
+  {
+    "title": "将 SKU 移动到新定价规则",
+    "doc_id": "G201995780",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201995780",
+    "fetched_at": "2026-10-30 12:59:22",
+    "file": "将 SKU 移动到新定价规则__G201995780.md"
+  },
+  {
+    "title": "修改定价规则",
+    "doc_id": "G201995790",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201995790",
+    "fetched_at": "2026-10-30 12:59:22",
+    "file": "修改定价规则__G201995790.md"
+  },
+  {
+    "title": "查看采用自动定价的 SKU 的价格历史记录",
+    "doc_id": "G201995800",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201995800",
+    "fetched_at": "2026-10-30 12:59:22",
+    "file": "查看采用自动定价的 SKU 的价格历史记录__G201995800.md"
+  },
+  {
+    "title": "特定事件对商品价格的影响",
+    "doc_id": "G201996550",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201996550",
+    "fetched_at": "2026-10-30 12:59:24",
+    "file": "特定事件对商品价格的影响__G201996550.md"
+  },
+  {
+    "title": "照明灯具",
+    "doc_id": "G201997070",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201997070",
+    "fetched_at": "2026-10-30 12:59:24",
+    "file": "照明灯具__G201997070.md"
+  },
+  {
+    "title": "按要求移除",
+    "doc_id": "G202000820",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202000820",
+    "fetched_at": "2026-10-30 12:59:24",
+    "file": "按要求移除__G202000820.md"
+  },
+  {
+    "title": "Transparency 序列号条形码要求",
+    "doc_id": "G202008510",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202008510",
+    "fetched_at": "2026-10-30 12:59:30",
+    "file": "Transparency 序列号条形码要求__G202008510.md"
+  },
+  {
+    "title": "使用商品模板创建变体",
+    "doc_id": "G202009940",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202009940",
+    "fetched_at": "2026-10-30 12:59:30",
+    "file": "使用商品模板创建变体__G202009940.md"
+  },
+  {
+    "title": "如何删除特定商品或替换所有商品？",
+    "doc_id": "G202010040",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202010040",
+    "fetched_at": "2026-10-30 12:59:32",
+    "file": "如何删除特定商品或替换所有商品？__G202010040.md"
+  },
+  {
+    "title": "亚马逊商品真伪性和质量",
+    "doc_id": "G202010130",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202010130",
+    "fetched_at": "2026-10-30 12:59:32",
+    "file": "亚马逊商品真伪性和质量__G202010130.md"
+  },
+  {
+    "title": "有效追踪率常见问题",
+    "doc_id": "G202014610",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202014610",
+    "fetched_at": "2026-10-30 12:59:32",
+    "file": "有效追踪率常见问题__G202014610.md"
+  },
+  {
+    "title": "停止为定价规则中的 SKU 重新定价",
+    "doc_id": "G202015020",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202015020",
+    "fetched_at": "2026-10-30 12:59:38",
+    "file": "停止为定价规则中的 SKU 重新定价__G202015020.md"
+  },
+  {
+    "title": "关于自动定价的常见问题",
+    "doc_id": "G202015620",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202015620",
+    "fetched_at": "2026-10-30 12:59:40",
+    "file": "关于自动定价的常见问题__G202015620.md"
+  },
+  {
+    "title": "6000 系列错误代码",
+    "doc_id": "G202023420",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202023420",
+    "fetched_at": "2026-10-30 12:59:40",
+    "file": "6000 系列错误代码__G202023420.md"
+  },
+  {
+    "title": "误导性声明和禁售声明",
+    "doc_id": "G202024200",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202024200",
+    "fetched_at": "2026-10-30 12:59:40",
+    "file": "误导性声明和禁售声明__G202024200.md"
+  },
+  {
+    "title": "最低和最高价格验证",
+    "doc_id": "G202024630",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202024630",
+    "fetched_at": "2026-10-30 12:59:42",
+    "file": "最低和最高价格验证__G202024630.md"
+  },
+  {
+    "title": "免费移除促销： 非美国卖家常见问题",
+    "doc_id": "G202025010",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202025010",
+    "fetched_at": "2026-10-30 12:59:42",
+    "file": "免费移除促销： 非美国卖家常见问题__G202025010.md"
+  },
+  {
+    "title": "亚马逊销售服务的管理员权限",
+    "doc_id": "G202036870",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202036870",
+    "fetched_at": "2026-10-30 12:59:42",
+    "file": "亚马逊销售服务的管理员权限__G202036870.md"
+  },
+  {
+    "title": "就亚马逊商城交易保障索赔提出申诉",
+    "doc_id": "G202041210",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202041210",
+    "fetched_at": "2026-10-30 12:59:44",
+    "file": "就亚马逊商城交易保障索赔提出申诉__G202041210.md"
+  },
+  {
+    "title": "亚马逊促销",
+    "doc_id": "G202043110",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202043110",
+    "fetched_at": "2026-10-30 12:59:44",
+    "file": "亚马逊促销__G202043110.md"
+  },
+  {
+    "title": "Account Management and Performance Targets for Services",
+    "doc_id": "G202043250",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202043250",
+    "fetched_at": "2026-10-30 12:59:44",
+    "file": "Account Management and Performance Targets for Services__G202043250.md"
   },
   {
     "title": "两步验证",
