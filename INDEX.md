@@ -1,18 +1,16 @@
-# Amazon 卖家帮助知识库（试点抓取）
+# 亚马逊卖家帮助文章索引
 
-生成时间：2026-10-30 09:09:37｜语言：zh-CN｜共 10 篇
+当前仅收录下列文章，不代表完整帮助中心。
 
-| # | 文档 ID | 标题 | 字数 | 官方来源 |
-|---|---|---|---|---|
-| 1 | `G181` | 账户设置 | 671 | [链接](https://sellercentral.amazon.com/help/hub/reference/external/G181) |
-| 2 | `G200421970` | 我要开店 | 4176 | [链接](https://sellercentral.amazon.com/help/hub/reference/external/G200421970) |
-| 3 | `GWHNLFB8G85QAZ5W` | 添加、更新、查看和验证您的银行账户信息 | 1692 | [链接](https://sellercentral.amazon.com/help/hub/reference/external/GWHNLFB8G85QAZ5W) |
-| 4 | `G200135620` | 假期、节假日和其他暂停营业期间的商品状态 | 1878 | [链接](https://sellercentral.amazon.com/help/hub/reference/external/G200135620) |
-| 5 | `G200399470` | 关闭您的卖家账户 | 2372 | [链接](https://sellercentral.amazon.com/help/hub/reference/external/G200399470) |
-| 6 | `G201484560` | 销售服务入门 | 1142 | [链接](https://sellercentral.amazon.com/help/hub/reference/external/G201484560) |
-| 7 | `GQRP483PDN88Q3M9` | 全球卖家身份、地址和公司验证 | 9098 | [链接](https://sellercentral.amazon.com/help/hub/reference/external/GQRP483PDN88Q3M9) |
-| 8 | `G202110760` | 两步验证 | 3111 | [链接](https://sellercentral.amazon.com/help/hub/reference/external/G202110760) |
-| 9 | `G69035` | 管理账户设置 | 820 | [链接](https://sellercentral.amazon.com/help/hub/reference/external/G69035) |
-| 10 | `G19791` | 您卖家账户的银行账户和信用卡或借记卡信息 | 1318 | [链接](https://sellercentral.amazon.com/help/hub/reference/external/G19791) |
+点击标题读取本仓库正文；正文附亚马逊官方来源。
 
-> 内容版权归 Amazon 所有，本次抓取仅用于内部知识库；抓取路径遵循 sellercentral.amazon.com/robots.txt 的 Allow 规则。
+- [账户设置](%E8%B4%A6%E6%88%B7%E8%AE%BE%E7%BD%AE__G181.md) — `G181`
+- [您卖家账户的银行账户和信用卡或借记卡信息](%E6%82%A8%E5%8D%96%E5%AE%B6%E8%B4%A6%E6%88%B7%E7%9A%84%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E5%92%8C%E4%BF%A1%E7%94%A8%E5%8D%A1%E6%88%96%E5%80%9F%E8%AE%B0%E5%8D%A1%E4%BF%A1%E6%81%AF__G19791.md) — `G19791`
+- [假期、节假日和其他暂停营业期间的商品状态](%E5%81%87%E6%9C%9F%E3%80%81%E8%8A%82%E5%81%87%E6%97%A5%E5%92%8C%E5%85%B6%E4%BB%96%E6%9A%82%E5%81%9C%E8%90%A5%E4%B8%9A%E6%9C%9F%E9%97%B4%E7%9A%84%E5%95%86%E5%93%81%E7%8A%B6%E6%80%81__G200135620.md) — `G200135620`
+- [关闭您的卖家账户](%E5%85%B3%E9%97%AD%E6%82%A8%E7%9A%84%E5%8D%96%E5%AE%B6%E8%B4%A6%E6%88%B7__G200399470.md) — `G200399470`
+- [我要开店](%E6%88%91%E8%A6%81%E5%BC%80%E5%BA%97__G200421970.md) — `G200421970`
+- [销售服务入门](%E9%94%80%E5%94%AE%E6%9C%8D%E5%8A%A1%E5%85%A5%E9%97%A8__G201484560.md) — `G201484560`
+- [两步验证](%E4%B8%A4%E6%AD%A5%E9%AA%8C%E8%AF%81__G202110760.md) — `G202110760`
+- [管理账户设置](%E7%AE%A1%E7%90%86%E8%B4%A6%E6%88%B7%E8%AE%BE%E7%BD%AE__G69035.md) — `G69035`
+- [全球卖家身份、地址和公司验证](%E5%85%A8%E7%90%83%E5%8D%96%E5%AE%B6%E8%BA%AB%E4%BB%BD%E3%80%81%E5%9C%B0%E5%9D%80%E5%92%8C%E5%85%AC%E5%8F%B8%E9%AA%8C%E8%AF%81__GQRP483PDN88Q3M9.md) — `GQRP483PDN88Q3M9`
+- [添加、更新、查看和验证您的银行账户信息](%E6%B7%BB%E5%8A%A0%E3%80%81%E6%9B%B4%E6%96%B0%E3%80%81%E6%9F%A5%E7%9C%8B%E5%92%8C%E9%AA%8C%E8%AF%81%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E4%BF%A1%E6%81%AF__GWHNLFB8G85QAZ5W.md) — `GWHNLFB8G85QAZ5W`
