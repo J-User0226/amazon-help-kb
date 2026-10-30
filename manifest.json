@@ -1134,6 +1134,13 @@
     "file": "匹配最低价__200836360.md"
   },
   {
+    "title": "准时送达率",
+    "doc_id": "200847280",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200847280",
+    "fetched_at": "2026-10-30 13:12:06",
+    "file": "准时送达率__200847280.md"
+  },
+  {
     "title": "税务文件库定义",
     "doc_id": "200852210",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200852210",
@@ -2317,6 +2324,13 @@
     "file": "按要求移除__202000820.md"
   },
   {
+    "title": "有效追踪率常见问题",
+    "doc_id": "202014610",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202014610",
+    "fetched_at": "2026-10-30 13:12:06",
+    "file": "有效追踪率常见问题__202014610.md"
+  },
+  {
     "title": "误导性声明和禁售声明",
     "doc_id": "202024200",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202024200",
@@ -2660,11 +2674,39 @@
     "file": "如何退税__202154020.md"
   },
   {
+    "title": "管理您的配送时间",
+    "doc_id": "202167920",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202167920",
+    "fetched_at": "2026-10-30 13:12:04",
+    "file": "管理您的配送时间__202167920.md"
+  },
+  {
     "title": "批量购买配送服务",
     "doc_id": "202168950",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202168950",
     "fetched_at": "2026-10-30 12:11:34",
     "file": "批量购买配送服务__202168950.md"
+  },
+  {
+    "title": "修改运输时间",
+    "doc_id": "202169100",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202169100",
+    "fetched_at": "2026-10-30 13:12:06",
+    "file": "修改运输时间__202169100.md"
+  },
+  {
+    "title": "默认运输时间",
+    "doc_id": "202169120",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202169120",
+    "fetched_at": "2026-10-30 13:12:04",
+    "file": "默认运输时间__202169120.md"
+  },
+  {
+    "title": "管理报价",
+    "doc_id": "202173820",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202173820",
+    "fetched_at": "2026-10-30 13:12:14",
+    "file": "管理报价__202173820.md"
   },
   {
     "title": "退款不退货解决方案",
@@ -2686,6 +2728,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202175000",
     "fetched_at": "2026-10-30 12:50:50",
     "file": "针对卖家自配送订单的赔偿__202175000.md"
+  },
+  {
+    "title": "国际卖家可设置更快的运输时间",
+    "doc_id": "202182640",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202182640",
+    "fetched_at": "2026-10-30 13:12:04",
+    "file": "国际卖家可设置更快的运输时间__202182640.md"
   },
   {
     "title": "多个退货地址",
@@ -8811,6 +8860,160 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202168950",
     "fetched_at": "2026-10-30 13:11:57",
     "file": "批量购买配送服务__G202168950.md"
+  },
+  {
+    "title": "修改运输时间",
+    "doc_id": "G202169100",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202169100",
+    "fetched_at": "2026-10-30 13:12:03",
+    "file": "修改运输时间__G202169100.md"
+  },
+  {
+    "title": "默认运输时间",
+    "doc_id": "G202169120",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202169120",
+    "fetched_at": "2026-10-30 13:12:03",
+    "file": "默认运输时间__G202169120.md"
+  },
+  {
+    "title": "“亚马逊提供的折扣”计划",
+    "doc_id": "G202170300",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202170300",
+    "fetched_at": "2026-10-30 13:12:03",
+    "file": "“亚马逊提供的折扣”计划__G202170300.md"
+  },
+  {
+    "title": "亚马逊参考价政策",
+    "doc_id": "G202170370",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202170370",
+    "fetched_at": "2026-10-30 13:12:08",
+    "file": "亚马逊参考价政策__G202170370.md"
+  },
+  {
+    "title": "日食眼镜和太阳观察滤光装置",
+    "doc_id": "G202171660",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202171660",
+    "fetched_at": "2026-10-30 13:12:08",
+    "file": "日食眼镜和太阳观察滤光装置__G202171660.md"
+  },
+  {
+    "title": "15000 系列错误代码",
+    "doc_id": "G202171800",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202171800",
+    "fetched_at": "2026-10-30 13:12:08",
+    "file": "15000 系列错误代码__G202171800.md"
+  },
+  {
+    "title": "管理报价",
+    "doc_id": "G202173820",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202173820",
+    "fetched_at": "2026-10-30 13:12:10",
+    "file": "管理报价__G202173820.md"
+  },
+  {
+    "title": "自定义报价字段定义",
+    "doc_id": "G202173840",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202173840",
+    "fetched_at": "2026-10-30 13:12:12",
+    "file": "自定义报价字段定义__G202173840.md"
+  },
+  {
+    "title": "库存绩效",
+    "doc_id": "G202174810",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202174810",
+    "fetched_at": "2026-10-30 13:12:10",
+    "file": "库存绩效__G202174810.md"
+  },
+  {
+    "title": "退款不退货解决方案",
+    "doc_id": "G202174940",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202174940",
+    "fetched_at": "2026-10-30 13:12:10",
+    "file": "退款不退货解决方案__G202174940.md"
+  },
+  {
+    "title": "不符合预付费退货要求的商品",
+    "doc_id": "G202174960",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202174960",
+    "fetched_at": "2026-10-30 13:12:12",
+    "file": "不符合预付费退货要求的商品__G202174960.md"
+  },
+  {
+    "title": "请求豁免卖家自配送订单的预付费退货",
+    "doc_id": "G202174980",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202174980",
+    "fetched_at": "2026-10-30 13:12:12",
+    "file": "请求豁免卖家自配送订单的预付费退货__G202174980.md"
+  },
+  {
+    "title": "针对卖家自配送订单的赔偿",
+    "doc_id": "G202175000",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202175000",
+    "fetched_at": "2026-10-30 13:12:14",
+    "file": "针对卖家自配送订单的赔偿__G202175000.md"
+  },
+  {
+    "title": "预付费退货配送服务",
+    "doc_id": "G202175020",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202175020",
+    "fetched_at": "2026-10-30 13:12:14",
+    "file": "预付费退货配送服务__G202175020.md"
+  },
+  {
+    "title": "退还退货运输成本",
+    "doc_id": "G202175040",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202175040",
+    "fetched_at": "2026-10-30 13:12:15",
+    "file": "退还退货运输成本__G202175040.md"
+  },
+  {
+    "title": "加购商品计划",
+    "doc_id": "G202182410",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202182410",
+    "fetched_at": "2026-10-30 13:12:15",
+    "file": "加购商品计划__G202182410.md"
+  },
+  {
+    "title": "国际卖家可设置更快的运输时间",
+    "doc_id": "G202182640",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202182640",
+    "fetched_at": "2026-10-30 13:12:15",
+    "file": "国际卖家可设置更快的运输时间__G202182640.md"
+  },
+  {
+    "title": "流媒体播放器",
+    "doc_id": "G202183590",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202183590",
+    "fetched_at": "2026-10-30 13:12:17",
+    "file": "流媒体播放器__G202183590.md"
+  },
+  {
+    "title": "活动期间的促销",
+    "doc_id": "G202183600",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202183600",
+    "fetched_at": "2026-10-30 13:12:17",
+    "file": "活动期间的促销__G202183600.md"
+  },
+  {
+    "title": "多个退货地址",
+    "doc_id": "G202183780",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202183780",
+    "fetched_at": "2026-10-30 13:12:17",
+    "file": "多个退货地址__G202183780.md"
+  },
+  {
+    "title": "“珠宝首饰”分类树更新常见问题",
+    "doc_id": "G202187000",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202187000",
+    "fetched_at": "2026-10-30 13:12:23",
+    "file": "“珠宝首饰”分类树更新常见问题__G202187000.md"
+  },
+  {
+    "title": "亚马逊全球物流",
+    "doc_id": "G202187670",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202187670",
+    "fetched_at": "2026-10-30 13:12:23",
+    "file": "亚马逊全球物流__G202187670.md"
   },
   {
     "title": "管理账户设置",
