@@ -1,0 +1,64 @@
+---
+title: 亚马逊商城交易保障索赔
+doc_id: GQ6762Y9AB2FYDY8
+source: https://sellercentral.amazon.com/help/hub/reference/external/GQ6762Y9AB2FYDY8
+language: zh-CN
+fetched_at: 2026-10-30 13:48:13
+---
+
+# 亚马逊商城交易保障索赔
+
+亚马逊商城交易保障可确保买家在亚马逊商城购物时获得一致的体验。亚马逊商城交易保障适用于由您直接配送的订单，涵盖订单的配送时效和送达的商品状况。 如果买家对订单不完全满意，若您能够使用[买家与卖家消息](https://sellercentral.amazon.com/gp/help/external/200389080)直接与买家一起解决问题，并及时授权和回复[退货请求](https://sellercentral.amazon.com/gp/help/external/G9DH343PLXALFTUW)，则能让各方都满意。请在买家提出索赔之前直接与其联系解决问题，这样可以防止您的[订单缺陷率](https://sellercentral.amazon.com/gp/help/external/G200285170)受到负面影响。 **注意： ** 亚马逊商城交易保障不会限制、制约或修改买家可能合法享有的任何消费者权利或补偿。
+
+**注意： **有关因商品存在瑕疵而导致的财产损失或人身伤害的亚马逊商城交易保障索赔的信息，请参阅[财产损失和人身伤害的亚马逊商城交易保障索赔流程](https://sellercentral.amazon.com/gp/help/external/GTY6NYZDFD5CENYH)。有关专门针对时尚类商品的退货政策的更多信息，请参阅[时尚类商品卖家自配送订单免费退货](https://sellercentral.amazon.com/gp/help/external/GEKBRFKQE38CQA6V)。
+
+**重要： **对于 Amazon Pay 交易，亚马逊商城交易保障政策有所不同。您可以在 Amazon Pay 网站上查看[面向卖家的亚马逊商城交易保障](https://pay.amazon.com/us/help/201212410)。
+
+## 在买家提出索赔之前
+买家必须先与您联系，并给您机会解决其问题，才有资格提交亚马逊商城交易保障索赔，但以下【闪电退款】部分中说明的某些情况除外：
+- **买家未收到商品：** 如果买家遇到配送问题，亚马逊会引导买家使用[买家与卖家消息](https://sellercentral.amazon.com/gp/help/external/200389080)向您反映该问题。对于与交付相关的问题，买家还必须在最迟预计送达日期之后再等 3 天，才符合提出索赔的要求。您必须在买家的第一条消息发出后的 48 小时内，在[买家与卖家消息](https://sellercentral.amazon.com/gp/help/external/200389080)中回复其消息，并尝试解决问题，直至买家满意。
+- **商品与买家预期不符：** 如果买家对商品状况有疑问，亚马逊会引导买家提交[退货请求](https://sellercentral.amazon.com/gp/help/external/G9DH343PLXALFTUW)，提醒您注意该问题。您必须在 48 小时内批准或回复该请求，并提供有效的国内退货地址、预付费退货标签或退款不退货解决方案。最好在 24 小时内回复。 **注意： **要了解如何避免亚马逊商城交易保障索赔，请参阅[避免亚马逊商城交易保障索赔](https://sellercentral.amazon.com/gp/help/external/GCRVNRBZBVGBK543)。
+
+**买家提交索赔的资格条件：**
+- 您未回复买家关于配送问题的消息、48 小时已过且买家已在最迟预计送达日期之后等待了 3 天。
+- 您未在 48 小时内批准或回复[退货请求](https://sellercentral.amazon.com/gp/help/external/G9DH343PLXALFTUW)。您可以在卖家平台的[管理退货](https://sellercentral.amazon.com/gp/help/external/G200708210)中监控您的退货请求。要批准退货请求，您必须对买家联系您处理的订单选择**批准请求**。如果您不想批准退货，您仍必须回复买家并告诉他们您拒绝其[退货请求](https://sellercentral.amazon.com/gp/help/external/G9DH343PLXALFTUW)的原因。
+- 您已关闭退货请求，或使用追踪无效的预付费退货标签批准请求。
+- 您批准了具有[国际退货地址](https://sellercentral.amazon.com/gp/help/external/G201468550)的退货请求，但未能提供预付费退货标签或退款不退货解决方案。您必须编辑退货批准并上传具有有效追踪信息的预付费退货标签，或在收到退货请求后的两天内发放全额退款。
+
+## 索赔提交通知
+当买家提交索赔时，您会收到一封电子邮件通知。您还可以前往[您的卖家账户](https://sellercentral.amazon.com/gp/homepage.html)中【绩效】菜单下的[管理亚马逊商城交易保障索赔](https://sellercentral.amazon.com/gp/guarantee-claims/home.html)页面，追踪买家提交的索赔。您有责任关注和解决买家向您提交的索赔。
+
+**注意： **您还可以使用[此](https://sellercentral.amazon.com/gp/guarantee-claims/home.html/ref=xx_azclaims_dnav_home#/)快速链接，通过输入与索赔相关的订单编号，监控索赔状态。
+
+## 在买家提出索赔后
+如果买家提出索赔，可能出现以下四种结果：
+
+- **您选择提供全额退款：** 您可以在调查进行过程中点击【为买家退款】向买家发放全额退款，索赔随即关闭。这将影响您的订单缺陷率。如果您想向买家退款，可以选择请求买家退还商品，然后再处理退款。
+- **亚马逊调查索赔：** 亚马逊会调查此索赔并确定是否批准该买家的索赔。我们在调查索赔时会考虑多个因素，包括您在[买家与卖家消息](https://sellercentral.amazon.com/gp/help/external/200389080)中的回复（如有）或您对[退货请求](https://sellercentral.amazon.com/gp/help/external/G9DH343PLXALFTUW)的批准。 在此过程中，亚马逊可能会要求您提供其他信息（请参阅[如何回复亚马逊商城交易保障索赔通知](https://sellercentral.amazon.com/gp/help/external/1781)），并提供您对该事件的陈述。 您应尽可能多地提供与交易相关且有说服力的其他信息。如果您未在 72 小时内对我们要求提供的信息做出回复，亚马逊可能会批准买家的索赔，这会影响您的订单缺陷率。您可以使用“账户状况”页面监控您的订单缺陷率。
+- **自动批准索赔：** 在以下情况下，亚马逊将自动批准此索赔，并从您的账户中扣除索赔金额，这会影响您的订单缺陷率：
+  - 您未在 48 小时内通过[买家与卖家消息](https://sellercentral.amazon.com/gp/help/external/200389080)回复买家与配送相关的问题。
+  - 您未在 48 小时内通过买家的[退货请求](https://sellercentral.amazon.com/gp/help/external/G9DH343PLXALFTUW)批准或回复买家与商品相关的问题。
+  - 您批准了具有国际退货地址的退货请求，但在收到退货请求后的 2 天内 (a) 未能提供预付费退货标签，或 (b) 未同意退款不退货解决方案。
+  - 截至[预计发货日期](https://sellercentral.amazon.com/gp/help/external/200285190)，您仍未发货。
+  - 买家下单后，您未使用可追踪的配送方式，也未在[管理订单](https://sellercentral.amazon.com/orders-v3)中提供有效的订单追踪编码。
+  - 截至最迟预计送达日期，订单商品仍未送达。
+  - 如果追踪信息确认包裹无法送达、被拒收或将退回给您，我们将自动向买家退款并从您的账户中扣除相应款项。这不会影响您的账户状况或订单缺陷率 (ODR)。
+  - 您未将订单商品配送至买家提供的地址。
+  - 商品已使用预付费退货货件标签退回，但您未能在收到退货商品后的 5 天内发放退款。
+  - 商品已使用预付费退货货件标签退回，但退货商品在运输途中丢失。
+  - 商品已使用预付费退货货件标签退回，并且由于您提供的退货地址过期或不正确，退货无法送达或退回给发货人。
+
+- **买家撤销索赔：** 买家撤销索赔，索赔关闭，对您的订单缺陷率没有任何影响。
+
+## 让买家退回商品
+如果您想向提出索赔的买家索回商品，可以通过卖家平台中的[买家与卖家消息](https://sellercentral.amazon.com/gp/help/external/200389080)进行沟通。 提供具有有效追踪信息的预付费退货标签对买家退回商品会有帮助，并确保您可以查看退货追踪信息。有关退货政策的更多信息，请参阅[管理卖家自配送退货](https://sellercentral.amazon.com/gp/help/external/G200708210)。
+
+## 请求撤销向买家发放的退款
+如果您因任何原因（例如耽搁的订单最终送达且买家接收了该订单的商品）希望撤销您向买家发放的退款，则必须通过“买家与卖家消息”请求相关买家发起撤销。相关买家需要前往订单的【订单问题】页面，或告知亚马逊客户服务撤销索赔退款。如果买家通过“买家与卖家消息”同意延迟交付或换货，则请他们发起撤销退款流程。未经相关买家确认同意，亚马逊无法撤销卖家自配送订单的买家退款。
+
+## 就已批准的索赔提出申诉
+如果亚马逊批准了买家的索赔（无论是自动批准还是在调查后人工批准），您可以在 30 个自然日内提出申诉，提交新信息，并要求做进一步的调查。亚马逊将使用所有可用信息（包括提供的新信息）重新调查索赔，并可能会要求您提供更多信息，或者您也可以在申诉过程中提供更多信息。根据申诉调查情况，我们将决定是否全部或部分撤销最初决定（这可能包括撤销索赔对订单缺陷率的影响或向您赔偿退款金额）。如果您未在 30 个自然日内提出申诉，索赔将被关闭，并且对您的订单缺陷率产生的任何负面影响将无法撤销。有关更多信息，请参阅[就亚马逊商城交易保障索赔提出申诉](https://sellercentral.amazon.com/gp/help/external/G202041210)。
+
+---
+
+原文出处：https://sellercentral.amazon.com/help/hub/reference/external/GQ6762Y9AB2FYDY8

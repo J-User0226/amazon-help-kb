@@ -1,0 +1,111 @@
+---
+title: Amazon SEND - 卖家条款和条件
+doc_id: G27F6UHDSSHW6WXF
+source: https://sellercentral.amazon.com/help/hub/reference/external/G27F6UHDSSHW6WXF
+language: zh-CN
+fetched_at: 2026-10-30 13:48:17
+---
+
+# Amazon SEND - 卖家条款和条件
+
+## SEND - 卖家条款和条件
+Amazon SEND 计划是一项卖家平台集成跨境合作承运人配送解决方案，为卖家（以下称“**卖家/您**”）提供货件预约、承运人标签生成和货件追踪功能（以下称“**计划**”）。我们可选择允许您将商品配送至我们指定的运营中心或其他亚马逊指定设施，费用由您自行承担。作为在亚马逊注册的卖家，如果您在卖家平台上预约从符合要求的起运地国家/地区的发货地址到符合要求的目的地国家/地区的货件，并选择与亚马逊合作的第三方承运商（以下称“APC”）进行此类发货，您将受以下条款和条件（以下称“**计划条款**”）的约束。
+
+除亚马逊服务商业解决方案协议（以下称“**BSA**”）的条款外，本计划条款还适用于亚马逊物流 (FBA) 服务条款以及亚马逊智能卫星仓 (AWD) 条款和条件。除非在此处有定义，否则所有术语均与 BSA、亚马逊物流服务条款以及 AWD 条款和条件中的定义相同。英语版计划条款是最终法律版本。
+
+亚马逊可随时修改计划条款。本计划条款的任何更改将于我们在卖家平台或商定的适用亚马逊网站中发布此类更改后生效，您应负责查看这些位置并了解所有适用的更改或通知。您应定期查看您的账户或卖家平台，了解最新的计划条款。如果您在亚马逊发布任何更改之后继续使用本计划，则表示您接受此类更改或修改。如果您不同意对计划条款的任何更改，则不得继续使用本计划。
+
+## 按照以下条款向您提供本计划的服务：
+1. 您将使用卖家平台并选择可用的 APC、接受 APC 的条款和条件（以下称“APC 条款”）以及本计划中提供的预估运费，预约从起运地国家/地区到目的地国家/地区的国际货件。
+2. 通过本计划预约订单时（以下称“预约订单”），您需要为货件选择运输方式。APC 确认接受后，预约订单将成为这些条款和条件的一部分。
+3. APC 将安排国际配送和清关，以将您的预约商品从起运地国家/地区运送到目的地国家/地区的亚马逊设施，前提是您遵守所有适用的进出口要求。您授权 APC 使用任何允许的清关类型代表您安排清关。
+4. 您同意承担应支付给 APC 的运费和海关费用/税费，在预约时或货件送达后，卖家平台上会向您提供这些费率和详情。您同意按每个货件支付此类适用的费用、成本和税费。
+5. 您无条件授权亚马逊代表您从亚马逊收取的款项（即您在商城上发布商品的销售收益）向 APC 支付这些款项。
+6. APC 会在发货之前确定预估运费，您确认并同意实际运费可能与预估运费有差异。
+7. 您同意并确认，在您确认预约订单后，亚马逊将根据本计划向 APC 共享您的详细信息（包括公司名称、地址、联系电话及电子邮件地址）。您完全了解，为了完成本计划下的交易，我们将与 APC 共享您的详细信息，并且您同意亚马逊和 APC 使用此类信息。
+8. 您可以在预约订单发出后的 24 小时内或在 APC 条款中指定的备货时间内，在卖家平台上选择任何已接受的预约订单来对其进行修改或取消。在可以取消或更改的备货时间过后，APC 可能会努力迎合任何请求的取消或更改，但可能会按照 APC 条款的规定来评估管理费用，或拒绝迎合取消或更改。
+9. 在 APC 确认之后，任何取消或更改才会生效。您应对因取消或更改预约订单而产生的任何费用或其他后果负责。
+10. 您必须及时通知 APC 起运地和目的地以及所需的上门包装、取件和配送时间，以及 APC 可能合理要求的任何其他配送信息。您授权我们根据需要代表您向 APC 传达上述信息。
+11. 除非另有协议，否则您同意自己是备案出口商（以下称“EOR”）和备案进口商（以下称“IOR”）。EOR 是您的商品在起运地的实际出口商。IOR 是您的商品在目的地的实际进口商。EOR 和 IOR 全权负责进口和出口您的货件。
+12. 亚马逊和/或其附属公司不会充当 (a) 您货件的 EOR，或 (b) 您货件的 IOR。如果您在任何进口文件中列出亚马逊或其任何附属公司，APC 可能会拒绝接受进口文件涵盖的货件，并从您的卖家账户中收取亚马逊或其任何附属公司产生或针对其进行评估的费用。
+13. 您应确保您或指定的 EOR 和 IOR 签发 APC 要求的此类文件或票据，以运输您的货件或进行清关。
+14. 根据法律规定，您必须保留向 APC 提供的所有发货材料的副本，且您应支付与清关和类似手续相关的所有费用、成本、税费和收费，包括任何储存费或待清关或其他处置的相关费用。
+15. 您有责任确保配送文件中的信息、APC 签发的最终提货单以及统一关税表 (HTS) 代码和申报价值等海关信息的准确性。亚马逊不承担因任何货件文件不准确而被起运地或目的地海关或任何其他相关机构施加的任何处罚责任，将由您承担此类处罚责任。
+16. 您同意运输合同条款并遵守 APC 的此类条款和标准操作程序、重量和尺寸限制以及其他运输要求。
+17. 您同意在使用本计划时遵守适用的法律，包括所有法律和法规要求，并在起运地和目的地国家/地区取得适用的许可证。
+18. 您理解、同意并确认，亚马逊的角色仅限于本计划中的预约和付款提供服务商，亚马逊将 -
+  1. 与 APC 协商所有价格（包括与配送和清关相关的价格）；
+  2. 将您的卖家平台预约详情传递给 APC；
+  3. 代表您向 APC 支付本计划中的所有价格，包括由 APC 从您卖家平台付款账户的余额中收取的任何运费、关税以及附加费用/附带费用；
+  4. 就运输途中丢失和货件残损索赔产生的任何问题为您和 APC 之间的对话提供方便，但是，有关索赔的最终决定权将归于 APC。亚马逊仅会促进对话以解决争议，但解决纠纷的责任仍在于您。亚马逊仅针对您通过本计划向 APC 预约的货件相关的对话提供方便。
+  5. 对于从目的地退回的任何货件，亚马逊不提供方便，也不承担任何责任。对于您在本计划之外与 APC 签订的任何协议，亚马逊概不负责。
+
+19. 亚马逊不对因任何配送文件不准确、提供文件延迟或者导致海关扣留或任何机构检测的不可控情况而产生的任何计划外费用或附加费用承担任何责任，包括港口拥堵、船舶取消航线、目的地卡车司机短缺和设施等待时间等不可控的地面情况。您必须及时解决 APC 遇到的所有此类问题。
+20. 您不得使用本计划运输违禁商品和/或危险品和/或危险物质（统称为“危险品”）。严禁运输危险品。APC 可以出于任何理由拒绝运输任何货件，包括但不限于 APC 发现符合以下情况的商品：(a) 在预约订单或适用的海关文件中没有准确描述，或 (b) 包含 (1) 易燃、易爆或有毒或有腐蚀性的物品，(2) 具有其他危险或危险物质的物品，或 (3) 易损坏运输设备或其他物品的物品。APC 可能会退回不适宜的商品（费用由您承担），或者对其重新包装/重新贴标，并根据 APC 的运输条件评估管理费用。
+21. 您应确保任何货件（包括危险品）均不使用亚马逊品牌包装，以避免人们认为亚马逊以任何方式审查或验证了任何货件。如果发现任何违规行为，亚马逊可自行决定对每项违规行为处以相应的处罚。
+22. APC 对因任何原因接受或拒绝商品拥有最终决定权。
+23. 您可以选择为您的商品购买任何保险。亚马逊不负责为您的商品购买任何保险。对于货件的任何丢失、配送错误或残损，亚马逊也不承担任何责任，您需要根据 APC 网页上的条款和条件向 APC 提出索赔。亚马逊可能仅为您和 APC 有关运输途中丢失和货件残损索赔的对话提供方便，但是，有关索赔的最终决定权将归于 APC。
+24. 按照本计划配送商品，即表示您声明并保证 -
+  1. 您拥有参与本计划所需的所有适用的许可证、许可和授权（包括但不限于进出口代码），并且您会保持此类许可证、许可和授权有效存续。此外，您应根据要求立即向亚马逊/APC 提交此类许可证、许可和授权或者亚马逊/APC 要求的任何其他文件；以及
+  2. 本计划中的所有商品：(i) 可以从起运地国家/地区合法出口；(ii) 可以合法地进口到目的地国家/地区，并遵守所有适用法律。
+
+25. 如果您在 www.amazon.co.uk 上销售商品，亚马逊需要根据运营中心尽职调查计划向英国税务海关总署 (HMRC) 报告您的 IEN（进口申报编号）号。使用 SEND 配送货件，即表示您同意允许我们根据运营中心尽职调查计划向英国税务海关总署 (HMRC) 报告您的 IEN（进口申报编号）号。
+
+## 付款
+1. 在您和亚马逊之间，您应负责承担使用本计划配送货件的所有费用，包括运费、出口费、关税、税费和其他费用，包括 APC 收取的任何额外费用。
+2. 在卖家平台上，您可以通过本计划查看预估总费用，包括端到端运费、清关费和任何其他适用费用。此预估费用不包括关税、税费以及任何其他服务（例如亚马逊物流和 AWD）的费用。如果 APC 确定的商品的重量、大小或尺寸与您在预约订单中报告的数量不同，实际费用可能与本计划的预估费用有差异。在这种情况下，APC 会向您收取超出的实际运费，您同意向 APC 支付此类超额费用。
+3. 如果在配送过程中产生额外的附加费用，实际费用可能与本计划的预估费用有差异，包括但不限于：
+  1. 海关检查或检验费用
+  2. 仓储或滞留费用
+  3. 特殊处理要求
+  4. 更多文件要求
+  5. 港口拥堵或延迟费用
+  6. 需要额外服务的任何其他计划外情况
+
+4. APC 将向您收取此类附加费用，并且您同意向 APC 支付此类费用。这些费用可能会在货件送达后进行沟通并计费。
+5. 您必须支付为维护您的货件利益，保护任何其他财产不受您的货件损害而合理发生的任何额外费用或支出，或因不可抗力事件或 APC 提货单下的其他原因而产生的任何额外费用或支出。
+6. 您应承担与货件运输和配送相关的所有税费。
+7. 您无条件授权亚马逊从您的卖家平台账户中扣除 APC 在运输过程中和/或将货件配送至目的地亚马逊运营中心时收取或征收的任何费用或其他成本，并代表您向 APC 支付此类费用和收费。您将收到一份汇总费用表，其中显示了我们从您的卖家账户中扣除的金额。该汇总费用表不会被视为发票/借记单。
+8. 如果您的卖家平台付款账户余额不足，亚马逊将向您的卖家平台账户关联的信用卡收取费用。如果亚马逊无法从您的信用卡中扣除未结金额，在不损害任何利益的情况下，亚马逊将有权对您启动法律追偿程序，或以其他方式从亚马逊或其全球附属公司合法持有的任何其他款项中扣除此类金额。
+
+## 赔偿和责任限制：
+1. 您同意就以下原因引起或与其相关的任何索赔，对我们、我们的附属公司、以及我们及其各自的管理人员、董事、员工、代表和代理人进行赔偿、辩护并使其免受损害：(a) 货件（无论所有权是否转让给 APC），包括任何人身伤害、死亡或财产损失或延迟；b）您、您的员工、EOR 或 IOR 提供或未提供的任何有关货件的信息，包括任何预约订单或报关材料中的不准确或遗漏信息；(c) 您违反本计划条款。
+2. 您免除亚马逊、其附属公司及其代理和员工免于因与 APC 的任何争议引起或以任何方式与 APC 相关的各种类型和性质的索赔、要求和损害赔偿（实际和间接），包括已知和未知的、疑似和未察觉的、公开和未披露的。
+3. 对于本计划下的任何残损、丢失、延迟配送或货件配送错误，您确认亚马逊不承担任何责任，您的唯一补救措施应向 APC 提出。
+
+## 终止：
+我们保留在任何给定时间终止本计划的权利。终止本计划后，本协议各方的所有权利和义务都将解除，但以下条款仍然有效： 有关双方在以下方面的权利和义务的任何条款：(a) APC 在终止日期之前接收或储存的商品；(b) 您应支付的任何金额或应支付给您的退款；(c) 本计划条款的解释和执行；以及 (d) 终止生效日期之前产生的任何权利或义务。
+
+## 条款和条件确认：
+使用本计划进行任何货件交易，即表示您接受适用于交易的本计划条款。
+
+**APC 条款和条件：**
+APC 起运地国家/地区 APC 条款和条件链接
+UPS 泰国 [https://www.ups.com/th/en/support/shipping-support/legal-terms-conditions](https://www.ups.com/th/en/support/shipping-support/legal-terms-conditions)
+UPS 英国 [https://www.ups.com/gb/en/support/shipping-support/legal-terms-conditions](https://www.ups.com/gb/en/support/shipping-support/legal-terms-conditions)
+UPS 越南 [https://www.ups.com/assets/resources/media/en_GB/service_guide_vn.pdf](https://www.ups.com/assets/resources/media/en_GB/service_guide_vn.pdf)
+UPS 墨西哥 [https://www.ups.com/mx/en/support/shipping-support/legal-terms-conditions.page](https://www.ups.com/mx/en/support/shipping-support/legal-terms-conditions.page)
+UPS 印度 [https://www.ups.com/in/en/support/shipping-support/legal-terms-conditions.page](https://www.ups.com/in/en/support/shipping-support/legal-terms-conditions.page)
+UPS 德国 [https://www.ups.com/de/en/support/shipping-support/legal-terms-conditions.page](https://www.ups.com/de/en/support/shipping-support/legal-terms-conditions.page)
+Golden Well 中国台湾 [https://www.forwarder-taiwan.com/tw/fba](https://www.forwarder-taiwan.com/tw/fba)
+KWE 韩国 [条款和条件 PDF](https://d1r2hd46c3qa41.cloudfront.net/International%20Shipping%20Terms%20and%20Conditions_KW_ver.2023.pdf)
+Vinalink 越南 [条款和条件（英语）PDF](https://d1r2hd46c3qa41.cloudfront.net/Vinalink%20T&C%20(English).pdf)
+云途物流 泰国 [条款和条件 PDF](http://oss.yunexpress.com/omsv2/20231205/3a5c21dcb9d74b70b27344061d69d195.pdf)
+DPE 越南 [DPE 条款和条件 PDF](https://d1r2hd46c3qa41.cloudfront.net/DPE%20T&C.pdf)
+LinkTrans 中国 [http://www.link-trans.com/send/](http://www.link-trans.com/send/)
+中国外运集团 中国 [https://sinoex.com.cn/anmazon_pro](https://sinoex.com.cn/anmazon_pro)
+九方 中国 [条款和条件 PDF](https://jiufanglogistics.oss-cn-shenzhen.aliyuncs.com/document/%E4%B8%AD%E8%8B%B1%E7%89%88%E2%80%94%E5%89%8D%E6%B5%B7%E4%B9%9D%E6%96%B9%E9%80%9A%E9%80%8A%E5%8F%8C%E6%96%B9%E5%8D%8F%E8%AE%AE-8.4%E7%89%88%EF%BC%882025.4.8)%EF%BC%89.pdf)
+AAF 中国 [https://www.szaaf.com/content/legal/ship](https://www.szaaf.com/content/legal/ship)
+上海捷利 中国 [https://jleqy.jlexpress.com/CrmCustomer/#/register](https://jleqy.jlexpress.com/CrmCustomer/#/register)
+DEKSU 中国 [https://cdndata.baoguane.com/deksu-send.pdf](https://cdndata.baoguane.com/deksu-send.pdf)
+YDH 中国 [https://amazon.ydhex.com/ContractRegist/RegisterSign.aspx](https://amazon.ydhex.com/ContractRegist/RegisterSign.aspx)
+ECMS 美国 [https://www.ecmsglobal.com/en-us/legal.html](https://www.ecmsglobal.com/en-us/legal.html)
+Xhipment 印度 [https://www.xhipment.com/Home/Terms](https://www.xhipment.com/Home/Terms)
+Navlungo 土耳其
+土耳其语：[https://navlungo.com/tasiyici-sozlesmesi](https://navlungo.com/tasiyici-sozlesmesi)
+
+英语：[https://navlungo.com/en/carrier-agreement](https://navlungo.com/en/carrier-agreement)
+
+---
+
+原文出处：https://sellercentral.amazon.com/help/hub/reference/external/G27F6UHDSSHW6WXF
