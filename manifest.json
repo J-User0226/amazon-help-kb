@@ -2233,6 +2233,13 @@
     "file": "企业专供商品__201958670.md"
   },
   {
+    "title": "提供箱内物品信息",
+    "doc_id": "201967250",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201967250",
+    "fetched_at": "2026-10-30 13:00:14",
+    "file": "提供箱内物品信息__201967250.md"
+  },
+  {
     "title": "批量修复无在售信息的亚马逊库存报告",
     "doc_id": "201968550",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201968550",
@@ -2301,6 +2308,55 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202072200",
     "fetched_at": "2026-10-30 12:11:47",
     "file": "卖家自配送订单的预付费退货__202072200.md"
+  },
+  {
+    "title": "Subscribe With Amazon Program Guidelines",
+    "doc_id": "202073130",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202073130",
+    "fetched_at": "2026-10-30 13:00:19",
+    "file": "Subscribe With Amazon Program Guidelines__202073130.md"
+  },
+  {
+    "title": "商品信息指南",
+    "doc_id": "202073140",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202073140",
+    "fetched_at": "2026-10-30 13:00:19",
+    "file": "商品信息指南__202073140.md"
+  },
+  {
+    "title": "Product Restrictions",
+    "doc_id": "202073160",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202073160",
+    "fetched_at": "2026-10-30 13:00:21",
+    "file": "Product Restrictions__202073160.md"
+  },
+  {
+    "title": "Cancellation, Return and Refund Guidelines",
+    "doc_id": "202073170",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202073170",
+    "fetched_at": "2026-10-30 13:00:19",
+    "file": "Cancellation, Return and Refund Guidelines__202073170.md"
+  },
+  {
+    "title": "付款指南和交易处理服务",
+    "doc_id": "202073180",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202073180",
+    "fetched_at": "2026-10-30 13:00:21",
+    "file": "付款指南和交易处理服务__202073180.md"
+  },
+  {
+    "title": "税务指南",
+    "doc_id": "202073190",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202073190",
+    "fetched_at": "2026-10-30 13:00:21",
+    "file": "税务指南__202073190.md"
+  },
+  {
+    "title": "客户服务指南",
+    "doc_id": "202073200",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202073200",
+    "fetched_at": "2026-10-30 13:00:23",
+    "file": "客户服务指南__202073200.md"
   },
   {
     "title": "预付费退货的退货原因代码",
@@ -7789,6 +7845,153 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202043250",
     "fetched_at": "2026-10-30 12:59:44",
     "file": "Account Management and Performance Targets for Services__G202043250.md"
+  },
+  {
+    "title": "发送至亚马逊的亚马逊物流货件的箱内物品信息",
+    "doc_id": "G202047840",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202047840",
+    "fetched_at": "2026-10-30 13:00:12",
+    "file": "发送至亚马逊的亚马逊物流货件的箱内物品信息__G202047840.md"
+  },
+  {
+    "title": "销售排名常见问题",
+    "doc_id": "G202059240",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202059240",
+    "fetched_at": "2026-10-30 13:00:12",
+    "file": "销售排名常见问题__G202059240.md"
+  },
+  {
+    "title": "亚马逊物流人工处理费",
+    "doc_id": "G202061550",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202061550",
+    "fetched_at": "2026-10-30 13:00:14",
+    "file": "亚马逊物流人工处理费__G202061550.md"
+  },
+  {
+    "title": "销售运营商贴牌手机",
+    "doc_id": "G202061890",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202061890",
+    "fetched_at": "2026-10-30 13:00:14",
+    "file": "销售运营商贴牌手机__G202061890.md"
+  },
+  {
+    "title": "使用新配送设置",
+    "doc_id": "G202062600",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202062600",
+    "fetched_at": "2026-10-30 13:00:16",
+    "file": "使用新配送设置__G202062600.md"
+  },
+  {
+    "title": "食品： 美国农业部原产国/原产地贴标",
+    "doc_id": "G202064660",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202064660",
+    "fetched_at": "2026-10-30 13:00:16",
+    "file": "食品： 美国农业部原产国_原产地贴标__G202064660.md"
+  },
+  {
+    "title": "卖家自配送订单的预付费退货",
+    "doc_id": "G202072200",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202072200",
+    "fetched_at": "2026-10-30 13:00:16",
+    "file": "卖家自配送订单的预付费退货__G202072200.md"
+  },
+  {
+    "title": "Subscribe With Amazon 计划协议",
+    "doc_id": "G202072540",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202072540",
+    "fetched_at": "2026-10-30 13:00:17",
+    "file": "Subscribe With Amazon 计划协议__G202072540.md"
+  },
+  {
+    "title": "卖家自配送 Prime 绩效要求",
+    "doc_id": "G202072550",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202072550",
+    "fetched_at": "2026-10-30 13:00:17",
+    "file": "卖家自配送 Prime 绩效要求__G202072550.md"
+  },
+  {
+    "title": "卖家自配送 Prime 订单缺陷报告",
+    "doc_id": "G202072570",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202072570",
+    "fetched_at": "2026-10-30 13:00:17",
+    "file": "卖家自配送 Prime 订单缺陷报告__G202072570.md"
+  },
+  {
+    "title": "Subscribe With Amazon Program Guidelines",
+    "doc_id": "G202073130",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202073130",
+    "fetched_at": "2026-10-30 13:00:23",
+    "file": "Subscribe With Amazon Program Guidelines__G202073130.md"
+  },
+  {
+    "title": "商品信息指南",
+    "doc_id": "G202073140",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202073140",
+    "fetched_at": "2026-10-30 13:00:23",
+    "file": "商品信息指南__G202073140.md"
+  },
+  {
+    "title": "Product Restrictions",
+    "doc_id": "G202073160",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202073160",
+    "fetched_at": "2026-10-30 13:00:24",
+    "file": "Product Restrictions__G202073160.md"
+  },
+  {
+    "title": "Cancellation, Return and Refund Guidelines",
+    "doc_id": "G202073170",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202073170",
+    "fetched_at": "2026-10-30 13:00:24",
+    "file": "Cancellation, Return and Refund Guidelines__G202073170.md"
+  },
+  {
+    "title": "付款指南和交易处理服务",
+    "doc_id": "G202073180",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202073180",
+    "fetched_at": "2026-10-30 13:00:24",
+    "file": "付款指南和交易处理服务__G202073180.md"
+  },
+  {
+    "title": "税务指南",
+    "doc_id": "G202073190",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202073190",
+    "fetched_at": "2026-10-30 13:00:26",
+    "file": "税务指南__G202073190.md"
+  },
+  {
+    "title": "客户服务指南",
+    "doc_id": "G202073200",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202073200",
+    "fetched_at": "2026-10-30 13:00:26",
+    "file": "客户服务指南__G202073200.md"
+  },
+  {
+    "title": "浏览搜索商品",
+    "doc_id": "G202078740",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202078740",
+    "fetched_at": "2026-10-30 13:00:26",
+    "file": "浏览搜索商品__G202078740.md"
+  },
+  {
+    "title": "目录和草稿",
+    "doc_id": "G202078860",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202078860",
+    "fetched_at": "2026-10-30 13:00:28",
+    "file": "目录和草稿__G202078860.md"
+  },
+  {
+    "title": "DHL 美国条款和条件以及配送说明",
+    "doc_id": "G202079190",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202079190",
+    "fetched_at": "2026-10-30 13:00:28",
+    "file": "DHL 美国条款和条件以及配送说明__G202079190.md"
+  },
+  {
+    "title": "预付费退货的退货原因代码",
+    "doc_id": "G202080050",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202080050",
+    "fetched_at": "2026-10-30 13:00:28",
+    "file": "预付费退货的退货原因代码__G202080050.md"
   },
   {
     "title": "两步验证",
