@@ -21,6 +21,13 @@
     "file": "错误代码说明__17781.md"
   },
   {
+    "title": "回复亚马逊商城交易保障索赔",
+    "doc_id": "1781",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/1781",
+    "fetched_at": "2026-10-30 12:12:21",
+    "file": "回复亚马逊商城交易保障索赔__1781.md"
+  },
+  {
     "title": "亚马逊服务商业解决方案协议",
     "doc_id": "1791",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/1791",
@@ -33,6 +40,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/19321",
     "fetched_at": "2026-10-30 12:05:42",
     "file": "亚马逊如何转账付款__19321.md"
+  },
+  {
+    "title": "什么是账户级别预留金？",
+    "doc_id": "200136810",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200136810",
+    "fetched_at": "2026-10-30 12:12:19",
+    "file": "什么是账户级别预留金？__200136810.md"
   },
   {
     "title": "亚马逊物流商品限制",
@@ -166,6 +180,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200280650",
     "fetched_at": "2026-10-30 12:07:57",
     "file": "移除库存概览__200280650.md"
+  },
+  {
+    "title": "订单缺陷率",
+    "doc_id": "200285170",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200285170",
+    "fetched_at": "2026-10-30 12:12:26",
+    "file": "订单缺陷率__200285170.md"
   },
   {
     "title": "FBA 资源",
@@ -714,6 +735,13 @@
     "file": "卖家自配送 Prime__201812230.md"
   },
   {
+    "title": "有效追踪率 (VTR)",
+    "doc_id": "201817070",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201817070",
+    "fetched_at": "2026-10-30 12:12:19",
+    "file": "有效追踪率 (VTR)__201817070.md"
+  },
+  {
     "title": "费用页面",
     "doc_id": "201822160",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201822160",
@@ -868,6 +896,13 @@
     "file": "请求豁免卖家自配送订单的预付费退货__202174980.md"
   },
   {
+    "title": "多个退货地址",
+    "doc_id": "202183780",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202183780",
+    "fetched_at": "2026-10-30 12:11:56",
+    "file": "多个退货地址__202183780.md"
+  },
+  {
     "title": "汽运零担运输货运配送模板",
     "doc_id": "202188040",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202188040",
@@ -924,11 +959,39 @@
     "file": "推荐报价__37911.md"
   },
   {
+    "title": "信用卡拒付",
+    "doc_id": "48781",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/48781",
+    "fetched_at": "2026-10-30 12:12:24",
+    "file": "信用卡拒付__48781.md"
+  },
+  {
+    "title": "商品详情页面和报价",
+    "doc_id": "51",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/51",
+    "fetched_at": "2026-10-30 12:12:02",
+    "file": "商品详情页面和报价__51.md"
+  },
+  {
     "title": "计划政策",
     "doc_id": "521",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/521",
     "fetched_at": "2026-10-30 12:11:47",
     "file": "计划政策__521.md"
+  },
+  {
+    "title": "开始使用亚马逊物流",
+    "doc_id": "53921",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/53921",
+    "fetched_at": "2026-10-30 12:11:56",
+    "file": "开始使用亚马逊物流__53921.md"
+  },
+  {
+    "title": "亚马逊物流弃置订单费用",
+    "doc_id": "5FKTA8LXU4TZPD5",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/5FKTA8LXU4TZPD5",
+    "fetched_at": "2026-10-30 12:11:56",
+    "file": "亚马逊物流弃置订单费用__5FKTA8LXU4TZPD5.md"
   },
   {
     "title": "付款报告",
@@ -957,6 +1020,132 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/841",
     "fetched_at": "2026-10-30 12:07:07",
     "file": "向买家显示的卖家信息__841.md"
+  },
+  {
+    "title": "变体关系",
+    "doc_id": "8831",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/8831",
+    "fetched_at": "2026-10-30 12:12:02",
+    "file": "变体关系__8831.md"
+  },
+  {
+    "title": "设置和编辑用户权限",
+    "doc_id": "901",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/901",
+    "fetched_at": "2026-10-30 12:12:10",
+    "file": "设置和编辑用户权限__901.md"
+  },
+  {
+    "title": "锂电池费用",
+    "doc_id": "9RJJ3KFHSF6YRAG",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/9RJJ3KFHSF6YRAG",
+    "fetched_at": "2026-10-30 12:12:10",
+    "file": "锂电池费用__9RJJ3KFHSF6YRAG.md"
+  },
+  {
+    "title": "亚马逊物流新品状况中 2018 年及之后出产的电视机需要包装认证",
+    "doc_id": "BFACJXWVLWSMUUZ",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/BFACJXWVLWSMUUZ",
+    "fetched_at": "2026-10-30 12:12:12",
+    "file": "亚马逊物流新品状况中 2018 年及之后出产的电视机需要包装认证__BFACJXWVLWSMUUZ.md"
+  },
+  {
+    "title": "完善商品详情",
+    "doc_id": "G10521",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G10521",
+    "fetched_at": "2026-10-30 12:12:12",
+    "file": "完善商品详情__G10521.md"
+  },
+  {
+    "title": "“您的信息和政策”页面",
+    "doc_id": "G11381",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G11381",
+    "fetched_at": "2026-10-30 12:12:12",
+    "file": "“您的信息和政策”页面__G11381.md"
+  },
+  {
+    "title": "管理订单",
+    "doc_id": "G131",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G131",
+    "fetched_at": "2026-10-30 12:12:15",
+    "file": "管理订单__G131.md"
+  },
+  {
+    "title": "配送确认模板",
+    "doc_id": "G13491",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G13491",
+    "fetched_at": "2026-10-30 12:12:15",
+    "file": "配送确认模板__G13491.md"
+  },
+  {
+    "title": "盘点模板",
+    "doc_id": "G13511",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G13511",
+    "fetched_at": "2026-10-30 12:12:17",
+    "file": "盘点模板__G13511.md"
+  },
+  {
+    "title": "我何时能获得付款？",
+    "doc_id": "G14911",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G14911",
+    "fetched_at": "2026-10-30 12:12:17",
+    "file": "我何时能获得付款？__G14911.md"
+  },
+  {
+    "title": "我该如何阅读我的付款报告？",
+    "doc_id": "G14921",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G14921",
+    "fetched_at": "2026-10-30 12:12:17",
+    "file": "我该如何阅读我的付款报告？__G14921.md"
+  },
+  {
+    "title": "Amazon.com 上的成功要素",
+    "doc_id": "G15591",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G15591",
+    "fetched_at": "2026-10-30 12:12:19",
+    "file": "Amazon.com 上的成功要素__G15591.md"
+  },
+  {
+    "title": "我的付款报告中有哪些“其他”交易？",
+    "doc_id": "G16091",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G16091",
+    "fetched_at": "2026-10-30 12:12:24",
+    "file": "我的付款报告中有哪些“其他”交易？__G16091.md"
+  },
+  {
+    "title": "为什么我要支付服务费？",
+    "doc_id": "G16251",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G16251",
+    "fetched_at": "2026-10-30 12:12:26",
+    "file": "为什么我要支付服务费？__G16251.md"
+  },
+  {
+    "title": "负数余额",
+    "doc_id": "G16261",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G16261",
+    "fetched_at": "2026-10-30 12:12:26",
+    "file": "负数余额__G16261.md"
+  },
+  {
+    "title": "可用的还款选项",
+    "doc_id": "G16331",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G16331",
+    "fetched_at": "2026-10-30 12:12:27",
+    "file": "可用的还款选项__G16331.md"
+  },
+  {
+    "title": "批量商品信息模板",
+    "doc_id": "G1641",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G1641",
+    "fetched_at": "2026-10-30 12:12:28",
+    "file": "批量商品信息模板__G1641.md"
+  },
+  {
+    "title": "沟通计划政策",
+    "doc_id": "G1701",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G1701",
+    "fetched_at": "2026-10-30 12:12:28",
+    "file": "沟通计划政策__G1701.md"
   },
   {
     "title": "账户设置",
