@@ -12474,6 +12474,13 @@
     "file": "与亚马逊无品牌商品政策相关的错误消息__G5VG3YWGGXF4Y5WB.md"
   },
   {
+    "title": "从亚马逊物流起运地发送库存",
+    "doc_id": "G5WC5HPAK44BDP23",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G5WC5HPAK44BDP23",
+    "fetched_at": "2026-10-30 13:52:05",
+    "file": "从亚马逊物流起运地发送库存__G5WC5HPAK44BDP23.md"
+  },
+  {
     "title": "注册墨西哥税号 (RFC) 并选择备案进口商",
     "doc_id": "G5XMT82TBETDSFZM",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G5XMT82TBETDSFZM",
@@ -15505,6 +15512,13 @@
     "file": "重新发布处于非在售状态（已停售）的商品 - 非在售商品__GF5ES9LFB2RNU6R8.md"
   },
   {
+    "title": "亚马逊物流起运地常见问题",
+    "doc_id": "GF5VXQDJ3ATVFA4Q",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GF5VXQDJ3ATVFA4Q",
+    "fetched_at": "2026-10-30 13:52:05",
+    "file": "亚马逊物流起运地常见问题__GF5VXQDJ3ATVFA4Q.md"
+  },
+  {
     "title": "错误 100371",
     "doc_id": "GF64VWHAE46RGJNZ",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GF64VWHAE46RGJNZ",
@@ -16343,6 +16357,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GHRHBFGZLTA5NPST",
     "fetched_at": "2026-10-30 13:38:34",
     "file": "错误 8604__GHRHBFGZLTA5NPST.md"
+  },
+  {
+    "title": "亚马逊物流起运地费用",
+    "doc_id": "GHRVR7FMCE9S4UP3",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GHRVR7FMCE9S4UP3",
+    "fetched_at": "2026-10-30 13:52:05",
+    "file": "亚马逊物流起运地费用__GHRVR7FMCE9S4UP3.md"
   },
   {
     "title": "亚马逊 SEND - 英国至美国",
@@ -19192,6 +19213,167 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GSVLUKGSWX9EEM9N",
     "fetched_at": "2026-10-30 13:51:19",
     "file": "请求审核反馈__GSVLUKGSWX9EEM9N.md"
+  },
+  {
+    "title": "如何启用两步验证",
+    "doc_id": "GSWPS4GPEPMXZ98R",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GSWPS4GPEPMXZ98R",
+    "fetched_at": "2026-10-30 13:51:25",
+    "file": "如何启用两步验证__GSWPS4GPEPMXZ98R.md"
+  },
+  {
+    "title": "搜索目录绩效控制面板",
+    "doc_id": "GSWQU4LQSP2JH75Z",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GSWQU4LQSP2JH75Z",
+    "fetched_at": "2026-10-30 13:51:25",
+    "file": "搜索目录绩效控制面板__GSWQU4LQSP2JH75Z.md"
+  },
+  {
+    "title": "创建和管理库存常见问题",
+    "doc_id": "GSXJTLLHYLVQCWQZ",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GSXJTLLHYLVQCWQZ",
+    "fetched_at": "2026-10-30 13:51:25",
+    "file": "创建和管理库存常见问题__GSXJTLLHYLVQCWQZ.md"
+  },
+  {
+    "title": "处理亚马逊 Easy Ship 订单： 投件方式和打印货件标签",
+    "doc_id": "GSXWMGJ69X7RVRS7",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GSXWMGJ69X7RVRS7",
+    "fetched_at": "2026-10-30 13:51:27",
+    "file": "处理亚马逊 Easy Ship 订单： 投件方式和打印货件标签__GSXWMGJ69X7RVRS7.md"
+  },
+  {
+    "title": "全球拓展大礼包条款和条件",
+    "doc_id": "GSYEQHPBSH58PM7K",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GSYEQHPBSH58PM7K",
+    "fetched_at": "2026-10-30 13:51:27",
+    "file": "全球拓展大礼包条款和条件__GSYEQHPBSH58PM7K.md"
+  },
+  {
+    "title": "分配图片",
+    "doc_id": "GSYPJKG5DFEGFHWD",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GSYPJKG5DFEGFHWD",
+    "fetched_at": "2026-10-30 13:51:27",
+    "file": "分配图片__GSYPJKG5DFEGFHWD.md"
+  },
+  {
+    "title": "预定义自动定价规则",
+    "doc_id": "GT23CNJUTWXGLK7A",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GT23CNJUTWXGLK7A",
+    "fetched_at": "2026-10-30 13:51:33",
+    "file": "预定义自动定价规则__GT23CNJUTWXGLK7A.md"
+  },
+  {
+    "title": "亚马逊 SEND - 越南至美国： KW 国际承运人（空运模式）",
+    "doc_id": "GT292TE4SL68R4GP",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GT292TE4SL68R4GP",
+    "fetched_at": "2026-10-30 13:51:33",
+    "file": "亚马逊 SEND - 越南至美国： KW 国际承运人（空运模式）__GT292TE4SL68R4GP.md"
+  },
+  {
+    "title": "如何使用供应模板",
+    "doc_id": "GT3AC8A94CDR2XM7",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GT3AC8A94CDR2XM7",
+    "fetched_at": "2026-10-30 13:51:40",
+    "file": "如何使用供应模板__GT3AC8A94CDR2XM7.md"
+  },
+  {
+    "title": "新版优惠券控制面板",
+    "doc_id": "GT3QSSD2KV9QV74Q",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GT3QSSD2KV9QV74Q",
+    "fetched_at": "2026-10-30 13:51:41",
+    "file": "新版优惠券控制面板__GT3QSSD2KV9QV74Q.md"
+  },
+  {
+    "title": "儿童首饰",
+    "doc_id": "GT3XLUHYCWPM3THX",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GT3XLUHYCWPM3THX",
+    "fetched_at": "2026-10-30 13:51:41",
+    "file": "儿童首饰__GT3XLUHYCWPM3THX.md"
+  },
+  {
+    "title": "库房在澳大利亚境内和境外的卖家",
+    "doc_id": "GT5ARTCBXQTFSY3F",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GT5ARTCBXQTFSY3F",
+    "fetched_at": "2026-10-30 13:51:41",
+    "file": "库房在澳大利亚境内和境外的卖家__GT5ARTCBXQTFSY3F.md"
+  },
+  {
+    "title": "有绳窗帘",
+    "doc_id": "GT7F5YBQFRDZCAG8",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GT7F5YBQFRDZCAG8",
+    "fetched_at": "2026-10-30 13:51:43",
+    "file": "有绳窗帘__GT7F5YBQFRDZCAG8.md"
+  },
+  {
+    "title": "美国国家税务局 1099-K 表格 - 表格生成和收款人信息常见问题",
+    "doc_id": "GT86AHE3YMNCB4P4",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GT86AHE3YMNCB4P4",
+    "fetched_at": "2026-10-30 13:51:43",
+    "file": "美国国家税务局 1099-K 表格 - 表格生成和收款人信息常见问题__GT86AHE3YMNCB4P4.md"
+  },
+  {
+    "title": "图片禁止显示",
+    "doc_id": "GT8RSE9S9NK4LP6Z",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GT8RSE9S9NK4LP6Z",
+    "fetched_at": "2026-10-30 13:51:43",
+    "file": "图片禁止显示__GT8RSE9S9NK4LP6Z.md"
+  },
+  {
+    "title": "错误 8070",
+    "doc_id": "GT8XMFHLNCM39W5J",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GT8XMFHLNCM39W5J",
+    "fetched_at": "2026-10-30 13:51:49",
+    "file": "错误 8070__GT8XMFHLNCM39W5J.md"
+  },
+  {
+    "title": "错误 18671",
+    "doc_id": "GT9H6RLF8NCRBHZ8",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GT9H6RLF8NCRBHZ8",
+    "fetched_at": "2026-10-30 13:51:49",
+    "file": "错误 18671__GT9H6RLF8NCRBHZ8.md"
+  },
+  {
+    "title": "亚马逊物流精选发货后绩效",
+    "doc_id": "GTAPQUXDPJA5QTSA",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GTAPQUXDPJA5QTSA",
+    "fetched_at": "2026-10-30 13:52:03",
+    "file": "亚马逊物流精选发货后绩效__GTAPQUXDPJA5QTSA.md"
+  },
+  {
+    "title": "亚马逊物流起运地",
+    "doc_id": "GTB6HWZXLNXQERCD",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GTB6HWZXLNXQERCD",
+    "fetched_at": "2026-10-30 13:52:03",
+    "file": "亚马逊物流起运地__GTB6HWZXLNXQERCD.md"
+  },
+  {
+    "title": "库存预售",
+    "doc_id": "GTBBP39NRMSMZK98",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GTBBP39NRMSMZK98",
+    "fetched_at": "2026-10-30 13:52:03",
+    "file": "库存预售__GTBBP39NRMSMZK98.md"
+  },
+  {
+    "title": "错误 90114",
+    "doc_id": "GTCHWYD5LFRU75UR",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GTCHWYD5LFRU75UR",
+    "fetched_at": "2026-10-30 13:52:06",
+    "file": "错误 90114__GTCHWYD5LFRU75UR.md"
+  },
+  {
+    "title": "错误 8001",
+    "doc_id": "GTDD6KZ3J7VRZJDV",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GTDD6KZ3J7VRZJDV",
+    "fetched_at": "2026-10-30 13:52:07",
+    "file": "错误 8001__GTDD6KZ3J7VRZJDV.md"
+  },
+  {
+    "title": "销售佣金",
+    "doc_id": "GTG4BAWSY39Z98Z3",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GTG4BAWSY39Z98Z3",
+    "fetched_at": "2026-10-30 13:52:07",
+    "file": "销售佣金__GTG4BAWSY39Z98Z3.md"
   },
   {
     "title": "添加、更新、查看和验证您的银行账户信息",
