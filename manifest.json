@@ -14,6 +14,13 @@
     "file": "完善商品详情__10521.md"
   },
   {
+    "title": "一次添加一件商品",
+    "doc_id": "1471",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/1471",
+    "fetched_at": "2026-10-30 12:31:45",
+    "file": "一次添加一件商品__1471.md"
+  },
+  {
     "title": "批量商品信息模板",
     "doc_id": "1641",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/1641",
@@ -530,6 +537,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200405820",
     "fetched_at": "2026-10-30 12:23:38",
     "file": "税费政策__200405820.md"
+  },
+  {
+    "title": "推荐报价资格",
+    "doc_id": "200418100",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200418100",
+    "fetched_at": "2026-10-30 12:31:50",
+    "file": "推荐报价资格__200418100.md"
   },
   {
     "title": "发布没有商品编码（UPC、EAN、JAN 或 ISBN）的商品",
@@ -3024,6 +3038,27 @@
     "file": "退款管理费用__G200387220.md"
   },
   {
+    "title": "使用买家与卖家消息服务与买家沟通",
+    "doc_id": "G200389080",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200389080",
+    "fetched_at": "2026-10-30 12:31:13",
+    "file": "使用买家与卖家消息服务与买家沟通__G200389080.md"
+  },
+  {
+    "title": "商品详情页面规则",
+    "doc_id": "G200390640",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200390640",
+    "fetched_at": "2026-10-30 12:31:13",
+    "file": "商品详情页面规则__G200390640.md"
+  },
+  {
+    "title": "什么是个人销售计划？",
+    "doc_id": "G200399460",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200399460",
+    "fetched_at": "2026-10-30 12:31:13",
+    "file": "什么是个人销售计划？__G200399460.md"
+  },
+  {
     "title": "关闭您的卖家账户",
     "doc_id": "G200399470",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200399470",
@@ -3031,11 +3066,130 @@
     "file": "关闭您的卖家账户__G200399470.md"
   },
   {
+    "title": "国际卖家重要须知",
+    "doc_id": "G200404870",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200404870",
+    "fetched_at": "2026-10-30 12:31:39",
+    "file": "国际卖家重要须知__G200404870.md"
+  },
+  {
+    "title": "接受卖家注册的国家/地区",
+    "doc_id": "G200405020",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200405020",
+    "fetched_at": "2026-10-30 12:31:40",
+    "file": "接受卖家注册的国家_地区__G200405020.md"
+  },
+  {
+    "title": "税费政策",
+    "doc_id": "G200405820",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200405820",
+    "fetched_at": "2026-10-30 12:31:40",
+    "file": "税费政策__G200405820.md"
+  },
+  {
+    "title": "推荐报价资格",
+    "doc_id": "G200418100",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200418100",
+    "fetched_at": "2026-10-30 12:31:44",
+    "file": "推荐报价资格__G200418100.md"
+  },
+  {
+    "title": "“其他亚马逊卖家”框如何工作？",
+    "doc_id": "G200418110",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200418110",
+    "fetched_at": "2026-10-30 12:31:44",
+    "file": "“其他亚马逊卖家”框如何工作？__G200418110.md"
+  },
+  {
     "title": "我要开店",
     "doc_id": "G200421970",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200421970",
-    "fetched_at": "2026-10-30 09:50:44",
+    "fetched_at": "2026-10-30 12:31:52",
     "file": "我要开店__G200421970.md"
+  },
+  {
+    "title": "Textbook Sellers",
+    "doc_id": "G200422790",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200422790",
+    "fetched_at": "2026-10-30 12:31:52",
+    "file": "Textbook Sellers__G200422790.md"
+  },
+  {
+    "title": "发布没有商品编码（UPC、EAN、JAN 或 ISBN）的商品",
+    "doc_id": "G200426310",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200426310",
+    "fetched_at": "2026-10-30 12:31:52",
+    "file": "发布没有商品编码（UPC、EAN、JAN 或 ISBN）的商品__G200426310.md"
+  },
+  {
+    "title": "商品捆绑销售政策",
+    "doc_id": "G200442350",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200442350",
+    "fetched_at": "2026-10-30 12:31:58",
+    "file": "商品捆绑销售政策__G200442350.md"
+  },
+  {
+    "title": "举报违规行为",
+    "doc_id": "G200444420",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200444420",
+    "fetched_at": "2026-10-30 12:32:00",
+    "file": "举报违规行为__G200444420.md"
+  },
+  {
+    "title": "亚马逊配送货件报告",
+    "doc_id": "G200453120",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200453120",
+    "fetched_at": "2026-10-30 12:32:00",
+    "file": "亚马逊配送货件报告__G200453120.md"
+  },
+  {
+    "title": "已完成订单销售报告",
+    "doc_id": "G200453140",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200453140",
+    "fetched_at": "2026-10-30 12:32:00",
+    "file": "已完成订单销售报告__G200453140.md"
+  },
+  {
+    "title": "促销报告",
+    "doc_id": "G200453160",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200453160",
+    "fetched_at": "2026-10-30 12:32:02",
+    "file": "促销报告__G200453160.md"
+  },
+  {
+    "title": "亚马逊配送的库存报告",
+    "doc_id": "G200453180",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200453180",
+    "fetched_at": "2026-10-30 12:32:02",
+    "file": "亚马逊配送的库存报告__G200453180.md"
+  },
+  {
+    "title": "更换",
+    "doc_id": "G200453300",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200453300",
+    "fetched_at": "2026-10-30 12:32:02",
+    "file": "更换__G200453300.md"
+  },
+  {
+    "title": "亚马逊物流买家退货报告（概览）",
+    "doc_id": "G200453320",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200453320",
+    "fetched_at": "2026-10-30 12:32:05",
+    "file": "亚马逊物流买家退货报告（概览）__G200453320.md"
+  },
+  {
+    "title": "视频加载工具",
+    "doc_id": "G200482400",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200482400",
+    "fetched_at": "2026-10-30 12:32:05",
+    "file": "视频加载工具__G200482400.md"
+  },
+  {
+    "title": "视频加载工具说明",
+    "doc_id": "G200482410",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200482410",
+    "fetched_at": "2026-10-30 12:32:05",
+    "file": "视频加载工具说明__G200482410.md"
   },
   {
     "title": "销售服务入门",
