@@ -42,11 +42,46 @@
     "file": "一次添加一件商品__1471.md"
   },
   {
+    "title": "我该如何阅读我的付款报告？",
+    "doc_id": "14921",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/14921",
+    "fetched_at": "2026-10-30 13:20:17",
+    "file": "我该如何阅读我的付款报告？__14921.md"
+  },
+  {
     "title": "Amazon.com 上的成功要素",
     "doc_id": "15591",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/15591",
     "fetched_at": "2026-10-30 12:43:01",
     "file": "Amazon.com 上的成功要素__15591.md"
+  },
+  {
+    "title": "我的付款报告中有哪些“其他”交易？",
+    "doc_id": "16091",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/16091",
+    "fetched_at": "2026-10-30 13:20:17",
+    "file": "我的付款报告中有哪些“其他”交易？__16091.md"
+  },
+  {
+    "title": "为什么我要支付服务费？",
+    "doc_id": "16251",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/16251",
+    "fetched_at": "2026-10-30 13:20:17",
+    "file": "为什么我要支付服务费？__16251.md"
+  },
+  {
+    "title": "负数余额",
+    "doc_id": "16261",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/16261",
+    "fetched_at": "2026-10-30 13:20:19",
+    "file": "负数余额__16261.md"
+  },
+  {
+    "title": "可用的还款选项",
+    "doc_id": "16331",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/16331",
+    "fetched_at": "2026-10-30 13:20:19",
+    "file": "可用的还款选项__16331.md"
   },
   {
     "title": "批量商品信息模板",
@@ -124,6 +159,20 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/191",
     "fetched_at": "2026-10-30 12:16:13",
     "file": "更新账户信息__191.md"
+  },
+  {
+    "title": "每个商品系列的销售佣金是多少？",
+    "doc_id": "19281",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/19281",
+    "fetched_at": "2026-10-30 13:20:19",
+    "file": "每个商品系列的销售佣金是多少？__19281.md"
+  },
+  {
+    "title": "我为何未获得付款？",
+    "doc_id": "19301",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/19301",
+    "fetched_at": "2026-10-30 13:20:11",
+    "file": "我为何未获得付款？__19301.md"
   },
   {
     "title": "亚马逊如何转账付款",
@@ -341,6 +390,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200197960",
     "fetched_at": "2026-10-30 12:14:35",
     "file": "确认发货__200197960.md"
+  },
+  {
+    "title": "订单管理选项",
+    "doc_id": "200198170",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200198170",
+    "fetched_at": "2026-10-30 13:20:11",
+    "file": "订单管理选项__200198170.md"
   },
   {
     "title": "使用购买配送服务",
@@ -4571,6 +4627,13 @@
     "file": "各分类商品编码（全球贸易项目代码）要求__G200317520.md"
   },
   {
+    "title": "卖家自配送订单的卖家账户审核",
+    "doc_id": "G200320980",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200320980",
+    "fetched_at": "2026-10-30 13:20:09",
+    "file": "卖家自配送订单的卖家账户审核__G200320980.md"
+  },
+  {
     "title": "错误 90205",
     "doc_id": "G200321960",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200321960",
@@ -4751,6 +4814,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200384340",
     "fetched_at": "2026-10-30 12:29:07",
     "file": "“BMVD”是什么意思？__G200384340.md"
+  },
+  {
+    "title": "付款失败的原因",
+    "doc_id": "G200384410",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200384410",
+    "fetched_at": "2026-10-30 13:20:09",
+    "file": "付款失败的原因__G200384410.md"
   },
   {
     "title": "媒介类商品（图书、音乐、影视）的文件格式",
@@ -5206,6 +5276,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200584550",
     "fetched_at": "2026-10-30 12:33:21",
     "file": "汽车和户外动力设备商品销售__G200584550.md"
+  },
+  {
+    "title": "Seller Best Practices",
+    "doc_id": "G200587810",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200587810",
+    "fetched_at": "2026-10-30 13:20:09",
+    "file": "Seller Best Practices__G200587810.md"
   },
   {
     "title": "月度仓储费",
@@ -6263,6 +6340,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201030350",
     "fetched_at": "2026-10-30 12:41:35",
     "file": "亚马逊物流政策与要求__G201030350.md"
+  },
+  {
+    "title": "Important Notice for International Sellers",
+    "doc_id": "G201033090",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201033090",
+    "fetched_at": "2026-10-30 13:20:11",
+    "file": "Important Notice for International Sellers__G201033090.md"
   },
   {
     "title": "亚马逊物流商品名称要求",
@@ -11977,11 +12061,74 @@
     "file": "云途物流的条款和条件__G68AKJS77CQNC9F6.md"
   },
   {
+    "title": "亚马逊物流精选发货前绩效",
+    "doc_id": "G68PMCL58WK6S2EW",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G68PMCL58WK6S2EW",
+    "fetched_at": "2026-10-30 13:20:04",
+    "file": "亚马逊物流精选发货前绩效__G68PMCL58WK6S2EW.md"
+  },
+  {
+    "title": "开始使用",
+    "doc_id": "G69022",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G69022",
+    "fetched_at": "2026-10-30 13:20:04",
+    "file": "开始使用__G69022.md"
+  },
+  {
     "title": "管理账户设置",
     "doc_id": "G69035",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G69035",
-    "fetched_at": "2026-10-30 09:52:11",
+    "fetched_at": "2026-10-30 13:20:06",
     "file": "管理账户设置__G69035.md"
+  },
+  {
+    "title": "“我要开店”参考信息",
+    "doc_id": "G69036",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G69036",
+    "fetched_at": "2026-10-30 13:20:07",
+    "file": "“我要开店”参考信息__G69036.md"
+  },
+  {
+    "title": "付款任务和工具",
+    "doc_id": "G69038",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G69038",
+    "fetched_at": "2026-10-30 13:20:08",
+    "file": "付款任务和工具__G69038.md"
+  },
+  {
+    "title": "开始销售商品",
+    "doc_id": "G69064",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G69064",
+    "fetched_at": "2026-10-30 13:20:13",
+    "file": "开始销售商品__G69064.md"
+  },
+  {
+    "title": "付款常见问题",
+    "doc_id": "G69122",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G69122",
+    "fetched_at": "2026-10-30 13:20:15",
+    "file": "付款常见问题__G69122.md"
+  },
+  {
+    "title": "Manage Orders FAQ",
+    "doc_id": "G69124",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G69124",
+    "fetched_at": "2026-10-30 13:20:15",
+    "file": "Manage Orders FAQ__G69124.md"
+  },
+  {
+    "title": "卖家自配送的退货、退款、取消和索赔",
+    "doc_id": "G69126",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G69126",
+    "fetched_at": "2026-10-30 13:20:15",
+    "file": "卖家自配送的退货、退款、取消和索赔__G69126.md"
+  },
+  {
+    "title": "使用“发送至亚马逊”创建货件",
+    "doc_id": "G6925SDD66GDLXJW",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G6925SDD66GDLXJW",
+    "fetched_at": "2026-10-30 13:20:25",
+    "file": "使用“发送至亚马逊”创建货件__G6925SDD66GDLXJW.md"
   },
   {
     "title": "全球卖家身份、地址和公司验证",
