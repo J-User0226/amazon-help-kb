@@ -1,0 +1,28 @@
+---
+title: 错误代码 MYO2001
+doc_id: GAG6FRNGDRQUQ92P
+source: https://sellercentral.amazon.com/help/hub/reference/external/GAG6FRNGDRQUQ92P
+language: zh-CN
+fetched_at: 2026-10-30 13:43:57
+---
+
+# 错误代码 MYO2001
+
+当“取消订单”操作因您对【管理订单】页面拥有“仅查看”访问权限而被阻止时，就会发生此错误。
+
+**改进措施：**
+
+要执行“取消订单”等操作，您需对【订单】部分下的【管理订单】拥有【编辑】权限角色。
+
+要检查或更新您的权限，请按以下步骤进行操作：
+1. 前往【设置】。
+2. 选择【用户权限】。
+3. 点击您要检查的员工姓名。
+4. 前往【订单】部分。
+5. 确保您在【管理订单】下拥有【编辑】权限。
+
+如果您需要在【管理订单】下拥有【编辑】权限，请联系您账户的主用户。主用户（也称为账户管理员）是指注册新卖家平台账户的用户。主用户有权访问您的账户类型提供的所有页面和功能。
+
+---
+
+原文出处：https://sellercentral.amazon.com/help/hub/reference/external/GAG6FRNGDRQUQ92P
