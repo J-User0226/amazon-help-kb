@@ -69,3 +69,7 @@ fetched_at: 2026-10-30 09:04:14
 ## 文件与覆盖范围
 
 文章采用“标题__文章ID.md”命名；先读 INDEX.md 或 manifest.json。现阶段不代表全量，PENDING.md 列出从已收录文章发现但尚未采集的链接。
+
+## 文件与覆盖范围
+
+文章采用“标题__文章ID.md”命名；先读 INDEX.md 或 manifest.json。现阶段不代表全量，PENDING.md 列出从已收录文章发现但尚未采集的链接。
