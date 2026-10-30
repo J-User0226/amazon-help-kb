@@ -1,12 +1,58 @@
 {
-  "audited_at": "2026-10-30T15:52:22",
-  "canonical_articles": 2767,
-  "address_aliases": 624,
-  "untitled": 35,
+  "audited_at": "2026-10-30T16:07:32",
+  "canonical_articles": 2762,
+  "address_aliases": 625,
+  "untitled": 24,
   "languages": {
-    "zh-CN": 2726,
-    "en-US": 41
+    "zh-CN": 2707,
+    "en-US": 55
   },
-  "tables_preserved": 711,
+  "tables_preserved": 715,
+  "excluded_placeholders": [
+    {
+      "id": "G1791",
+      "reason": "language_placeholder"
+    },
+    {
+      "id": "G201484410",
+      "reason": "language_placeholder"
+    },
+    {
+      "id": "G201812300",
+      "reason": "language_placeholder"
+    },
+    {
+      "id": "G201824360",
+      "reason": "language_placeholder"
+    },
+    {
+      "id": "G3MB5C56WDZZXHBG",
+      "reason": "language_placeholder"
+    },
+    {
+      "id": "G47071",
+      "reason": "language_placeholder"
+    },
+    {
+      "id": "G5P3CDUHZWSZLXLB",
+      "reason": "language_placeholder"
+    },
+    {
+      "id": "G65T4N3XGC3MJB38",
+      "reason": "language_placeholder"
+    },
+    {
+      "id": "GB7HYBFT4J6NQG4U",
+      "reason": "language_placeholder"
+    },
+    {
+      "id": "GLJU3HEJGJBT8WVE",
+      "reason": "language_placeholder"
+    },
+    {
+      "id": "GM3JKB2JPVWPVUZC",
+      "reason": "language_placeholder"
+    }
+  ],
   "scope": "缓存正文按官方返回的guid合并，保留表格和图片引用；无标题内容标记待核验。尚未逐篇人工核验。"
 }

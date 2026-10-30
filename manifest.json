@@ -234,15 +234,6 @@
     "needs_review": false
   },
   {
-    "title": "亚马逊服务商业解决方案协议",
-    "doc_id": "G1791",
-    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G1791",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T12:12:46",
-    "file": "articles/亚马逊服务商业解决方案协议__G1791.md",
-    "needs_review": false
-  },
-  {
     "title": "销售政策和卖家行为准则",
     "doc_id": "G1801",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G1801",
@@ -1944,13 +1935,13 @@
     "needs_review": false
   },
   {
-    "title": "待核验文章 G200409980",
+    "title": "The Music Loader",
     "doc_id": "G200409980",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200409980",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T12:31:44",
-    "file": "articles/待核验/待核验文章 G200409980__G200409980.md",
-    "needs_review": true
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:06:12",
+    "file": "articles/The Music Loader__G200409980.md",
+    "needs_review": false
   },
   {
     "title": "推荐报价资格",
@@ -4554,13 +4545,13 @@
     "needs_review": false
   },
   {
-    "title": "待核验文章 G201439100",
+    "title": "Amazon Easy Ship for Domestic Shipments Program Policy",
     "doc_id": "G201439100",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201439100",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T12:44:36",
-    "file": "articles/待核验/待核验文章 G201439100__G201439100.md",
-    "needs_review": true
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:06:16",
+    "file": "articles/Amazon Easy Ship for Domestic Shipments Program Policy__G201439100.md",
+    "needs_review": false
   },
   {
     "title": "Loan Agreement",
@@ -4788,15 +4779,6 @@
     "needs_review": false
   },
   {
-    "title": "销售服务条款",
-    "doc_id": "G201484410",
-    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201484410",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T12:46:00",
-    "file": "articles/销售服务条款__G201484410.md",
-    "needs_review": false
-  },
-  {
     "title": "销售服务入门",
     "doc_id": "G201484560",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201484560",
@@ -4954,7 +4936,7 @@
     "doc_id": "G201576430",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201576430",
     "language": "zh-CN",
-    "fetched_at": "2026-10-30T12:46:10",
+    "fetched_at": "2026-10-30T16:06:13",
     "file": "articles/待核验/待核验文章 G201576430__G201576430.md",
     "needs_review": true
   },
@@ -5253,6 +5235,15 @@
     "language": "zh-CN",
     "fetched_at": "2026-10-30T15:18:37",
     "file": "articles/阅读订单报告__G201648770.md",
+    "needs_review": false
+  },
+  {
+    "title": "订单报告字段定义",
+    "doc_id": "G201648780",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201648780",
+    "language": "zh-CN",
+    "fetched_at": "2026-10-30T16:03:38",
+    "file": "articles/订单报告字段定义__G201648780.md",
     "needs_review": false
   },
   {
@@ -5922,15 +5913,6 @@
     "needs_review": false
   },
   {
-    "title": "卖家自配送 Prime 计划政策",
-    "doc_id": "G201812300",
-    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201812300",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T12:55:09",
-    "file": "articles/卖家自配送 Prime 计划政策__G201812300.md",
-    "needs_review": false
-  },
-  {
     "title": "解决亚马逊企业购错误",
     "doc_id": "G201812760",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201812760",
@@ -6126,15 +6108,6 @@
     "language": "zh-CN",
     "fetched_at": "2026-10-30T12:56:22",
     "file": "articles/面向卖家的定制计划条款__G201823150.md",
-    "needs_review": false
-  },
-  {
-    "title": "Conditions of Use",
-    "doc_id": "G201824360",
-    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201824360",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T12:56:24",
-    "file": "articles/Conditions of Use__G201824360.md",
     "needs_review": false
   },
   {
@@ -7659,6 +7632,15 @@
     "needs_review": false
   },
   {
+    "title": "错误 8571",
+    "doc_id": "G202127380",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202127380",
+    "language": "zh-CN",
+    "fetched_at": "2026-10-30T16:03:45",
+    "file": "articles/错误 8571__G202127380.md",
+    "needs_review": false
+  },
+  {
     "title": "商品价格未更改：故障排除指南",
     "doc_id": "G202128960",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202128960",
@@ -9072,6 +9054,15 @@
     "needs_review": false
   },
   {
+    "title": "Error 13038",
+    "doc_id": "G25041",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25041",
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:03:56",
+    "file": "articles/Error 13038__G25041.md",
+    "needs_review": false
+  },
+  {
     "title": "错误 13040",
     "doc_id": "G25081",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25081",
@@ -10260,13 +10251,13 @@
     "needs_review": false
   },
   {
-    "title": "待核验文章 G34DP3WTPW4MVLF2",
+    "title": "Error 18607",
     "doc_id": "G34DP3WTPW4MVLF2",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G34DP3WTPW4MVLF2",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:16:32",
-    "file": "articles/待核验/待核验文章 G34DP3WTPW4MVLF2__G34DP3WTPW4MVLF2.md",
-    "needs_review": true
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:06:16",
+    "file": "articles/Error 18607__G34DP3WTPW4MVLF2.md",
+    "needs_review": false
   },
   {
     "title": "错误 90177",
@@ -10428,15 +10419,6 @@
     "language": "zh-CN",
     "fetched_at": "2026-10-30T13:32:36",
     "file": "articles/错误 100553__G3MADPB3GGSDEM9F.md",
-    "needs_review": false
-  },
-  {
-    "title": "Amazon Vine 条款和条件",
-    "doc_id": "G3MB5C56WDZZXHBG",
-    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G3MB5C56WDZZXHBG",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:16:55",
-    "file": "articles/Amazon Vine 条款和条件__G3MB5C56WDZZXHBG.md",
     "needs_review": false
   },
   {
@@ -10743,15 +10725,6 @@
     "language": "zh-CN",
     "fetched_at": "2026-10-30T13:17:38",
     "file": "articles/错误代码 5469 和批准要求__G46X3Z7YQ93LQAAN.md",
-    "needs_review": false
-  },
-  {
-    "title": "亚马逊服务商业解决方案协议》变更《",
-    "doc_id": "G47071",
-    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G47071",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:17:38",
-    "file": "articles/亚马逊服务商业解决方案协议》变更《__G47071.md",
     "needs_review": false
   },
   {
@@ -11727,15 +11700,6 @@
     "needs_review": false
   },
   {
-    "title": "亚马逊物流远程配送",
-    "doc_id": "G5P3CDUHZWSZLXLB",
-    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G5P3CDUHZWSZLXLB",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:19:18",
-    "file": "articles/亚马逊物流远程配送__G5P3CDUHZWSZLXLB.md",
-    "needs_review": false
-  },
-  {
     "title": "凝胶和液体燃料火盆和壁炉",
     "doc_id": "G5P5YMQXX9Y34NVU",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G5P5YMQXX9Y34NVU",
@@ -12060,21 +12024,12 @@
     "needs_review": true
   },
   {
-    "title": "待核验文章 G65M7PHT8CPFVHWM",
+    "title": "Error 18729",
     "doc_id": "G65M7PHT8CPFVHWM",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G65M7PHT8CPFVHWM",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:19:48",
-    "file": "articles/待核验/待核验文章 G65M7PHT8CPFVHWM__G65M7PHT8CPFVHWM.md",
-    "needs_review": true
-  },
-  {
-    "title": "Customer Service by Amazon 条款和条件",
-    "doc_id": "G65T4N3XGC3MJB38",
-    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G65T4N3XGC3MJB38",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:19:54",
-    "file": "articles/Customer Service by Amazon 条款和条件__G65T4N3XGC3MJB38.md",
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:06:19",
+    "file": "articles/Error 18729__G65M7PHT8CPFVHWM.md",
     "needs_review": false
   },
   {
@@ -13005,13 +12960,13 @@
     "needs_review": false
   },
   {
-    "title": "待核验文章 G86XDEPETZYH5WLN",
+    "title": "Error 100587",
     "doc_id": "G86XDEPETZYH5WLN",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G86XDEPETZYH5WLN",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:33:04",
-    "file": "articles/待核验/待核验文章 G86XDEPETZYH5WLN__G86XDEPETZYH5WLN.md",
-    "needs_review": true
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:06:22",
+    "file": "articles/Error 100587__G86XDEPETZYH5WLN.md",
+    "needs_review": false
   },
   {
     "title": "通知首选项",
@@ -14499,15 +14454,6 @@
     "needs_review": false
   },
   {
-    "title": "高级珠宝首饰条款和条件",
-    "doc_id": "GB7HYBFT4J6NQG4U",
-    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GB7HYBFT4J6NQG4U",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:28:18",
-    "file": "articles/高级珠宝首饰条款和条件__GB7HYBFT4J6NQG4U.md",
-    "needs_review": false
-  },
-  {
     "title": "当日达备货时间常见问题",
     "doc_id": "GB96WHU9AT74W2T3",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GB96WHU9AT74W2T3",
@@ -14967,13 +14913,13 @@
     "needs_review": false
   },
   {
-    "title": "待核验文章 GCEBXQUWLWEXWUV2",
+    "title": "Error 18653",
     "doc_id": "GCEBXQUWLWEXWUV2",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GCEBXQUWLWEXWUV2",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:29:01",
-    "file": "articles/待核验/待核验文章 GCEBXQUWLWEXWUV2__GCEBXQUWLWEXWUV2.md",
-    "needs_review": true
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:06:23",
+    "file": "articles/Error 18653__GCEBXQUWLWEXWUV2.md",
+    "needs_review": false
   },
   {
     "title": "高压清洗机",
@@ -14985,13 +14931,13 @@
     "needs_review": false
   },
   {
-    "title": "待核验文章 GCG2FTJNSWJNJ6LX",
+    "title": "Error 100584",
     "doc_id": "GCG2FTJNSWJNJ6LX",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GCG2FTJNSWJNJ6LX",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:33:15",
-    "file": "articles/待核验/待核验文章 GCG2FTJNSWJNJ6LX__GCG2FTJNSWJNJ6LX.md",
-    "needs_review": true
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:06:23",
+    "file": "articles/Error 100584__GCG2FTJNSWJNJ6LX.md",
+    "needs_review": false
   },
   {
     "title": "[测试版] 向您的礼品卡拨付资金以在 Amazon.com 上购物",
@@ -17640,13 +17586,13 @@
     "needs_review": false
   },
   {
-    "title": "待核验文章 GJC65LYU5NZLSDFF",
+    "title": "Error 100339",
     "doc_id": "GJC65LYU5NZLSDFF",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GJC65LYU5NZLSDFF",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:39:13",
-    "file": "articles/待核验/待核验文章 GJC65LYU5NZLSDFF__GJC65LYU5NZLSDFF.md",
-    "needs_review": true
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:06:28",
+    "file": "articles/Error 100339__GJC65LYU5NZLSDFF.md",
+    "needs_review": false
   },
   {
     "title": "如何使用“管理卖家自配送商品退货”页面",
@@ -18234,13 +18180,13 @@
     "needs_review": false
   },
   {
-    "title": "待核验文章 GKLUQ7XLFM3X95N5",
+    "title": "Error 33033",
     "doc_id": "GKLUQ7XLFM3X95N5",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GKLUQ7XLFM3X95N5",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:41:16",
-    "file": "articles/待核验/待核验文章 GKLUQ7XLFM3X95N5__GKLUQ7XLFM3X95N5.md",
-    "needs_review": true
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:06:29",
+    "file": "articles/Error 33033__GKLUQ7XLFM3X95N5.md",
+    "needs_review": false
   },
   {
     "title": "如何设置有效预算？",
@@ -18513,6 +18459,15 @@
     "needs_review": false
   },
   {
+    "title": "Fees for Global Store Seller Supervised",
+    "doc_id": "GL4JX6VB2Z2BYVE7",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GL4JX6VB2Z2BYVE7",
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:04:48",
+    "file": "articles/Fees for Global Store Seller Supervised__GL4JX6VB2Z2BYVE7.md",
+    "needs_review": false
+  },
+  {
     "title": "亚马逊智能卫星仓入库货件报告",
     "doc_id": "GL4RR34RR8FG2JBN",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GL4RR34RR8FG2JBN",
@@ -18774,15 +18729,6 @@
     "needs_review": false
   },
   {
-    "title": "Amazon Print Connect Software License Agreement",
-    "doc_id": "GLJU3HEJGJBT8WVE",
-    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GLJU3HEJGJBT8WVE",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:42:30",
-    "file": "articles/Amazon Print Connect Software License Agreement__GLJU3HEJGJBT8WVE.md",
-    "needs_review": false
-  },
-  {
     "title": "当日达备货",
     "doc_id": "GLL8GJCFS23K333Q",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GLL8GJCFS23K333Q",
@@ -18996,15 +18942,6 @@
     "language": "zh-CN",
     "fetched_at": "2026-10-30T13:43:00",
     "file": "articles/优惠券费用__GM2HYLSWFBZ267BB.md",
-    "needs_review": false
-  },
-  {
-    "title": "亚马逊品牌分析的条款和条件",
-    "doc_id": "GM3JKB2JPVWPVUZC",
-    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GM3JKB2JPVWPVUZC",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:43:02",
-    "file": "articles/亚马逊品牌分析的条款和条件__GM3JKB2JPVWPVUZC.md",
     "needs_review": false
   },
   {
@@ -19701,6 +19638,15 @@
     "needs_review": false
   },
   {
+    "title": "2026 fees for Global Store Seller Supervised",
+    "doc_id": "GNN4PAXSGE3K9GNV",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GNN4PAXSGE3K9GNV",
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:04:58",
+    "file": "articles/2026 fees for Global Store Seller Supervised__GNN4PAXSGE3K9GNV.md",
+    "needs_review": false
+  },
+  {
     "title": "FBA New Selection Terms and Conditions",
     "doc_id": "GNNBARVDT97NGLQ4",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GNNBARVDT97NGLQ4",
@@ -20103,6 +20049,15 @@
     "language": "zh-CN",
     "fetched_at": "2026-10-30T13:58:44",
     "file": "articles/亚马逊物流作为二手商品销售计划条款和条件__GPNQFGFCRUJQ2EY4.md",
+    "needs_review": false
+  },
+  {
+    "title": "由买家发起的订单取消流程即将实施的变更",
+    "doc_id": "GPNRJVBQMJRS942V",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GPNRJVBQMJRS942V",
+    "language": "zh-CN",
+    "fetched_at": "2026-10-30T16:05:01",
+    "file": "articles/由买家发起的订单取消流程即将实施的变更__GPNRJVBQMJRS942V.md",
     "needs_review": false
   },
   {
@@ -20727,13 +20682,13 @@
     "needs_review": false
   },
   {
-    "title": "待核验文章 GR3GGWHBJFSTAPN2",
+    "title": "Error 100429",
     "doc_id": "GR3GGWHBJFSTAPN2",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GR3GGWHBJFSTAPN2",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T13:49:25",
-    "file": "articles/待核验/待核验文章 GR3GGWHBJFSTAPN2__GR3GGWHBJFSTAPN2.md",
-    "needs_review": true
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:06:38",
+    "file": "articles/Error 100429__GR3GGWHBJFSTAPN2.md",
+    "needs_review": false
   },
   {
     "title": "错误代码 MYO0004",
@@ -22194,13 +22149,13 @@
     "needs_review": false
   },
   {
-    "title": "待核验文章 GUM2VHVS7BDSGXA9",
+    "title": "Error 18685",
     "doc_id": "GUM2VHVS7BDSGXA9",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GUM2VHVS7BDSGXA9",
-    "language": "zh-CN",
-    "fetched_at": "2026-10-30T14:00:40",
-    "file": "articles/待核验/待核验文章 GUM2VHVS7BDSGXA9__GUM2VHVS7BDSGXA9.md",
-    "needs_review": true
+    "language": "en-US",
+    "fetched_at": "2026-10-30T16:06:42",
+    "file": "articles/Error 18685__GUM2VHVS7BDSGXA9.md",
+    "needs_review": false
   },
   {
     "title": "为什么我的销售佣金分类与零售网站上显示的分类不同？",
