@@ -14,6 +14,13 @@
     "file": "批量商品信息模板__1641.md"
   },
   {
+    "title": "使用分类树指南 (BTG) 对商品进行分类",
+    "doc_id": "1661",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/1661",
+    "fetched_at": "2026-10-30 12:13:42",
+    "file": "使用分类树指南 (BTG) 对商品进行分类__1661.md"
+  },
+  {
     "title": "错误代码说明",
     "doc_id": "17781",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/17781",
@@ -110,6 +117,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200178470",
     "fetched_at": "2026-10-30 12:08:48",
     "file": "货件标签要求__200178470.md"
+  },
+  {
+    "title": "确认发货",
+    "doc_id": "200197960",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200197960",
+    "fetched_at": "2026-10-30 12:14:35",
+    "file": "确认发货__200197960.md"
   },
   {
     "title": "使用购买配送服务",
@@ -336,6 +350,13 @@
     "file": "国际卖家重要须知__200404870.md"
   },
   {
+    "title": "发布没有商品编码（UPC、EAN、JAN 或 ISBN）的商品",
+    "doc_id": "200426310",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200426310",
+    "fetched_at": "2026-10-30 12:13:42",
+    "file": "发布没有商品编码（UPC、EAN、JAN 或 ISBN）的商品__200426310.md"
+  },
+  {
     "title": "亚马逊配送货件报告",
     "doc_id": "200453120",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200453120",
@@ -376,6 +397,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200483750",
     "fetched_at": "2026-10-30 12:07:34",
     "file": "亚马逊物流贴标服务__200483750.md"
+  },
+  {
+    "title": "多件装商品的 UPC 和 IPQ",
+    "doc_id": "200494020",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200494020",
+    "fetched_at": "2026-10-30 12:13:45",
+    "file": "多件装商品的 UPC 和 IPQ__200494020.md"
   },
   {
     "title": "可能的危险品示例",
@@ -509,6 +537,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200955560",
     "fetched_at": "2026-10-30 12:11:25",
     "file": "修改备货时间__200955560.md"
+  },
+  {
+    "title": "创建库存文件模板并对商品进行分类",
+    "doc_id": "200956770",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200956770",
+    "fetched_at": "2026-10-30 12:13:46",
+    "file": "创建库存文件模板并对商品进行分类__200956770.md"
   },
   {
     "title": "有关汽运零担、整车运输和整箱装载货件的卖家要求",
@@ -742,6 +777,13 @@
     "file": "货件调整__201214140.md"
   },
   {
+    "title": "销售媒介类商品（美国和加拿大）",
+    "doc_id": "201215040",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201215040",
+    "fetched_at": "2026-10-30 12:13:46",
+    "file": "销售媒介类商品（美国和加拿大）__201215040.md"
+  },
+  {
     "title": "危险物品（危险品）所需的信息和文件",
     "doc_id": "201371860",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201371860",
@@ -791,6 +833,27 @@
     "file": "使用库存文件添加商品__201576410.md"
   },
   {
+    "title": "使用商品分类工具对商品进行分类",
+    "doc_id": "201576420",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201576420",
+    "fetched_at": "2026-10-30 12:13:46",
+    "file": "使用商品分类工具对商品进行分类__201576420.md"
+  },
+  {
+    "title": "视频、DVD 和蓝光光盘",
+    "doc_id": "201607580",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201607580",
+    "fetched_at": "2026-10-30 12:13:56",
+    "file": "视频、DVD 和蓝光光盘__201607580.md"
+  },
+  {
+    "title": "亚马逊翻新商品计划概览",
+    "doc_id": "201648580",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201648580",
+    "fetched_at": "2026-10-30 12:13:56",
+    "file": "亚马逊翻新商品计划概览__201648580.md"
+  },
+  {
     "title": "成为推荐报价",
     "doc_id": "201687550",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201687550",
@@ -798,11 +861,25 @@
     "file": "成为推荐报价__201687550.md"
   },
   {
+    "title": "激光商品",
+    "doc_id": "201689020",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201689020",
+    "fetched_at": "2026-10-30 12:13:58",
+    "file": "激光商品__201689020.md"
+  },
+  {
     "title": "预留库存报告",
     "doc_id": "201723860",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201723860",
     "fetched_at": "2026-10-30 12:10:28",
     "file": "预留库存报告__201723860.md"
+  },
+  {
+    "title": "切换到专业销售计划",
+    "doc_id": "201747610",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201747610",
+    "fetched_at": "2026-10-30 12:13:58",
+    "file": "切换到专业销售计划__201747610.md"
   },
   {
     "title": "危险品审核流程",
@@ -1015,6 +1092,13 @@
     "file": "商品详情页面存在错误。应该怎样更正？__26571.md"
   },
   {
+    "title": "网站下拉框有何作用？",
+    "doc_id": "26971",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/26971",
+    "fetched_at": "2026-10-30 12:14:43",
+    "file": "网站下拉框有何作用？__26971.md"
+  },
+  {
     "title": "业务报告术语表",
     "doc_id": "27691",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/27691",
@@ -1085,6 +1169,13 @@
     "file": "开始使用亚马逊物流__53921.md"
   },
   {
+    "title": "创建库存文件",
+    "doc_id": "581",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/581",
+    "fetched_at": "2026-10-30 12:13:58",
+    "file": "创建库存文件__581.md"
+  },
+  {
     "title": "亚马逊物流弃置订单费用",
     "doc_id": "5FKTA8LXU4TZPD5",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/5FKTA8LXU4TZPD5",
@@ -1148,6 +1239,13 @@
     "file": "亚马逊物流新品状况中 2018 年及之后出产的电视机需要包装认证__BFACJXWVLWSMUUZ.md"
   },
   {
+    "title": "提高商品的曝光度",
+    "doc_id": "G10471",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G10471",
+    "fetched_at": "2026-10-30 12:14:01",
+    "file": "提高商品的曝光度__G10471.md"
+  },
+  {
     "title": "完善商品详情",
     "doc_id": "G10521",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G10521",
@@ -1188,6 +1286,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G13511",
     "fetched_at": "2026-10-30 12:12:17",
     "file": "盘点模板__G13511.md"
+  },
+  {
+    "title": "一次添加一件商品",
+    "doc_id": "G1471",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G1471",
+    "fetched_at": "2026-10-30 12:14:18",
+    "file": "一次添加一件商品__G1471.md"
   },
   {
     "title": "我何时能获得付款？",
@@ -1244,6 +1349,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G1641",
     "fetched_at": "2026-10-30 12:12:28",
     "file": "批量商品信息模板__G1641.md"
+  },
+  {
+    "title": "使用分类树指南 (BTG) 对商品进行分类",
+    "doc_id": "G1661",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G1661",
+    "fetched_at": "2026-10-30 12:14:18",
+    "file": "使用分类树指南 (BTG) 对商品进行分类__G1661.md"
   },
   {
     "title": "沟通计划政策",
@@ -1337,18 +1449,74 @@
     "file": "每个商品系列的销售佣金是多少？__G19281.md"
   },
   {
+    "title": "我为何未获得付款？",
+    "doc_id": "G19301",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G19301",
+    "fetched_at": "2026-10-30 12:14:27",
+    "file": "我为何未获得付款？__G19301.md"
+  },
+  {
+    "title": "亚马逊如何转账付款",
+    "doc_id": "G19321",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G19321",
+    "fetched_at": "2026-10-30 12:14:33",
+    "file": "亚马逊如何转账付款__G19321.md"
+  },
+  {
+    "title": "账户设置常见问题",
+    "doc_id": "G19781",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G19781",
+    "fetched_at": "2026-10-30 12:14:41",
+    "file": "账户设置常见问题__G19781.md"
+  },
+  {
     "title": "您卖家账户的银行账户和信用卡或借记卡信息",
     "doc_id": "G19791",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G19791",
-    "fetched_at": "2026-10-30 09:49:09",
+    "fetched_at": "2026-10-30 12:14:43",
     "file": "您卖家账户的银行账户和信用卡或借记卡信息__G19791.md"
+  },
+  {
+    "title": "如何验证我的银行账户信息已更改成功？",
+    "doc_id": "G19801",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G19801",
+    "fetched_at": "2026-10-30 12:14:43",
+    "file": "如何验证我的银行账户信息已更改成功？__G19801.md"
   },
   {
     "title": "假期、节假日和其他暂停营业期间的商品状态",
     "doc_id": "G200135620",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200135620",
-    "fetched_at": "2026-10-30 09:49:35",
+    "fetched_at": "2026-10-30 12:14:46",
     "file": "假期、节假日和其他暂停营业期间的商品状态__G200135620.md"
+  },
+  {
+    "title": "什么是账户级别预留金？",
+    "doc_id": "G200136810",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200136810",
+    "fetched_at": "2026-10-30 12:14:46",
+    "file": "什么是账户级别预留金？__G200136810.md"
+  },
+  {
+    "title": "亚马逊物流商品限制",
+    "doc_id": "G200140860",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200140860",
+    "fetched_at": "2026-10-30 12:14:48",
+    "file": "亚马逊物流商品限制__G200140860.md"
+  },
+  {
+    "title": "发布亚马逊物流商品",
+    "doc_id": "G200141220",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200141220",
+    "fetched_at": "2026-10-30 12:14:48",
+    "file": "发布亚马逊物流商品__G200141220.md"
+  },
+  {
+    "title": "向亚马逊运送商品",
+    "doc_id": "G200141420",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200141420",
+    "fetched_at": "2026-10-30 12:14:48",
+    "file": "向亚马逊运送商品__G200141420.md"
   },
   {
     "title": "关闭您的卖家账户",
