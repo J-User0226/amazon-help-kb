@@ -43,3 +43,18 @@
 | `G69035` | 管理账户设置 | unchanged |
 | `GQRP483PDN88Q3M9` | 全球卖家身份、地址和公司验证 | unchanged |
 | `GWHNLFB8G85QAZ5W` | 添加、更新、查看和验证您的银行账户信息 | unchanged |
+
+## 2026-10-30 10:51
+
+| 文档 ID | 标题 | 结果 |
+|---|---|---|
+| `G181` | 账户设置 | updated（733 -> 671 字） |
+| `G19791` | 您卖家账户的银行账户和信用卡或借记卡信息 | unchanged |
+| `G200135620` | 假期、节假日和其他暂停营业期间的商品状态 | unchanged |
+| `G200399470` | 关闭您的卖家账户 | unchanged |
+| `G200421970` | 我要开店 | unchanged |
+| `G201484560` | 销售服务入门 | unchanged |
+| `G202110760` | 两步验证 | unchanged |
+| `G69035` | 管理账户设置 | unchanged |
+| `GQRP483PDN88Q3M9` | 全球卖家身份、地址和公司验证 | unchanged |
+| `GWHNLFB8G85QAZ5W` | 添加、更新、查看和验证您的银行账户信息 | unchanged |
