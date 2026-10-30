@@ -1,5 +1,180 @@
 [
   {
+    "title": "完善商品详情",
+    "doc_id": "10521",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/10521",
+    "fetched_at": "2026-10-30 12:06:39",
+    "file": "完善商品详情__10521.md"
+  },
+  {
+    "title": "亚马逊如何转账付款",
+    "doc_id": "19321",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/19321",
+    "fetched_at": "2026-10-30 12:05:42",
+    "file": "亚马逊如何转账付款__19321.md"
+  },
+  {
+    "title": "亚马逊物流商品限制",
+    "doc_id": "200140860",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200140860",
+    "fetched_at": "2026-10-30 12:07:19",
+    "file": "亚马逊物流商品限制__200140860.md"
+  },
+  {
+    "title": "Payments Statement View",
+    "doc_id": "200141680",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200141680",
+    "fetched_at": "2026-10-30 12:07:09",
+    "file": "Payments Statement View__200141680.md"
+  },
+  {
+    "title": "亚马逊物流库存赔偿政策",
+    "doc_id": "200213130",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200213130",
+    "fetched_at": "2026-10-30 12:07:21",
+    "file": "亚马逊物流库存赔偿政策__200213130.md"
+  },
+  {
+    "title": "亚马逊物流视频教程",
+    "doc_id": "200249180",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200249180",
+    "fetched_at": "2026-10-30 12:07:21",
+    "file": "亚马逊物流视频教程__200249180.md"
+  },
+  {
+    "title": "FBA 资源",
+    "doc_id": "200288170",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200288170",
+    "fetched_at": "2026-10-30 12:07:18",
+    "file": "FBA 资源__200288170.md"
+  },
+  {
+    "title": "使用买家与卖家消息服务与买家沟通",
+    "doc_id": "200389080",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200389080",
+    "fetched_at": "2026-10-30 12:05:47",
+    "file": "使用买家与卖家消息服务与买家沟通__200389080.md"
+  },
+  {
+    "title": "业务报告",
+    "doc_id": "200633570",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200633570",
+    "fetched_at": "2026-10-30 12:05:47",
+    "file": "业务报告__200633570.md"
+  },
+  {
+    "title": "Amazon EU and UK stores",
+    "doc_id": "200671260",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200671260",
+    "fetched_at": "2026-10-30 12:05:49",
+    "file": "Amazon EU and UK stores__200671260.md"
+  },
+  {
+    "title": "付款日期范围交易和汇总报告",
+    "doc_id": "200989190",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200989190",
+    "fetched_at": "2026-10-30 12:07:12",
+    "file": "付款日期范围交易和汇总报告__200989190.md"
+  },
+  {
+    "title": "为何我的编号在多个报告上看起来不同？",
+    "doc_id": "200989470",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200989470",
+    "fetched_at": "2026-10-30 12:06:10",
+    "file": "为何我的编号在多个报告上看起来不同？__200989470.md"
+  },
+  {
+    "title": "亚马逊物流政策与要求",
+    "doc_id": "201030350",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201030350",
+    "fetched_at": "2026-10-30 12:07:18",
+    "file": "亚马逊物流政策与要求__201030350.md"
+  },
+  {
+    "title": "亚马逊物流功能、服务与费用",
+    "doc_id": "201074400",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201074400",
+    "fetched_at": "2026-10-30 12:07:18",
+    "file": "亚马逊物流功能、服务与费用__201074400.md"
+  },
+  {
+    "title": "销售服务条款",
+    "doc_id": "201484410",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201484410",
+    "fetched_at": "2026-10-30 12:06:22",
+    "file": "销售服务条款__201484410.md"
+  },
+  {
+    "title": "您的企业信息",
+    "doc_id": "201484970",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201484970",
+    "fetched_at": "2026-10-30 12:06:22",
+    "file": "您的企业信息__201484970.md"
+  },
+  {
+    "title": "使用不同类型的业务报告",
+    "doc_id": "202142060",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202142060",
+    "fetched_at": "2026-10-30 12:06:37",
+    "file": "使用不同类型的业务报告__202142060.md"
+  },
+  {
+    "title": "业务报告术语表",
+    "doc_id": "27691",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/27691",
+    "fetched_at": "2026-10-30 12:06:37",
+    "file": "业务报告术语表__27691.md"
+  },
+  {
+    "title": "业务报告常见问题",
+    "doc_id": "28761",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/28761",
+    "fetched_at": "2026-10-30 12:07:00",
+    "file": "业务报告常见问题__28761.md"
+  },
+  {
+    "title": "使用业务报告获取销售成功",
+    "doc_id": "34601",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/34601",
+    "fetched_at": "2026-10-30 12:06:37",
+    "file": "使用业务报告获取销售成功__34601.md"
+  },
+  {
+    "title": "推荐报价",
+    "doc_id": "37911",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/37911",
+    "fetched_at": "2026-10-30 12:07:00",
+    "file": "推荐报价__37911.md"
+  },
+  {
+    "title": "付款报告",
+    "doc_id": "60511",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/60511",
+    "fetched_at": "2026-10-30 12:07:00",
+    "file": "付款报告__60511.md"
+  },
+  {
+    "title": "销售计划比较",
+    "doc_id": "64491",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/64491",
+    "fetched_at": "2026-10-30 12:07:07",
+    "file": "销售计划比较__64491.md"
+  },
+  {
+    "title": "下载付款报告",
+    "doc_id": "791",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/791",
+    "fetched_at": "2026-10-30 12:07:07",
+    "file": "下载付款报告__791.md"
+  },
+  {
+    "title": "向买家显示的卖家信息",
+    "doc_id": "841",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/841",
+    "fetched_at": "2026-10-30 12:07:07",
+    "file": "向买家显示的卖家信息__841.md"
+  },
+  {
     "title": "账户设置",
     "doc_id": "G181",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G181",
