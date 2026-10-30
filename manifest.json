@@ -1736,6 +1736,13 @@
     "file": "将商品数据添加至库存文件__201576640.md"
   },
   {
+    "title": "修改库存文件",
+    "doc_id": "201576660",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201576660",
+    "fetched_at": "2026-10-30 13:17:47",
+    "file": "修改库存文件__201576660.md"
+  },
+  {
     "title": "使用“清除和替换”工具",
     "doc_id": "201576690",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201576690",
@@ -2553,6 +2560,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202115770",
     "fetched_at": "2026-10-30 12:11:30",
     "file": "创建配送模板的最低要求__202115770.md"
+  },
+  {
+    "title": "珠宝首饰类商品数据更新 - 常见问题",
+    "doc_id": "202115840",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202115840",
+    "fetched_at": "2026-10-30 13:17:47",
+    "file": "珠宝首饰类商品数据更新 - 常见问题__202115840.md"
   },
   {
     "title": "建立国际商品信息",
@@ -10995,6 +11009,188 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G433KHBQ3JY4FZMT",
     "fetched_at": "2026-10-30 13:17:25",
     "file": "错误 18865__G433KHBQ3JY4FZMT.md"
+  },
+  {
+    "title": "促销和订单报告",
+    "doc_id": "G43531",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G43531",
+    "fetched_at": "2026-10-30 13:17:31",
+    "file": "促销和订单报告__G43531.md"
+  },
+  {
+    "title": "亚马逊 Haul 超值购项目政策",
+    "doc_id": "G44UDFTCV8QHAAJY",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G44UDFTCV8QHAAJY",
+    "fetched_at": "2026-10-30 13:17:35",
+    "file": "亚马逊 Haul 超值购项目政策__G44UDFTCV8QHAAJY.md"
+  },
+  {
+    "title": "发布预订商品或延期交付商品",
+    "doc_id": "G45231",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G45231",
+    "fetched_at": "2026-10-30 13:17:37",
+    "file": "发布预订商品或延期交付商品__G45231.md"
+  },
+  {
+    "title": "自定义 SKU 设置",
+    "doc_id": "G455QMHQTVD5XW6P",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G455QMHQTVD5XW6P",
+    "fetched_at": "2026-10-30 13:17:37",
+    "file": "自定义 SKU 设置__G455QMHQTVD5XW6P.md"
+  },
+  {
+    "title": "亚马逊出资的佣金折扣",
+    "doc_id": "G46WGRPY3HXUFZNG",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G46WGRPY3HXUFZNG",
+    "fetched_at": "2026-10-30 13:17:37",
+    "file": "亚马逊出资的佣金折扣__G46WGRPY3HXUFZNG.md"
+  },
+  {
+    "title": "错误代码 5469 和批准要求",
+    "doc_id": "G46X3Z7YQ93LQAAN",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G46X3Z7YQ93LQAAN",
+    "fetched_at": "2026-10-30 13:17:38",
+    "file": "错误代码 5469 和批准要求__G46X3Z7YQ93LQAAN.md"
+  },
+  {
+    "title": "亚马逊服务商业解决方案协议》变更《",
+    "doc_id": "G47071",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G47071",
+    "fetched_at": "2026-10-30 13:17:38",
+    "file": "亚马逊服务商业解决方案协议》变更《__G47071.md"
+  },
+  {
+    "title": "“发货时收费”条款和条件",
+    "doc_id": "G47201",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G47201",
+    "fetched_at": "2026-10-30 13:17:38",
+    "file": "“发货时收费”条款和条件__G47201.md"
+  },
+  {
+    "title": "关于创建鞋靴变体的指南",
+    "doc_id": "G47491",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G47491",
+    "fetched_at": "2026-10-30 13:17:40",
+    "file": "关于创建鞋靴变体的指南__G47491.md"
+  },
+  {
+    "title": "关于法国相关活动年度对账单的常见问题解答",
+    "doc_id": "G47EGCQ8UDLFF5EQ",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G47EGCQ8UDLFF5EQ",
+    "fetched_at": "2026-10-30 13:17:40",
+    "file": "关于法国相关活动年度对账单的常见问题解答__G47EGCQ8UDLFF5EQ.md"
+  },
+  {
+    "title": "电动切割工具",
+    "doc_id": "G47MZUS764W88ZRP",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G47MZUS764W88ZRP",
+    "fetched_at": "2026-10-30 13:17:40",
+    "file": "电动切割工具__G47MZUS764W88ZRP.md"
+  },
+  {
+    "title": "多渠道配送的新功能（测试版）",
+    "doc_id": "G47ZF4V7HNRY3JWD",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G47ZF4V7HNRY3JWD",
+    "fetched_at": "2026-10-30 13:17:42",
+    "file": "多渠道配送的新功能（测试版）__G47ZF4V7HNRY3JWD.md"
+  },
+  {
+    "title": "您的卖家记号",
+    "doc_id": "G48321",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G48321",
+    "fetched_at": "2026-10-30 13:17:42",
+    "file": "您的卖家记号__G48321.md"
+  },
+  {
+    "title": "如果我无法为部分或全部商品提供 UPC 怎么办？",
+    "doc_id": "G48551",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G48551",
+    "fetched_at": "2026-10-30 13:17:43",
+    "file": "如果我无法为部分或全部商品提供 UPC 怎么办？__G48551.md"
+  },
+  {
+    "title": "信用卡拒付",
+    "doc_id": "G48781",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G48781",
+    "fetched_at": "2026-10-30 13:17:43",
+    "file": "信用卡拒付__G48781.md"
+  },
+  {
+    "title": "Amazon Seller Wallet Terms & Conditions",
+    "doc_id": "G48JF654VVTLX9K7",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G48JF654VVTLX9K7",
+    "fetched_at": "2026-10-30 13:17:47",
+    "file": "Amazon Seller Wallet Terms & Conditions__G48JF654VVTLX9K7.md"
+  },
+  {
+    "title": "错误 8045",
+    "doc_id": "G49V6WDHJRCNSU9D",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G49V6WDHJRCNSU9D",
+    "fetched_at": "2026-10-30 13:17:43",
+    "file": "错误 8045__G49V6WDHJRCNSU9D.md"
+  },
+  {
+    "title": "珠宝首饰类商品数据指南",
+    "doc_id": "G4ABP6XDJAE6PZAV",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G4ABP6XDJAE6PZAV",
+    "fetched_at": "2026-10-30 13:17:45",
+    "file": "珠宝首饰类商品数据指南__G4ABP6XDJAE6PZAV.md"
+  },
+  {
+    "title": "澳大利亚低价值进口商品的商品及服务税常见问题",
+    "doc_id": "G4BBHW7XBNS2GMWU",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G4BBHW7XBNS2GMWU",
+    "fetched_at": "2026-10-30 13:17:45",
+    "file": "澳大利亚低价值进口商品的商品及服务税常见问题__G4BBHW7XBNS2GMWU.md"
+  },
+  {
+    "title": "Amazon Merchant Fulfilled Services Program Policy",
+    "doc_id": "G4BECFXQCAQUYXLM",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G4BECFXQCAQUYXLM",
+    "fetched_at": "2026-10-30 13:17:45",
+    "file": "Amazon Merchant Fulfilled Services Program Policy__G4BECFXQCAQUYXLM.md"
+  },
+  {
+    "title": "符合 Made in France / Fabriqué en France 的资格",
+    "doc_id": "G4C9SLZZ2EG4AR8B",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G4C9SLZZ2EG4AR8B",
+    "fetched_at": "2026-10-30 13:17:49",
+    "file": "符合 Made in France _ Fabriqué en France 的资格__G4C9SLZZ2EG4AR8B.md"
+  },
+  {
+    "title": "错误 90777",
+    "doc_id": "G4DZHU8ADN5R3CYP",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G4DZHU8ADN5R3CYP",
+    "fetched_at": "2026-10-30 13:17:49",
+    "file": "错误 90777__G4DZHU8ADN5R3CYP.md"
+  },
+  {
+    "title": "亚马逊卖家活动",
+    "doc_id": "G4EA5TAGNSS59CCM",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G4EA5TAGNSS59CCM",
+    "fetched_at": "2026-10-30 13:17:49",
+    "file": "亚马逊卖家活动__G4EA5TAGNSS59CCM.md"
+  },
+  {
+    "title": "卖家自配送 Prime 配送速度报告",
+    "doc_id": "G4EPNZYYU6ELW96U",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G4EPNZYYU6ELW96U",
+    "fetched_at": "2026-10-30 13:17:50",
+    "file": "卖家自配送 Prime 配送速度报告__G4EPNZYYU6ELW96U.md"
+  },
+  {
+    "title": "男用和女用避孕套",
+    "doc_id": "G4EX3SEAAQRMLKN8",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G4EX3SEAAQRMLKN8",
+    "fetched_at": "2026-10-30 13:17:50",
+    "file": "男用和女用避孕套__G4EX3SEAAQRMLKN8.md"
+  },
+  {
+    "title": "库存分类账报告",
+    "doc_id": "G4FKT5KQWFFJ7LDN",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G4FKT5KQWFFJ7LDN",
+    "fetched_at": "2026-10-30 13:17:51",
+    "file": "库存分类账报告__G4FKT5KQWFFJ7LDN.md"
   },
   {
     "title": "管理账户设置",
