@@ -1939,6 +1939,27 @@
     "file": "卖家自配送 Prime__201812230.md"
   },
   {
+    "title": "迈出重要的开店第一步",
+    "doc_id": "201813580",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201813580",
+    "fetched_at": "2026-10-30 12:55:15",
+    "file": "迈出重要的开店第一步__201813580.md"
+  },
+  {
+    "title": "添加商品",
+    "doc_id": "201813590",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201813590",
+    "fetched_at": "2026-10-30 12:55:15",
+    "file": "添加商品__201813590.md"
+  },
+  {
+    "title": "Additional features in Seller Central",
+    "doc_id": "201813600",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201813600",
+    "fetched_at": "2026-10-30 12:55:15",
+    "file": "Additional features in Seller Central__201813600.md"
+  },
+  {
     "title": "能源标签规则",
     "doc_id": "201814570",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201814570",
@@ -5313,6 +5334,13 @@
     "file": "禁止显示的商品__G200898440.md"
   },
   {
+    "title": "错误 6024",
+    "doc_id": "G200942550",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200942550",
+    "fetched_at": "2026-10-30 12:55:07",
+    "file": "错误 6024__G200942550.md"
+  },
+  {
     "title": "拓展国际业务",
     "doc_id": "G200942970",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200942970",
@@ -6195,6 +6223,13 @@
     "file": "多国家_地区库存报告__G201491370.md"
   },
   {
+    "title": "“我要开店”的基础知识",
+    "doc_id": "G201500390",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201500390",
+    "fetched_at": "2026-10-30 12:55:13",
+    "file": "“我要开店”的基础知识__G201500390.md"
+  },
+  {
     "title": "恢复为新品",
     "doc_id": "G201505310",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201505310",
@@ -6851,6 +6886,167 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201756900",
     "fetched_at": "2026-10-30 12:54:25",
     "file": "处理礼品退货__G201756900.md"
+  },
+  {
+    "title": "亚马逊企业购术语表",
+    "doc_id": "G201760900",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201760900",
+    "fetched_at": "2026-10-30 12:55:00",
+    "file": "亚马逊企业购术语表__G201760900.md"
+  },
+  {
+    "title": "“在亚马逊企业购开店”费用价目表",
+    "doc_id": "G201762480",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201762480",
+    "fetched_at": "2026-10-30 12:55:00",
+    "file": "“在亚马逊企业购开店”费用价目表__G201762480.md"
+  },
+  {
+    "title": "在亚马逊商城中销售品牌商品的标准",
+    "doc_id": "G201797950",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201797950",
+    "fetched_at": "2026-10-30 12:55:01",
+    "file": "在亚马逊商城中销售品牌商品的标准__G201797950.md"
+  },
+  {
+    "title": "直送政策",
+    "doc_id": "G201808410",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201808410",
+    "fetched_at": "2026-10-30 12:55:04",
+    "file": "直送政策__G201808410.md"
+  },
+  {
+    "title": "电池",
+    "doc_id": "G201809280",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201809280",
+    "fetched_at": "2026-10-30 12:55:05",
+    "file": "电池__G201809280.md"
+  },
+  {
+    "title": "常见库存模板错误 - 中文翻译",
+    "doc_id": "G201809710",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201809710",
+    "fetched_at": "2026-10-30 12:55:05",
+    "file": "常见库存模板错误 - 中文翻译__G201809710.md"
+  },
+  {
+    "title": "美国亚马逊运营中心",
+    "doc_id": "G201811680",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201811680",
+    "fetched_at": "2026-10-30 12:55:07",
+    "file": "美国亚马逊运营中心__G201811680.md"
+  },
+  {
+    "title": "卖家自配送 Prime",
+    "doc_id": "G201812230",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201812230",
+    "fetched_at": "2026-10-30 12:55:07",
+    "file": "卖家自配送 Prime__G201812230.md"
+  },
+  {
+    "title": "保持卖家自配送 Prime 计划注册状态",
+    "doc_id": "G201812270",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201812270",
+    "fetched_at": "2026-10-30 12:55:09",
+    "file": "保持卖家自配送 Prime 计划注册状态__G201812270.md"
+  },
+  {
+    "title": "卖家自配送 Prime 计划政策",
+    "doc_id": "G201812300",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201812300",
+    "fetched_at": "2026-10-30 12:55:09",
+    "file": "卖家自配送 Prime 计划政策__G201812300.md"
+  },
+  {
+    "title": "解决亚马逊企业购错误",
+    "doc_id": "G201812760",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201812760",
+    "fetched_at": "2026-10-30 12:55:09",
+    "file": "解决亚马逊企业购错误__G201812760.md"
+  },
+  {
+    "title": "墨西哥税务和法规注意事项",
+    "doc_id": "G201812940",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201812940",
+    "fetched_at": "2026-10-30 12:55:11",
+    "file": "墨西哥税务和法规注意事项__G201812940.md"
+  },
+  {
+    "title": "如何开播“我要开店”的视频",
+    "doc_id": "G201813570",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201813570",
+    "fetched_at": "2026-10-30 12:55:13",
+    "file": "如何开播“我要开店”的视频__G201813570.md"
+  },
+  {
+    "title": "迈出重要的开店第一步",
+    "doc_id": "G201813580",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201813580",
+    "fetched_at": "2026-10-30 12:55:13",
+    "file": "迈出重要的开店第一步__G201813580.md"
+  },
+  {
+    "title": "添加商品",
+    "doc_id": "G201813590",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201813590",
+    "fetched_at": "2026-10-30 12:55:21",
+    "file": "添加商品__G201813590.md"
+  },
+  {
+    "title": "Additional features in Seller Central",
+    "doc_id": "G201813600",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201813600",
+    "fetched_at": "2026-10-30 12:55:21",
+    "file": "Additional features in Seller Central__G201813600.md"
+  },
+  {
+    "title": "组合商品和捆绑商品的商品编码",
+    "doc_id": "G201813840",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201813840",
+    "fetched_at": "2026-10-30 12:55:11",
+    "file": "组合商品和捆绑商品的商品编码__G201813840.md"
+  },
+  {
+    "title": "Amazon Handmade： 销售佣金",
+    "doc_id": "G201814220",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201814220",
+    "fetched_at": "2026-10-30 12:55:37",
+    "file": "Amazon Handmade： 销售佣金__G201814220.md"
+  },
+  {
+    "title": "能源标签规则",
+    "doc_id": "G201814570",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201814570",
+    "fetched_at": "2026-10-30 12:55:23",
+    "file": "能源标签规则__G201814570.md"
+  },
+  {
+    "title": "取消您的亚马逊手工艺品市场账户",
+    "doc_id": "G201816790",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201816790",
+    "fetched_at": "2026-10-30 12:55:37",
+    "file": "取消您的亚马逊手工艺品市场账户__G201816790.md"
+  },
+  {
+    "title": "有效追踪率 (VTR)",
+    "doc_id": "G201817070",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201817070",
+    "fetched_at": "2026-10-30 12:55:23",
+    "file": "有效追踪率 (VTR)__G201817070.md"
+  },
+  {
+    "title": "Amazon Handmade",
+    "doc_id": "G201817090",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201817090",
+    "fetched_at": "2026-10-30 12:55:23",
+    "file": "Amazon Handmade__G201817090.md"
+  },
+  {
+    "title": "Amazon Handmade： 发布商品",
+    "doc_id": "G201817280",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201817280",
+    "fetched_at": "2026-10-30 12:55:37",
+    "file": "Amazon Handmade： 发布商品__G201817280.md"
   },
   {
     "title": "两步验证",
