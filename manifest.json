@@ -490,6 +490,13 @@
     "file": "订单缺陷率__200285170.md"
   },
   {
+    "title": "迟发率",
+    "doc_id": "200285190",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200285190",
+    "fetched_at": "2026-10-30 13:15:24",
+    "file": "迟发率__200285190.md"
+  },
+  {
     "title": "取消率",
     "doc_id": "200285210",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200285210",
@@ -2765,6 +2772,13 @@
     "file": "音乐和 DVD__202188990.md"
   },
   {
+    "title": "创建优惠券",
+    "doc_id": "202189350",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202189350",
+    "fetched_at": "2026-10-30 13:15:26",
+    "file": "创建优惠券__202189350.md"
+  },
+  {
     "title": "选择优惠券的受众",
     "doc_id": "202189390",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202189390",
@@ -3136,6 +3150,13 @@
     "file": "错误 18033__25481.md"
   },
   {
+    "title": "错误 20007",
+    "doc_id": "25581",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/25581",
+    "fetched_at": "2026-10-30 13:15:16",
+    "file": "错误 20007__25581.md"
+  },
+  {
     "title": "商品详情页面存在错误。应该怎样更正？",
     "doc_id": "26571",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/26571",
@@ -3309,6 +3330,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/60961",
     "fetched_at": "2026-10-30 12:45:16",
     "file": "创建促销__60961.md"
+  },
+  {
+    "title": "编辑促销",
+    "doc_id": "60981",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/60981",
+    "fetched_at": "2026-10-30 13:15:26",
+    "file": "编辑促销__60981.md"
   },
   {
     "title": "查看我的库存结果",
@@ -8869,6 +8897,13 @@
     "file": "儿童安全保护带系统、儿童增高椅和旅行装置__G202137200.md"
   },
   {
+    "title": "结束或取消促销",
+    "doc_id": "G202137810",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202137810",
+    "fetched_at": "2026-10-30 13:15:28",
+    "file": "结束或取消促销__G202137810.md"
+  },
+  {
     "title": "查看促销变更历史记录",
     "doc_id": "G202137910",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202137910",
@@ -10043,6 +10078,153 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25651",
     "fetched_at": "2026-10-30 13:15:06",
     "file": "错误 30005__G25651.md"
+  },
+  {
+    "title": "错误 30006",
+    "doc_id": "G25671",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25671",
+    "fetched_at": "2026-10-30 13:15:16",
+    "file": "错误 30006__G25671.md"
+  },
+  {
+    "title": "错误 30007",
+    "doc_id": "G25691",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25691",
+    "fetched_at": "2026-10-30 13:15:18",
+    "file": "错误 30007__G25691.md"
+  },
+  {
+    "title": "为商品精确分类",
+    "doc_id": "G25771",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25771",
+    "fetched_at": "2026-10-30 13:15:18",
+    "file": "为商品精确分类__G25771.md"
+  },
+  {
+    "title": "FBM Ship+",
+    "doc_id": "G25JYBE52BCW5QJN",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25JYBE52BCW5QJN",
+    "fetched_at": "2026-10-30 13:15:18",
+    "file": "FBM Ship+__G25JYBE52BCW5QJN.md"
+  },
+  {
+    "title": "商品详情页面存在错误。应该怎样更正？",
+    "doc_id": "G26571",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G26571",
+    "fetched_at": "2026-10-30 13:15:20",
+    "file": "商品详情页面存在错误。应该怎样更正？__G26571.md"
+  },
+  {
+    "title": "网站下拉框有何作用？",
+    "doc_id": "G26971",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G26971",
+    "fetched_at": "2026-10-30 13:15:20",
+    "file": "网站下拉框有何作用？__G26971.md"
+  },
+  {
+    "title": "错误 18102",
+    "doc_id": "G26B8EQZ26N645P6",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G26B8EQZ26N645P6",
+    "fetched_at": "2026-10-30 13:15:20",
+    "file": "错误 18102__G26B8EQZ26N645P6.md"
+  },
+  {
+    "title": "错误 18749",
+    "doc_id": "G26KKBDQEFJ9L8SC",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G26KKBDQEFJ9L8SC",
+    "fetched_at": "2026-10-30 13:15:21",
+    "file": "错误 18749__G26KKBDQEFJ9L8SC.md"
+  },
+  {
+    "title": "出色的详情页面促进商品销售",
+    "doc_id": "G27381",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G27381",
+    "fetched_at": "2026-10-30 13:15:21",
+    "file": "出色的详情页面促进商品销售__G27381.md"
+  },
+  {
+    "title": "业务报告术语表",
+    "doc_id": "G27691",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G27691",
+    "fetched_at": "2026-10-30 13:15:23",
+    "file": "业务报告术语表__G27691.md"
+  },
+  {
+    "title": "亚马逊商城交易保障索赔",
+    "doc_id": "G27951",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G27951",
+    "fetched_at": "2026-10-30 13:15:23",
+    "file": "亚马逊商城交易保障索赔__G27951.md"
+  },
+  {
+    "title": "通过提供建议零售价显示商品的参考价",
+    "doc_id": "G27XM55CQM3SBMD2",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G27XM55CQM3SBMD2",
+    "fetched_at": "2026-10-30 13:15:24",
+    "file": "通过提供建议零售价显示商品的参考价__G27XM55CQM3SBMD2.md"
+  },
+  {
+    "title": "管理订单",
+    "doc_id": "G28141",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G28141",
+    "fetched_at": "2026-10-30 13:15:26",
+    "file": "管理订单__G28141.md"
+  },
+  {
+    "title": "搜索订单",
+    "doc_id": "G28151",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G28151",
+    "fetched_at": "2026-10-30 13:15:28",
+    "file": "搜索订单__G28151.md"
+  },
+  {
+    "title": "入户合规性政策更新",
+    "doc_id": "G283Q727ZXMVTLX7",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G283Q727ZXMVTLX7",
+    "fetched_at": "2026-10-30 13:15:28",
+    "file": "入户合规性政策更新__G283Q727ZXMVTLX7.md"
+  },
+  {
+    "title": "亚马逊合作者计划",
+    "doc_id": "G28591",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G28591",
+    "fetched_at": "2026-10-30 13:15:29",
+    "file": "亚马逊合作者计划__G28591.md"
+  },
+  {
+    "title": "业务报告常见问题",
+    "doc_id": "G28761",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G28761",
+    "fetched_at": "2026-10-30 13:15:29",
+    "file": "业务报告常见问题__G28761.md"
+  },
+  {
+    "title": "入库卡 ",
+    "doc_id": "G28CSGYSGAZ92665",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G28CSGYSGAZ92665",
+    "fetched_at": "2026-10-30 13:15:29",
+    "file": "入库卡__G28CSGYSGAZ92665.md"
+  },
+  {
+    "title": "文件后缀不受支持",
+    "doc_id": "G2AHG9AAHGG2DPVH",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2AHG9AAHGG2DPVH",
+    "fetched_at": "2026-10-30 13:15:31",
+    "file": "文件后缀不受支持__G2AHG9AAHGG2DPVH.md"
+  },
+  {
+    "title": "虚拟捆绑商品的故障排除常见问题",
+    "doc_id": "G2BTQWUUDS3RV7WB",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2BTQWUUDS3RV7WB",
+    "fetched_at": "2026-10-30 13:15:31",
+    "file": "虚拟捆绑商品的故障排除常见问题__G2BTQWUUDS3RV7WB.md"
+  },
+  {
+    "title": "销售趋势常见问题",
+    "doc_id": "G2CRYWPU52D7TGAK",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2CRYWPU52D7TGAK",
+    "fetched_at": "2026-10-30 13:15:31",
+    "file": "销售趋势常见问题__G2CRYWPU52D7TGAK.md"
   },
   {
     "title": "管理账户设置",
