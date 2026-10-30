@@ -203,6 +203,13 @@
     "file": "冒犯性和有争议的商品__200164670.md"
   },
   {
+    "title": "错误 20011",
+    "doc_id": "200167790",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200167790",
+    "fetched_at": "2026-10-30 12:35:14",
+    "file": "错误 20011__200167790.md"
+  },
+  {
     "title": "管理亚马逊物流库存",
     "doc_id": "200169480",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200169480",
@@ -2184,6 +2191,13 @@
     "file": "如何验证我的银行账户信息已更改成功？__G19801.md"
   },
   {
+    "title": "错误 20010",
+    "doc_id": "G200122490",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200122490",
+    "fetched_at": "2026-10-30 12:35:13",
+    "file": "错误 20010__G200122490.md"
+  },
+  {
     "title": "事件通知 Web 服务",
     "doc_id": "G200123450",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200123450",
@@ -2469,6 +2483,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200166630",
     "fetched_at": "2026-10-30 12:18:23",
     "file": "珠宝首饰和贵重宝石__G200166630.md"
+  },
+  {
+    "title": "错误 20011",
+    "doc_id": "G200167790",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200167790",
+    "fetched_at": "2026-10-30 12:35:13",
+    "file": "错误 20011__G200167790.md"
   },
   {
     "title": "管理亚马逊物流库存",
@@ -3736,6 +3757,174 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200712350",
     "fetched_at": "2026-10-30 12:34:45",
     "file": "错误 90054__G200712350.md"
+  },
+  {
+    "title": "错误 90056",
+    "doc_id": "G200712410",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200712410",
+    "fetched_at": "2026-10-30 12:35:08",
+    "file": "错误 90056__G200712410.md"
+  },
+  {
+    "title": "错误 90057",
+    "doc_id": "G200712430",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200712430",
+    "fetched_at": "2026-10-30 12:35:08",
+    "file": "错误 90057__G200712430.md"
+  },
+  {
+    "title": "错误 90061",
+    "doc_id": "G200712460",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200712460",
+    "fetched_at": "2026-10-30 12:35:08",
+    "file": "错误 90061__G200712460.md"
+  },
+  {
+    "title": "错误 90062",
+    "doc_id": "G200712480",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200712480",
+    "fetched_at": "2026-10-30 12:35:09",
+    "file": "错误 90062__G200712480.md"
+  },
+  {
+    "title": "错误 90085",
+    "doc_id": "G200712770",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200712770",
+    "fetched_at": "2026-10-30 12:35:11",
+    "file": "错误 90085__G200712770.md"
+  },
+  {
+    "title": "错误 90093",
+    "doc_id": "G200712790",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200712790",
+    "fetched_at": "2026-10-30 12:35:11",
+    "file": "错误 90093__G200712790.md"
+  },
+  {
+    "title": "错误 90094",
+    "doc_id": "G200712810",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200712810",
+    "fetched_at": "2026-10-30 12:35:13",
+    "file": "错误 90094__G200712810.md"
+  },
+  {
+    "title": "错误 90104",
+    "doc_id": "G200712850",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200712850",
+    "fetched_at": "2026-10-30 12:35:15",
+    "file": "错误 90104__G200712850.md"
+  },
+  {
+    "title": "错误 90111",
+    "doc_id": "G200712870",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200712870",
+    "fetched_at": "2026-10-30 12:35:15",
+    "file": "错误 90111__G200712870.md"
+  },
+  {
+    "title": "错误 90112",
+    "doc_id": "G200712890",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200712890",
+    "fetched_at": "2026-10-30 12:35:16",
+    "file": "错误 90112__G200712890.md"
+  },
+  {
+    "title": "错误 90116",
+    "doc_id": "G200712970",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200712970",
+    "fetched_at": "2026-10-30 12:35:16",
+    "file": "错误 90116__G200712970.md"
+  },
+  {
+    "title": "错误 90117",
+    "doc_id": "G200712990",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200712990",
+    "fetched_at": "2026-10-30 12:35:16",
+    "file": "错误 90117__G200712990.md"
+  },
+  {
+    "title": "错误 90119",
+    "doc_id": "G200713030",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200713030",
+    "fetched_at": "2026-10-30 12:35:18",
+    "file": "错误 90119__G200713030.md"
+  },
+  {
+    "title": "错误 90121",
+    "doc_id": "G200713070",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200713070",
+    "fetched_at": "2026-10-30 12:35:18",
+    "file": "错误 90121__G200713070.md"
+  },
+  {
+    "title": "错误 90122",
+    "doc_id": "G200713090",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200713090",
+    "fetched_at": "2026-10-30 12:35:18",
+    "file": "错误 90122__G200713090.md"
+  },
+  {
+    "title": "错误 99001",
+    "doc_id": "G200713110",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200713110",
+    "fetched_at": "2026-10-30 12:35:20",
+    "file": "错误 99001__G200713110.md"
+  },
+  {
+    "title": "错误 99003",
+    "doc_id": "G200713150",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200713150",
+    "fetched_at": "2026-10-30 12:35:20",
+    "file": "错误 99003__G200713150.md"
+  },
+  {
+    "title": "错误 99005",
+    "doc_id": "G200713170",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200713170",
+    "fetched_at": "2026-10-30 12:35:22",
+    "file": "错误 99005__G200713170.md"
+  },
+  {
+    "title": "错误 99006",
+    "doc_id": "G200713190",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200713190",
+    "fetched_at": "2026-10-30 12:35:24",
+    "file": "错误 99006__G200713190.md"
+  },
+  {
+    "title": "错误 99007",
+    "doc_id": "G200713210",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200713210",
+    "fetched_at": "2026-10-30 12:35:24",
+    "file": "错误 99007__G200713210.md"
+  },
+  {
+    "title": "错误 99008",
+    "doc_id": "G200713230",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200713230",
+    "fetched_at": "2026-10-30 12:35:24",
+    "file": "错误 99008__G200713230.md"
+  },
+  {
+    "title": "错误 99009",
+    "doc_id": "G200713250",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200713250",
+    "fetched_at": "2026-10-30 12:35:26",
+    "file": "错误 99009__G200713250.md"
+  },
+  {
+    "title": "错误 99010",
+    "doc_id": "G200713270",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200713270",
+    "fetched_at": "2026-10-30 12:35:26",
+    "file": "错误 99010__G200713270.md"
+  },
+  {
+    "title": "错误 99011",
+    "doc_id": "G200713290",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200713290",
+    "fetched_at": "2026-10-30 12:35:26",
+    "file": "错误 99011__G200713290.md"
   },
   {
     "title": "销售服务入门",
