@@ -10633,6 +10633,188 @@
     "file": "错误 6000： 闰年日期无效__G32171.md"
   },
   {
+    "title": "错误 6000： 平年日期无效",
+    "doc_id": "G32191",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32191",
+    "fetched_at": "2026-10-30 13:16:22",
+    "file": "错误 6000： 平年日期无效__G32191.md"
+  },
+  {
+    "title": "识别虚假（欺骗性）电子邮件",
+    "doc_id": "G32261",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32261",
+    "fetched_at": "2026-10-30 13:16:22",
+    "file": "识别虚假（欺骗性）电子邮件__G32261.md"
+  },
+  {
+    "title": "电视/音响",
+    "doc_id": "G32431",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32431",
+    "fetched_at": "2026-10-30 13:16:22",
+    "file": "电视_音响__G32431.md"
+  },
+  {
+    "title": "错误 6000： 列无法识别",
+    "doc_id": "G32491",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32491",
+    "fetched_at": "2026-10-30 13:16:24",
+    "file": "错误 6000： 列无法识别__G32491.md"
+  },
+  {
+    "title": "错误 6000： 商品类型/ColumnPair 无法识别",
+    "doc_id": "G32521",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32521",
+    "fetched_at": "2026-10-30 13:16:24",
+    "file": "错误 6000： 商品类型_ColumnPair 无法识别__G32521.md"
+  },
+  {
+    "title": "错误 6000： 值 - 提交了多个值",
+    "doc_id": "G32541",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32541",
+    "fetched_at": "2026-10-30 13:16:24",
+    "file": "错误 6000： 值 - 提交了多个值__G32541.md"
+  },
+  {
+    "title": "错误 6000： URL 格式不正确",
+    "doc_id": "G32561",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32561",
+    "fetched_at": "2026-10-30 13:16:25",
+    "file": "错误 6000： URL 格式不正确__G32561.md"
+  },
+  {
+    "title": "Error 6000： 时区无效",
+    "doc_id": "G32581",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32581",
+    "fetched_at": "2026-10-30 13:16:25",
+    "file": "Error 6000： 时区无效__G32581.md"
+  },
+  {
+    "title": "错误 6000： TimeValue 超出可接受范围",
+    "doc_id": "G32601",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32601",
+    "fetched_at": "2026-10-30 13:16:25",
+    "file": "错误 6000： TimeValue 超出可接受范围__G32601.md"
+  },
+  {
+    "title": "错误 6000： 数值必须为有效小数",
+    "doc_id": "G32621",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32621",
+    "fetched_at": "2026-10-30 13:16:27",
+    "file": "错误 6000： 数值必须为有效小数__G32621.md"
+  },
+  {
+    "title": "错误 6000： 数值超出非负整数范围",
+    "doc_id": "G32641",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32641",
+    "fetched_at": "2026-10-30 13:16:27",
+    "file": "错误 6000： 数值超出非负整数范围__G32641.md"
+  },
+  {
+    "title": "错误 6000： 双引号缺失",
+    "doc_id": "G32681",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32681",
+    "fetched_at": "2026-10-30 13:16:27",
+    "file": "错误 6000： 双引号缺失__G32681.md"
+  },
+  {
+    "title": "错误 90235",
+    "doc_id": "G32ASRJEJEAUWQE9",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32ASRJEJEAUWQE9",
+    "fetched_at": "2026-10-30 13:16:28",
+    "file": "错误 90235__G32ASRJEJEAUWQE9.md"
+  },
+  {
+    "title": "延长认证有效期",
+    "doc_id": "G32RZ6M2DJT9QCQS",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32RZ6M2DJT9QCQS",
+    "fetched_at": "2026-10-30 13:16:29",
+    "file": "延长认证有效期__G32RZ6M2DJT9QCQS.md"
+  },
+  {
+    "title": "错误 99051",
+    "doc_id": "G33E4U7K7PKV5BVC",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G33E4U7K7PKV5BVC",
+    "fetched_at": "2026-10-30 13:16:29",
+    "file": "错误 99051__G33E4U7K7PKV5BVC.md"
+  },
+  {
+    "title": "错误 99005",
+    "doc_id": "G33V98FNJL3CCJNK",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G33V98FNJL3CCJNK",
+    "fetched_at": "2026-10-30 13:16:30",
+    "file": "错误 99005__G33V98FNJL3CCJNK.md"
+  },
+  {
+    "title": "“SKU”是什么意思？",
+    "doc_id": "G34151",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G34151",
+    "fetched_at": "2026-10-30 13:16:30",
+    "file": "“SKU”是什么意思？__G34151.md"
+  },
+  {
+    "title": "使用业务报告获取销售成功",
+    "doc_id": "G34601",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G34601",
+    "fetched_at": "2026-10-30 13:16:30",
+    "file": "使用业务报告获取销售成功__G34601.md"
+  },
+  {
+    "title": "保障您的账户信息安全",
+    "doc_id": "G34901",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G34901",
+    "fetched_at": "2026-10-30 13:16:32",
+    "file": "保障您的账户信息安全__G34901.md"
+  },
+  {
+    "title": "错误 90177",
+    "doc_id": "G34WGKLQ785YVWW4",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G34WGKLQ785YVWW4",
+    "fetched_at": "2026-10-30 13:16:32",
+    "file": "错误 90177__G34WGKLQ785YVWW4.md"
+  },
+  {
+    "title": "批量创建优惠券",
+    "doc_id": "G363YLQW4NB5L38V",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G363YLQW4NB5L38V",
+    "fetched_at": "2026-10-30 13:16:33",
+    "file": "批量创建优惠券__G363YLQW4NB5L38V.md"
+  },
+  {
+    "title": "状况指南： 视频游戏",
+    "doc_id": "G36W3YMFYV5L26EV",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G36W3YMFYV5L26EV",
+    "fetched_at": "2026-10-30 13:16:33",
+    "file": "状况指南： 视频游戏__G36W3YMFYV5L26EV.md"
+  },
+  {
+    "title": "对服务提供商的账户访问权限进行重新授权",
+    "doc_id": "G3782ZCL2U67NSTB",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G3782ZCL2U67NSTB",
+    "fetched_at": "2026-10-30 13:16:33",
+    "file": "对服务提供商的账户访问权限进行重新授权__G3782ZCL2U67NSTB.md"
+  },
+  {
+    "title": "推荐报价",
+    "doc_id": "G37911",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G37911",
+    "fetched_at": "2026-10-30 13:16:39",
+    "file": "推荐报价__G37911.md"
+  },
+  {
+    "title": "商品尺寸和体积",
+    "doc_id": "G37G73BJXHF75ACH",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G37G73BJXHF75ACH",
+    "fetched_at": "2026-10-30 13:16:39",
+    "file": "商品尺寸和体积__G37G73BJXHF75ACH.md"
+  },
+  {
+    "title": "错误 18314",
+    "doc_id": "G39XS4A7U7QHAT92",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G39XS4A7U7QHAT92",
+    "fetched_at": "2026-10-30 13:16:45",
+    "file": "错误 18314__G39XS4A7U7QHAT92.md"
+  },
+  {
     "title": "管理账户设置",
     "doc_id": "G69035",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G69035",
