@@ -224,6 +224,13 @@
     "file": "艺术品 - 家居装饰__200164390.md"
   },
   {
+    "title": "汽车和户外动力设备",
+    "doc_id": "200164410",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200164410",
+    "fetched_at": "2026-10-30 12:51:38",
+    "file": "汽车和户外动力设备__200164410.md"
+  },
+  {
     "title": "货币、硬币、现金等价物和礼品卡",
     "doc_id": "200164450",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200164450",
@@ -252,11 +259,25 @@
     "file": "冒犯性和有争议的商品__200164670.md"
   },
   {
+    "title": "邮资机和邮票",
+    "doc_id": "200164730",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200164730",
+    "fetched_at": "2026-10-30 12:51:34",
+    "file": "邮资机和邮票__200164730.md"
+  },
+  {
     "title": "召回的商品",
     "doc_id": "200164750",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200164750",
     "fetched_at": "2026-10-30 12:44:30",
     "file": "召回的商品__200164750.md"
+  },
+  {
+    "title": "珠宝首饰和贵重宝石",
+    "doc_id": "200166630",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200166630",
+    "fetched_at": "2026-10-30 12:51:34",
+    "file": "珠宝首饰和贵重宝石__200166630.md"
   },
   {
     "title": "错误 20011",
@@ -630,6 +651,13 @@
     "file": "阅读在售商品报告__200385890.md"
   },
   {
+    "title": "关于禁止的卖家活动和行为的政策",
+    "doc_id": "200386250",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200386250",
+    "fetched_at": "2026-10-30 12:51:34",
+    "file": "关于禁止的卖家活动和行为的政策__200386250.md"
+  },
+  {
     "title": "销售软件",
     "doc_id": "200386270",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200386270",
@@ -691,6 +719,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200418100",
     "fetched_at": "2026-10-30 12:31:50",
     "file": "推荐报价资格__200418100.md"
+  },
+  {
+    "title": "“其他亚马逊卖家”框如何工作？",
+    "doc_id": "200418110",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200418110",
+    "fetched_at": "2026-10-30 12:51:29",
+    "file": "“其他亚马逊卖家”框如何工作？__200418110.md"
   },
   {
     "title": "发布没有商品编码（UPC、EAN、JAN 或 ISBN）的商品",
@@ -847,6 +882,13 @@
     "file": "业务报告__200633570.md"
   },
   {
+    "title": "美国收入申报和纳税身份信息采集常见问题",
+    "doc_id": "200663290",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200663290",
+    "fetched_at": "2026-10-30 12:51:33",
+    "file": "美国收入申报和纳税身份信息采集常见问题__200663290.md"
+  },
+  {
     "title": "共享您的现有库存",
     "doc_id": "200663530",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200663530",
@@ -880,6 +922,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200685050",
     "fetched_at": "2026-10-30 12:08:23",
     "file": "亚马逊物流移除订单费用__200685050.md"
+  },
+  {
+    "title": "其他受限商品",
+    "doc_id": "200685320",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200685320",
+    "fetched_at": "2026-10-30 12:51:38",
+    "file": "其他受限商品__200685320.md"
   },
   {
     "title": "建议移除报告",
@@ -1673,6 +1722,13 @@
     "file": "设置税务计算服务__201706700.md"
   },
   {
+    "title": "需要声明和披露的商品信息限制",
+    "doc_id": "201707090",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201707090",
+    "fetched_at": "2026-10-30 12:51:36",
+    "file": "需要声明和披露的商品信息限制__201707090.md"
+  },
+  {
     "title": "亚马逊免税计划 (ATEP) 如何运作",
     "doc_id": "201707880",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201707880",
@@ -1825,6 +1881,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201812230",
     "fetched_at": "2026-10-30 12:11:25",
     "file": "卖家自配送 Prime__201812230.md"
+  },
+  {
+    "title": "能源标签规则",
+    "doc_id": "201814570",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201814570",
+    "fetched_at": "2026-10-30 12:51:38",
+    "file": "能源标签规则__201814570.md"
   },
   {
     "title": "有效追踪率 (VTR)",
@@ -6340,6 +6403,139 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201685300",
     "fetched_at": "2026-10-30 12:50:57",
     "file": "气泡膜包装要求__G201685300.md"
+  },
+  {
+    "title": "箱装要求",
+    "doc_id": "G201685340",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201685340",
+    "fetched_at": "2026-10-30 12:51:25",
+    "file": "箱装要求__G201685340.md"
+  },
+  {
+    "title": "不透明覆盖要求",
+    "doc_id": "G201686220",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201686220",
+    "fetched_at": "2026-10-30 12:51:26",
+    "file": "不透明覆盖要求__G201686220.md"
+  },
+  {
+    "title": "解锁存在错价的商品",
+    "doc_id": "G201686950",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201686950",
+    "fetched_at": "2026-10-30 12:51:26",
+    "file": "解锁存在错价的商品__G201686950.md"
+  },
+  {
+    "title": "通过库存加载工具解除商品限制",
+    "doc_id": "G201686990",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201686990",
+    "fetched_at": "2026-10-30 12:51:26",
+    "file": "通过库存加载工具解除商品限制__G201686990.md"
+  },
+  {
+    "title": "“购买按钮”商品配置",
+    "doc_id": "G201687530",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201687530",
+    "fetched_at": "2026-10-30 12:51:28",
+    "file": "“购买按钮”商品配置__G201687530.md"
+  },
+  {
+    "title": "成为推荐报价",
+    "doc_id": "G201687550",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201687550",
+    "fetched_at": "2026-10-30 12:51:28",
+    "file": "成为推荐报价__G201687550.md"
+  },
+  {
+    "title": "通过销售伙伴应用商店向外部解决方案提供商寻求帮助",
+    "doc_id": "G201687890",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201687890",
+    "fetched_at": "2026-10-30 12:51:28",
+    "file": "通过销售伙伴应用商店向外部解决方案提供商寻求帮助__G201687890.md"
+  },
+  {
+    "title": "激光商品",
+    "doc_id": "G201689020",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201689020",
+    "fetched_at": "2026-10-30 12:51:29",
+    "file": "激光商品__G201689020.md"
+  },
+  {
+    "title": "请求卖家自配送未发货订单报告",
+    "doc_id": "G201705860",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201705860",
+    "fetched_at": "2026-10-30 12:51:29",
+    "file": "请求卖家自配送未发货订单报告__G201705860.md"
+  },
+  {
+    "title": "亚马逊物流轻小商品计划",
+    "doc_id": "G201706140",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201706140",
+    "fetched_at": "2026-10-30 12:51:31",
+    "file": "亚马逊物流轻小商品计划__G201706140.md"
+  },
+  {
+    "title": "州税务登记号",
+    "doc_id": "G201706660",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201706660",
+    "fetched_at": "2026-10-30 12:51:31",
+    "file": "州税务登记号__G201706660.md"
+  },
+  {
+    "title": "卖家报告中的销售税信息",
+    "doc_id": "G201706680",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201706680",
+    "fetched_at": "2026-10-30 12:51:31",
+    "file": "卖家报告中的销售税信息__G201706680.md"
+  },
+  {
+    "title": "设置税务计算服务",
+    "doc_id": "G201706700",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201706700",
+    "fetched_at": "2026-10-30 12:51:33",
+    "file": "设置税务计算服务__G201706700.md"
+  },
+  {
+    "title": "一般商品限制",
+    "doc_id": "G201707070",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201707070",
+    "fetched_at": "2026-10-30 12:51:33",
+    "file": "一般商品限制__G201707070.md"
+  },
+  {
+    "title": "需要声明和披露的商品信息限制",
+    "doc_id": "G201707090",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201707090",
+    "fetched_at": "2026-10-30 12:51:36",
+    "file": "需要声明和披露的商品信息限制__G201707090.md"
+  },
+  {
+    "title": "亚马逊免税计划 (ATEP) 如何运作",
+    "doc_id": "G201707880",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201707880",
+    "fetched_at": "2026-10-30 12:51:36",
+    "file": "亚马逊免税计划 (ATEP) 如何运作__G201707880.md"
+  },
+  {
+    "title": "Customers With Tax-Exempt Status",
+    "doc_id": "G201707890",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201707890",
+    "fetched_at": "2026-10-30 12:51:39",
+    "file": "Customers With Tax-Exempt Status__G201707890.md"
+  },
+  {
+    "title": "获取免税证书",
+    "doc_id": "G201707900",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201707900",
+    "fetched_at": "2026-10-30 12:51:39",
+    "file": "获取免税证书__G201707900.md"
+  },
+  {
+    "title": "切换到个人销售计划",
+    "doc_id": "G201710030",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201710030",
+    "fetched_at": "2026-10-30 12:51:39",
+    "file": "切换到个人销售计划__G201710030.md"
   },
   {
     "title": "两步验证",
