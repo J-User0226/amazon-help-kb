@@ -3066,6 +3066,76 @@
     "file": "Error 18012__25201.md"
   },
   {
+    "title": "错误 18013",
+    "doc_id": "25221",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/25221",
+    "fetched_at": "2026-10-30 13:14:51",
+    "file": "错误 18013__25221.md"
+  },
+  {
+    "title": "错误 18014",
+    "doc_id": "25241",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/25241",
+    "fetched_at": "2026-10-30 13:14:51",
+    "file": "错误 18014__25241.md"
+  },
+  {
+    "title": "错误 18015",
+    "doc_id": "25261",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/25261",
+    "fetched_at": "2026-10-30 13:14:53",
+    "file": "错误 18015__25261.md"
+  },
+  {
+    "title": "错误 18016",
+    "doc_id": "25281",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/25281",
+    "fetched_at": "2026-10-30 13:14:56",
+    "file": "错误 18016__25281.md"
+  },
+  {
+    "title": "错误 18018",
+    "doc_id": "25321",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/25321",
+    "fetched_at": "2026-10-30 13:14:56",
+    "file": "错误 18018__25321.md"
+  },
+  {
+    "title": "错误 18021",
+    "doc_id": "25341",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/25341",
+    "fetched_at": "2026-10-30 13:14:58",
+    "file": "错误 18021__25341.md"
+  },
+  {
+    "title": "错误 18022",
+    "doc_id": "25361",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/25361",
+    "fetched_at": "2026-10-30 13:14:59",
+    "file": "错误 18022__25361.md"
+  },
+  {
+    "title": "错误 18030",
+    "doc_id": "25441",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/25441",
+    "fetched_at": "2026-10-30 13:15:03",
+    "file": "错误 18030__25441.md"
+  },
+  {
+    "title": "Error 18032",
+    "doc_id": "25461",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/25461",
+    "fetched_at": "2026-10-30 13:15:03",
+    "file": "Error 18032__25461.md"
+  },
+  {
+    "title": "错误 18033",
+    "doc_id": "25481",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/25481",
+    "fetched_at": "2026-10-30 13:15:03",
+    "file": "错误 18033__25481.md"
+  },
+  {
     "title": "商品详情页面存在错误。应该怎样更正？",
     "doc_id": "26571",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/26571",
@@ -9833,6 +9903,146 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25201",
     "fetched_at": "2026-10-30 13:14:37",
     "file": "Error 18012__G25201.md"
+  },
+  {
+    "title": "错误 18013",
+    "doc_id": "G25221",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25221",
+    "fetched_at": "2026-10-30 13:14:49",
+    "file": "错误 18013__G25221.md"
+  },
+  {
+    "title": "错误 18014",
+    "doc_id": "G25241",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25241",
+    "fetched_at": "2026-10-30 13:14:49",
+    "file": "错误 18014__G25241.md"
+  },
+  {
+    "title": "错误 18015",
+    "doc_id": "G25261",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25261",
+    "fetched_at": "2026-10-30 13:14:49",
+    "file": "错误 18015__G25261.md"
+  },
+  {
+    "title": "错误 18016",
+    "doc_id": "G25281",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25281",
+    "fetched_at": "2026-10-30 13:14:55",
+    "file": "错误 18016__G25281.md"
+  },
+  {
+    "title": "错误 18017",
+    "doc_id": "G25301",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25301",
+    "fetched_at": "2026-10-30 13:14:55",
+    "file": "错误 18017__G25301.md"
+  },
+  {
+    "title": "错误 18018",
+    "doc_id": "G25321",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25321",
+    "fetched_at": "2026-10-30 13:14:55",
+    "file": "错误 18018__G25321.md"
+  },
+  {
+    "title": "错误 18021",
+    "doc_id": "G25341",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25341",
+    "fetched_at": "2026-10-30 13:14:56",
+    "file": "错误 18021__G25341.md"
+  },
+  {
+    "title": "错误 18022",
+    "doc_id": "G25361",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25361",
+    "fetched_at": "2026-10-30 13:14:58",
+    "file": "错误 18022__G25361.md"
+  },
+  {
+    "title": "错误 30010",
+    "doc_id": "G25381",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25381",
+    "fetched_at": "2026-10-30 13:14:58",
+    "file": "错误 30010__G25381.md"
+  },
+  {
+    "title": "错误 30009",
+    "doc_id": "G25401",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25401",
+    "fetched_at": "2026-10-30 13:14:59",
+    "file": "错误 30009__G25401.md"
+  },
+  {
+    "title": "错误 30008",
+    "doc_id": "G25421",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25421",
+    "fetched_at": "2026-10-30 13:14:59",
+    "file": "错误 30008__G25421.md"
+  },
+  {
+    "title": "错误 18030",
+    "doc_id": "G25441",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25441",
+    "fetched_at": "2026-10-30 13:15:01",
+    "file": "错误 18030__G25441.md"
+  },
+  {
+    "title": "Error 18032",
+    "doc_id": "G25461",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25461",
+    "fetched_at": "2026-10-30 13:15:01",
+    "file": "Error 18032__G25461.md"
+  },
+  {
+    "title": "错误 18033",
+    "doc_id": "G25481",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25481",
+    "fetched_at": "2026-10-30 13:15:01",
+    "file": "错误 18033__G25481.md"
+  },
+  {
+    "title": "错误 20004",
+    "doc_id": "G25521",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25521",
+    "fetched_at": "2026-10-30 13:15:04",
+    "file": "错误 20004__G25521.md"
+  },
+  {
+    "title": "错误 20005",
+    "doc_id": "G25541",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25541",
+    "fetched_at": "2026-10-30 13:15:04",
+    "file": "错误 20005__G25541.md"
+  },
+  {
+    "title": "错误 20006",
+    "doc_id": "G25561",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25561",
+    "fetched_at": "2026-10-30 13:15:04",
+    "file": "错误 20006__G25561.md"
+  },
+  {
+    "title": "错误 20007",
+    "doc_id": "G25581",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25581",
+    "fetched_at": "2026-10-30 13:15:06",
+    "file": "错误 20007__G25581.md"
+  },
+  {
+    "title": "错误 20009",
+    "doc_id": "G25631",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25631",
+    "fetched_at": "2026-10-30 13:15:06",
+    "file": "错误 20009__G25631.md"
+  },
+  {
+    "title": "错误 30005",
+    "doc_id": "G25651",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G25651",
+    "fetched_at": "2026-10-30 13:15:06",
+    "file": "错误 30005__G25651.md"
   },
   {
     "title": "管理账户设置",

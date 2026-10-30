@@ -1,6 +1,7 @@
 # 待采集或失败文章
 
 - https://sellercentral.amazon.com/help/hub/reference/external/1111
+- https://sellercentral.amazon.com/help/hub/reference/external/1171
 - https://sellercentral.amazon.com/help/hub/reference/external/121
 - https://sellercentral.amazon.com/help/hub/reference/external/1461
 - https://sellercentral.amazon.com/help/hub/reference/external/14911
@@ -92,6 +93,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/202152070
 - https://sellercentral.amazon.com/help/hub/reference/external/221
 - https://sellercentral.amazon.com/help/hub/reference/external/23611
+- https://sellercentral.amazon.com/help/hub/reference/external/25581
 - https://sellercentral.amazon.com/help/hub/reference/external/361
 - https://sellercentral.amazon.com/help/hub/reference/external/381
 - https://sellercentral.amazon.com/help/hub/reference/external/8841
@@ -202,26 +204,6 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/G202134680
 - https://sellercentral.amazon.com/help/hub/reference/external/G202154120
 - https://sellercentral.amazon.com/help/hub/reference/external/G25041
-- https://sellercentral.amazon.com/help/hub/reference/external/G25221
-- https://sellercentral.amazon.com/help/hub/reference/external/G25241
-- https://sellercentral.amazon.com/help/hub/reference/external/G25261
-- https://sellercentral.amazon.com/help/hub/reference/external/G25281
-- https://sellercentral.amazon.com/help/hub/reference/external/G25301
-- https://sellercentral.amazon.com/help/hub/reference/external/G25321
-- https://sellercentral.amazon.com/help/hub/reference/external/G25341
-- https://sellercentral.amazon.com/help/hub/reference/external/G25361
-- https://sellercentral.amazon.com/help/hub/reference/external/G25381
-- https://sellercentral.amazon.com/help/hub/reference/external/G25401
-- https://sellercentral.amazon.com/help/hub/reference/external/G25421
-- https://sellercentral.amazon.com/help/hub/reference/external/G25441
-- https://sellercentral.amazon.com/help/hub/reference/external/G25461
-- https://sellercentral.amazon.com/help/hub/reference/external/G25481
-- https://sellercentral.amazon.com/help/hub/reference/external/G25521
-- https://sellercentral.amazon.com/help/hub/reference/external/G25541
-- https://sellercentral.amazon.com/help/hub/reference/external/G25561
-- https://sellercentral.amazon.com/help/hub/reference/external/G25581
-- https://sellercentral.amazon.com/help/hub/reference/external/G25631
-- https://sellercentral.amazon.com/help/hub/reference/external/G25651
 - https://sellercentral.amazon.com/help/hub/reference/external/G25671
 - https://sellercentral.amazon.com/help/hub/reference/external/G25691
 - https://sellercentral.amazon.com/help/hub/reference/external/G25771
