@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-30T13:18:17",
-  "processed": 1890,
-  "articles": 1636,
+  "updated_at": "2026-10-30T13:18:51",
+  "processed": 1920,
+  "articles": 1666,
   "directories": 44,
-  "pending": 1183,
+  "pending": 1164,
   "failures": {
     "200979150": "正文请求失败或没有topic",
     "201245300": "正文请求失败或没有topic",
