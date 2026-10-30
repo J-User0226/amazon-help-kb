@@ -197,24 +197,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/G202134640
 - https://sellercentral.amazon.com/help/hub/reference/external/G202134660
 - https://sellercentral.amazon.com/help/hub/reference/external/G202134680
-- https://sellercentral.amazon.com/help/hub/reference/external/G202152030
-- https://sellercentral.amazon.com/help/hub/reference/external/G202152050
-- https://sellercentral.amazon.com/help/hub/reference/external/G202152090
-- https://sellercentral.amazon.com/help/hub/reference/external/G202152330
-- https://sellercentral.amazon.com/help/hub/reference/external/G202153510
-- https://sellercentral.amazon.com/help/hub/reference/external/G202154020
 - https://sellercentral.amazon.com/help/hub/reference/external/G202154120
-- https://sellercentral.amazon.com/help/hub/reference/external/G202155900
-- https://sellercentral.amazon.com/help/hub/reference/external/G202156120
-- https://sellercentral.amazon.com/help/hub/reference/external/G202161060
-- https://sellercentral.amazon.com/help/hub/reference/external/G202161480
-- https://sellercentral.amazon.com/help/hub/reference/external/G202162720
-- https://sellercentral.amazon.com/help/hub/reference/external/G202162990
-- https://sellercentral.amazon.com/help/hub/reference/external/G202163020
-- https://sellercentral.amazon.com/help/hub/reference/external/G202164250
-- https://sellercentral.amazon.com/help/hub/reference/external/G202166010
-- https://sellercentral.amazon.com/help/hub/reference/external/G202167920
-- https://sellercentral.amazon.com/help/hub/reference/external/G202168950
 - https://sellercentral.amazon.com/help/hub/reference/external/G202169100
 - https://sellercentral.amazon.com/help/hub/reference/external/G202169120
 - https://sellercentral.amazon.com/help/hub/reference/external/G202170300
@@ -572,6 +555,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/G69124
 - https://sellercentral.amazon.com/help/hub/reference/external/G69126
 - https://sellercentral.amazon.com/help/hub/reference/external/G6925SDD66GDLXJW
+- https://sellercentral.amazon.com/help/hub/reference/external/G69C9GA5ZL3BJ3XJ
 - https://sellercentral.amazon.com/help/hub/reference/external/G69G3YF8A6VG7C2Y
 - https://sellercentral.amazon.com/help/hub/reference/external/G6A6W9QFSN8CPB2U
 - https://sellercentral.amazon.com/help/hub/reference/external/G6ADCY95R5HWLD84
@@ -1269,6 +1253,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/GRWQASZMZ39TB4EY
 - https://sellercentral.amazon.com/help/hub/reference/external/GRXAS2XTAYEF77BG
 - https://sellercentral.amazon.com/help/hub/reference/external/GRXT7XJ8GKS4LXJ4
+- https://sellercentral.amazon.com/help/hub/reference/external/GRZ38DU7KUWNUPNC
 - https://sellercentral.amazon.com/help/hub/reference/external/GRZ98MCDWLNVENBC
 - https://sellercentral.amazon.com/help/hub/reference/external/GRZKQGN5J3PDK45P
 - https://sellercentral.amazon.com/help/hub/reference/external/GS32CZNKVHWPXCN8
@@ -1498,6 +1483,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/GXXHD62K3UPYETSR
 - https://sellercentral.amazon.com/help/hub/reference/external/GXYYLSMS736MEF9U
 - https://sellercentral.amazon.com/help/hub/reference/external/GY6UXZ8UD3LGAEDA
+- https://sellercentral.amazon.com/help/hub/reference/external/GY8N683PZBQGK9H4
 - https://sellercentral.amazon.com/help/hub/reference/external/GY9FP7N56689STYH
 - https://sellercentral.amazon.com/help/hub/reference/external/GYACVQUFWV28PZ2H
 - https://sellercentral.amazon.com/help/hub/reference/external/GYANAUN8JSTK83SF
@@ -1580,6 +1566,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/PTFQ566449VXXCP
 - https://sellercentral.amazon.com/help/hub/reference/external/S3S7TP5FM7D5MEQ
 - https://sellercentral.amazon.com/help/hub/reference/external/SGKAPSNT53G5B2P
+- https://sellercentral.amazon.com/help/hub/reference/external/SWPS4GPEPMXZ98R
 - https://sellercentral.amazon.com/help/hub/reference/external/TV8NTY5RM6N9LUN
 - https://sellercentral.amazon.com/help/hub/reference/external/UBJLLVL96U285RQ
 - https://sellercentral.amazon.com/help/hub/reference/external/UCMGZBFXQ97P2SU
