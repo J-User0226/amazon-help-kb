@@ -11214,6 +11214,13 @@
     "file": "错误 20012__G3WWB7XMKPULA8S7.md"
   },
   {
+    "title": "从卖家钱包转账至中国",
+    "doc_id": "G3XURS84D7UUM6HM",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G3XURS84D7UUM6HM",
+    "fetched_at": "2026-10-30 13:30:32",
+    "file": "从卖家钱包转账至中国__G3XURS84D7UUM6HM.md"
+  },
+  {
     "title": "OnTrac 条款和条件",
     "doc_id": "G3YDQYBJR85QFETF",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G3YDQYBJR85QFETF",
@@ -11282,6 +11289,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G43531",
     "fetched_at": "2026-10-30 13:17:31",
     "file": "促销和订单报告__G43531.md"
+  },
+  {
+    "title": "自有包装发货 (SIPP) 指南",
+    "doc_id": "G43XW74M8KPAG37D",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G43XW74M8KPAG37D",
+    "fetched_at": "2026-10-30 13:30:19",
+    "file": "自有包装发货 (SIPP) 指南__G43XW74M8KPAG37D.md"
   },
   {
     "title": "亚马逊 Haul 超值购项目政策",
@@ -11499,6 +11513,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G4HMNBYXD3FVP7QJ",
     "fetched_at": "2026-10-30 13:17:59",
     "file": "Apollo 和 Athena 试点计划的条款和条件__G4HMNBYXD3FVP7QJ.md"
+  },
+  {
+    "title": "刚性自有包装发货 (SIPP) 指南",
+    "doc_id": "G4KD64B7F92ZXM7P",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G4KD64B7F92ZXM7P",
+    "fetched_at": "2026-10-30 13:30:19",
+    "file": "刚性自有包装发货 (SIPP) 指南__G4KD64B7F92ZXM7P.md"
   },
   {
     "title": "基于位置的配送设置",
@@ -12684,6 +12705,13 @@
     "file": "在商品真伪和商品质量方面的最佳实践__G7ZFF8YRKNKFFVMK.md"
   },
   {
+    "title": "亚马逊简易包装",
+    "doc_id": "G823WRBAGLR4J6VN",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G823WRBAGLR4J6VN",
+    "fetched_at": "2026-10-30 13:30:19",
+    "file": "亚马逊简易包装__G823WRBAGLR4J6VN.md"
+  },
+  {
     "title": "更改登录设置",
     "doc_id": "G831",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G831",
@@ -12759,6 +12787,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G8831",
     "fetched_at": "2026-10-30 13:23:39",
     "file": "变体关系__G8831.md"
+  },
+  {
+    "title": "卖家钱包其他常见问题",
+    "doc_id": "G888Q5AWBAF3YX8B",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G888Q5AWBAF3YX8B",
+    "fetched_at": "2026-10-30 13:30:32",
+    "file": "卖家钱包其他常见问题__G888Q5AWBAF3YX8B.md"
   },
   {
     "title": "完善商品信息",
@@ -14208,6 +14243,160 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GDRVA75MATK7CM3M",
     "fetched_at": "2026-10-30 13:30:10",
     "file": "使用清关和配送服务预约小包裹或托拍货件__GDRVA75MATK7CM3M.md"
+  },
+  {
+    "title": "ITEM_BOXING",
+    "doc_id": "GDRZU8CZXFU9UHJE",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GDRZU8CZXFU9UHJE",
+    "fetched_at": "2026-10-30 13:30:18",
+    "file": "ITEM_BOXING__GDRZU8CZXFU9UHJE.md"
+  },
+  {
+    "title": "自有包装发货 (SIPP)",
+    "doc_id": "GDTDMAWM8FG2CX6U",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GDTDMAWM8FG2CX6U",
+    "fetched_at": "2026-10-30 13:30:18",
+    "file": "自有包装发货 (SIPP)__GDTDMAWM8FG2CX6U.md"
+  },
+  {
+    "title": "优先配送即将实施的变更",
+    "doc_id": "GDTKWQ9LXYACU7VQ",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GDTKWQ9LXYACU7VQ",
+    "fetched_at": "2026-10-30 13:30:18",
+    "file": "优先配送即将实施的变更__GDTKWQ9LXYACU7VQ.md"
+  },
+  {
+    "title": "如果您的公司地址位于墨西哥",
+    "doc_id": "GDWYSCEYL8DUFDLB",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GDWYSCEYL8DUFDLB",
+    "fetched_at": "2026-10-30 13:30:21",
+    "file": "如果您的公司地址位于墨西哥__GDWYSCEYL8DUFDLB.md"
+  },
+  {
+    "title": "错误 6039",
+    "doc_id": "GDXA7FHN98NH3FYJ",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GDXA7FHN98NH3FYJ",
+    "fetched_at": "2026-10-30 13:30:21",
+    "file": "错误 6039__GDXA7FHN98NH3FYJ.md"
+  },
+  {
+    "title": "亚马逊奖励",
+    "doc_id": "GDXETMKWXXA5T48L",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GDXETMKWXXA5T48L",
+    "fetched_at": "2026-10-30 13:30:21",
+    "file": "亚马逊奖励__GDXETMKWXXA5T48L.md"
+  },
+  {
+    "title": "全球开店体验",
+    "doc_id": "GDYZBUHVDD66VHVR",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GDYZBUHVDD66VHVR",
+    "fetched_at": "2026-10-30 13:30:27",
+    "file": "全球开店体验__GDYZBUHVDD66VHVR.md"
+  },
+  {
+    "title": "商品重量",
+    "doc_id": "GE3VC5FGJE9TYJKM",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GE3VC5FGJE9TYJKM",
+    "fetched_at": "2026-10-30 13:30:29",
+    "file": "商品重量__GE3VC5FGJE9TYJKM.md"
+  },
+  {
+    "title": "设置“管理库存”页面的首选项",
+    "doc_id": "GE7UVMSSJREL55WA",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GE7UVMSSJREL55WA",
+    "fetched_at": "2026-10-30 13:30:29",
+    "file": "设置“管理库存”页面的首选项__GE7UVMSSJREL55WA.md"
+  },
+  {
+    "title": "如何使用“有竞争力的外部商品价格”规则？",
+    "doc_id": "GE85R4NP368X5KKB",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GE85R4NP368X5KKB",
+    "fetched_at": "2026-10-30 13:30:29",
+    "file": "如何使用“有竞争力的外部商品价格”规则？__GE85R4NP368X5KKB.md"
+  },
+  {
+    "title": "卖家钱包转账和费用",
+    "doc_id": "GE8JLFJQBVYFZT6S",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GE8JLFJQBVYFZT6S",
+    "fetched_at": "2026-10-30 13:30:31",
+    "file": "卖家钱包转账和费用__GE8JLFJQBVYFZT6S.md"
+  },
+  {
+    "title": "不当商品评论",
+    "doc_id": "GE8SYAZUBGVFBHCH",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GE8SYAZUBGVFBHCH",
+    "fetched_at": "2026-10-30 13:30:31",
+    "file": "不当商品评论__GE8SYAZUBGVFBHCH.md"
+  },
+  {
+    "title": "错误 8040",
+    "doc_id": "GE92ZKXET3ABXVNP",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GE92ZKXET3ABXVNP",
+    "fetched_at": "2026-10-30 13:30:31",
+    "file": "错误 8040__GE92ZKXET3ABXVNP.md"
+  },
+  {
+    "title": "将商品注册到我们的“气候友好承诺”计划中",
+    "doc_id": "GE94565V5PDYL5MZ",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GE94565V5PDYL5MZ",
+    "fetched_at": "2026-10-30 13:30:32",
+    "file": "将商品注册到我们的“气候友好承诺”计划中__GE94565V5PDYL5MZ.md"
+  },
+  {
+    "title": "将低价值进口商品配送至澳大利亚",
+    "doc_id": "GE9ZHG4QK9NKT4AE",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GE9ZHG4QK9NKT4AE",
+    "fetched_at": "2026-10-30 13:30:34",
+    "file": "将低价值进口商品配送至澳大利亚__GE9ZHG4QK9NKT4AE.md"
+  },
+  {
+    "title": "错误 99057",
+    "doc_id": "GEA65R97A9QUZ34H",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GEA65R97A9QUZ34H",
+    "fetched_at": "2026-10-30 13:30:34",
+    "file": "错误 99057__GEA65R97A9QUZ34H.md"
+  },
+  {
+    "title": "业务规划工具概述",
+    "doc_id": "GEANBS97BNTWSBJB",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GEANBS97BNTWSBJB",
+    "fetched_at": "2026-10-30 13:30:34",
+    "file": "业务规划工具概述__GEANBS97BNTWSBJB.md"
+  },
+  {
+    "title": "错误 5665",
+    "doc_id": "GEBCXCEUGCFQXVPU",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GEBCXCEUGCFQXVPU",
+    "fetched_at": "2026-10-30 13:30:40",
+    "file": "错误 5665__GEBCXCEUGCFQXVPU.md"
+  },
+  {
+    "title": "错误 8059",
+    "doc_id": "GEBYZDPM9FVFW9T6",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GEBYZDPM9FVFW9T6",
+    "fetched_at": "2026-10-30 13:30:40",
+    "file": "错误 8059__GEBYZDPM9FVFW9T6.md"
+  },
+  {
+    "title": "如何通过亚马逊购买配送服务购买 FBM Ship+ 货件标签",
+    "doc_id": "GEDHSSQX2YBZ97RP",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GEDHSSQX2YBZ97RP",
+    "fetched_at": "2026-10-30 13:30:41",
+    "file": "如何通过亚马逊购买配送服务购买 FBM Ship+ 货件标签__GEDHSSQX2YBZ97RP.md"
+  },
+  {
+    "title": "管理节假日设置",
+    "doc_id": "GEDSVA3D58NL292F",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GEDSVA3D58NL292F",
+    "fetched_at": "2026-10-30 13:30:42",
+    "file": "管理节假日设置__GEDSVA3D58NL292F.md"
+  },
+  {
+    "title": "国际销售协议",
+    "doc_id": "GEENGDB2JGLEK3PZ",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GEENGDB2JGLEK3PZ",
+    "fetched_at": "2026-10-30 13:30:42",
+    "file": "国际销售协议__GEENGDB2JGLEK3PZ.md"
   },
   {
     "title": "全球卖家身份、地址和公司验证",
