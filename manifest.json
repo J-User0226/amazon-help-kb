@@ -28,6 +28,13 @@
     "file": "保持正面反馈和评级的最佳实践__12051.md"
   },
   {
+    "title": "配送确认模板",
+    "doc_id": "13491",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/13491",
+    "fetched_at": "2026-10-30 13:10:45",
+    "file": "配送确认模板__13491.md"
+  },
+  {
     "title": "一次添加一件商品",
     "doc_id": "1471",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/1471",
@@ -385,6 +392,13 @@
     "file": "使用文本文件模板覆盖配送设置__200212820.md"
   },
   {
+    "title": "优惠码和叠加使用",
+    "doc_id": "200212920",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200212920",
+    "fetched_at": "2026-10-30 13:10:03",
+    "file": "优惠码和叠加使用__200212920.md"
+  },
+  {
     "title": "亚马逊物流库存赔偿政策",
     "doc_id": "200213130",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200213130",
@@ -712,6 +726,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200386280",
     "fetched_at": "2026-10-30 12:13:29",
     "file": "Selling Textbooks__200386280.md"
+  },
+  {
+    "title": "退款管理费用",
+    "doc_id": "200387220",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200387220",
+    "fetched_at": "2026-10-30 13:10:45",
+    "file": "退款管理费用__200387220.md"
   },
   {
     "title": "使用买家与卖家消息服务与买家沟通",
@@ -2688,6 +2709,13 @@
     "file": "为什么我的商品显示为缺货？__21291.md"
   },
   {
+    "title": "退款款项和管理费用",
+    "doc_id": "21531",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/21531",
+    "fetched_at": "2026-10-30 13:10:31",
+    "file": "退款款项和管理费用__21531.md"
+  },
+  {
     "title": "错误 101077、101078 和 101079",
     "doc_id": "23191",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/23191",
@@ -2877,6 +2905,13 @@
     "file": "查看我的库存结果__611.md"
   },
   {
+    "title": "使用上传数据确认多个货件",
+    "doc_id": "641",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/641",
+    "fetched_at": "2026-10-30 13:10:31",
+    "file": "使用上传数据确认多个货件__641.md"
+  },
+  {
     "title": "销售计划比较",
     "doc_id": "64491",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/64491",
@@ -2896,6 +2931,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/69022",
     "fetched_at": "2026-10-30 12:44:34",
     "file": "开始使用__69022.md"
+  },
+  {
+    "title": "关于反馈管理器",
+    "doc_id": "761",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/761",
+    "fetched_at": "2026-10-30 13:11:01",
+    "file": "关于反馈管理器__761.md"
   },
   {
     "title": "下载付款报告",
@@ -8454,6 +8496,125 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202139180",
     "fetched_at": "2026-10-30 13:09:57",
     "file": "允许亚马逊购买我的商品进行全球销售__G202139180.md"
+  },
+  {
+    "title": "使用优惠码进行促销",
+    "doc_id": "G202140170",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202140170",
+    "fetched_at": "2026-10-30 13:10:03",
+    "file": "使用优惠码进行促销__G202140170.md"
+  },
+  {
+    "title": "如何在全球范围内定价",
+    "doc_id": "G202140360",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202140360",
+    "fetched_at": "2026-10-30 13:10:03",
+    "file": "如何在全球范围内定价__G202140360.md"
+  },
+  {
+    "title": "开始销售： 发布和管理库存",
+    "doc_id": "G202141220",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202141220",
+    "fetched_at": "2026-10-30 13:10:09",
+    "file": "开始销售： 发布和管理库存__G202141220.md"
+  },
+  {
+    "title": "推广",
+    "doc_id": "G202141230",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202141230",
+    "fetched_at": "2026-10-30 13:10:09",
+    "file": "推广__G202141230.md"
+  },
+  {
+    "title": "管理订单和付款",
+    "doc_id": "G202141240",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202141240",
+    "fetched_at": "2026-10-30 13:10:15",
+    "file": "管理订单和付款__G202141240.md"
+  },
+  {
+    "title": "开始销售： 监控反馈与绩效",
+    "doc_id": "G202141250",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202141250",
+    "fetched_at": "2026-10-30 13:10:15",
+    "file": "开始销售： 监控反馈与绩效__G202141250.md"
+  },
+  {
+    "title": "企业订单中的价格类型",
+    "doc_id": "G202141420",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202141420",
+    "fetched_at": "2026-10-30 13:11:01",
+    "file": "企业订单中的价格类型__G202141420.md"
+  },
+  {
+    "title": "亚马逊企业采购商城指标",
+    "doc_id": "G202141920",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202141920",
+    "fetched_at": "2026-10-30 13:11:01",
+    "file": "亚马逊企业采购商城指标__G202141920.md"
+  },
+  {
+    "title": "加利福尼亚州 65 号提案（65 号提案）",
+    "doc_id": "G202141960",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202141960",
+    "fetched_at": "2026-10-30 13:11:28",
+    "file": "加利福尼亚州 65 号提案（65 号提案）__G202141960.md"
+  },
+  {
+    "title": "使用不同类型的业务报告",
+    "doc_id": "G202142060",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202142060",
+    "fetched_at": "2026-10-30 13:11:28",
+    "file": "使用不同类型的业务报告__G202142060.md"
+  },
+  {
+    "title": "销售控制面板",
+    "doc_id": "G202142130",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202142130",
+    "fetched_at": "2026-10-30 13:11:28",
+    "file": "销售控制面板__G202142130.md"
+  },
+  {
+    "title": "输入适用于所有发货地址的“购买配送服务首选项”",
+    "doc_id": "G202143620",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202143620",
+    "fetched_at": "2026-10-30 13:11:30",
+    "file": "输入适用于所有发货地址的“购买配送服务首选项”__G202143620.md"
+  },
+  {
+    "title": "回应信用卡拒付索赔",
+    "doc_id": "G202145040",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202145040",
+    "fetched_at": "2026-10-30 13:11:30",
+    "file": "回应信用卡拒付索赔__G202145040.md"
+  },
+  {
+    "title": "有关化学品销售的要求和常见问题",
+    "doc_id": "G202145250",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202145250",
+    "fetched_at": "2026-10-30 13:11:30",
+    "file": "有关化学品销售的要求和常见问题__G202145250.md"
+  },
+  {
+    "title": "农药商品",
+    "doc_id": "G202145260",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202145260",
+    "fetched_at": "2026-10-30 13:11:31",
+    "file": "农药商品__G202145260.md"
+  },
+  {
+    "title": "澳大利亚商品及服务税 (GST)",
+    "doc_id": "G202146000",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202146000",
+    "fetched_at": "2026-10-30 13:11:31",
+    "file": "澳大利亚商品及服务税 (GST)__G202146000.md"
+  },
+  {
+    "title": "最大限度地减少负面反馈",
+    "doc_id": "G202152010",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202152010",
+    "fetched_at": "2026-10-30 13:11:31",
+    "file": "最大限度地减少负面反馈__G202152010.md"
   },
   {
     "title": "管理账户设置",
