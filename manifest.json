@@ -1148,6 +1148,13 @@
     "file": "修改备货时间__200955560.md"
   },
   {
+    "title": "关于亚马逊 Brand Registry",
+    "doc_id": "200955930",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200955930",
+    "fetched_at": "2026-10-30 12:57:55",
+    "file": "关于亚马逊 Brand Registry__200955930.md"
+  },
+  {
     "title": "创建库存文件模板并对商品进行分类",
     "doc_id": "200956770",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200956770",
@@ -1722,6 +1729,13 @@
     "file": "如何阅读销售佣金预览报告__201631600.md"
   },
   {
+    "title": "更改媒介类商品（图书、音乐、影视）的默认配送选项",
+    "doc_id": "201633180",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201633180",
+    "fetched_at": "2026-10-30 12:57:53",
+    "file": "更改媒介类商品（图书、音乐、影视）的默认配送选项__201633180.md"
+  },
+  {
     "title": "亚马逊免税计划",
     "doc_id": "201641810",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201641810",
@@ -2219,6 +2233,13 @@
     "file": "批量修复无在售信息的亚马逊库存报告__201968550.md"
   },
   {
+    "title": "关于评论和相关主题问题的回答",
+    "doc_id": "201972160",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201972160",
+    "fetched_at": "2026-10-30 12:58:17",
+    "file": "关于评论和相关主题问题的回答__201972160.md"
+  },
+  {
     "title": "使用批量商品信息模板添加企业商品价格和数量折扣",
     "doc_id": "201995470",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201995470",
@@ -2245,6 +2266,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202043110",
     "fetched_at": "2026-10-30 12:56:21",
     "file": "亚马逊促销__202043110.md"
+  },
+  {
+    "title": "亚马逊物流人工处理费",
+    "doc_id": "202061550",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202061550",
+    "fetched_at": "2026-10-30 12:58:15",
+    "file": "亚马逊物流人工处理费__202061550.md"
   },
   {
     "title": "使用新配送设置",
@@ -6566,6 +6594,13 @@
     "file": "媒介类商品（图书、音乐、影视）的运费__G201633080.md"
   },
   {
+    "title": "更改媒介类商品（图书、音乐、影视）的默认配送选项",
+    "doc_id": "G201633180",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201633180",
+    "fetched_at": "2026-10-30 12:57:55",
+    "file": "更改媒介类商品（图书、音乐、影视）的默认配送选项__G201633180.md"
+  },
+  {
     "title": "个人卖家的交货期望",
     "doc_id": "G201633660",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201633660",
@@ -7418,6 +7453,146 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201901640",
     "fetched_at": "2026-10-30 12:57:23",
     "file": "与买家有效地沟通__G201901640.md"
+  },
+  {
+    "title": "如果我的银行账户信息被拒绝，该怎么办？",
+    "doc_id": "G20191",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G20191",
+    "fetched_at": "2026-10-30 12:57:53",
+    "file": "如果我的银行账户信息被拒绝，该怎么办？__G20191.md"
+  },
+  {
+    "title": "了解商品详情页面",
+    "doc_id": "G201911450",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201911450",
+    "fetched_at": "2026-10-30 12:57:54",
+    "file": "了解商品详情页面__G201911450.md"
+  },
+  {
+    "title": "使用 API 购买配送服务",
+    "doc_id": "G201950090",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201950090",
+    "fetched_at": "2026-10-30 12:57:55",
+    "file": "使用 API 购买配送服务__G201950090.md"
+  },
+  {
+    "title": "Change a product’s category or browse path",
+    "doc_id": "G201950630",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201950630",
+    "fetched_at": "2026-10-30 12:57:57",
+    "file": "Change a product’s category or browse path__G201950630.md"
+  },
+  {
+    "title": "付款选项",
+    "doc_id": "G201950990",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201950990",
+    "fetched_at": "2026-10-30 12:57:57",
+    "file": "付款选项__G201950990.md"
+  },
+  {
+    "title": "上传数据",
+    "doc_id": "G201951010",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201951010",
+    "fetched_at": "2026-10-30 12:57:57",
+    "file": "上传数据__G201951010.md"
+  },
+  {
+    "title": "变体关系常见问题",
+    "doc_id": "G201951410",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201951410",
+    "fetched_at": "2026-10-30 12:57:59",
+    "file": "变体关系常见问题__G201951410.md"
+  },
+  {
+    "title": "向亚马逊物流轻小商品计划添加商品或从中移除商品",
+    "doc_id": "G201952590",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201952590",
+    "fetched_at": "2026-10-30 12:57:59",
+    "file": "向亚马逊物流轻小商品计划添加商品或从中移除商品__G201952590.md"
+  },
+  {
+    "title": "Made in Italy 商品专卖店铺",
+    "doc_id": "G201952630",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201952630",
+    "fetched_at": "2026-10-30 12:57:59",
+    "file": "Made in Italy 商品专卖店铺__G201952630.md"
+  },
+  {
+    "title": "付款",
+    "doc_id": "G201953040",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201953040",
+    "fetched_at": "2026-10-30 12:58:01",
+    "file": "付款__G201953040.md"
+  },
+  {
+    "title": "为您的商品确定变体",
+    "doc_id": "G201958220",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201958220",
+    "fetched_at": "2026-10-30 12:58:01",
+    "file": "为您的商品确定变体__G201958220.md"
+  },
+  {
+    "title": "编辑企业商品价格和数量折扣",
+    "doc_id": "G201958240",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201958240",
+    "fetched_at": "2026-10-30 12:58:01",
+    "file": "编辑企业商品价格和数量折扣__G201958240.md"
+  },
+  {
+    "title": "删除企业商品价格和数量折扣",
+    "doc_id": "G201958320",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201958320",
+    "fetched_at": "2026-10-30 12:58:02",
+    "file": "删除企业商品价格和数量折扣__G201958320.md"
+  },
+  {
+    "title": "订购省选品管理",
+    "doc_id": "G201958650",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201958650",
+    "fetched_at": "2026-10-30 12:58:03",
+    "file": "订购省选品管理__G201958650.md"
+  },
+  {
+    "title": "企业专供商品",
+    "doc_id": "G201958670",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201958670",
+    "fetched_at": "2026-10-30 12:58:03",
+    "file": "企业专供商品__G201958670.md"
+  },
+  {
+    "title": "提供箱内物品信息",
+    "doc_id": "G201967250",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201967250",
+    "fetched_at": "2026-10-30 12:58:09",
+    "file": "提供箱内物品信息__G201967250.md"
+  },
+  {
+    "title": "批量修复无在售信息的亚马逊库存报告",
+    "doc_id": "G201968550",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201968550",
+    "fetched_at": "2026-10-30 12:58:09",
+    "file": "批量修复无在售信息的亚马逊库存报告__G201968550.md"
+  },
+  {
+    "title": "买家商品评论",
+    "doc_id": "G201972140",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201972140",
+    "fetched_at": "2026-10-30 12:58:15",
+    "file": "买家商品评论__G201972140.md"
+  },
+  {
+    "title": "关于评论和相关主题问题的回答",
+    "doc_id": "G201972160",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201972160",
+    "fetched_at": "2026-10-30 12:58:17",
+    "file": "关于评论和相关主题问题的回答__G201972160.md"
+  },
+  {
+    "title": "亚马逊配送的库存",
+    "doc_id": "G201972720",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201972720",
+    "fetched_at": "2026-10-30 12:58:17",
+    "file": "亚马逊配送的库存__G201972720.md"
   },
   {
     "title": "两步验证",
