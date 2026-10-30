@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-30T13:29:09",
-  "processed": 2310,
-  "articles": 2021,
+  "updated_at": "2026-10-30T13:30:11",
+  "processed": 2340,
+  "articles": 2047,
   "directories": 53,
-  "pending": 905,
+  "pending": 876,
   "failures": {
     "200979150": "正文请求失败或没有topic",
     "201245300": "正文请求失败或没有topic",
@@ -240,7 +240,11 @@
     "G201190440": "正文请求失败或没有topic",
     "G202109110": "正文请求失败或没有topic",
     "G7KCD8BYQER79WWJ": "正文请求失败或没有topic",
-    "200387280": "正文请求失败或没有topic"
+    "200387280": "正文请求失败或没有topic",
+    "201817390": "正文请求失败或没有topic",
+    "GD5JAEDZPG9UCFER": "正文请求失败或没有topic",
+    "GD646NUBNNJLQADP": "正文请求失败或没有topic",
+    "GD76M4FUWL4NEU32": "正文请求失败或没有topic"
   },
   "complete": false,
   "scope": "从公开帮助根目录G2、目录关系与正文内链可发现的简体中文美国站文章；不保证覆盖孤立或未公开文章"
