@@ -2758,6 +2758,13 @@
     "file": "“珠宝首饰”分类树更新常见问题__202187000.md"
   },
   {
+    "title": "亚马逊全球物流",
+    "doc_id": "202187670",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202187670",
+    "fetched_at": "2026-10-30 13:15:47",
+    "file": "亚马逊全球物流__202187670.md"
+  },
+  {
     "title": "汽运零担运输货运配送模板",
     "doc_id": "202188040",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202188040",
@@ -3197,6 +3204,20 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/28761",
     "fetched_at": "2026-10-30 12:07:00",
     "file": "业务报告常见问题__28761.md"
+  },
+  {
+    "title": "错误 13042",
+    "doc_id": "30641",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/30641",
+    "fetched_at": "2026-10-30 13:15:54",
+    "file": "错误 13042__30641.md"
+  },
+  {
+    "title": "错误 13100",
+    "doc_id": "30661",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/30661",
+    "fetched_at": "2026-10-30 13:15:54",
+    "file": "错误 13100__30661.md"
   },
   {
     "title": "识别虚假（欺骗性）电子邮件",
@@ -10225,6 +10246,188 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2CRYWPU52D7TGAK",
     "fetched_at": "2026-10-30 13:15:31",
     "file": "销售趋势常见问题__G2CRYWPU52D7TGAK.md"
+  },
+  {
+    "title": "地址验证",
+    "doc_id": "G2CVLYZXQRXQAMAL",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2CVLYZXQRXQAMAL",
+    "fetched_at": "2026-10-30 13:15:37",
+    "file": "地址验证__G2CVLYZXQRXQAMAL.md"
+  },
+  {
+    "title": "如果您的公司地址位于新加坡",
+    "doc_id": "G2FYAUYVBPV7C3AJ",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2FYAUYVBPV7C3AJ",
+    "fetched_at": "2026-10-30 13:15:37",
+    "file": "如果您的公司地址位于新加坡__G2FYAUYVBPV7C3AJ.md"
+  },
+  {
+    "title": "亚马逊企业购批量订单费用折扣",
+    "doc_id": "G2G7KPB963EMPEYD",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2G7KPB963EMPEYD",
+    "fetched_at": "2026-10-30 13:15:37",
+    "file": "亚马逊企业购批量订单费用折扣__G2G7KPB963EMPEYD.md"
+  },
+  {
+    "title": "卖家自配送 Prime 假日季的准备工作",
+    "doc_id": "G2HBG9FDSZHBATDA",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2HBG9FDSZHBATDA",
+    "fetched_at": "2026-10-30 13:15:39",
+    "file": "卖家自配送 Prime 假日季的准备工作__G2HBG9FDSZHBATDA.md"
+  },
+  {
+    "title": "圆柱形可充电锂电池",
+    "doc_id": "G2HSXA2KM59YX5AT",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2HSXA2KM59YX5AT",
+    "fetched_at": "2026-10-30 13:15:39",
+    "file": "圆柱形可充电锂电池__G2HSXA2KM59YX5AT.md"
+  },
+  {
+    "title": "合规性参考",
+    "doc_id": "G2JX2MAWJ27DWAY6",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2JX2MAWJ27DWAY6",
+    "fetched_at": "2026-10-30 13:15:39",
+    "file": "合规性参考__G2JX2MAWJ27DWAY6.md"
+  },
+  {
+    "title": "错误 18976",
+    "doc_id": "G2K7MBL566F5ANQS",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2K7MBL566F5ANQS",
+    "fetched_at": "2026-10-30 13:15:41",
+    "file": "错误 18976__G2K7MBL566F5ANQS.md"
+  },
+  {
+    "title": "确保您的商品处于可发现状态",
+    "doc_id": "G2KNH9H3CXZN6ULZ",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2KNH9H3CXZN6ULZ",
+    "fetched_at": "2026-10-30 13:15:41",
+    "file": "确保您的商品处于可发现状态__G2KNH9H3CXZN6ULZ.md"
+  },
+  {
+    "title": "错误 96009",
+    "doc_id": "G2KV89KHYMHJAAEE",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2KV89KHYMHJAAEE",
+    "fetched_at": "2026-10-30 13:15:41",
+    "file": "错误 96009__G2KV89KHYMHJAAEE.md"
+  },
+  {
+    "title": "避免出现“发送错误商品”的商品问题",
+    "doc_id": "G2LQVFG8BG59Y2C9",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2LQVFG8BG59Y2C9",
+    "fetched_at": "2026-10-30 13:15:43",
+    "file": "避免出现“发送错误商品”的商品问题__G2LQVFG8BG59Y2C9.md"
+  },
+  {
+    "title": "有关全球卖家身份验证的常见问题",
+    "doc_id": "G2MJXHQCR62DZSSM",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2MJXHQCR62DZSSM",
+    "fetched_at": "2026-10-30 13:15:43",
+    "file": "有关全球卖家身份验证的常见问题__G2MJXHQCR62DZSSM.md"
+  },
+  {
+    "title": "亚马逊品牌名称政策",
+    "doc_id": "G2N3GKE5SGSHWYRZ",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2N3GKE5SGSHWYRZ",
+    "fetched_at": "2026-10-30 13:15:43",
+    "file": "亚马逊品牌名称政策__G2N3GKE5SGSHWYRZ.md"
+  },
+  {
+    "title": "开始使用 Amazon Handmade",
+    "doc_id": "G2NVGK9X3Y4XRT9H",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2NVGK9X3Y4XRT9H",
+    "fetched_at": "2026-10-30 13:15:45",
+    "file": "开始使用 Amazon Handmade__G2NVGK9X3Y4XRT9H.md"
+  },
+  {
+    "title": "配送计划门户",
+    "doc_id": "G2NZU6KZ8FMWHYMP",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2NZU6KZ8FMWHYMP",
+    "fetched_at": "2026-10-30 13:15:45",
+    "file": "配送计划门户__G2NZU6KZ8FMWHYMP.md"
+  },
+  {
+    "title": "根据商品形态、规范化的规格值、商品数量和净含量等详情而定的单位计数",
+    "doc_id": "G2RCDMZR4SKGQFAY",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2RCDMZR4SKGQFAY",
+    "fetched_at": "2026-10-30 13:15:45",
+    "file": "根据商品形态、规范化的规格值、商品数量和净含量等详情而定的单位计数__G2RCDMZR4SKGQFAY.md"
+  },
+  {
+    "title": "错误 8036",
+    "doc_id": "G2SCG3A2RBTHSJMC",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2SCG3A2RBTHSJMC",
+    "fetched_at": "2026-10-30 13:15:47",
+    "file": "错误 8036__G2SCG3A2RBTHSJMC.md"
+  },
+  {
+    "title": "优先 ASIN 的亚马逊物流容量限制豁免",
+    "doc_id": "G2SHBN4HU4LA6Y35",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2SHBN4HU4LA6Y35",
+    "fetched_at": "2026-10-30 13:15:47",
+    "file": "优先 ASIN 的亚马逊物流容量限制豁免__G2SHBN4HU4LA6Y35.md"
+  },
+  {
+    "title": "因自然灾害导致配送延迟",
+    "doc_id": "G2V3TMTJREQ4RJ97",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2V3TMTJREQ4RJ97",
+    "fetched_at": "2026-10-30 13:15:49",
+    "file": "因自然灾害导致配送延迟__G2V3TMTJREQ4RJ97.md"
+  },
+  {
+    "title": "Haul 商城的珠宝首饰",
+    "doc_id": "G2Y5XBLVDC3CLGFS",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2Y5XBLVDC3CLGFS",
+    "fetched_at": "2026-10-30 13:15:49",
+    "file": "Haul 商城的珠宝首饰__G2Y5XBLVDC3CLGFS.md"
+  },
+  {
+    "title": "重新发布“非在售”Amazon Handmade 商品",
+    "doc_id": "G2YC8BRR324G39TY",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2YC8BRR324G39TY",
+    "fetched_at": "2026-10-30 13:15:51",
+    "file": "重新发布“非在售”Amazon Handmade 商品__G2YC8BRR324G39TY.md"
+  },
+  {
+    "title": "叠加使用的促销",
+    "doc_id": "G2ZCMMUXK7VP3K6S",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G2ZCMMUXK7VP3K6S",
+    "fetched_at": "2026-10-30 13:15:51",
+    "file": "叠加使用的促销__G2ZCMMUXK7VP3K6S.md"
+  },
+  {
+    "title": "税务登记协议（增值税或商品及服务税）",
+    "doc_id": "G30394",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G30394",
+    "fetched_at": "2026-10-30 13:15:51",
+    "file": "税务登记协议（增值税或商品及服务税）__G30394.md"
+  },
+  {
+    "title": "URL 格式无效（错误 15）",
+    "doc_id": "G30601",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G30601",
+    "fetched_at": "2026-10-30 13:15:53",
+    "file": "URL 格式无效（错误 15）__G30601.md"
+  },
+  {
+    "title": "错误 13042",
+    "doc_id": "G30641",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G30641",
+    "fetched_at": "2026-10-30 13:15:53",
+    "file": "错误 13042__G30641.md"
+  },
+  {
+    "title": "错误 13100",
+    "doc_id": "G30661",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G30661",
+    "fetched_at": "2026-10-30 13:15:53",
+    "file": "错误 13100__G30661.md"
+  },
+  {
+    "title": "错误 18008",
+    "doc_id": "G30681",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G30681",
+    "fetched_at": "2026-10-30 13:15:54",
+    "file": "错误 18008__G30681.md"
   },
   {
     "title": "管理账户设置",
