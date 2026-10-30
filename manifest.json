@@ -1603,6 +1603,34 @@
     "file": "添加认证__201649810.md"
   },
   {
+    "title": "发放全额退款",
+    "doc_id": "201650090",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201650090",
+    "fetched_at": "2026-10-30 12:50:47",
+    "file": "发放全额退款__201650090.md"
+  },
+  {
+    "title": "发放部分退款",
+    "doc_id": "201650140",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201650140",
+    "fetched_at": "2026-10-30 12:50:47",
+    "file": "发放部分退款__201650140.md"
+  },
+  {
+    "title": "取消退款",
+    "doc_id": "201650210",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201650210",
+    "fetched_at": "2026-10-30 12:50:49",
+    "file": "取消退款__201650210.md"
+  },
+  {
+    "title": "礼品卡和礼券退款",
+    "doc_id": "201650230",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201650230",
+    "fetched_at": "2026-10-30 12:50:49",
+    "file": "礼品卡和礼券退款__201650230.md"
+  },
+  {
     "title": "解锁存在错价的商品",
     "doc_id": "201686950",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201686950",
@@ -1692,6 +1720,20 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201723860",
     "fetched_at": "2026-10-30 12:10:28",
     "file": "预留库存报告__201723860.md"
+  },
+  {
+    "title": "退款选项",
+    "doc_id": "201725630",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201725630",
+    "fetched_at": "2026-10-30 12:50:47",
+    "file": "退款选项__201725630.md"
+  },
+  {
+    "title": "收取重新入库费指南",
+    "doc_id": "201725780",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201725780",
+    "fetched_at": "2026-10-30 12:50:49",
+    "file": "收取重新入库费指南__201725780.md"
   },
   {
     "title": "亚马逊物流禁运商品",
@@ -2184,6 +2226,13 @@
     "file": "删除过期订单__202152090.md"
   },
   {
+    "title": "如何退税",
+    "doc_id": "202154020",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202154020",
+    "fetched_at": "2026-10-30 12:50:50",
+    "file": "如何退税__202154020.md"
+  },
+  {
     "title": "批量购买配送服务",
     "doc_id": "202168950",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202168950",
@@ -2191,11 +2240,25 @@
     "file": "批量购买配送服务__202168950.md"
   },
   {
+    "title": "退款不退货解决方案",
+    "doc_id": "202174940",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202174940",
+    "fetched_at": "2026-10-30 12:50:50",
+    "file": "退款不退货解决方案__202174940.md"
+  },
+  {
     "title": "请求豁免卖家自配送订单的预付费退货",
     "doc_id": "202174980",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202174980",
     "fetched_at": "2026-10-30 12:11:44",
     "file": "请求豁免卖家自配送订单的预付费退货__202174980.md"
+  },
+  {
+    "title": "针对卖家自配送订单的赔偿",
+    "doc_id": "202175000",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202175000",
+    "fetched_at": "2026-10-30 12:50:50",
+    "file": "针对卖家自配送订单的赔偿__202175000.md"
   },
   {
     "title": "多个退货地址",
@@ -6200,6 +6263,83 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201634060",
     "fetched_at": "2026-10-30 12:48:07",
     "file": "假日季最佳实践__G201634060.md"
+  },
+  {
+    "title": "添加认证",
+    "doc_id": "G201649810",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201649810",
+    "fetched_at": "2026-10-30 12:50:30",
+    "file": "添加认证__G201649810.md"
+  },
+  {
+    "title": "认证",
+    "doc_id": "G201649830",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201649830",
+    "fetched_at": "2026-10-30 12:50:30",
+    "file": "认证__G201649830.md"
+  },
+  {
+    "title": "常见问题",
+    "doc_id": "G201649850",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201649850",
+    "fetched_at": "2026-10-30 12:50:30",
+    "file": "常见问题__G201649850.md"
+  },
+  {
+    "title": "删除认证",
+    "doc_id": "G201649870",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201649870",
+    "fetched_at": "2026-10-30 12:50:43",
+    "file": "删除认证__G201649870.md"
+  },
+  {
+    "title": "查看或编辑您的认证",
+    "doc_id": "G201649890",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201649890",
+    "fetched_at": "2026-10-30 12:50:43",
+    "file": "查看或编辑您的认证__G201649890.md"
+  },
+  {
+    "title": "发放全额退款",
+    "doc_id": "G201650090",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201650090",
+    "fetched_at": "2026-10-30 12:50:44",
+    "file": "发放全额退款__G201650090.md"
+  },
+  {
+    "title": "发放部分退款",
+    "doc_id": "G201650140",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201650140",
+    "fetched_at": "2026-10-30 12:50:45",
+    "file": "发放部分退款__G201650140.md"
+  },
+  {
+    "title": "取消退款",
+    "doc_id": "G201650210",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201650210",
+    "fetched_at": "2026-10-30 12:50:45",
+    "file": "取消退款__G201650210.md"
+  },
+  {
+    "title": "礼品卡和礼券退款",
+    "doc_id": "G201650230",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201650230",
+    "fetched_at": "2026-10-30 12:50:45",
+    "file": "礼品卡和礼券退款__G201650230.md"
+  },
+  {
+    "title": "塑料袋包装要求",
+    "doc_id": "G201685210",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201685210",
+    "fetched_at": "2026-10-30 12:50:52",
+    "file": "塑料袋包装要求__G201685210.md"
+  },
+  {
+    "title": "气泡膜包装要求",
+    "doc_id": "G201685300",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201685300",
+    "fetched_at": "2026-10-30 12:50:57",
+    "file": "气泡膜包装要求__G201685300.md"
   },
   {
     "title": "两步验证",
