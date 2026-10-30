@@ -7546,6 +7546,20 @@
     "file": "使用 API 购买配送服务__G201950090.md"
   },
   {
+    "title": "合并重复商品页面",
+    "doc_id": "G201950590",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201950590",
+    "fetched_at": "2026-10-30 13:06:24",
+    "file": "合并重复商品页面__G201950590.md"
+  },
+  {
+    "title": "将不同商品拆分为不同页面",
+    "doc_id": "G201950610",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201950610",
+    "fetched_at": "2026-10-30 13:06:24",
+    "file": "将不同商品拆分为不同页面__G201950610.md"
+  },
+  {
     "title": "Change a product’s category or browse path",
     "doc_id": "G201950630",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201950630",
@@ -7994,11 +8008,165 @@
     "file": "预付费退货的退货原因代码__G202080050.md"
   },
   {
+    "title": "加利福尼亚州空气资源委员会 (CARB)",
+    "doc_id": "G202082160",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202082160",
+    "fetched_at": "2026-10-30 13:05:42",
+    "file": "加利福尼亚州空气资源委员会 (CARB)__G202082160.md"
+  },
+  {
+    "title": "发票支付",
+    "doc_id": "G202085530",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202085530",
+    "fetched_at": "2026-10-30 13:05:43",
+    "file": "发票支付__G202085530.md"
+  },
+  {
+    "title": "亚马逊企业购条款",
+    "doc_id": "G202087450",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202087450",
+    "fetched_at": "2026-10-30 13:06:09",
+    "file": "亚马逊企业购条款__G202087450.md"
+  },
+  {
+    "title": "查看关于全球业务的汇总信息",
+    "doc_id": "G202087710",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202087710",
+    "fetched_at": "2026-10-30 13:06:09",
+    "file": "查看关于全球业务的汇总信息__G202087710.md"
+  },
+  {
+    "title": "议价",
+    "doc_id": "G202087730",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202087730",
+    "fetched_at": "2026-10-30 13:06:10",
+    "file": "议价__G202087730.md"
+  },
+  {
+    "title": "回收电子产品",
+    "doc_id": "G202089380",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202089380",
+    "fetched_at": "2026-10-30 13:06:16",
+    "file": "回收电子产品__G202089380.md"
+  },
+  {
+    "title": "创建库存文件模板",
+    "doc_id": "G202094740",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202094740",
+    "fetched_at": "2026-10-30 13:06:16",
+    "file": "创建库存文件模板__G202094740.md"
+  },
+  {
+    "title": "巴西的消费者权利",
+    "doc_id": "G202095010",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202095010",
+    "fetched_at": "2026-10-30 13:06:17",
+    "file": "巴西的消费者权利__G202095010.md"
+  },
+  {
+    "title": "单点登录",
+    "doc_id": "G202095190",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202095190",
+    "fetched_at": "2026-10-30 13:06:17",
+    "file": "单点登录__G202095190.md"
+  },
+  {
+    "title": "订单配送设置",
+    "doc_id": "G202096730",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202096730",
+    "fetched_at": "2026-10-30 13:06:17",
+    "file": "订单配送设置__G202096730.md"
+  },
+  {
+    "title": "卖家自配送 Prime 配送要求",
+    "doc_id": "G202098380",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202098380",
+    "fetched_at": "2026-10-30 13:06:19",
+    "file": "卖家自配送 Prime 配送要求__G202098380.md"
+  },
+  {
+    "title": "卖家自配送 Prime 注册撤销",
+    "doc_id": "G202098440",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202098440",
+    "fetched_at": "2026-10-30 13:06:19",
+    "file": "卖家自配送 Prime 注册撤销__G202098440.md"
+  },
+  {
+    "title": "降级/升级以及税务计算服务",
+    "doc_id": "G202101950",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202101950",
+    "fetched_at": "2026-10-30 13:06:19",
+    "file": "降级_升级以及税务计算服务__G202101950.md"
+  },
+  {
+    "title": "自定义税率",
+    "doc_id": "G202102080",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202102080",
+    "fetched_at": "2026-10-30 13:06:21",
+    "file": "自定义税率__G202102080.md"
+  },
+  {
+    "title": "A+ 内容",
+    "doc_id": "G202102930",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202102930",
+    "fetched_at": "2026-10-30 13:06:21",
+    "file": "A+ 内容__G202102930.md"
+  },
+  {
+    "title": "A+ 商品描述常见问题和疑难解答",
+    "doc_id": "G202102960",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202102960",
+    "fetched_at": "2026-10-30 13:06:23",
+    "file": "A+ 商品描述常见问题和疑难解答__G202102960.md"
+  },
+  {
+    "title": "卖家自配送订单退货的运费",
+    "doc_id": "G202103400",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202103400",
+    "fetched_at": "2026-10-30 13:06:21",
+    "file": "卖家自配送订单退货的运费__G202103400.md"
+  },
+  {
+    "title": "Pay by Invoice Policies",
+    "doc_id": "G202105160",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202105160",
+    "fetched_at": "2026-10-30 13:06:23",
+    "file": "Pay by Invoice Policies__G202105160.md"
+  },
+  {
+    "title": "潜在的重复项和拆分的变体",
+    "doc_id": "G202105450",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202105450",
+    "fetched_at": "2026-10-30 13:06:23",
+    "file": "潜在的重复项和拆分的变体__G202105450.md"
+  },
+  {
+    "title": "补货报告",
+    "doc_id": "G202105670",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202105670",
+    "fetched_at": "2026-10-30 13:06:27",
+    "file": "补货报告__G202105670.md"
+  },
+  {
+    "title": "创建或更新您的 SAM/SBA 档案",
+    "doc_id": "G202106920",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202106920",
+    "fetched_at": "2026-10-30 13:06:29",
+    "file": "创建或更新您的 SAM_SBA 档案__G202106920.md"
+  },
+  {
     "title": "两步验证",
     "doc_id": "G202110760",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202110760",
-    "fetched_at": "2026-10-30 09:51:44",
+    "fetched_at": "2026-10-30 13:06:29",
     "file": "两步验证__G202110760.md"
+  },
+  {
+    "title": "使用身份验证器应用进行两步验证",
+    "doc_id": "G202110780",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202110780",
+    "fetched_at": "2026-10-30 13:06:29",
+    "file": "使用身份验证器应用进行两步验证__G202110780.md"
   },
   {
     "title": "管理账户设置",
