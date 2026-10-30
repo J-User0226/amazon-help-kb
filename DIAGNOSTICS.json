@@ -6,7 +6,7 @@
   "counts": {
     "empty_topic_response": 62,
     "no_published_us_content": 106,
-    "no_valid_topic": 4,
+    "article_not_found": 4,
     "network_error": 56,
     "content_without_title": 23,
     "recovered_zh": 3,
@@ -700,7 +700,7 @@
     {
       "id": "20039947",
       "original_issue": "failed",
-      "result": "no_valid_topic",
+      "result": "article_not_found",
       "checks": [
         {
           "locale": "zh-CN",
@@ -5095,7 +5095,7 @@
     {
       "id": "GC3Q6DEAM6WWJND7",
       "original_issue": "failed",
-      "result": "no_valid_topic",
+      "result": "article_not_found",
       "checks": [
         {
           "locale": "zh-CN",
@@ -6354,7 +6354,7 @@
     {
       "id": "GU5B5B4GR7EWMNKY",
       "original_issue": "failed",
-      "result": "no_valid_topic",
+      "result": "article_not_found",
       "checks": [
         {
           "locale": "zh-CN",
@@ -6590,7 +6590,7 @@
     {
       "id": "GWBSAYRFGFNQTXBW",
       "original_issue": "failed",
-      "result": "no_valid_topic",
+      "result": "article_not_found",
       "checks": [
         {
           "locale": "zh-CN",
