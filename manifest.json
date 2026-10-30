@@ -1141,6 +1141,13 @@
     "file": "硬币收藏品__201526800.md"
   },
   {
+    "title": "亚马逊企业购 (B2B)",
+    "doc_id": "201542150",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201542150",
+    "fetched_at": "2026-10-30 12:30:15",
+    "file": "亚马逊企业购 (B2B)__201542150.md"
+  },
+  {
     "title": "有关亚马逊受限商品政策的其他卖家必知信息和资源",
     "doc_id": "201567350",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201567350",
@@ -1176,6 +1183,13 @@
     "file": "使用商品分类工具对商品进行分类__201576420.md"
   },
   {
+    "title": "图书、音乐、影视和 DVD 的文件格式",
+    "doc_id": "201576580",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201576580",
+    "fetched_at": "2026-10-30 12:30:08",
+    "file": "图书、音乐、影视和 DVD 的文件格式__201576580.md"
+  },
+  {
     "title": "将商品数据添加至库存文件",
     "doc_id": "201576640",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201576640",
@@ -1209,6 +1223,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201648580",
     "fetched_at": "2026-10-30 12:13:56",
     "file": "亚马逊翻新商品计划概览__201648580.md"
+  },
+  {
+    "title": "添加认证",
+    "doc_id": "201649810",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201649810",
+    "fetched_at": "2026-10-30 12:30:15",
+    "file": "添加认证__201649810.md"
   },
   {
     "title": "成为推荐报价",
@@ -1281,6 +1302,27 @@
     "file": "亚马逊物流禁运商品__201730840.md"
   },
   {
+    "title": "企业商品价格和数量折扣",
+    "doc_id": "201740300",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201740300",
+    "fetched_at": "2026-10-30 12:30:08",
+    "file": "企业商品价格和数量折扣__201740300.md"
+  },
+  {
+    "title": "企业专供商品报价",
+    "doc_id": "201740310",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201740310",
+    "fetched_at": "2026-10-30 12:30:20",
+    "file": "企业专供商品报价__201740310.md"
+  },
+  {
+    "title": "资格认证和证书",
+    "doc_id": "201740330",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201740330",
+    "fetched_at": "2026-10-30 12:30:20",
+    "file": "资格认证和证书__201740330.md"
+  },
+  {
     "title": "切换到专业销售计划",
     "doc_id": "201747610",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201747610",
@@ -1295,11 +1337,25 @@
     "file": "危险品审核流程__201749580.md"
   },
   {
+    "title": "亚马逊企业购常见问题",
+    "doc_id": "201750810",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201750810",
+    "fetched_at": "2026-10-30 12:30:08",
+    "file": "亚马逊企业购常见问题__201750810.md"
+  },
+  {
     "title": "从印度销售",
     "doc_id": "201756390",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201756390",
     "fetched_at": "2026-10-30 12:28:14",
     "file": "从印度销售__201756390.md"
+  },
+  {
+    "title": "亚马逊企业购术语表",
+    "doc_id": "201760900",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201760900",
+    "fetched_at": "2026-10-30 12:30:20",
+    "file": "亚马逊企业购术语表__201760900.md"
   },
   {
     "title": "“在亚马逊企业购开店”费用价目表",
@@ -1335,6 +1391,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201822160",
     "fetched_at": "2026-10-30 12:10:36",
     "file": "费用页面__201822160.md"
+  },
+  {
+    "title": "企业商品定价和数量折扣常见问题",
+    "doc_id": "201824530",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201824530",
+    "fetched_at": "2026-10-30 12:30:29",
+    "file": "企业商品定价和数量折扣常见问题__201824530.md"
   },
   {
     "title": "珠宝首饰发布提示",
@@ -1414,11 +1477,39 @@
     "file": "使用 API 购买配送服务__201950090.md"
   },
   {
+    "title": "编辑企业商品价格和数量折扣",
+    "doc_id": "201958240",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201958240",
+    "fetched_at": "2026-10-30 12:30:29",
+    "file": "编辑企业商品价格和数量折扣__201958240.md"
+  },
+  {
+    "title": "删除企业商品价格和数量折扣",
+    "doc_id": "201958320",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201958320",
+    "fetched_at": "2026-10-30 12:30:29",
+    "file": "删除企业商品价格和数量折扣__201958320.md"
+  },
+  {
+    "title": "企业专供商品",
+    "doc_id": "201958670",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201958670",
+    "fetched_at": "2026-10-30 12:30:31",
+    "file": "企业专供商品__201958670.md"
+  },
+  {
     "title": "批量修复无在售信息的亚马逊库存报告",
     "doc_id": "201968550",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201968550",
     "fetched_at": "2026-10-30 12:10:55",
     "file": "批量修复无在售信息的亚马逊库存报告__201968550.md"
+  },
+  {
+    "title": "使用批量商品信息模板添加企业商品价格和数量折扣",
+    "doc_id": "201995470",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201995470",
+    "fetched_at": "2026-10-30 12:30:31",
+    "file": "使用批量商品信息模板添加企业商品价格和数量折扣__201995470.md"
   },
   {
     "title": "按要求移除",
@@ -2875,6 +2966,62 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200385480",
     "fetched_at": "2026-10-30 12:29:08",
     "file": "使用商品信息加载工具模板添加和管理新报价__G200385480.md"
+  },
+  {
+    "title": "“商品价格和数量”文件",
+    "doc_id": "G200385490",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200385490",
+    "fetched_at": "2026-10-30 12:30:03",
+    "file": "“商品价格和数量”文件__G200385490.md"
+  },
+  {
+    "title": "关于禁止的卖家活动和行为的政策",
+    "doc_id": "G200386250",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200386250",
+    "fetched_at": "2026-10-30 12:30:04",
+    "file": "关于禁止的卖家活动和行为的政策__G200386250.md"
+  },
+  {
+    "title": "销售软件",
+    "doc_id": "G200386270",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200386270",
+    "fetched_at": "2026-10-30 12:30:04",
+    "file": "销售软件__G200386270.md"
+  },
+  {
+    "title": "Selling Textbooks",
+    "doc_id": "G200386280",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200386280",
+    "fetched_at": "2026-10-30 12:30:04",
+    "file": "Selling Textbooks__G200386280.md"
+  },
+  {
+    "title": "商业责任险要求",
+    "doc_id": "G200386300",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200386300",
+    "fetched_at": "2026-10-30 12:30:06",
+    "file": "商业责任险要求__G200386300.md"
+  },
+  {
+    "title": "状况整合",
+    "doc_id": "G200386310",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200386310",
+    "fetched_at": "2026-10-30 12:30:06",
+    "file": "状况整合__G200386310.md"
+  },
+  {
+    "title": "检索订单详情报告",
+    "doc_id": "G200387120",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200387120",
+    "fetched_at": "2026-10-30 12:30:06",
+    "file": "检索订单详情报告__G200387120.md"
+  },
+  {
+    "title": "退款管理费用",
+    "doc_id": "G200387220",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200387220",
+    "fetched_at": "2026-10-30 12:30:31",
+    "file": "退款管理费用__G200387220.md"
   },
   {
     "title": "关闭您的卖家账户",
