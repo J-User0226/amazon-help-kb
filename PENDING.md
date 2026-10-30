@@ -59,6 +59,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/201576700
 - https://sellercentral.amazon.com/help/hub/reference/external/201576720
 - https://sellercentral.amazon.com/help/hub/reference/external/201576740
+- https://sellercentral.amazon.com/help/hub/reference/external/201605130
 - https://sellercentral.amazon.com/help/hub/reference/external/201617630
 - https://sellercentral.amazon.com/help/hub/reference/external/201717580
 - https://sellercentral.amazon.com/help/hub/reference/external/201757520
@@ -117,33 +118,6 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/G200956770
 - https://sellercentral.amazon.com/help/hub/reference/external/G201000230
 - https://sellercentral.amazon.com/help/hub/reference/external/G201468500
-- https://sellercentral.amazon.com/help/hub/reference/external/G201468510
-- https://sellercentral.amazon.com/help/hub/reference/external/G201468520
-- https://sellercentral.amazon.com/help/hub/reference/external/G201468530
-- https://sellercentral.amazon.com/help/hub/reference/external/G201468540
-- https://sellercentral.amazon.com/help/hub/reference/external/G201468550
-- https://sellercentral.amazon.com/help/hub/reference/external/G201474070
-- https://sellercentral.amazon.com/help/hub/reference/external/G201483840
-- https://sellercentral.amazon.com/help/hub/reference/external/G201484410
-- https://sellercentral.amazon.com/help/hub/reference/external/G201484560
-- https://sellercentral.amazon.com/help/hub/reference/external/G201484970
-- https://sellercentral.amazon.com/help/hub/reference/external/G201491370
-- https://sellercentral.amazon.com/help/hub/reference/external/G201503640
-- https://sellercentral.amazon.com/help/hub/reference/external/G201505310
-- https://sellercentral.amazon.com/help/hub/reference/external/G201511970
-- https://sellercentral.amazon.com/help/hub/reference/external/G201526800
-- https://sellercentral.amazon.com/help/hub/reference/external/G201530080
-- https://sellercentral.amazon.com/help/hub/reference/external/G201535680
-- https://sellercentral.amazon.com/help/hub/reference/external/G201542150
-- https://sellercentral.amazon.com/help/hub/reference/external/G201557160
-- https://sellercentral.amazon.com/help/hub/reference/external/G201567350
-- https://sellercentral.amazon.com/help/hub/reference/external/G201575280
-- https://sellercentral.amazon.com/help/hub/reference/external/G201576400
-- https://sellercentral.amazon.com/help/hub/reference/external/G201576410
-- https://sellercentral.amazon.com/help/hub/reference/external/G201576420
-- https://sellercentral.amazon.com/help/hub/reference/external/G201576430
-- https://sellercentral.amazon.com/help/hub/reference/external/G201576510
-- https://sellercentral.amazon.com/help/hub/reference/external/G201576520
 - https://sellercentral.amazon.com/help/hub/reference/external/G201576540
 - https://sellercentral.amazon.com/help/hub/reference/external/G201576570
 - https://sellercentral.amazon.com/help/hub/reference/external/G201576580
@@ -152,6 +126,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/G201576690
 - https://sellercentral.amazon.com/help/hub/reference/external/G201584910
 - https://sellercentral.amazon.com/help/hub/reference/external/G201584920
+- https://sellercentral.amazon.com/help/hub/reference/external/G201605110
 - https://sellercentral.amazon.com/help/hub/reference/external/G201606080
 - https://sellercentral.amazon.com/help/hub/reference/external/G201607580
 - https://sellercentral.amazon.com/help/hub/reference/external/G201612920
@@ -230,6 +205,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/G201725710
 - https://sellercentral.amazon.com/help/hub/reference/external/G201725760
 - https://sellercentral.amazon.com/help/hub/reference/external/G201725780
+- https://sellercentral.amazon.com/help/hub/reference/external/G201728190
 - https://sellercentral.amazon.com/help/hub/reference/external/G201730840
 - https://sellercentral.amazon.com/help/hub/reference/external/G201737480
 - https://sellercentral.amazon.com/help/hub/reference/external/G201740300
@@ -261,6 +237,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/G201817070
 - https://sellercentral.amazon.com/help/hub/reference/external/G201817090
 - https://sellercentral.amazon.com/help/hub/reference/external/G201817290
+- https://sellercentral.amazon.com/help/hub/reference/external/G201817490
 - https://sellercentral.amazon.com/help/hub/reference/external/G201818900
 - https://sellercentral.amazon.com/help/hub/reference/external/G201822160
 - https://sellercentral.amazon.com/help/hub/reference/external/G201823150
@@ -357,6 +334,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/G202094740
 - https://sellercentral.amazon.com/help/hub/reference/external/G202095010
 - https://sellercentral.amazon.com/help/hub/reference/external/G202095190
+- https://sellercentral.amazon.com/help/hub/reference/external/G202096730
 - https://sellercentral.amazon.com/help/hub/reference/external/G202098380
 - https://sellercentral.amazon.com/help/hub/reference/external/G202101950
 - https://sellercentral.amazon.com/help/hub/reference/external/G202102080
@@ -674,6 +652,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/G47ZF4V7HNRY3JWD
 - https://sellercentral.amazon.com/help/hub/reference/external/G48321
 - https://sellercentral.amazon.com/help/hub/reference/external/G48401
+- https://sellercentral.amazon.com/help/hub/reference/external/G48551
 - https://sellercentral.amazon.com/help/hub/reference/external/G48781
 - https://sellercentral.amazon.com/help/hub/reference/external/G49V6WDHJRCNSU9D
 - https://sellercentral.amazon.com/help/hub/reference/external/G4ABP6XDJAE6PZAV
@@ -725,6 +704,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/G581
 - https://sellercentral.amazon.com/help/hub/reference/external/G59811
 - https://sellercentral.amazon.com/help/hub/reference/external/G5A85XXCZDQ48A8T
+- https://sellercentral.amazon.com/help/hub/reference/external/G5C8BKMNBFSGU7GZ
 - https://sellercentral.amazon.com/help/hub/reference/external/G5DA4FB5YD6PD5PX
 - https://sellercentral.amazon.com/help/hub/reference/external/G5ER6LTGH2GFJLHQ
 - https://sellercentral.amazon.com/help/hub/reference/external/G5F3MAE3BCGYUKVB
@@ -738,6 +718,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/G5L5DLMDU82XL82L
 - https://sellercentral.amazon.com/help/hub/reference/external/G5LDV3NBM7ECSK5F
 - https://sellercentral.amazon.com/help/hub/reference/external/G5LHQSM6MXGQJ945
+- https://sellercentral.amazon.com/help/hub/reference/external/G5M27FJWX76NAWRL
 - https://sellercentral.amazon.com/help/hub/reference/external/G5NGAYYZAY559SCZ
 - https://sellercentral.amazon.com/help/hub/reference/external/G5NRJ28NV4AWJNT9
 - https://sellercentral.amazon.com/help/hub/reference/external/G5P3CDUHZWSZLXLB
@@ -1034,6 +1015,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/GDQ9K277NYP6WNEW
 - https://sellercentral.amazon.com/help/hub/reference/external/GDQULCAPUQQ9D9Z8
 - https://sellercentral.amazon.com/help/hub/reference/external/GDTDMAWM8FG2CX6U
+- https://sellercentral.amazon.com/help/hub/reference/external/GDTKWQ9LXYACU7VQ
 - https://sellercentral.amazon.com/help/hub/reference/external/GDWYSCEYL8DUFDLB
 - https://sellercentral.amazon.com/help/hub/reference/external/GDYZBUHVDD66VHVR
 - https://sellercentral.amazon.com/help/hub/reference/external/GE3VC5FGJE9TYJKM
@@ -1154,6 +1136,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/GH4YYXNDRW9BSZEN
 - https://sellercentral.amazon.com/help/hub/reference/external/GH66A4FUQZGQ5Z28
 - https://sellercentral.amazon.com/help/hub/reference/external/GH6DEGUR6TACREV9
+- https://sellercentral.amazon.com/help/hub/reference/external/GH7N74XKU6CEEEJC
 - https://sellercentral.amazon.com/help/hub/reference/external/GH8EBJX5EDU8U5BK
 - https://sellercentral.amazon.com/help/hub/reference/external/GHCZ2QCPHULGPHDR
 - https://sellercentral.amazon.com/help/hub/reference/external/GHFCQ3SCKXWDYZN2

@@ -1519,6 +1519,13 @@
     "file": "视频、DVD 和蓝光光盘__201607580.md"
   },
   {
+    "title": "单品价格要求",
+    "doc_id": "201618190",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201618190",
+    "fetched_at": "2026-10-30 12:46:05",
+    "file": "单品价格要求__201618190.md"
+  },
+  {
     "title": "高级珠宝首饰条款和条件",
     "doc_id": "201622250",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201622250",
@@ -5677,11 +5684,179 @@
     "file": "亚马逊全球开店的发货和配送__G201468490.md"
   },
   {
+    "title": "使用亚马逊物流配送国际订单",
+    "doc_id": "G201468510",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201468510",
+    "fetched_at": "2026-10-30 12:45:57",
+    "file": "使用亚马逊物流配送国际订单__G201468510.md"
+  },
+  {
+    "title": "进口和出口库存",
+    "doc_id": "G201468520",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201468520",
+    "fetched_at": "2026-10-30 12:45:57",
+    "file": "进口和出口库存__G201468520.md"
+  },
+  {
+    "title": "全球开店的客户支持和退货",
+    "doc_id": "G201468530",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201468530",
+    "fetched_at": "2026-10-30 12:45:58",
+    "file": "全球开店的客户支持和退货__G201468530.md"
+  },
+  {
+    "title": "为国际订单提供客户支持",
+    "doc_id": "G201468540",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201468540",
+    "fetched_at": "2026-10-30 12:45:58",
+    "file": "为国际订单提供客户支持__G201468540.md"
+  },
+  {
+    "title": "国际销售订单的买家退货",
+    "doc_id": "G201468550",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201468550",
+    "fetched_at": "2026-10-30 12:45:58",
+    "file": "国际销售订单的买家退货__G201468550.md"
+  },
+  {
+    "title": "立即开始发布商品",
+    "doc_id": "G201474070",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201474070",
+    "fetched_at": "2026-10-30 12:46:00",
+    "file": "立即开始发布商品__G201474070.md"
+  },
+  {
+    "title": "销售摄影摄像商品",
+    "doc_id": "G201483840",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201483840",
+    "fetched_at": "2026-10-30 12:46:00",
+    "file": "销售摄影摄像商品__G201483840.md"
+  },
+  {
+    "title": "销售服务条款",
+    "doc_id": "G201484410",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201484410",
+    "fetched_at": "2026-10-30 12:46:00",
+    "file": "销售服务条款__G201484410.md"
+  },
+  {
     "title": "销售服务入门",
     "doc_id": "G201484560",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201484560",
-    "fetched_at": "2026-10-30 09:51:11",
+    "fetched_at": "2026-10-30 12:46:01",
     "file": "销售服务入门__G201484560.md"
+  },
+  {
+    "title": "您的企业信息",
+    "doc_id": "G201484970",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201484970",
+    "fetched_at": "2026-10-30 12:46:01",
+    "file": "您的企业信息__G201484970.md"
+  },
+  {
+    "title": "多国家/地区库存报告",
+    "doc_id": "G201491370",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201491370",
+    "fetched_at": "2026-10-30 12:46:01",
+    "file": "多国家_地区库存报告__G201491370.md"
+  },
+  {
+    "title": "恢复为新品",
+    "doc_id": "G201505310",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201505310",
+    "fetched_at": "2026-10-30 12:46:03",
+    "file": "恢复为新品__G201505310.md"
+  },
+  {
+    "title": "食品",
+    "doc_id": "G201511970",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201511970",
+    "fetched_at": "2026-10-30 12:46:03",
+    "file": "食品__G201511970.md"
+  },
+  {
+    "title": "硬币收藏品",
+    "doc_id": "G201526800",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201526800",
+    "fetched_at": "2026-10-30 12:46:05",
+    "file": "硬币收藏品__G201526800.md"
+  },
+  {
+    "title": "亚马逊合作承运人计划常见问题",
+    "doc_id": "G201530080",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201530080",
+    "fetched_at": "2026-10-30 12:46:05",
+    "file": "亚马逊合作承运人计划常见问题__G201530080.md"
+  },
+  {
+    "title": "预览您的费用",
+    "doc_id": "G201535680",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201535680",
+    "fetched_at": "2026-10-30 12:46:07",
+    "file": "预览您的费用__G201535680.md"
+  },
+  {
+    "title": "亚马逊企业购 (B2B)",
+    "doc_id": "G201542150",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201542150",
+    "fetched_at": "2026-10-30 12:46:07",
+    "file": "亚马逊企业购 (B2B)__G201542150.md"
+  },
+  {
+    "title": "请求预处理调查",
+    "doc_id": "G201557160",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201557160",
+    "fetched_at": "2026-10-30 12:46:07",
+    "file": "请求预处理调查__G201557160.md"
+  },
+  {
+    "title": "有关亚马逊受限商品政策的其他卖家必知信息和资源",
+    "doc_id": "G201567350",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201567350",
+    "fetched_at": "2026-10-30 12:46:08",
+    "file": "有关亚马逊受限商品政策的其他卖家必知信息和资源__G201567350.md"
+  },
+  {
+    "title": "贸易管制法",
+    "doc_id": "G201575280",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201575280",
+    "fetched_at": "2026-10-30 12:46:08",
+    "file": "贸易管制法__G201575280.md"
+  },
+  {
+    "title": "比较并选择商品发布方法",
+    "doc_id": "G201576400",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201576400",
+    "fetched_at": "2026-10-30 12:46:08",
+    "file": "比较并选择商品发布方法__G201576400.md"
+  },
+  {
+    "title": "使用库存文件添加商品",
+    "doc_id": "G201576410",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201576410",
+    "fetched_at": "2026-10-30 12:46:10",
+    "file": "使用库存文件添加商品__G201576410.md"
+  },
+  {
+    "title": "使用商品分类工具对商品进行分类",
+    "doc_id": "G201576420",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201576420",
+    "fetched_at": "2026-10-30 12:46:10",
+    "file": "使用商品分类工具对商品进行分类__G201576420.md"
+  },
+  {
+    "title": "使用订单取消模板取消多个订单",
+    "doc_id": "G201576510",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201576510",
+    "fetched_at": "2026-10-30 12:46:12",
+    "file": "使用订单取消模板取消多个订单__G201576510.md"
+  },
+  {
+    "title": "使用配送确认模板确认多个配送",
+    "doc_id": "G201576520",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G201576520",
+    "fetched_at": "2026-10-30 12:46:12",
+    "file": "使用配送确认模板确认多个配送__G201576520.md"
   },
   {
     "title": "两步验证",
