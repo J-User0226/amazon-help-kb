@@ -1127,6 +1127,13 @@
     "file": "入库问题报告__200875520.md"
   },
   {
+    "title": "禁止显示的商品",
+    "doc_id": "200898440",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200898440",
+    "fetched_at": "2026-10-30 13:06:47",
+    "file": "禁止显示的商品__200898440.md"
+  },
+  {
     "title": "Delivering Televisions to Amazon",
     "doc_id": "200898460",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200898460",
@@ -1580,6 +1587,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/201468510",
     "fetched_at": "2026-10-30 12:43:35",
     "file": "使用亚马逊物流配送国际订单__201468510.md"
+  },
+  {
+    "title": "进口和出口库存",
+    "doc_id": "201468520",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/201468520",
+    "fetched_at": "2026-10-30 13:07:00",
+    "file": "进口和出口库存__201468520.md"
   },
   {
     "title": "全球开店的客户支持和退货",
@@ -2525,6 +2539,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/202121650",
     "fetched_at": "2026-10-30 12:44:14",
     "file": "编辑目标商城设置__202121650.md"
+  },
+  {
+    "title": "使用“建立国际商品信息”工具移除关联",
+    "doc_id": "202121660",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/202121660",
+    "fetched_at": "2026-10-30 13:07:00",
+    "file": "使用“建立国际商品信息”工具移除关联__202121660.md"
   },
   {
     "title": "卖家自配送 API 服务条款",
@@ -8167,6 +8188,188 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202110780",
     "fetched_at": "2026-10-30 13:06:29",
     "file": "使用身份验证器应用进行两步验证__G202110780.md"
+  },
+  {
+    "title": "亚马逊特惠",
+    "doc_id": "G202111490",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202111490",
+    "fetched_at": "2026-10-30 13:06:37",
+    "file": "亚马逊特惠__G202111490.md"
+  },
+  {
+    "title": "创建促销",
+    "doc_id": "G202111550",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202111550",
+    "fetched_at": "2026-10-30 13:06:37",
+    "file": "创建促销__G202111550.md"
+  },
+  {
+    "title": "监控促销",
+    "doc_id": "G202111570",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202111570",
+    "fetched_at": "2026-10-30 13:06:37",
+    "file": "监控促销__G202111570.md"
+  },
+  {
+    "title": "了解促销费用",
+    "doc_id": "G202111590",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202111590",
+    "fetched_at": "2026-10-30 13:06:39",
+    "file": "了解促销费用__G202111590.md"
+  },
+  {
+    "title": "取消促销",
+    "doc_id": "G202111610",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202111610",
+    "fetched_at": "2026-10-30 13:06:42",
+    "file": "取消促销__G202111610.md"
+  },
+  {
+    "title": "供应链标准",
+    "doc_id": "G202111990",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202111990",
+    "fetched_at": "2026-10-30 13:06:42",
+    "file": "供应链标准__G202111990.md"
+  },
+  {
+    "title": "害虫防治商品和农药",
+    "doc_id": "G202115120",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202115120",
+    "fetched_at": "2026-10-30 13:06:43",
+    "file": "害虫防治商品和农药__G202115120.md"
+  },
+  {
+    "title": "设置或更改默认配送模板",
+    "doc_id": "G202115730",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202115730",
+    "fetched_at": "2026-10-30 13:06:43",
+    "file": "设置或更改默认配送模板__G202115730.md"
+  },
+  {
+    "title": "创建配送模板的最低要求",
+    "doc_id": "G202115770",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202115770",
+    "fetched_at": "2026-10-30 13:06:43",
+    "file": "创建配送模板的最低要求__G202115770.md"
+  },
+  {
+    "title": "珠宝首饰类商品数据更新 - 常见问题",
+    "doc_id": "G202115840",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202115840",
+    "fetched_at": "2026-10-30 13:06:45",
+    "file": "珠宝首饰类商品数据更新 - 常见问题__G202115840.md"
+  },
+  {
+    "title": "禁用 Prime 商品设置并控制 Prime 订单量",
+    "doc_id": "G202118910",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202118910",
+    "fetched_at": "2026-10-30 13:06:45",
+    "file": "禁用 Prime 商品设置并控制 Prime 订单量__G202118910.md"
+  },
+  {
+    "title": "DHL 墨西哥条款和条件及配送说明",
+    "doc_id": "G202119530",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202119530",
+    "fetched_at": "2026-10-30 13:06:45",
+    "file": "DHL 墨西哥条款和条件及配送说明__G202119530.md"
+  },
+  {
+    "title": "建立国际商品信息",
+    "doc_id": "G202121570",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202121570",
+    "fetched_at": "2026-10-30 13:06:51",
+    "file": "建立国际商品信息__G202121570.md"
+  },
+  {
+    "title": "使用“建立国际商品信息”工具创建关联",
+    "doc_id": "G202121580",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202121580",
+    "fetched_at": "2026-10-30 13:06:53",
+    "file": "使用“建立国际商品信息”工具创建关联__G202121580.md"
+  },
+  {
+    "title": "选择您的来源商城和目标商城",
+    "doc_id": "G202121600",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202121600",
+    "fetched_at": "2026-10-30 13:06:53",
+    "file": "选择您的来源商城和目标商城__G202121600.md"
+  },
+  {
+    "title": "“建立国际商品信息”价格规则",
+    "doc_id": "G202121610",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202121610",
+    "fetched_at": "2026-10-30 13:06:53",
+    "file": "“建立国际商品信息”价格规则__G202121610.md"
+  },
+  {
+    "title": "建立国际商品信息报告",
+    "doc_id": "G202121620",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202121620",
+    "fetched_at": "2026-10-30 13:06:55",
+    "file": "建立国际商品信息报告__G202121620.md"
+  },
+  {
+    "title": "从目标商城排除报价或商品",
+    "doc_id": "G202121630",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202121630",
+    "fetched_at": "2026-10-30 13:06:55",
+    "file": "从目标商城排除报价或商品__G202121630.md"
+  },
+  {
+    "title": "添加更多目标商城",
+    "doc_id": "G202121640",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202121640",
+    "fetched_at": "2026-10-30 13:06:55",
+    "file": "添加更多目标商城__G202121640.md"
+  },
+  {
+    "title": "编辑目标商城设置",
+    "doc_id": "G202121650",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202121650",
+    "fetched_at": "2026-10-30 13:06:57",
+    "file": "编辑目标商城设置__G202121650.md"
+  },
+  {
+    "title": "使用“建立国际商品信息”工具移除关联",
+    "doc_id": "G202121660",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202121660",
+    "fetched_at": "2026-10-30 13:06:57",
+    "file": "使用“建立国际商品信息”工具移除关联__G202121660.md"
+  },
+  {
+    "title": "重新连接目标商城中排除的商品",
+    "doc_id": "G202121670",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202121670",
+    "fetched_at": "2026-10-30 13:06:57",
+    "file": "重新连接目标商城中排除的商品__G202121670.md"
+  },
+  {
+    "title": "更改来源商城",
+    "doc_id": "G202121680",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202121680",
+    "fetched_at": "2026-10-30 13:06:58",
+    "file": "更改来源商城__G202121680.md"
+  },
+  {
+    "title": "有关“建立国际商品信息”的重要信息",
+    "doc_id": "G202121690",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202121690",
+    "fetched_at": "2026-10-30 13:06:58",
+    "file": "有关“建立国际商品信息”的重要信息__G202121690.md"
+  },
+  {
+    "title": "销量卡",
+    "doc_id": "G202122100",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202122100",
+    "fetched_at": "2026-10-30 13:06:59",
+    "file": "销量卡__G202122100.md"
+  },
+  {
+    "title": "卖家自配送 API 服务条款",
+    "doc_id": "G202123940",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G202123940",
+    "fetched_at": "2026-10-30 13:07:00",
+    "file": "卖家自配送 API 服务条款__G202123940.md"
   },
   {
     "title": "管理账户设置",
