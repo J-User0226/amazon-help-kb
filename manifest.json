@@ -3220,6 +3220,27 @@
     "file": "错误 13100__30661.md"
   },
   {
+    "title": "错误 18008",
+    "doc_id": "30681",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/30681",
+    "fetched_at": "2026-10-30 13:16:00",
+    "file": "错误 18008__30681.md"
+  },
+  {
+    "title": "错误 18009",
+    "doc_id": "30701",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/30701",
+    "fetched_at": "2026-10-30 13:16:02",
+    "file": "错误 18009__30701.md"
+  },
+  {
+    "title": "错误 8023",
+    "doc_id": "31431",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/31431",
+    "fetched_at": "2026-10-30 13:16:03",
+    "file": "错误 8023__31431.md"
+  },
+  {
     "title": "识别虚假（欺骗性）电子邮件",
     "doc_id": "32261",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/32261",
@@ -10428,6 +10449,188 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G30681",
     "fetched_at": "2026-10-30 13:15:54",
     "file": "错误 18008__G30681.md"
+  },
+  {
+    "title": "错误 18009",
+    "doc_id": "G30701",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G30701",
+    "fetched_at": "2026-10-30 13:16:00",
+    "file": "错误 18009__G30701.md"
+  },
+  {
+    "title": "错误 18028",
+    "doc_id": "G30721",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G30721",
+    "fetched_at": "2026-10-30 13:16:00",
+    "file": "错误 18028__G30721.md"
+  },
+  {
+    "title": "错误 18031",
+    "doc_id": "G30741",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G30741",
+    "fetched_at": "2026-10-30 13:16:02",
+    "file": "错误 18031__G30741.md"
+  },
+  {
+    "title": "错误 8023",
+    "doc_id": "G31431",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31431",
+    "fetched_at": "2026-10-30 13:16:02",
+    "file": "错误 8023__G31431.md"
+  },
+  {
+    "title": "错误 10018",
+    "doc_id": "G31601",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31601",
+    "fetched_at": "2026-10-30 13:16:03",
+    "file": "错误 10018__G31601.md"
+  },
+  {
+    "title": "错误 6000： 指定 FieldName",
+    "doc_id": "G31751",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31751",
+    "fetched_at": "2026-10-30 13:16:05",
+    "file": "错误 6000： 指定 FieldName__G31751.md"
+  },
+  {
+    "title": "错误 6000： FieldName 超出了 MaxCharacters",
+    "doc_id": "G31771",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31771",
+    "fetched_at": "2026-10-30 13:16:05",
+    "file": "错误 6000： FieldName 超出了 MaxCharacters__G31771.md"
+  },
+  {
+    "title": "错误 6000： ValueName 格式不正确",
+    "doc_id": "G31791",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31791",
+    "fetched_at": "2026-10-30 13:16:05",
+    "file": "错误 6000： ValueName 格式不正确__G31791.md"
+  },
+  {
+    "title": "错误 6000： ValueName 包含无效字符",
+    "doc_id": "G31811",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31811",
+    "fetched_at": "2026-10-30 13:16:07",
+    "file": "错误 6000： ValueName 包含无效字符__G31811.md"
+  },
+  {
+    "title": "错误 6000： ValueName 需要两位小数",
+    "doc_id": "G31831",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31831",
+    "fetched_at": "2026-10-30 13:16:07",
+    "file": "错误 6000： ValueName 需要两位小数__G31831.md"
+  },
+  {
+    "title": "错误 6000： ValueName 未达到最少字符限制",
+    "doc_id": "G31851",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31851",
+    "fetched_at": "2026-10-30 13:16:07",
+    "file": "错误 6000： ValueName 未达到最少字符限制__G31851.md"
+  },
+  {
+    "title": "错误 6000： ValueName 不是一个可接受值",
+    "doc_id": "G31871",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31871",
+    "fetched_at": "2026-10-30 13:16:08",
+    "file": "错误 6000： ValueName 不是一个可接受值__G31871.md"
+  },
+  {
+    "title": "错误 6000： 文件中无数据",
+    "doc_id": "G31891",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31891",
+    "fetched_at": "2026-10-30 13:16:08",
+    "file": "错误 6000： 文件中无数据__G31891.md"
+  },
+  {
+    "title": "错误 6000： 第一行不可读",
+    "doc_id": "G31911",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31911",
+    "fetched_at": "2026-10-30 13:16:09",
+    "file": "错误 6000： 第一行不可读__G31911.md"
+  },
+  {
+    "title": "错误 6000： ColumnName 重复",
+    "doc_id": "G31931",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31931",
+    "fetched_at": "2026-10-30 13:16:10",
+    "file": "错误 6000： ColumnName 重复__G31931.md"
+  },
+  {
+    "title": "错误 6000： 列缺失",
+    "doc_id": "G31951",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31951",
+    "fetched_at": "2026-10-30 13:16:10",
+    "file": "错误 6000： 列缺失__G31951.md"
+  },
+  {
+    "title": "错误 6000： 数值格式错误",
+    "doc_id": "G31971",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31971",
+    "fetched_at": "2026-10-30 13:16:10",
+    "file": "错误 6000： 数值格式错误__G31971.md"
+  },
+  {
+    "title": "Error 6000： 日期格式错误",
+    "doc_id": "G31991",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G31991",
+    "fetched_at": "2026-10-30 13:16:12",
+    "file": "Error 6000： 日期格式错误__G31991.md"
+  },
+  {
+    "title": "错误 6000： 日期月份错误",
+    "doc_id": "G32011",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32011",
+    "fetched_at": "2026-10-30 13:16:12",
+    "file": "错误 6000： 日期月份错误__G32011.md"
+  },
+  {
+    "title": "错误 6000： 字符不是十进制",
+    "doc_id": "G32031",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32031",
+    "fetched_at": "2026-10-30 13:16:12",
+    "file": "错误 6000： 字符不是十进制__G32031.md"
+  },
+  {
+    "title": "错误 6000： 数值不是整数",
+    "doc_id": "G32051",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32051",
+    "fetched_at": "2026-10-30 13:16:13",
+    "file": "错误 6000： 数值不是整数__G32051.md"
+  },
+  {
+    "title": "错误 6000： 字符不是整数",
+    "doc_id": "G32071",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32071",
+    "fetched_at": "2026-10-30 13:16:13",
+    "file": "错误 6000： 字符不是整数__G32071.md"
+  },
+  {
+    "title": "错误 6000： 数值非正整数",
+    "doc_id": "G32111",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32111",
+    "fetched_at": "2026-10-30 13:16:13",
+    "file": "错误 6000： 数值非正整数__G32111.md"
+  },
+  {
+    "title": "错误 6000： 字符不是正整数",
+    "doc_id": "G32131",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32131",
+    "fetched_at": "2026-10-30 13:16:15",
+    "file": "错误 6000： 字符不是正整数__G32131.md"
+  },
+  {
+    "title": "错误 6000： 数值超出正整数范围",
+    "doc_id": "G32151",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32151",
+    "fetched_at": "2026-10-30 13:16:15",
+    "file": "错误 6000： 数值超出正整数范围__G32151.md"
+  },
+  {
+    "title": "错误 6000： 闰年日期无效",
+    "doc_id": "G32171",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G32171",
+    "fetched_at": "2026-10-30 13:16:15",
+    "file": "错误 6000： 闰年日期无效__G32171.md"
   },
   {
     "title": "管理账户设置",
