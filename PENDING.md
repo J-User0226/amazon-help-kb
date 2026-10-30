@@ -9,6 +9,7 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/200141230
 - https://sellercentral.amazon.com/help/hub/reference/external/200164490
 - https://sellercentral.amazon.com/help/hub/reference/external/200164650
+- https://sellercentral.amazon.com/help/hub/reference/external/200212920
 - https://sellercentral.amazon.com/help/hub/reference/external/200229340
 - https://sellercentral.amazon.com/help/hub/reference/external/200247530
 - https://sellercentral.amazon.com/help/hub/reference/external/200281370
@@ -172,9 +173,6 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/G202086070
 - https://sellercentral.amazon.com/help/hub/reference/external/G202086720
 - https://sellercentral.amazon.com/help/hub/reference/external/G202087410
-- https://sellercentral.amazon.com/help/hub/reference/external/G202124090
-- https://sellercentral.amazon.com/help/hub/reference/external/G202124450
-- https://sellercentral.amazon.com/help/hub/reference/external/G202125070
 - https://sellercentral.amazon.com/help/hub/reference/external/G202125520
 - https://sellercentral.amazon.com/help/hub/reference/external/G202125900
 - https://sellercentral.amazon.com/help/hub/reference/external/G202126280
@@ -193,15 +191,6 @@
 - https://sellercentral.amazon.com/help/hub/reference/external/G202134640
 - https://sellercentral.amazon.com/help/hub/reference/external/G202134660
 - https://sellercentral.amazon.com/help/hub/reference/external/G202134680
-- https://sellercentral.amazon.com/help/hub/reference/external/G202134700
-- https://sellercentral.amazon.com/help/hub/reference/external/G202134820
-- https://sellercentral.amazon.com/help/hub/reference/external/G202137200
-- https://sellercentral.amazon.com/help/hub/reference/external/G202137910
-- https://sellercentral.amazon.com/help/hub/reference/external/G202137940
-- https://sellercentral.amazon.com/help/hub/reference/external/G202137960
-- https://sellercentral.amazon.com/help/hub/reference/external/G202137980
-- https://sellercentral.amazon.com/help/hub/reference/external/G202138790
-- https://sellercentral.amazon.com/help/hub/reference/external/G202139180
 - https://sellercentral.amazon.com/help/hub/reference/external/G202140170
 - https://sellercentral.amazon.com/help/hub/reference/external/G202140360
 - https://sellercentral.amazon.com/help/hub/reference/external/G202141220
