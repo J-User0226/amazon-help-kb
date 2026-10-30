@@ -1,0 +1,60 @@
+---
+title: 属性指南
+doc_id: GBWHYLJ7NNQMXBAQ
+source: https://sellercentral.amazon.com/help/hub/reference/external/GBWHYLJ7NNQMXBAQ
+language: zh-CN
+fetched_at: 2026-10-30 13:28:44
+---
+
+# 属性指南
+
+商品属性是用于在详情页面上描述商品的特定信息。它们帮助买家查找、评估和比较商品。不同类型的商品具有不同的属性。例如，鞋类具有颜色和尺码等属性，而灯具则具有功率和灯泡类型等属性。
+
+完整且准确的属性：
+- 提高商品在搜索结果中的曝光度，并使消费者能够通过筛选结果找到您的商品。
+- 通过提供详细规格，帮助消费者评估和比较商品。
+- 使 Rufus（亚马逊的 AI 购物助手）能够向消费者提供更准确的商品信息。
+
+## 属性分类和优先级
+商品信息中的属性可分为三个视图：
+- **必填：** 您必须填写这些属性才能创建商品信息，否则您将无法发布商品。这些属性如下：商品标题、主图、商品描述和价格等。
+- **推荐：** 这些属性对您的商品分类很重要。提供这些属性有助于买家查找和评估您的商品。
+- **全部：** 适用于您商品类型的完整属性集。尽可能多地提供这些属性可让买家获得最完整的信息。
+
+要查找您商品分类所需的具体属性，请参阅适用于您分类的[批量商品信息模板](https://sellercentral.amazon.com/help/hub/reference/G1641)。
+
+如要及时了解最新的属性要求，请查阅[计划更改文件](https://m.media-amazon.com/images/G/01/VSSC/Seller_Release_Notes/Listing_requirement_updates.xlsx)。有关关键类属性的更多信息，请参阅[关键属性说明](https://sellercentral.amazon.com/help/hub/reference/GF2C2L6RCFZGWBXC)。
+
+## 添加或编辑属性
+要编辑单个商品的属性，请执行以下操作：
+1. 前往[管理商品](https://sellercentral.amazon.com/amazonsell/manage-products?view=all&condition=&term=&isFavorite=&minPrice=&maxPrice=&dateRangeStart=&dateRangeEnd=&pageSize=20&orderBy=SALES&isOrderAscending=false&pageIndex=0)。
+2. 找到待更新的商品。在**操作**列中，选择**向下箭头**，然后选择【编辑】。
+3. 使用左侧的**属性**筛选条件（**必填**、**推荐**或**全部属性**）来显示您要编辑的属性。
+4. 输入或更新您的属性值，然后选择**保存并完成**以保存更改。
+
+**要批量编辑属性：**
+
+从**添加商品**中的[电子表格](https://sellercentral.amazon.com/product-search/bulk)模块下载针对特定分类的库存文件模板。有关更多信息，请前往[批量商品信息模板](https://sellercentral.amazon.com/help/hub/reference/G1641)。
+
+**重要须知：** 请仅使用最近 90 天内下载的模板，以确保它们包含最新的属性要求。您可以在尝试上传的每个模板的 B1 单元格中找到模板的版本信息。
+
+**注意： **对于模板中具有下拉菜单值的属性，请仅从提供的选项中进行选择。请勿复制并粘贴列表中不存在的值。某些属性会结合多种值来提供完整信息。例如，商品数量由数字值和单位计数类型组成（如“12 件”或“6 件装”）。
+
+## 问题解决
+**错误代码** **描述** **原因** **解决步骤**
+**错误 90057** 无效值错误 属性包含有效值列表中不存在的值。 使用此属性的下拉列表中的有效值来替换无效值，然后重新提交商品信息。有关更多信息，请参阅[错误 90057](https://sellercentral.amazon.com/help/hub/reference/GJ6RWQCLKQGY2HT3)。
+**错误 90220** 缺少必填属性 商品信息中缺少某个必填属性。 提供缺少的值，然后重新提交商品信息。如果您使用的是旧模板，请务必下载最新模板。有关更多信息，请参阅[错误 90220](https://sellercentral.amazon.com/help/hub/reference/GAEEJQAWDN8BL2WH)。
+**错误 90225** 超出字符数限制 属性值超出允许的最大字符数。 缩短属性值，使其低于允许的阈值。有关更多信息，请参阅[错误 90225](https://sellercentral.amazon.com/help/hub/reference/GWNL5SHEF97KE4AK)。
+**错误 90248** 条件字段错误 在某个字段中提供了属性，但特定的前提条件禁止提供此属性。 查看此属性的前提条件，并删除在当前情况下不能提供的字段。有关更多信息，请参阅[错误 90248](https://sellercentral.amazon.com/help/hub/reference/GJ7YATHPYRZX8YY2)。
+**错误 97779** 超出一般关键词长度 一般关键词超出了 200 字节的长度限制。 将关键词长度缩短到 200 字节以下。有关更多信息，请参阅[错误 97779](https://sellercentral.amazon.com/help/hub/reference/GR7SLAHMDLBSSDHP)。
+**错误 99001** 缺少必填值 缺少必填属性或列值。 检查模板中所有红色高亮显示的单元格，填写所有必填字段，然后重新提交商品信息。有关更多信息，请参阅[错误 99001](https://sellercentral.amazon.com/help/hub/reference/G200713110)。
+**错误 99010** 缺少条件组值 条件必填组中缺少一个或多个必填值，或值之间存在冲突。
+1. 确保条件必填组中的所有属性均包含有效值。
+2. 上传特定分类的模板文件之前，检查这些文件中的**数据定义**和**有效值**选项卡。
+3. 重新提交完整信息。
+
+有关更多信息，请参阅[错误 99010](https://sellercentral.amazon.com/help/hub/reference/G200713270)。
+
+---
+
+原文出处：https://sellercentral.amazon.com/help/hub/reference/external/GBWHYLJ7NNQMXBAQ

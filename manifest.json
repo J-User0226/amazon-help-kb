@@ -217,6 +217,13 @@
     "file": "发布亚马逊物流商品__200141220.md"
   },
   {
+    "title": "向亚马逊运送商品",
+    "doc_id": "200141420",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/200141420",
+    "fetched_at": "2026-10-30 13:28:32",
+    "file": "向亚马逊运送商品__200141420.md"
+  },
+  {
     "title": "SKU 列表和装箱单",
     "doc_id": "200141470",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/200141470",
@@ -3423,6 +3430,13 @@
     "file": "信用卡拒付__48781.md"
   },
   {
+    "title": "取消多个订单",
+    "doc_id": "50791",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/50791",
+    "fetched_at": "2026-10-30 13:28:39",
+    "file": "取消多个订单__50791.md"
+  },
+  {
     "title": "商品详情页面和报价",
     "doc_id": "51",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/51",
@@ -4289,6 +4303,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200197960",
     "fetched_at": "2026-10-30 12:19:53",
     "file": "确认发货__G200197960.md"
+  },
+  {
+    "title": "取消一件商品、一个订单或多个订单",
+    "doc_id": "G200198080",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G200198080",
+    "fetched_at": "2026-10-30 13:28:33",
+    "file": "取消一件商品、一个订单或多个订单__G200198080.md"
   },
   {
     "title": "打印装箱单",
@@ -11361,6 +11382,13 @@
     "file": "Amazon Seller Wallet Terms & Conditions__G48JF654VVTLX9K7.md"
   },
   {
+    "title": "将货件运送至亚马逊仓储和分拨服务中心 (AWD)： 打印包装箱标签",
+    "doc_id": "G48W2EW89MB5SP6H",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G48W2EW89MB5SP6H",
+    "fetched_at": "2026-10-30 13:28:26",
+    "file": "将货件运送至亚马逊仓储和分拨服务中心 (AWD)： 打印包装箱标签__G48W2EW89MB5SP6H.md"
+  },
+  {
     "title": "错误 8045",
     "doc_id": "G49V6WDHJRCNSU9D",
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G49V6WDHJRCNSU9D",
@@ -11569,6 +11597,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G50211",
     "fetched_at": "2026-10-30 13:18:13",
     "file": "珠宝首饰__G50211.md"
+  },
+  {
+    "title": "取消多个订单",
+    "doc_id": "G50791",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G50791",
+    "fetched_at": "2026-10-30 13:28:33",
+    "file": "取消多个订单__G50791.md"
   },
   {
     "title": "订单取消模板",
@@ -12297,6 +12332,13 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/G6RFKYPMKAMR9JDZ",
     "fetched_at": "2026-10-30 13:21:53",
     "file": "错误 8335__G6RFKYPMKAMR9JDZ.md"
+  },
+  {
+    "title": "将货件运送至亚马逊仓储和分拨服务 (AWD) 中心： 打印托拍标签",
+    "doc_id": "G6SSGPBBXX7N8YBB",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/G6SSGPBBXX7N8YBB",
+    "fetched_at": "2026-10-30 13:28:26",
+    "file": "将货件运送至亚马逊仓储和分拨服务 (AWD) 中心： 打印托拍标签__G6SSGPBBXX7N8YBB.md"
   },
   {
     "title": "成人 DVD、图书、杂志和日历",
@@ -13634,6 +13676,167 @@
     "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBD475ZR9TGF3WLH",
     "fetched_at": "2026-10-30 13:28:20",
     "file": "错误 90174__GBD475ZR9TGF3WLH.md"
+  },
+  {
+    "title": "价值回收服务",
+    "doc_id": "GBEP5S4XFH4RPZLF",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBEP5S4XFH4RPZLF",
+    "fetched_at": "2026-10-30 13:28:26",
+    "file": "价值回收服务__GBEP5S4XFH4RPZLF.md"
+  },
+  {
+    "title": "人体模特",
+    "doc_id": "GBESJNTVU5XPKVVU",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBESJNTVU5XPKVVU",
+    "fetched_at": "2026-10-30 13:28:28",
+    "file": "人体模特__GBESJNTVU5XPKVVU.md"
+  },
+  {
+    "title": "亚马逊物流新品状况中 2018 年及之后出产的电视机需要包装认证",
+    "doc_id": "GBFACJXWVLWSMUUZ",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBFACJXWVLWSMUUZ",
+    "fetched_at": "2026-10-30 13:28:28",
+    "file": "亚马逊物流新品状况中 2018 年及之后出产的电视机需要包装认证__GBFACJXWVLWSMUUZ.md"
+  },
+  {
+    "title": "成人活动床栏",
+    "doc_id": "GBG6Z6TKMZHXQU7X",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBG6Z6TKMZHXQU7X",
+    "fetched_at": "2026-10-30 13:28:28",
+    "file": "成人活动床栏__GBG6Z6TKMZHXQU7X.md"
+  },
+  {
+    "title": "Prime 会员日小企业促销（抽奖）",
+    "doc_id": "GBHA9ZYCUHLNQT8F",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBHA9ZYCUHLNQT8F",
+    "fetched_at": "2026-10-30 13:28:30",
+    "file": "Prime 会员日小企业促销（抽奖）__GBHA9ZYCUHLNQT8F.md"
+  },
+  {
+    "title": "Send to Amazon： 确认承运人和托拍信息",
+    "doc_id": "GBJBZ65P2LHZM2DG",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBJBZ65P2LHZM2DG",
+    "fetched_at": "2026-10-30 13:28:30",
+    "file": "Send to Amazon： 确认承运人和托拍信息__GBJBZ65P2LHZM2DG.md"
+  },
+  {
+    "title": "Prime 发布计划条款",
+    "doc_id": "GBJGLGMYML2BRNGV",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBJGLGMYML2BRNGV",
+    "fetched_at": "2026-10-30 13:28:30",
+    "file": "Prime 发布计划条款__GBJGLGMYML2BRNGV.md"
+  },
+  {
+    "title": "账户状况支持常见问题",
+    "doc_id": "GBMCHQ8MJ9KDYQ9A",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBMCHQ8MJ9KDYQ9A",
+    "fetched_at": "2026-10-30 13:28:32",
+    "file": "账户状况支持常见问题__GBMCHQ8MJ9KDYQ9A.md"
+  },
+  {
+    "title": "取消",
+    "doc_id": "GBN4AZVWUS29ZUJX",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBN4AZVWUS29ZUJX",
+    "fetched_at": "2026-10-30 13:28:32",
+    "file": "取消__GBN4AZVWUS29ZUJX.md"
+  },
+  {
+    "title": "修复图片合规性问题",
+    "doc_id": "GBN4H9DXMKJK7MLY",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBN4H9DXMKJK7MLY",
+    "fetched_at": "2026-10-30 13:28:33",
+    "file": "修复图片合规性问题__GBN4H9DXMKJK7MLY.md"
+  },
+  {
+    "title": "从美国销往墨西哥",
+    "doc_id": "GBRA5GRAABSAZFEL",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBRA5GRAABSAZFEL",
+    "fetched_at": "2026-10-30 13:28:39",
+    "file": "从美国销往墨西哥__GBRA5GRAABSAZFEL.md"
+  },
+  {
+    "title": "ASIN 绩效提醒",
+    "doc_id": "GBSGB5PFGFYW29KK",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBSGB5PFGFYW29KK",
+    "fetched_at": "2026-10-30 13:28:41",
+    "file": "ASIN 绩效提醒__GBSGB5PFGFYW29KK.md"
+  },
+  {
+    "title": "床垫",
+    "doc_id": "GBSYAXLHERCMCSQW",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBSYAXLHERCMCSQW",
+    "fetched_at": "2026-10-30 13:28:41",
+    "file": "床垫__GBSYAXLHERCMCSQW.md"
+  },
+  {
+    "title": "错误 20015",
+    "doc_id": "GBUFGH9BG9JU5RGP",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBUFGH9BG9JU5RGP",
+    "fetched_at": "2026-10-30 13:28:41",
+    "file": "错误 20015__GBUFGH9BG9JU5RGP.md"
+  },
+  {
+    "title": "如果您的公司地址位于南非",
+    "doc_id": "GBVK5PEDGFPCVBKJ",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBVK5PEDGFPCVBKJ",
+    "fetched_at": "2026-10-30 13:28:43",
+    "file": "如果您的公司地址位于南非__GBVK5PEDGFPCVBKJ.md"
+  },
+  {
+    "title": "自行车",
+    "doc_id": "GBVSAAJFBSKYNT8Q",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBVSAAJFBSKYNT8Q",
+    "fetched_at": "2026-10-30 13:28:43",
+    "file": "自行车__GBVSAAJFBSKYNT8Q.md"
+  },
+  {
+    "title": "配送到挪威： 卖家自配送商品所需的海关文件",
+    "doc_id": "GBWGDXCJLPSWDE9A",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBWGDXCJLPSWDE9A",
+    "fetched_at": "2026-10-30 13:28:43",
+    "file": "配送到挪威： 卖家自配送商品所需的海关文件__GBWGDXCJLPSWDE9A.md"
+  },
+  {
+    "title": "属性指南",
+    "doc_id": "GBWHYLJ7NNQMXBAQ",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBWHYLJ7NNQMXBAQ",
+    "fetched_at": "2026-10-30 13:28:44",
+    "file": "属性指南__GBWHYLJ7NNQMXBAQ.md"
+  },
+  {
+    "title": "卖家自配送 Prime 的承运人周末营业情况",
+    "doc_id": "GBWNA49WC3HVDD7C",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBWNA49WC3HVDD7C",
+    "fetched_at": "2026-10-30 13:28:44",
+    "file": "卖家自配送 Prime 的承运人周末营业情况__GBWNA49WC3HVDD7C.md"
+  },
+  {
+    "title": "全球促销销售控制面板",
+    "doc_id": "GBXY4PRVN87E8KL2",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBXY4PRVN87E8KL2",
+    "fetched_at": "2026-10-30 13:28:44",
+    "file": "全球促销销售控制面板__GBXY4PRVN87E8KL2.md"
+  },
+  {
+    "title": "错误 90175",
+    "doc_id": "GBYFE633ZGG85NEB",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBYFE633ZGG85NEB",
+    "fetched_at": "2026-10-30 13:28:46",
+    "file": "错误 90175__GBYFE633ZGG85NEB.md"
+  },
+  {
+    "title": "“黑人所有企业”标记",
+    "doc_id": "GBYJYA8MG6FV4XYC",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBYJYA8MG6FV4XYC",
+    "fetched_at": "2026-10-30 13:28:46",
+    "file": "“黑人所有企业”标记__GBYJYA8MG6FV4XYC.md"
+  },
+  {
+    "title": "自定义您的配送设置",
+    "doc_id": "GBZC4VH5HDVPGF5P",
+    "source": "https://sellercentral.amazon.com/help/hub/reference/external/GBZC4VH5HDVPGF5P",
+    "fetched_at": "2026-10-30 13:28:46",
+    "file": "自定义您的配送设置__GBZC4VH5HDVPGF5P.md"
   },
   {
     "title": "全球卖家身份、地址和公司验证",
